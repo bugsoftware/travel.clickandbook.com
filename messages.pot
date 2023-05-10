@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 18:59+0100\n"
+"POT-Creation-Date: 2023-05-10 07:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,6 +62,7 @@ msgid "Done"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 24
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 297
 msgid "Duration"
 msgstr ""
 #
@@ -452,6 +453,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 265
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 30
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 298
 msgid "days"
 msgstr ""
 #
@@ -475,58 +477,192 @@ msgstr ""
 msgid "PLACES"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 43
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 42
 msgid "from"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 46
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 177
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 44
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 179
 msgid "BOOK NOW"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 75
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 109
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 72
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 106
 msgid "Day"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 122
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 119
 msgid "Price & Availability"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 141
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 143
 msgid "Sun"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 142
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 144
 msgid "Mon"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 145
 msgid "Tue"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 144
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 146
 msgid "Wed"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 145
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 147
 msgid "Thu"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 146
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 148
 msgid "Fri"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 147
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 149
 msgid "Sat"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 185
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 187
 msgid "Tour Includes"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 253
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 255
 msgid "Planned Hotels"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 5
+msgid "Summary"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 7
+msgid "Passengers"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 9
+msgid "Payment"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 17
+msgid "Guest"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 17
+msgid "Primary contact"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 406
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 81
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 181
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 284
+msgid "CONTINUE"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 13
+msgid "Date & price"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 14
+msgid "Select the departure date"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 15
+msgid "First enter the required departure date from among those available. Pricing & Availability of places is approximate and subject to confirmation of reservation. Click on the most convenient price / date."
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 19
+msgid "Date"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 35
+msgid "Departure Date"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 43
+msgid "Season"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 49
+msgid "Vacancies"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 55
+msgid "Tickets Alham"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 61
+msgid "Single Price"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 67
+msgid "Double Price"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 73
+msgid "Triple Price"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 94
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 99
+msgid "Room Selection"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 100
+msgid "Please, select the type of room that you want for your tour."
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 113
+msgid "Single"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 114
+msgid "Single Room, 1 guest"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 115
+msgid "Single bed room type"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 138
+msgid "Double Room"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 139
+msgid "Double Room King or Queen, 2 guests"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 140
+msgid "Two twin beds that convert to a king-size or 1 king-size bed"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 146
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 173
+msgid "per pax"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 165
+msgid "Triple Room"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 166
+msgid "Triple Room, Up to 3 guests"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 167
+msgid "Triple room for 3 paxes"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 214
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 219
+msgid "Passengers Data"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 220
+msgid "Please write the age of any minors in the party."
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 301
+msgid "Visiting"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 579
