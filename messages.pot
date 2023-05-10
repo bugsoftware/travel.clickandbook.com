@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-10 21:06+0100\n"
+"POT-Creation-Date: 2023-05-10 21:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/index.phtml, line: 23
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 140
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 145
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 284
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 270
 msgid "Adults"
 msgstr ""
 #
@@ -63,7 +63,7 @@ msgid "Done"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 24
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 249
 msgid "Duration"
 msgstr ""
 #
@@ -511,7 +511,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 265
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 31
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 264
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 250
 msgid "days"
 msgstr ""
 #
@@ -615,7 +615,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 82
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 183
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 220
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 252
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 238
 msgid "CONTINUE"
 msgstr ""
 #
@@ -689,12 +689,12 @@ msgid "Single"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 372
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 362
 msgid "Single Room, 1 guest"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 116
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 373
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 363
 msgid "Single bed room type"
 msgstr ""
 #
@@ -731,7 +731,7 @@ msgid "Triple Room"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 168
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 381
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 371
 msgid "Triple Room, Up to 3 guests"
 msgstr ""
 #
@@ -748,36 +748,41 @@ msgstr ""
 msgid "Please write the age of any minors in the party."
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 267
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 253
 msgid "Visiting"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 278
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 264
 msgid "Cost per adult:"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 290
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 276
 msgid "Total"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 376
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 366
 msgid "Double Room, 2 guests"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 377
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 367
 msgid "Double Room, King or Queen Bed, Up to 2 guests"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 380
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 370
 msgid "Triple Room, 3 guests"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 388
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 378
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 394
 msgid "Passenger"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 388
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 378
 msgid "Input age for guest"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 394
+msgid "Age :"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 579
