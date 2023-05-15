@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-15 10:26+0100\n"
+"POT-Creation-Date: 2023-05-15 13:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,6 +26,7 @@ msgid "Discover every aspect of the cruises we have to offer"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 21
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 73
 msgid "Destination"
 msgstr ""
 #
@@ -283,7 +284,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 85
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 14
 # File: module/Application/view/layout/layout.phtml, line: 63
-# File: module/Application/view/layout/layout.phtml, line: 588
+# File: module/Application/view/layout/layout.phtml, line: 597
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -573,6 +574,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 75
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 109
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 29
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 53
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 58
 msgid "Day"
@@ -640,6 +642,23 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 132
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 7
 msgid "Payment"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 77
+msgid "DAY"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 81
+msgid "Room Type"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 85
+msgid "TRAVELERS"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 94
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 89
+msgid "Date:"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 139
@@ -1050,10 +1069,6 @@ msgstr ""
 msgid "Modify"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 89
-msgid "Date:"
-msgstr ""
-#
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 90
 msgid "Price per adult:"
 msgstr ""
@@ -1205,7 +1220,7 @@ msgid "Select fare to"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 637
-# File: module/Application/view/layout/layout.phtml, line: 310
+# File: module/Application/view/layout/layout.phtml, line: 319
 msgid "Close"
 msgstr ""
 #
@@ -1251,17 +1266,17 @@ msgid "Select date"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 54
-# File: module/Application/view/layout/layout.phtml, line: 583
+# File: module/Application/view/layout/layout.phtml, line: 592
 msgid "Categories"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
-# File: module/Application/view/layout/layout.phtml, line: 586
+# File: module/Application/view/layout/layout.phtml, line: 595
 msgid "Hotels"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 592
+# File: module/Application/view/layout/layout.phtml, line: 601
 msgid "Transfers"
 msgstr ""
 #
@@ -1270,17 +1285,17 @@ msgid "Cars"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 67
-# File: module/Application/view/layout/layout.phtml, line: 596
+# File: module/Application/view/layout/layout.phtml, line: 605
 msgid "Travel Insurances"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 72
-# File: module/Application/view/layout/layout.phtml, line: 590
+# File: module/Application/view/layout/layout.phtml, line: 599
 msgid "Air / Transport"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 74
-# File: module/Application/view/layout/layout.phtml, line: 591
+# File: module/Application/view/layout/layout.phtml, line: 600
 msgid "Cruises"
 msgstr ""
 #
@@ -1289,71 +1304,71 @@ msgid "Things to do"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 77
-# File: module/Application/view/layout/layout.phtml, line: 595
+# File: module/Application/view/layout/layout.phtml, line: 604
 msgid "Packages"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 78
-# File: module/Application/view/layout/layout.phtml, line: 597
+# File: module/Application/view/layout/layout.phtml, line: 606
 msgid "Trip Planner"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 204
+# File: module/Application/view/layout/layout.phtml, line: 213
 msgid "Login"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 205
+# File: module/Application/view/layout/layout.phtml, line: 214
 msgid "Profile"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 206
+# File: module/Application/view/layout/layout.phtml, line: 215
 msgid "Settings"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 208
+# File: module/Application/view/layout/layout.phtml, line: 217
 msgid "Sign out"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 309
+# File: module/Application/view/layout/layout.phtml, line: 318
 msgid "Select your language"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 313
+# File: module/Application/view/layout/layout.phtml, line: 322
 msgid "Suggested"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 546
+# File: module/Application/view/layout/layout.phtml, line: 555
 msgid "Searching the best options"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 547
+# File: module/Application/view/layout/layout.phtml, line: 556
 msgid "Please wait..."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 560
+# File: module/Application/view/layout/layout.phtml, line: 569
 msgid "Need Help?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 561
+# File: module/Application/view/layout/layout.phtml, line: 570
 msgid "Call us for better advice"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 562
+# File: module/Application/view/layout/layout.phtml, line: 571
 msgid "Continue"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 593
+# File: module/Application/view/layout/layout.phtml, line: 602
 msgid "Activities"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 594
+# File: module/Application/view/layout/layout.phtml, line: 603
 msgid "Car Rentals"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 612
+# File: module/Application/view/layout/layout.phtml, line: 621
 msgid "Social"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 665
+# File: module/Application/view/layout/layout.phtml, line: 674
 msgid "Back to top"
 msgstr ""
