@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-14 07:21+0100\n"
+"POT-Creation-Date: 2023-05-15 07:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -642,7 +642,7 @@ msgid "Payment"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 139
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 107
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 114
 msgid "Total:"
 msgstr ""
 #
@@ -957,8 +957,36 @@ msgstr ""
 msgid "Escorted Tour Information"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 97
-msgid "Free cancellation before"
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 96
+msgid "Cancellation Policies"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 98
+msgid "Free cancellation until"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 100
+msgid "Booking is under cancellation penalties!"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 103
+msgid "Cancel on or after"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 103
+msgid "with"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 103
+msgid "penalty"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 103
+msgid "and"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 103
+msgid "managing costs"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 14
