@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-15 16:10+0100\n"
+"POT-Creation-Date: 2023-05-16 07:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -141,6 +141,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/index.phtml, line: 36
 # File: module/Application/view/application/index/index.phtml, line: 1040
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 160
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 114
 # File: module/Application/view/application/trip-planner/index.phtml, line: 126
 msgid "Search"
 msgstr ""
@@ -168,18 +169,18 @@ msgid "View"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 517
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 258
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 234
 msgid "Previous"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 521
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 259
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 235
 msgid "Next"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 554
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 590
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 288
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 264
 msgid "From"
 msgstr ""
 #
@@ -512,22 +513,22 @@ msgid "Order by"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 30
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 313
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 289
 msgid "Order by recommended"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 31
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 315
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 291
 msgid "Order by price"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 32
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 317
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 293
 msgid "Order by name"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 33
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 319
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 295
 msgid "Order by category"
 msgstr ""
 #
@@ -535,7 +536,19 @@ msgstr ""
 msgid "New Escorted Tours Search"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 266
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 162
+msgid "Price range"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 168
+msgid "Countries"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 179
+msgid "Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 242
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 31
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 189
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 71
@@ -543,19 +556,19 @@ msgstr ""
 msgid "days"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 268
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 244
 msgid "Next tour"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 271
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 247
 msgid "Guaranteed Arabic Language Guide"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 273
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 249
 msgid "English speaking guide"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 284
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 260
 msgid "VIEW"
 msgstr ""
 #
@@ -621,6 +634,7 @@ msgid "Sat"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 192
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 96
 msgid "Tour Includes"
 msgstr ""
 #
@@ -639,7 +653,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 197
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 7
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 196
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 229
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 230
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 6
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 78
 msgid "Passengers"
@@ -670,12 +684,12 @@ msgid "Date:"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 139
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 100
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 146
 msgid "Total:"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 142
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 268
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 281
 msgid "CONFIRM"
 msgstr ""
 #
@@ -702,10 +716,10 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 180
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 190
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 276
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 212
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 222
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 238
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 239
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 100
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 110
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 121
@@ -723,8 +737,64 @@ msgstr ""
 msgid "Inclusions"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 257
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 234
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 256
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 247
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 129
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 82
+msgid "Cancellation Policies"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 258
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 250
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 132
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 84
+msgid "Free cancellation until"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 260
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 252
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 134
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 86
+msgid "Booking is under cancellation penalties!"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 255
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+msgid "Cancel on or after"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 255
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+msgid "with"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 255
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+msgid "penalty"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 255
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+msgid "and"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 255
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+msgid "managing costs"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 270
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 235
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 117
 msgid "Commission"
 msgstr ""
@@ -880,7 +950,7 @@ msgstr ""
 msgid "Days"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 244
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 262
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 62
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 82
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 183
@@ -991,42 +1061,6 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 77
 msgid "Last Name:"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 82
-msgid "Cancellation Policies"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 84
-msgid "Free cancellation until"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 86
-msgid "Booking is under cancellation penalties!"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
-msgid "Cancel on or after"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
-msgid "with"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
-msgid "penalty"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
-msgid "and"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
-msgid "managing costs"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 94
-msgid "Loading..."
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 14
