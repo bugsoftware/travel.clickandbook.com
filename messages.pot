@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-17 15:27+0100\n"
+"POT-Creation-Date: 2023-05-17 16:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -741,11 +741,11 @@ msgid "CONFIRM"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 154
-msgid "Tour Start's"
+msgid "Tour Starts"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 158
-msgid "Tour End's"
+msgid "Tour Ends"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 171
@@ -1436,12 +1436,22 @@ msgstr ""
 msgid "Sign out"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 315
-msgid "Select your language"
+# File: module/Application/view/layout/layout.phtml, line: 225
+msgid "Select your currency"
 msgstr ""
 #
+# File: module/Application/view/layout/layout.phtml, line: 229
 # File: module/Application/view/layout/layout.phtml, line: 319
 msgid "Suggested"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 268
+# File: module/Application/view/layout/layout.phtml, line: 378
+msgid "All"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 315
+msgid "Select your language"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 552
