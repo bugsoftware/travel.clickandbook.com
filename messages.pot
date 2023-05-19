@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 16:16+0100\n"
+"POT-Creation-Date: 2023-05-19 18:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1312,7 +1312,7 @@ msgid "Single bed room type"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
-# File: module/Application/view/application/air/search.phtml, line: 268
+# File: module/Application/view/application/air/search.phtml, line: 279
 msgid "total"
 msgstr ""
 #
@@ -1499,96 +1499,116 @@ msgstr ""
 msgid "Air / Transport Search"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 177
+# File: module/Application/view/application/air/search.phtml, line: 175
 msgid "Non-stop"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 184
+# File: module/Application/view/application/air/search.phtml, line: 182
 msgid "1 Stop"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 191
+# File: module/Application/view/application/air/search.phtml, line: 189
 msgid "1+ Stop"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 203
+# File: module/Application/view/application/air/search.phtml, line: 201
+# File: module/Application/view/application/air/search.phtml, line: 218
 msgid "We're sorry, but no results match the criteria you selected. Please broaden your selections and search again."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 204
+# File: module/Application/view/application/air/search.phtml, line: 202
+# File: module/Application/view/application/air/search.phtml, line: 219
 msgid "No air fares shown, try clearing some filters to see more availability."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 205
+# File: module/Application/view/application/air/search.phtml, line: 203
+# File: module/Application/view/application/air/search.phtml, line: 220
 msgid "Modify your search, remove your filters or try different dates."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 210
+# File: module/Application/view/application/air/search.phtml, line: 208
+# File: module/Application/view/application/air/search.phtml, line: 225
 msgid "Lead Time Restriction."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 211
+# File: module/Application/view/application/air/search.phtml, line: 209
+# File: module/Application/view/application/air/search.phtml, line: 226
 msgid "Booking lead time lead time not met. Please call reservations support."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 244
-# File: module/Application/view/application/air/return.phtml, line: 166
+# File: module/Application/view/application/air/search.phtml, line: 256
+# File: module/Application/view/application/air/return.phtml, line: 108
+# File: module/Application/view/application/air/return.phtml, line: 165
 msgid "Direct"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 244
-# File: module/Application/view/application/air/return.phtml, line: 166
+# File: module/Application/view/application/air/search.phtml, line: 256
+# File: module/Application/view/application/air/return.phtml, line: 108
+# File: module/Application/view/application/air/return.phtml, line: 165
 msgid "stop"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 244
-# File: module/Application/view/application/air/return.phtml, line: 166
+# File: module/Application/view/application/air/search.phtml, line: 256
+# File: module/Application/view/application/air/return.phtml, line: 108
+# File: module/Application/view/application/air/return.phtml, line: 165
 msgid "stops"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 251
+# File: module/Application/view/application/air/search.phtml, line: 262
+# File: module/Application/view/application/air/return.phtml, line: 114
+# File: module/Application/view/application/air/return.phtml, line: 171
 msgid "seats available"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 285
-# File: module/Application/view/application/air/return.phtml, line: 202
+# File: module/Application/view/application/air/search.phtml, line: 297
+# File: module/Application/view/application/air/return.phtml, line: 204
 msgid "Select fare to"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 286
-# File: module/Application/view/application/air/return.phtml, line: 203
+# File: module/Application/view/application/air/search.phtml, line: 298
+# File: module/Application/view/application/air/return.phtml, line: 205
 # File: module/Application/view/layout/layout.phtml, line: 316
 msgid "Close"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 303
-# File: module/Application/view/application/air/return.phtml, line: 220
+# File: module/Application/view/application/air/search.phtml, line: 315
+# File: module/Application/view/application/air/return.phtml, line: 222
 msgid "Cabin:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 307
+# File: module/Application/view/application/air/search.phtml, line: 317
 # File: module/Application/view/application/air/return.phtml, line: 224
+msgid "Bags"
+msgstr ""
+#
+# File: module/Application/view/application/air/search.phtml, line: 319
+# File: module/Application/view/application/air/return.phtml, line: 226
 msgid "Checked In Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 307
-# File: module/Application/view/application/air/search.phtml, line: 310
-# File: module/Application/view/application/air/return.phtml, line: 224
-# File: module/Application/view/application/air/return.phtml, line: 227
+# File: module/Application/view/application/air/search.phtml, line: 319
+# File: module/Application/view/application/air/search.phtml, line: 322
+# File: module/Application/view/application/air/return.phtml, line: 226
+# File: module/Application/view/application/air/return.phtml, line: 229
 msgid "Aprox."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 310
-# File: module/Application/view/application/air/return.phtml, line: 227
+# File: module/Application/view/application/air/search.phtml, line: 322
+# File: module/Application/view/application/air/return.phtml, line: 229
 msgid "Second Checked In Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 312
+# File: module/Application/view/application/air/search.phtml, line: 324
 msgid "Carry on Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 320
-# File: module/Application/view/application/air/return.phtml, line: 237
+# File: module/Application/view/application/air/search.phtml, line: 325
+# File: module/Application/view/application/air/return.phtml, line: 232
+msgid "Flexibility"
+msgstr ""
+#
+# File: module/Application/view/application/air/search.phtml, line: 332
+# File: module/Application/view/application/air/return.phtml, line: 239
 msgid "SELECT"
 msgstr ""
 #
@@ -1600,11 +1620,11 @@ msgstr ""
 msgid "Selected Flight to"
 msgstr ""
 #
-# File: module/Application/view/application/air/return.phtml, line: 140
+# File: module/Application/view/application/air/return.phtml, line: 139
 msgid "Now select Flight to"
 msgstr ""
 #
-# File: module/Application/view/application/air/return.phtml, line: 229
+# File: module/Application/view/application/air/return.phtml, line: 231
 msgid "Carry On Baggage:"
 msgstr ""
 #
