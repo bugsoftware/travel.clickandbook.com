@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21 19:11+0100\n"
+"POT-Creation-Date: 2023-05-22 13:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,6 +26,7 @@ msgid "Discover every aspect of the cruises we have to offer"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 21
+# File: module/Application/view/application/cruises/search.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 73
 msgid "Destination"
 msgstr ""
@@ -35,10 +36,12 @@ msgid "Select your destination"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 22
+# File: module/Application/view/application/cruises/search.phtml, line: 41
 msgid "Departure Month"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 22
+# File: module/Application/view/application/cruises/search.phtml, line: 44
 msgid "Select month of departure"
 msgstr ""
 #
@@ -93,6 +96,7 @@ msgid "Done"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 24
+# File: module/Application/view/application/cruises/search.phtml, line: 70
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 238
 msgid "Duration"
 msgstr ""
@@ -110,10 +114,12 @@ msgid "3 to 5 nights"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 24
+# File: module/Application/view/application/cruises/search.phtml, line: 75
 msgid "6 to 9 nights"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 24
+# File: module/Application/view/application/cruises/search.phtml, line: 76
 msgid "10 to 14 nights"
 msgstr ""
 #
@@ -219,56 +225,93 @@ msgstr ""
 msgid "Cruises in"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 189
+# File: module/Application/view/application/cruises/search.phtml, line: 23
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 73
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 74
+msgid "Order by price"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 24
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 77
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 78
+msgid "Order by name"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 25
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 79
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 80
+msgid "Order by category"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 74
+msgid "1 to 5 nights"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 77
+msgid "more than 14 nights"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 83
+msgid "Cruises class"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 122
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 189
+# File: module/Application/view/application/air/search.phtml, line: 137
+# File: module/Application/view/application/air/return.phtml, line: 133
+msgid "Price range"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/search.phtml, line: 188
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 239
 msgid "Previous"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 190
+# File: module/Application/view/application/cruises/search.phtml, line: 189
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 240
 msgid "Next"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 207
+# File: module/Application/view/application/cruises/search.phtml, line: 206
 msgid "Visiting:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 214
+# File: module/Application/view/application/cruises/search.phtml, line: 213
 msgid "Sailing dates:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 221
+# File: module/Application/view/application/cruises/search.phtml, line: 220
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 553
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 264
 # File: module/Application/view/application/air/index.phtml, line: 598
 msgid "From"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 223
+# File: module/Application/view/application/cruises/search.phtml, line: 222
 msgid "per person"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 229
+# File: module/Application/view/application/cruises/search.phtml, line: 228
 msgid "VIEW ITINERARY"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 249
+# File: module/Application/view/application/cruises/search.phtml, line: 254
 msgid "Cabin"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 250
+# File: module/Application/view/application/cruises/search.phtml, line: 255
 msgid "Interior"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 251
+# File: module/Application/view/application/cruises/search.phtml, line: 256
 msgid "Ocean view"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 252
+# File: module/Application/view/application/cruises/search.phtml, line: 257
 msgid "Balcony"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/search.phtml, line: 253
+# File: module/Application/view/application/cruises/search.phtml, line: 258
 msgid "Suite"
 msgstr ""
 #
@@ -626,11 +669,6 @@ msgid "Order by recommended"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 73
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 74
-msgid "Order by price"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 73
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 75
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 77
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 79
@@ -649,16 +687,6 @@ msgstr ""
 msgid "Order by duration"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 77
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 78
-msgid "Order by name"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 79
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 80
-msgid "Order by category"
-msgstr ""
-#
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 90
 msgid "New Escorted Tours Search"
 msgstr ""
@@ -675,12 +703,6 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 183
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 251
 msgid "Guaranteed Arabic Language Guide"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 189
-# File: module/Application/view/application/air/search.phtml, line: 137
-# File: module/Application/view/application/air/return.phtml, line: 133
-msgid "Price range"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 195
