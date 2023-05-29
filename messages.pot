@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-29 07:20+0100\n"
+"POT-Creation-Date: 2023-05-29 13:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -435,9 +435,9 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 35
 # File: module/Application/view/application/cruises/select.phtml, line: 69
-# File: module/Application/view/application/cruises/select.phtml, line: 86
-# File: module/Application/view/application/cruises/select.phtml, line: 186
-# File: module/Application/view/application/cruises/select.phtml, line: 201
+# File: module/Application/view/application/cruises/select.phtml, line: 87
+# File: module/Application/view/application/cruises/select.phtml, line: 187
+# File: module/Application/view/application/cruises/select.phtml, line: 202
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 298
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 66
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 82
@@ -471,19 +471,50 @@ msgstr ""
 msgid "Date:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 80
+# File: module/Application/view/application/cruises/select.phtml, line: 82
 msgid "Cabin category"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 81
+# File: module/Application/view/application/cruises/select.phtml, line: 83
 msgid "Select cabin category"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 82
+# File: module/Application/view/application/cruises/select.phtml, line: 84
 msgid "Select the best cabin rate for your stay"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 245
+# File: module/Application/view/application/cruises/select.phtml, line: 117
+msgid "Cabin number"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 118
+msgid "Select your room number"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 119
+msgid "Select the room number according to the type of cabin selected"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 155
+# File: module/Application/view/application/cruises/select.phtml, line: 157
+msgid "Deck"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 158
+msgid "Select Deck"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 167
+# File: module/Application/view/application/index/index.phtml, line: 50
+# File: module/Application/view/application/trip-planner/index.phtml, line: 30
+msgid "Room"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 170
+msgid "Select Room"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 246
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 180
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 190
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 276
@@ -506,7 +537,7 @@ msgstr ""
 msgid "Total"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 336
+# File: module/Application/view/application/cruises/select.phtml, line: 338
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
 # File: module/Application/view/application/air/search.phtml, line: 363
 # File: module/Application/view/application/air/return.phtml, line: 194
@@ -514,7 +545,7 @@ msgstr ""
 msgid "total"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 336
+# File: module/Application/view/application/cruises/select.phtml, line: 338
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 116
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 142
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 169
@@ -582,11 +613,6 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 39
 # File: module/Application/view/application/trip-planner/index.phtml, line: 18
 msgid "Start date"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 50
-# File: module/Application/view/application/trip-planner/index.phtml, line: 30
-msgid "Room"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 65
