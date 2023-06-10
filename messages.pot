@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-09 14:05+0100\n"
+"POT-Creation-Date: 2023-06-10 07:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgstr ""
 # File: module/Application/view/application/air/index.phtml, line: 142
 # File: module/Application/view/application/air/search.phtml, line: 117
 # File: module/Application/view/application/air/return.phtml, line: 117
-# File: module/Application/view/application/air/confirm.phtml, line: 241
+# File: module/Application/view/application/air/confirm.phtml, line: 243
 # File: module/Application/view/application/trip-planner/index.phtml, line: 25
 # File: module/Application/view/application/trip-planner/index.phtml, line: 33
 # File: module/Application/view/application/trip-planner/select.phtml, line: 455
@@ -81,7 +81,7 @@ msgstr ""
 # File: module/Application/view/application/air/index.phtml, line: 144
 # File: module/Application/view/application/air/search.phtml, line: 119
 # File: module/Application/view/application/air/return.phtml, line: 119
-# File: module/Application/view/application/air/summary.phtml, line: 333
+# File: module/Application/view/application/air/summary.phtml, line: 337
 # File: module/Application/view/application/air/passengers.phtml, line: 264
 # File: module/Application/view/application/air/payment.phtml, line: 111
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
@@ -409,7 +409,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 137
 # File: module/Application/view/application/cruises/confirm.phtml, line: 91
 # File: module/Application/view/application/air/summary.phtml, line: 58
-# File: module/Application/view/application/air/confirm.phtml, line: 93
+# File: module/Application/view/application/air/confirm.phtml, line: 95
 msgid "FROM"
 msgstr ""
 #
@@ -493,7 +493,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 64
 # File: module/Application/view/application/air/passengers.phtml, line: 32
 # File: module/Application/view/application/air/payment.phtml, line: 8
-# File: module/Application/view/application/air/confirm.phtml, line: 99
+# File: module/Application/view/application/air/confirm.phtml, line: 101
 msgid "Passengers"
 msgstr ""
 #
@@ -520,7 +520,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 402
 # File: module/Application/view/application/air/summary.phtml, line: 64
 # File: module/Application/view/application/air/passengers.phtml, line: 53
-# File: module/Application/view/application/air/confirm.phtml, line: 99
+# File: module/Application/view/application/air/confirm.phtml, line: 101
 msgid "Passenger"
 msgstr ""
 #
@@ -735,9 +735,9 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 114
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 125
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 261
-# File: module/Application/view/application/air/summary.phtml, line: 350
-# File: module/Application/view/application/air/summary.phtml, line: 357
-# File: module/Application/view/application/air/summary.phtml, line: 374
+# File: module/Application/view/application/air/summary.phtml, line: 354
+# File: module/Application/view/application/air/summary.phtml, line: 361
+# File: module/Application/view/application/air/summary.phtml, line: 378
 # File: module/Application/view/application/air/passengers.phtml, line: 281
 # File: module/Application/view/application/air/passengers.phtml, line: 288
 # File: module/Application/view/application/air/passengers.phtml, line: 305
@@ -832,7 +832,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 100
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 85
 # File: module/Application/view/application/air/summary.phtml, line: 62
-# File: module/Application/view/application/air/confirm.phtml, line: 97
+# File: module/Application/view/application/air/confirm.phtml, line: 99
 msgid "TRAVELERS"
 msgstr ""
 #
@@ -842,7 +842,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 105
 # File: module/Application/view/application/cruises/confirm.phtml, line: 118
 # File: module/Application/view/application/air/summary.phtml, line: 74
-# File: module/Application/view/application/air/confirm.phtml, line: 109
+# File: module/Application/view/application/air/confirm.phtml, line: 111
 msgid "Departure:"
 msgstr ""
 #
@@ -850,7 +850,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 158
 # File: module/Application/view/application/cruises/confirm.phtml, line: 112
 # File: module/Application/view/application/air/summary.phtml, line: 75
-# File: module/Application/view/application/air/confirm.phtml, line: 110
+# File: module/Application/view/application/air/confirm.phtml, line: 112
 msgid "Arrival:"
 msgstr ""
 #
@@ -859,7 +859,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 139
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 146
 # File: module/Application/view/application/air/summary.phtml, line: 294
-# File: module/Application/view/application/air/confirm.phtml, line: 265
+# File: module/Application/view/application/air/confirm.phtml, line: 267
 msgid "Total:"
 msgstr ""
 #
@@ -867,8 +867,10 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 302
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 142
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 281
-# File: module/Application/view/application/air/summary.phtml, line: 298
-# File: module/Application/view/application/air/summary.phtml, line: 385
+# File: module/Application/view/application/air/summary.phtml, line: 299
+# File: module/Application/view/application/air/summary.phtml, line: 301
+# File: module/Application/view/application/air/summary.phtml, line: 391
+# File: module/Application/view/application/air/summary.phtml, line: 393
 # File: module/Application/view/application/air/payment.phtml, line: 80
 msgid "CONFIRM"
 msgstr ""
@@ -877,7 +879,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 175
 # File: module/Application/view/application/cruises/payment.phtml, line: 85
 # File: module/Application/view/application/cruises/confirm.phtml, line: 163
-# File: module/Application/view/application/air/confirm.phtml, line: 27
+# File: module/Application/view/application/air/confirm.phtml, line: 28
 msgid "Return"
 msgstr ""
 #
@@ -1324,13 +1326,13 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 229
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 76
-# File: module/Application/view/application/air/confirm.phtml, line: 244
+# File: module/Application/view/application/air/confirm.phtml, line: 246
 msgid "First Name:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 230
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 77
-# File: module/Application/view/application/air/confirm.phtml, line: 245
+# File: module/Application/view/application/air/confirm.phtml, line: 247
 msgid "Last Name:"
 msgstr ""
 #
@@ -1738,7 +1740,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 579
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 45
-# File: module/Application/view/application/air/summary.phtml, line: 331
+# File: module/Application/view/application/air/summary.phtml, line: 335
 # File: module/Application/view/application/air/passengers.phtml, line: 262
 # File: module/Application/view/application/air/payment.phtml, line: 109
 msgid "Adult"
@@ -2194,7 +2196,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/index.phtml, line: 108
 # File: module/Application/view/application/air/summary.phtml, line: 31
-# File: module/Application/view/application/air/confirm.phtml, line: 66
+# File: module/Application/view/application/air/confirm.phtml, line: 68
 msgid "Departing"
 msgstr ""
 #
@@ -2326,7 +2328,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 169
 # File: module/Application/view/application/air/return.phtml, line: 240
 # File: module/Application/view/application/air/summary.phtml, line: 69
-# File: module/Application/view/application/air/confirm.phtml, line: 104
+# File: module/Application/view/application/air/confirm.phtml, line: 106
 msgid "Direct"
 msgstr ""
 #
@@ -2334,12 +2336,12 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 169
 # File: module/Application/view/application/air/return.phtml, line: 240
 # File: module/Application/view/application/air/summary.phtml, line: 69
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 # File: module/Application/view/application/air/confirm.phtml, line: 19
-# File: module/Application/view/application/air/confirm.phtml, line: 33
-# File: module/Application/view/application/air/confirm.phtml, line: 104
+# File: module/Application/view/application/air/confirm.phtml, line: 34
+# File: module/Application/view/application/air/confirm.phtml, line: 106
 msgid "stop"
 msgstr ""
 #
@@ -2347,12 +2349,12 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 169
 # File: module/Application/view/application/air/return.phtml, line: 240
 # File: module/Application/view/application/air/summary.phtml, line: 69
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 # File: module/Application/view/application/air/confirm.phtml, line: 19
-# File: module/Application/view/application/air/confirm.phtml, line: 33
-# File: module/Application/view/application/air/confirm.phtml, line: 104
+# File: module/Application/view/application/air/confirm.phtml, line: 34
+# File: module/Application/view/application/air/confirm.phtml, line: 106
 msgid "stops"
 msgstr ""
 #
@@ -2361,8 +2363,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 245
 # File: module/Application/view/application/air/summary.phtml, line: 83
 # File: module/Application/view/application/air/summary.phtml, line: 127
-# File: module/Application/view/application/air/confirm.phtml, line: 118
-# File: module/Application/view/application/air/confirm.phtml, line: 162
+# File: module/Application/view/application/air/confirm.phtml, line: 120
+# File: module/Application/view/application/air/confirm.phtml, line: 164
 msgid "Checked In Bag"
 msgstr ""
 #
@@ -2371,8 +2373,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 245
 # File: module/Application/view/application/air/summary.phtml, line: 83
 # File: module/Application/view/application/air/summary.phtml, line: 127
-# File: module/Application/view/application/air/confirm.phtml, line: 118
-# File: module/Application/view/application/air/confirm.phtml, line: 162
+# File: module/Application/view/application/air/confirm.phtml, line: 120
+# File: module/Application/view/application/air/confirm.phtml, line: 164
 msgid "Checked In Bags"
 msgstr ""
 #
@@ -2381,8 +2383,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 248
 # File: module/Application/view/application/air/summary.phtml, line: 86
 # File: module/Application/view/application/air/summary.phtml, line: 130
-# File: module/Application/view/application/air/confirm.phtml, line: 121
-# File: module/Application/view/application/air/confirm.phtml, line: 165
+# File: module/Application/view/application/air/confirm.phtml, line: 123
+# File: module/Application/view/application/air/confirm.phtml, line: 167
 msgid "Second Checked In Bag"
 msgstr ""
 #
@@ -2391,8 +2393,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 248
 # File: module/Application/view/application/air/summary.phtml, line: 86
 # File: module/Application/view/application/air/summary.phtml, line: 130
-# File: module/Application/view/application/air/confirm.phtml, line: 121
-# File: module/Application/view/application/air/confirm.phtml, line: 165
+# File: module/Application/view/application/air/confirm.phtml, line: 123
+# File: module/Application/view/application/air/confirm.phtml, line: 167
 msgid "Second Checked In Bags"
 msgstr ""
 #
@@ -2401,8 +2403,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 251
 # File: module/Application/view/application/air/summary.phtml, line: 89
 # File: module/Application/view/application/air/summary.phtml, line: 133
-# File: module/Application/view/application/air/confirm.phtml, line: 124
-# File: module/Application/view/application/air/confirm.phtml, line: 168
+# File: module/Application/view/application/air/confirm.phtml, line: 126
+# File: module/Application/view/application/air/confirm.phtml, line: 170
 msgid "Carry on Bag"
 msgstr ""
 #
@@ -2411,8 +2413,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 251
 # File: module/Application/view/application/air/summary.phtml, line: 89
 # File: module/Application/view/application/air/summary.phtml, line: 133
-# File: module/Application/view/application/air/confirm.phtml, line: 124
-# File: module/Application/view/application/air/confirm.phtml, line: 168
+# File: module/Application/view/application/air/confirm.phtml, line: 126
+# File: module/Application/view/application/air/confirm.phtml, line: 170
 msgid "Carry on Bags"
 msgstr ""
 #
@@ -2444,9 +2446,9 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 180
 # File: module/Application/view/application/air/summary.phtml, line: 186
 # File: module/Application/view/application/air/summary.phtml, line: 192
-# File: module/Application/view/application/air/confirm.phtml, line: 201
-# File: module/Application/view/application/air/confirm.phtml, line: 207
-# File: module/Application/view/application/air/confirm.phtml, line: 213
+# File: module/Application/view/application/air/confirm.phtml, line: 203
+# File: module/Application/view/application/air/confirm.phtml, line: 209
+# File: module/Application/view/application/air/confirm.phtml, line: 215
 msgid "Bags"
 msgstr ""
 #
@@ -2462,9 +2464,9 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 179
 # File: module/Application/view/application/air/summary.phtml, line: 185
 # File: module/Application/view/application/air/summary.phtml, line: 191
-# File: module/Application/view/application/air/confirm.phtml, line: 200
-# File: module/Application/view/application/air/confirm.phtml, line: 206
-# File: module/Application/view/application/air/confirm.phtml, line: 212
+# File: module/Application/view/application/air/confirm.phtml, line: 202
+# File: module/Application/view/application/air/confirm.phtml, line: 208
+# File: module/Application/view/application/air/confirm.phtml, line: 214
 msgid "Aprox."
 msgstr ""
 #
@@ -2482,15 +2484,16 @@ msgstr ""
 msgid "Flexibility"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 408
+# File: module/Application/view/application/air/search.phtml, line: 409
+# File: module/Application/view/application/air/search.phtml, line: 411
 # File: module/Application/view/application/air/return.phtml, line: 324
 msgid "SELECT"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 414
+# File: module/Application/view/application/air/search.phtml, line: 418
 # File: module/Application/view/application/air/return.phtml, line: 330
 # File: module/Application/view/application/air/summary.phtml, line: 197
-# File: module/Application/view/application/air/confirm.phtml, line: 218
+# File: module/Application/view/application/air/confirm.phtml, line: 220
 msgid "Baggage fees reflect the airline's standard fees based on the selected fare class. Fees may vary based on size and weight restrictions as well as loyalty programs and other promotions."
 msgstr ""
 #
@@ -2518,170 +2521,170 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 44
 # File: module/Application/view/application/air/summary.phtml, line: 45
-# File: module/Application/view/application/air/confirm.phtml, line: 79
-# File: module/Application/view/application/air/confirm.phtml, line: 80
+# File: module/Application/view/application/air/confirm.phtml, line: 81
+# File: module/Application/view/application/air/confirm.phtml, line: 82
 msgid "Journey"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 54
-# File: module/Application/view/application/air/confirm.phtml, line: 89
+# File: module/Application/view/application/air/confirm.phtml, line: 91
 msgid "Operated by:"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 59
-# File: module/Application/view/application/air/confirm.phtml, line: 94
+# File: module/Application/view/application/air/confirm.phtml, line: 96
 msgid "TO"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 60
-# File: module/Application/view/application/air/confirm.phtml, line: 95
+# File: module/Application/view/application/air/confirm.phtml, line: 97
 msgid "TIME"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 93
-# File: module/Application/view/application/air/confirm.phtml, line: 128
+# File: module/Application/view/application/air/confirm.phtml, line: 130
 msgid "bags info"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 93
-# File: module/Application/view/application/air/confirm.phtml, line: 128
+# File: module/Application/view/application/air/confirm.phtml, line: 130
 msgid "flight details"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 98
-# File: module/Application/view/application/air/confirm.phtml, line: 133
+# File: module/Application/view/application/air/confirm.phtml, line: 135
 msgid "Flight Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 163
-# File: module/Application/view/application/air/confirm.phtml, line: 184
+# File: module/Application/view/application/air/confirm.phtml, line: 186
 msgid "Bags Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 168
-# File: module/Application/view/application/air/summary.phtml, line: 306
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 310
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 237
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 84
 # File: module/Application/view/application/air/payment.phtml, line: 95
 # File: module/Application/view/application/air/confirm.phtml, line: 6
-# File: module/Application/view/application/air/confirm.phtml, line: 189
+# File: module/Application/view/application/air/confirm.phtml, line: 191
 msgid "Flight"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 169
-# File: module/Application/view/application/air/confirm.phtml, line: 190
+# File: module/Application/view/application/air/confirm.phtml, line: 192
 msgid "Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 170
-# File: module/Application/view/application/air/confirm.phtml, line: 191
+# File: module/Application/view/application/air/confirm.phtml, line: 193
 msgid "Price"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 171
-# File: module/Application/view/application/air/confirm.phtml, line: 192
+# File: module/Application/view/application/air/confirm.phtml, line: 194
 msgid "Qty"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 178
-# File: module/Application/view/application/air/confirm.phtml, line: 199
+# File: module/Application/view/application/air/confirm.phtml, line: 201
 msgid "Carry on Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 179
 # File: module/Application/view/application/air/summary.phtml, line: 185
 # File: module/Application/view/application/air/summary.phtml, line: 191
-# File: module/Application/view/application/air/confirm.phtml, line: 200
-# File: module/Application/view/application/air/confirm.phtml, line: 206
-# File: module/Application/view/application/air/confirm.phtml, line: 212
+# File: module/Application/view/application/air/confirm.phtml, line: 202
+# File: module/Application/view/application/air/confirm.phtml, line: 208
+# File: module/Application/view/application/air/confirm.phtml, line: 214
 msgid "Free Bag"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 179
 # File: module/Application/view/application/air/summary.phtml, line: 185
 # File: module/Application/view/application/air/summary.phtml, line: 191
-# File: module/Application/view/application/air/confirm.phtml, line: 200
-# File: module/Application/view/application/air/confirm.phtml, line: 206
-# File: module/Application/view/application/air/confirm.phtml, line: 212
+# File: module/Application/view/application/air/confirm.phtml, line: 202
+# File: module/Application/view/application/air/confirm.phtml, line: 208
+# File: module/Application/view/application/air/confirm.phtml, line: 214
 msgid "Free Bags"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 180
 # File: module/Application/view/application/air/summary.phtml, line: 186
 # File: module/Application/view/application/air/summary.phtml, line: 192
-# File: module/Application/view/application/air/confirm.phtml, line: 201
-# File: module/Application/view/application/air/confirm.phtml, line: 207
-# File: module/Application/view/application/air/confirm.phtml, line: 213
+# File: module/Application/view/application/air/confirm.phtml, line: 203
+# File: module/Application/view/application/air/confirm.phtml, line: 209
+# File: module/Application/view/application/air/confirm.phtml, line: 215
 msgid "Bag"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 184
-# File: module/Application/view/application/air/confirm.phtml, line: 205
+# File: module/Application/view/application/air/confirm.phtml, line: 207
 msgid "Checked In Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 190
-# File: module/Application/view/application/air/confirm.phtml, line: 211
+# File: module/Application/view/application/air/confirm.phtml, line: 213
 msgid "Second Checked In Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 200
-# File: module/Application/view/application/air/confirm.phtml, line: 221
+# File: module/Application/view/application/air/confirm.phtml, line: 223
 msgid "This price does not include luggage but you can add it later"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 # File: module/Application/view/application/air/confirm.phtml, line: 19
-# File: module/Application/view/application/air/confirm.phtml, line: 33
+# File: module/Application/view/application/air/confirm.phtml, line: 34
 msgid "Non Stop"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 msgid "Public Fare"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 msgid "Agency Private Fare"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 msgid "Private Fare"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 317
+# File: module/Application/view/application/air/summary.phtml, line: 321
 # File: module/Application/view/application/air/passengers.phtml, line: 248
 # File: module/Application/view/application/air/payment.phtml, line: 95
 msgid "Net Fare"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 319
+# File: module/Application/view/application/air/summary.phtml, line: 323
 # File: module/Application/view/application/air/passengers.phtml, line: 250
 # File: module/Application/view/application/air/payment.phtml, line: 97
 # File: module/Application/view/application/air/confirm.phtml, line: 17
-# File: module/Application/view/application/air/confirm.phtml, line: 31
+# File: module/Application/view/application/air/confirm.phtml, line: 32
 msgid "Dep:"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 320
+# File: module/Application/view/application/air/summary.phtml, line: 324
 # File: module/Application/view/application/air/passengers.phtml, line: 251
 # File: module/Application/view/application/air/payment.phtml, line: 98
 # File: module/Application/view/application/air/confirm.phtml, line: 18
-# File: module/Application/view/application/air/confirm.phtml, line: 32
+# File: module/Application/view/application/air/confirm.phtml, line: 33
 msgid "Arr:"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 341
-# File: module/Application/view/application/air/summary.phtml, line: 361
+# File: module/Application/view/application/air/summary.phtml, line: 345
+# File: module/Application/view/application/air/summary.phtml, line: 365
 # File: module/Application/view/application/air/passengers.phtml, line: 272
 # File: module/Application/view/application/air/passengers.phtml, line: 292
 # File: module/Application/view/application/air/payment.phtml, line: 119
@@ -2689,8 +2692,8 @@ msgstr ""
 msgid "Base Price"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 344
-# File: module/Application/view/application/air/summary.phtml, line: 365
+# File: module/Application/view/application/air/summary.phtml, line: 348
+# File: module/Application/view/application/air/summary.phtml, line: 369
 # File: module/Application/view/application/air/passengers.phtml, line: 275
 # File: module/Application/view/application/air/passengers.phtml, line: 296
 # File: module/Application/view/application/air/payment.phtml, line: 122
@@ -2698,8 +2701,8 @@ msgstr ""
 msgid "Taxes"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 347
-# File: module/Application/view/application/air/summary.phtml, line: 369
+# File: module/Application/view/application/air/summary.phtml, line: 351
+# File: module/Application/view/application/air/summary.phtml, line: 373
 # File: module/Application/view/application/air/passengers.phtml, line: 278
 # File: module/Application/view/application/air/passengers.phtml, line: 300
 # File: module/Application/view/application/air/payment.phtml, line: 125
@@ -2711,27 +2714,27 @@ msgstr ""
 msgid "to"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 39
+# File: module/Application/view/application/air/confirm.phtml, line: 41
 msgid "Base:"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 43
+# File: module/Application/view/application/air/confirm.phtml, line: 45
 msgid "Fees:"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 47
+# File: module/Application/view/application/air/confirm.phtml, line: 49
 msgid "Taxes:"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 52
+# File: module/Application/view/application/air/confirm.phtml, line: 54
 msgid "Subtotal:"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 238
+# File: module/Application/view/application/air/confirm.phtml, line: 240
 msgid "Transport Information"
 msgstr ""
 #
-# File: module/Application/view/application/air/confirm.phtml, line: 247
+# File: module/Application/view/application/air/confirm.phtml, line: 249
 msgid "Seat:"
 msgstr ""
 #
