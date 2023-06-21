@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-21 17:00+0100\n"
+"POT-Creation-Date: 2023-06-21 17:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -503,7 +503,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/search.phtml, line: 422
 # File: module/Application/view/application/cruises/offer.phtml, line: 119
 # File: module/Application/view/application/cruises/select.phtml, line: 61
-# File: module/Application/view/application/cruises/select.phtml, line: 143
+# File: module/Application/view/application/cruises/select.phtml, line: 163
 msgid "Cabin"
 msgstr ""
 #
@@ -596,7 +596,7 @@ msgid "Cruise facilities"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 376
-# File: module/Application/view/application/cruises/select.phtml, line: 635
+# File: module/Application/view/application/cruises/select.phtml, line: 655
 # File: module/Application/view/application/cruises/summary.phtml, line: 313
 # File: module/Application/view/application/cruises/passengers.phtml, line: 272
 # File: module/Application/view/application/cruises/payment.phtml, line: 263
@@ -642,7 +642,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 39
 # File: module/Application/view/application/cruises/select.phtml, line: 40
-# File: module/Application/view/application/cruises/select.phtml, line: 661
+# File: module/Application/view/application/cruises/select.phtml, line: 681
 # File: module/Application/view/application/cruises/summary.phtml, line: 241
 # File: module/Application/view/application/cruises/passengers.phtml, line: 190
 # File: module/Application/view/application/cruises/payment.phtml, line: 100
@@ -658,18 +658,18 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 39
 # File: module/Application/view/application/cruises/select.phtml, line: 40
-# File: module/Application/view/application/cruises/select.phtml, line: 661
+# File: module/Application/view/application/cruises/select.phtml, line: 681
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 373
 msgid "Input age for guest"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 42
 # File: module/Application/view/application/cruises/select.phtml, line: 81
-# File: module/Application/view/application/cruises/select.phtml, line: 97
-# File: module/Application/view/application/cruises/select.phtml, line: 151
-# File: module/Application/view/application/cruises/select.phtml, line: 166
-# File: module/Application/view/application/cruises/select.phtml, line: 196
-# File: module/Application/view/application/cruises/select.phtml, line: 212
+# File: module/Application/view/application/cruises/select.phtml, line: 117
+# File: module/Application/view/application/cruises/select.phtml, line: 171
+# File: module/Application/view/application/cruises/select.phtml, line: 186
+# File: module/Application/view/application/cruises/select.phtml, line: 216
+# File: module/Application/view/application/cruises/select.phtml, line: 232
 # File: module/Application/view/application/cruises/passengers.phtml, line: 252
 # File: module/Application/view/application/cruises/payment.phtml, line: 71
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 298
@@ -693,7 +693,7 @@ msgid "Select date & price"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 55
-# File: module/Application/view/application/cruises/select.phtml, line: 288
+# File: module/Application/view/application/cruises/select.phtml, line: 308
 msgid "Click on the most convenient price / date"
 msgstr ""
 #
@@ -727,8 +727,30 @@ msgstr ""
 msgid "Stateroom images and features are samples only. Actual furniture, fixtures, colors and configurations may vary"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 104
-# File: module/Application/view/application/cruises/select.phtml, line: 468
+# File: module/Application/view/application/cruises/select.phtml, line: 102
+msgid "The category has cabins for guests with special needs."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 107
+# File: module/Application/view/application/cruises/select.phtml, line: 478
+msgid "Guarantee"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 107
+msgid "Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 112
+# File: module/Application/view/application/cruises/select.phtml, line: 475
+msgid "Waitlist"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 112
+msgid "Cabins on the waiting list are cabins that are not available but can be \"RESERVED\" when making a deposit. In case someone cancels or has not made final payment you will receive a call or an email from the shipping company to confirm the cabin. It is NOT GUARANTEED that the cabin is sold until you receive a confirmation from the shipping company."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 124
+# File: module/Application/view/application/cruises/select.phtml, line: 488
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
 # File: module/Application/view/application/air/search.phtml, line: 414
 # File: module/Application/view/application/air/return.phtml, line: 219
@@ -738,45 +760,45 @@ msgstr ""
 msgid "total"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 111
+# File: module/Application/view/application/cruises/select.phtml, line: 131
 msgid "Cabin number"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 112
+# File: module/Application/view/application/cruises/select.phtml, line: 132
 msgid "Select your room number"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 113
+# File: module/Application/view/application/cruises/select.phtml, line: 133
 msgid "Select the room number according to the type of cabin selected"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 117
-# File: module/Application/view/application/cruises/select.phtml, line: 119
+# File: module/Application/view/application/cruises/select.phtml, line: 137
+# File: module/Application/view/application/cruises/select.phtml, line: 139
 msgid "Location"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 123
+# File: module/Application/view/application/cruises/select.phtml, line: 143
 msgid "The back of the ship, home to plenty of dining options and great sail-away views."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 129
+# File: module/Application/view/application/cruises/select.phtml, line: 149
 msgid "Mid-ship puts you in the center of all the action."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 135
+# File: module/Application/view/application/cruises/select.phtml, line: 155
 msgid "The front of the ship, quieter and close to the spa and suite lounges."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 140
-# File: module/Application/view/application/cruises/select.phtml, line: 141
+# File: module/Application/view/application/cruises/select.phtml, line: 160
+# File: module/Application/view/application/cruises/select.phtml, line: 161
 msgid "Deck"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 141
+# File: module/Application/view/application/cruises/select.phtml, line: 161
 msgid "Select Deck"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 142
+# File: module/Application/view/application/cruises/select.phtml, line: 162
 # File: module/Application/view/application/index/index.phtml, line: 197
 # File: module/Application/view/application/index/index.phtml, line: 1548
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 574
@@ -786,77 +808,77 @@ msgstr ""
 msgid "Room"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 143
+# File: module/Application/view/application/cruises/select.phtml, line: 163
 msgid "Select Room"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 146
+# File: module/Application/view/application/cruises/select.phtml, line: 166
 msgid "Please note that this is a \"guarantee\" rate. Guests who book a cabin guarantee will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 149
+# File: module/Application/view/application/cruises/select.phtml, line: 169
 msgid "Please note that this is a \"waitlist\" rate. There are no cabins left so you will be added to the waitlist and notified if one becomes available. A travel agent representative will contact you as soon as a space becomes available."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 154
+# File: module/Application/view/application/cruises/select.phtml, line: 174
 msgid "Location:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 154
+# File: module/Application/view/application/cruises/select.phtml, line: 174
 msgid "Deck:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 154
+# File: module/Application/view/application/cruises/select.phtml, line: 174
 msgid "Number:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 157
+# File: module/Application/view/application/cruises/select.phtml, line: 177
 msgid "Dining options"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 158
+# File: module/Application/view/application/cruises/select.phtml, line: 178
 msgid "Select your dining time"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 159
+# File: module/Application/view/application/cruises/select.phtml, line: 179
 msgid "Select a choice of dining options. You will be assigned a table size in the restaurant based on availability. (Table sizes can vary but typically tend to be; Small for 2 people, Medium 4-6 people and large 7-10 people)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 163
+# File: module/Application/view/application/cruises/select.phtml, line: 183
 msgid "Dining seating"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 164
+# File: module/Application/view/application/cruises/select.phtml, line: 184
 msgid "Select your dining seating"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 173
+# File: module/Application/view/application/cruises/select.phtml, line: 193
 msgid "Dining time:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 180
-# File: module/Application/view/application/cruises/select.phtml, line: 181
-# File: module/Application/view/application/cruises/select.phtml, line: 186
+# File: module/Application/view/application/cruises/select.phtml, line: 200
+# File: module/Application/view/application/cruises/select.phtml, line: 201
+# File: module/Application/view/application/cruises/select.phtml, line: 206
 msgid "Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 182
+# File: module/Application/view/application/cruises/select.phtml, line: 202
 msgid "Pay now the automatic gratuities/service charge in place and you don't have to stress in any way about this. We highly recommend you to pay the gratuity online, if you do, there is no need to pay anyone anything more. If gratuities are not prepaid prior to sailing, they will be automatically added to the guest's folios once onboard."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 186
+# File: module/Application/view/application/cruises/select.phtml, line: 206
 msgid "Per Passenger"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 191
+# File: module/Application/view/application/cruises/select.phtml, line: 211
 msgid "By selecting this box you agree to pay online the Cruise's automatic gratuities/service charge in place."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 204
+# File: module/Application/view/application/cruises/select.phtml, line: 224
 msgid "per passenger"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 225
+# File: module/Application/view/application/cruises/select.phtml, line: 245
 # File: module/Application/view/application/cruises/summary.phtml, line: 222
 # File: module/Application/view/application/cruises/passengers.phtml, line: 171
 # File: module/Application/view/application/cruises/payment.phtml, line: 81
@@ -865,7 +887,7 @@ msgstr ""
 msgid "Departure"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 262
+# File: module/Application/view/application/cruises/select.phtml, line: 282
 # File: module/Application/view/application/cruises/summary.phtml, line: 297
 # File: module/Application/view/application/cruises/passengers.phtml, line: 246
 # File: module/Application/view/application/cruises/payment.phtml, line: 154
@@ -893,50 +915,42 @@ msgstr ""
 msgid "Total"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 285
+# File: module/Application/view/application/cruises/select.phtml, line: 305
 msgid "Please select date"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 292
-# File: module/Application/view/application/cruises/select.phtml, line: 295
+# File: module/Application/view/application/cruises/select.phtml, line: 312
+# File: module/Application/view/application/cruises/select.phtml, line: 315
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 282
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 285
 msgid "Please input passenger age"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 336
-# File: module/Application/view/application/cruises/select.phtml, line: 468
+# File: module/Application/view/application/cruises/select.phtml, line: 356
+# File: module/Application/view/application/cruises/select.phtml, line: 488
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 116
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 142
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 169
 msgid "selected"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 455
-msgid "Waitlist"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 458
-msgid "Guarantee"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 465
+# File: module/Application/view/application/cruises/select.phtml, line: 485
 msgid "Deposit is non-refundable. Once the deposit is paid it will not be refunded."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 609
+# File: module/Application/view/application/cruises/select.phtml, line: 629
 msgid "Pay Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 613
+# File: module/Application/view/application/cruises/select.phtml, line: 633
 msgid "Do not pay Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 646
+# File: module/Application/view/application/cruises/select.phtml, line: 666
 msgid "Max Occupancy is"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 648
+# File: module/Application/view/application/cruises/select.phtml, line: 668
 msgid "Handicap Cabin"
 msgstr ""
 #
