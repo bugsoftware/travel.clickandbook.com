@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-27 07:17+0100\n"
+"POT-Creation-Date: 2023-06-28 13:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -762,7 +762,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/select.phtml, line: 125
 # File: module/Application/view/application/cruises/select.phtml, line: 501
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
-# File: module/Application/view/application/air/search.phtml, line: 437
+# File: module/Application/view/application/air/search.phtml, line: 439
 # File: module/Application/view/application/air/return.phtml, line: 266
 # File: module/Application/view/application/air/return.phtml, line: 334
 # File: module/Application/view/application/air/segment.phtml, line: 223
@@ -2512,7 +2512,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 312
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 337
-# File: module/Application/view/application/air/search.phtml, line: 458
+# File: module/Application/view/application/air/search.phtml, line: 465
 # File: module/Application/view/application/air/return.phtml, line: 364
 # File: module/Application/view/application/air/segment.phtml, line: 309
 # File: module/Application/view/application/trip-planner/select.phtml, line: 651
@@ -3070,14 +3070,22 @@ msgstr ""
 msgid "seats available"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 457
+# File: module/Application/view/application/air/search.phtml, line: 441
+msgid "segment price"
+msgstr ""
+#
+# File: module/Application/view/application/air/search.phtml, line: 443
+msgid "outbound price"
+msgstr ""
+#
+# File: module/Application/view/application/air/search.phtml, line: 464
 # File: module/Application/view/application/air/return.phtml, line: 363
 # File: module/Application/view/application/air/segment.phtml, line: 308
 msgid "Select fare to"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 469
-# File: module/Application/view/application/air/search.phtml, line: 470
+# File: module/Application/view/application/air/search.phtml, line: 476
+# File: module/Application/view/application/air/search.phtml, line: 477
 # File: module/Application/view/application/air/return.phtml, line: 375
 # File: module/Application/view/application/air/return.phtml, line: 376
 # File: module/Application/view/application/air/segment.phtml, line: 320
@@ -3085,25 +3093,25 @@ msgstr ""
 msgid "Some airlines offer different fare families that include different services and conditions, such as baggage allowance, seat selection, or priority boarding."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 469
+# File: module/Application/view/application/air/search.phtml, line: 476
 # File: module/Application/view/application/air/return.phtml, line: 375
 # File: module/Application/view/application/air/segment.phtml, line: 320
 msgid "To see more family fares and compare their features, use the horizontal scroll bar at the bottom of this screen and move it right or left..."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 470
+# File: module/Application/view/application/air/search.phtml, line: 477
 # File: module/Application/view/application/air/return.phtml, line: 376
 # File: module/Application/view/application/air/segment.phtml, line: 321
 msgid "To see more family fares and compare their features, swipe right or left on the screen..."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 478
+# File: module/Application/view/application/air/search.phtml, line: 485
 # File: module/Application/view/application/air/return.phtml, line: 383
 # File: module/Application/view/application/air/segment.phtml, line: 328
 msgid "Cabin:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 480
+# File: module/Application/view/application/air/search.phtml, line: 487
 # File: module/Application/view/application/air/return.phtml, line: 385
 # File: module/Application/view/application/air/summary.phtml, line: 180
 # File: module/Application/view/application/air/summary.phtml, line: 186
@@ -3115,14 +3123,14 @@ msgstr ""
 msgid "Bags"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 482
+# File: module/Application/view/application/air/search.phtml, line: 489
 # File: module/Application/view/application/air/return.phtml, line: 387
 # File: module/Application/view/application/air/segment.phtml, line: 332
 msgid "Checked In Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 482
-# File: module/Application/view/application/air/search.phtml, line: 485
+# File: module/Application/view/application/air/search.phtml, line: 489
+# File: module/Application/view/application/air/search.phtml, line: 492
 # File: module/Application/view/application/air/return.phtml, line: 387
 # File: module/Application/view/application/air/return.phtml, line: 390
 # File: module/Application/view/application/air/summary.phtml, line: 179
@@ -3136,32 +3144,32 @@ msgstr ""
 msgid "Aprox."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 485
+# File: module/Application/view/application/air/search.phtml, line: 492
 # File: module/Application/view/application/air/return.phtml, line: 390
 # File: module/Application/view/application/air/segment.phtml, line: 335
 msgid "Second Checked In Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 487
+# File: module/Application/view/application/air/search.phtml, line: 494
 msgid "Carry on Baggage:"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 488
+# File: module/Application/view/application/air/search.phtml, line: 495
 # File: module/Application/view/application/air/return.phtml, line: 393
 # File: module/Application/view/application/air/segment.phtml, line: 338
 msgid "Flexibility"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 496
-# File: module/Application/view/application/air/search.phtml, line: 498
-# File: module/Application/view/application/air/search.phtml, line: 500
+# File: module/Application/view/application/air/search.phtml, line: 503
+# File: module/Application/view/application/air/search.phtml, line: 505
+# File: module/Application/view/application/air/search.phtml, line: 507
 # File: module/Application/view/application/air/return.phtml, line: 400
 # File: module/Application/view/application/air/segment.phtml, line: 346
 # File: module/Application/view/application/air/segment.phtml, line: 348
 msgid "SELECT"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 507
+# File: module/Application/view/application/air/search.phtml, line: 514
 # File: module/Application/view/application/air/return.phtml, line: 406
 # File: module/Application/view/application/air/summary.phtml, line: 197
 # File: module/Application/view/application/air/confirm.phtml, line: 220
