@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-11 07:17+0100\n"
+"POT-Creation-Date: 2023-07-11 10:51+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -311,6 +311,8 @@ msgid "Popular River Cruises"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 408
+# File: module/Application/view/offers/hotels/index.phtml, line: 217
+# File: module/Application/view/offers/hotels/index.phtml, line: 265
 msgid "View"
 msgstr ""
 #
@@ -399,6 +401,8 @@ msgid "Length"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 196
+# File: module/Application/view/offers/airline/index.phtml, line: 239
+# File: module/Application/view/offers/hotels/index.phtml, line: 240
 msgid "nights"
 msgstr ""
 #
@@ -415,6 +419,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/search.phtml, line: 249
 # File: module/Application/view/application/cruises/search.phtml, line: 256
 # File: module/Application/view/application/cruises/search.phtml, line: 263
+# File: module/Application/view/offers/lastminute/index.phtml, line: 1649
 msgid "stars"
 msgstr ""
 #
@@ -485,6 +490,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/offer.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 43
 # File: module/Application/view/application/air/confirm.phtml, line: 6
+# File: module/Application/view/offers/lastminute/index.phtml, line: 290
+# File: module/Application/view/offers/lastminute/index.phtml, line: 624
 msgid "from"
 msgstr ""
 #
@@ -522,6 +529,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/offer.phtml, line: 119
 # File: module/Application/view/application/cruises/select.phtml, line: 61
 # File: module/Application/view/application/cruises/select.phtml, line: 164
+# File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "Cabin"
 msgstr ""
 #
@@ -785,6 +793,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 367
 # File: module/Application/view/application/air/segment.phtml, line: 223
 # File: module/Application/view/application/air/segment.phtml, line: 291
+# File: module/Application/view/offers/lastminute/index.phtml, line: 1629
 msgid "total"
 msgstr ""
 #
@@ -912,6 +921,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 83
 # File: module/Application/view/application/cruises/confirm.phtml, line: 159
 # File: module/Application/view/application/air/confirm.phtml, line: 13
+# File: module/Application/view/offers/cruises/index.phtml, line: 164
 msgid "Departure"
 msgstr ""
 #
@@ -1984,6 +1994,7 @@ msgid "Confirmation"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 13
+# File: module/Application/view/offers/cruises/index.phtml, line: 212
 msgid "Cruise"
 msgstr ""
 #
@@ -2659,6 +2670,7 @@ msgid "Subscribe to our newsletter and receive the best offers!"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 529
+# File: module/Application/view/offers/lastminute/index.phtml, line: 591
 msgid "Special Offers"
 msgstr ""
 #
@@ -2790,6 +2802,8 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 235
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 15
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 36
+# File: module/Application/view/offers/airline/index.phtml, line: 239
+# File: module/Application/view/offers/hotels/index.phtml, line: 240
 msgid "days"
 msgstr ""
 #
@@ -2909,6 +2923,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 309
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 153
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 89
+# File: module/Application/view/offers/hotels/index.phtml, line: 292
 msgid "with"
 msgstr ""
 #
@@ -2984,6 +2999,7 @@ msgid "First select the required departure date from among those available. Pric
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 27
+# File: module/Application/view/offers/cruises/index.phtml, line: 161
 msgid "Date"
 msgstr ""
 #
@@ -3508,6 +3524,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 170
 # File: module/Application/view/application/air/confirm.phtml, line: 193
+# File: module/Application/view/offers/cruises/index.phtml, line: 205
 msgid "Price"
 msgstr ""
 #
@@ -3689,6 +3706,8 @@ msgid "MM-DD-YYYY"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 6
+# File: module/Application/view/offers/lastminute/index.phtml, line: 346
+# File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "to"
 msgstr ""
 #
@@ -3863,6 +3882,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 148
 # File: module/Application/view/layout/layout.phtml, line: 149
 # File: module/Application/view/layout/layout.phtml, line: 615
+# File: module/Application/view/offers/hotels/index.phtml, line: 238
 msgid "Packages"
 msgstr ""
 #
@@ -4035,4 +4055,463 @@ msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 694
 msgid "Terms"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 46
+msgid "WORLD'S BEST PLACES TO VISIT"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 47
+# File: module/Application/view/offers/holidays/index.phtml, line: 50
+msgid "With a world full of fascinating destinations, choose the perfect vacation for you...brought to you by"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 48
+# File: module/Application/view/offers/cruises/index.phtml, line: 53
+msgid "With a world full of fascinating destinations, choose the perfect vacation for you..."
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 135
+# File: module/Application/view/offers/holidays/index.phtml, line: 282
+# File: module/Application/view/offers/cruises/index.phtml, line: 121
+# File: module/Application/view/offers/cruises/index.phtml, line: 314
+# File: module/Application/view/offers/airline/index.phtml, line: 156
+# File: module/Application/view/offers/airline/index.phtml, line: 297
+# File: module/Application/view/offers/hotels/index.phtml, line: 153
+# File: module/Application/view/offers/hotels/index.phtml, line: 318
+msgid "OUR WEBSITE"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 156
+msgid "World's Best Places to Visit"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 157
+msgid "top destinations"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 158
+msgid "With a world full of fascinating destinations"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 158
+msgid "choose the perfect vacation for you..."
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 181
+msgid "Where do you want to go?"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 181
+msgid "More than 56,000 travel destinations for you to choose from. White sandy beaches are a must-visit for many, with vibrant cities also on a lot of people's favorits. What is your favorite?"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 258
+msgid "more destinations"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 278
+# File: module/Application/view/offers/cruises/index.phtml, line: 310
+# File: module/Application/view/offers/airline/index.phtml, line: 293
+# File: module/Application/view/offers/hotels/index.phtml, line: 314
+msgid "contact us:"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 291
+# File: module/Application/view/offers/cruises/index.phtml, line: 323
+# File: module/Application/view/offers/airline/index.phtml, line: 306
+# File: module/Application/view/offers/hotels/index.phtml, line: 327
+msgid "All rights reserved"
+msgstr ""
+#
+# File: module/Application/view/offers/holidays/index.phtml, line: 291
+# File: module/Application/view/offers/cruises/index.phtml, line: 323
+# File: module/Application/view/offers/airline/index.phtml, line: 306
+# File: module/Application/view/offers/hotels/index.phtml, line: 327
+msgid "Write us"
+msgstr ""
+#
+# File: module/Application/view/offers/letter/index.phtml, line: 204
+msgid "Click to access your Personalized Website:"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 153
+msgid "Problems viewing?"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 153
+msgid "Click to view online"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 169
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8437
+msgid "To stop receiving these emails"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 169
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8437
+msgid "unsubscribe"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 313
+# File: module/Application/view/offers/lastminute/index.phtml, line: 315
+# File: module/Application/view/offers/lastminute/index.phtml, line: 487
+# File: module/Application/view/offers/lastminute/index.phtml, line: 528
+msgid "Book now"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 639
+msgid "Book Now"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 1668
+msgid "details"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8092
+msgid "About"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8151
+msgid "Contacts"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8293
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8298
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8299
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8300
+msgid "Start a video chat now"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8293
+msgid "LIVE"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8293
+msgid "STREAM"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8294
+msgid "Chat live with your agent"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8301
+msgid "I want you to call me"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8307
+msgid "Direct phone"
+msgstr ""
+#
+# File: module/Application/view/offers/lastminute/index.phtml, line: 8314
+msgid "Schedule"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 49
+# File: module/Application/view/offers/cruises/index.phtml, line: 50
+# File: module/Application/view/offers/cruises/index.phtml, line: 51
+msgid "Quote"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 132
+msgid "Quotation"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 133
+msgid "As requested we detail the following quote"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 133
+msgid "we remain attentive to your inquiries and requirements"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "Reference quote:"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "Pasajeros:"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "adults"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "children"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 141
+msgid "Telephone:"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 141
+msgid "Quotation date:"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 151
+msgid "Cruise from"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 162
+msgid "Itinerary"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 163
+msgid "Arrival"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 204
+msgid "Item"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 220
+msgid "Taxes & Charges"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 229
+msgid "TOTAL"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 244
+msgid "enjoy even more"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 244
+msgid "your vacations"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 245
+msgid "You are one click away from starting your adventure"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 245
+msgid "but you could improve your experience even more"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 245
+msgid "adding these fabulous services"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 246
+msgid "I WANT IT"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 256
+msgid "the cruise"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 257
+msgid "GUARANTEED CABIN"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 257
+msgid "The specific cabin number is unknown. This can be assigned until the same day of departure. Once assigned the booth number cannot be changed."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 258
+msgid "INCLUDED"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 258
+msgid "Cruise, Complete meals, tea, coffee, milk, soft drinks from dispenser; shows, daily entertainment, access to various public areas such as Gym, Taxes, port charges."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 259
+msgid "IT'S NOT INCLUDED"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 259
+msgid "Air tickets, soft drinks, freshly squeezed juices, alcoholic beverages, assistance and cancellation insurance, excursions, Wifi, Transfers, purchases, tips, Casino, Spa services, and all items not detailed as included."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 269
+msgid "Enjoy"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 269
+msgid "different destinations"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 270
+msgid "Accommodation"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 270
+msgid "and unique experience"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 271
+msgid "Meals"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 271
+msgid "complete"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 278
+msgid "Shows"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 278
+msgid "incredible"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 279
+msgid "Various activities"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 279
+msgid "for all ages"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 280
+msgid "Entertainment"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 280
+msgid "and night life"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 289
+msgid "GENERAL CONDITIONS:"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 290
+msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK VISAS AND IMMUNIZATIONS"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 291
+msgid "For required visas it is suggested to visit the following link"
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 292
+msgid "A person over the age of 21 is required to be in each booth. With the sole exception of having the minor's cabin in front of or to the side of the parent's cabin."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 293
+msgid "Underage spouses can travel with proof of marriage."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 294
+msgid "Boarding of pregnant women during the 24th week is NOT allowed, a medical certificate will be requested in case of pregnant women with a period of less than 24 weeks of gestation, which indicates how many weeks of pregnancy they are at the time of boarding, showing that they are in good health and that it is not a high-risk pregnancy."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 295
+msgid "Infants under 6 months of age cannot be shipped. For itineraries of 3 consecutive nights of navigation at sea, transatlantic, transpacific and some itineraries in South America, infants must be 1 year old at the time of boarding."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 296
+msgid "For all our routes, a Valid Passport is required (minimum 6 months, at the time of disembarkation) and carry a photocopy of it."
+msgstr ""
+#
+# File: module/Application/view/offers/cruises/index.phtml, line: 297
+msgid "The ports may vary, if the shipping company deems it convenient."
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 46
+# File: module/Application/view/offers/airline/index.phtml, line: 177
+msgid "Today's Amazing Flight Deals"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 47
+msgid "We offer tons of great airline deals for all types of flights, both domestic and international. Explore our vast inventory of airline offers for both short and long-haul routes worldwide...brought to you by"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 48
+# File: module/Application/view/offers/airline/index.phtml, line: 178
+msgid "Don't wait any longer and enjoy the best airline deals!"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 50
+msgid "Exclusive deals & discounts from"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 178
+msgid "Exclusive deals & discounts!"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 179
+msgid "VIEW OFFERS"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 202
+msgid "best flight deals"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 202
+msgid "We offer tons of great airline deals for all types of flights, both domestic and international. Explore our vast inventory of airline offers for both short and long-haul routes worldwide"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 211
+# File: module/Application/view/offers/airline/index.phtml, line: 212
+msgid "deals"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 217
+# File: module/Application/view/offers/airline/index.phtml, line: 239
+# File: module/Application/view/offers/hotels/index.phtml, line: 212
+# File: module/Application/view/offers/hotels/index.phtml, line: 260
+msgid "Departing from"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 241
+# File: module/Application/view/offers/airline/index.phtml, line: 266
+msgid "View More"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 280
+# File: module/Application/view/offers/hotels/index.phtml, line: 303
+msgid "GENERAL CONDITIONS"
+msgstr ""
+#
+# File: module/Application/view/offers/airline/index.phtml, line: 280
+# File: module/Application/view/offers/hotels/index.phtml, line: 303
+msgid "Prices \"from\" are per person per room in double occupation. Check prices for other dates, room categories and accommodations. Rates are subject to availability or while supplies last. Fares do not allow refunds and cannot be transferred to other passengers. Depending on the destination to travel, check visa requirements."
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 46
+# File: module/Application/view/offers/hotels/index.phtml, line: 184
+msgid "BEST OFFERS"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 47
+# File: module/Application/view/offers/hotels/index.phtml, line: 184
+msgid "We offer you the widest range of tourist packages to the best destinations. This way, enjoying your vacation to the fullest will be your only occupation."
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 48
+msgid "We offer you the widest range of tourist packages to the best destinations."
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 50
+msgid "This way, enjoying your vacation to the fullest will be your only occupation."
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 188
+msgid "4-day getaway"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 292
+msgid "Fast and secure booking"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 293
+msgid "Best Rates"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 293
+msgid "Wide Range of Choices"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 293
+msgid "Several Payment Methods to Choose from"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 293
+msgid "Incredible support with wide range of agents"
+msgstr ""
+#
+# File: module/Application/view/offers/hotels/index.phtml, line: 294
+msgid "just one click away"
 msgstr ""
