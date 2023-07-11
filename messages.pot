@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-10 07:29+0100\n"
+"POT-Creation-Date: 2023-07-11 07:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -699,6 +699,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 223
 # File: module/Application/view/application/air/passengers.phtml, line: 331
 # File: module/Application/view/application/trip-planner/select.phtml, line: 627
+# File: module/Application/view/application/booking/paynow.phtml, line: 166
 msgid "CONTINUE"
 msgstr ""
 #
@@ -939,6 +940,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 132
 # File: module/Application/view/application/air/payment.phtml, line: 139
 # File: module/Application/view/application/air/payment.phtml, line: 156
+# File: module/Application/view/application/booking/paynow.phtml, line: 123
 msgid "Total"
 msgstr ""
 #
@@ -995,6 +997,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 5
 # File: module/Application/view/application/air/passengers.phtml, line: 10
 # File: module/Application/view/application/air/payment.phtml, line: 7
+# File: module/Application/view/application/booking/paynow.phtml, line: 8
 msgid "Summary"
 msgstr ""
 #
@@ -1010,6 +1013,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 12
 # File: module/Application/view/application/air/passengers.phtml, line: 181
 # File: module/Application/view/application/air/payment.phtml, line: 9
+# File: module/Application/view/application/booking/paynow.phtml, line: 9
+# File: module/Application/view/application/booking/paynow.phtml, line: 130
 msgid "Payment"
 msgstr ""
 #
@@ -1421,12 +1426,14 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 134
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 163
 # File: module/Application/view/application/air/passengers.phtml, line: 184
+# File: module/Application/view/application/booking/paynow.phtml, line: 133
 msgid "Select payment options:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 139
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 168
 # File: module/Application/view/application/air/passengers.phtml, line: 189
+# File: module/Application/view/application/booking/paynow.phtml, line: 137
 msgid "Credit Card/Debit"
 msgstr ""
 #
@@ -2586,6 +2593,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 99
 # File: module/Application/view/application/air/confirm.phtml, line: 6
 # File: module/Application/view/application/air/confirm.phtml, line: 191
+# File: module/Application/view/application/booking/paynow.phtml, line: 25
 msgid "Flight"
 msgstr ""
 #
@@ -3921,6 +3929,10 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 722
 msgid "Don't show again"
+msgstr ""
+#
+# File: module/Application/view/application/booking/paynow.phtml, line: 15
+msgid "Booking "
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 111
