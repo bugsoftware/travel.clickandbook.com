@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-12 12:29+0100\n"
+"POT-Creation-Date: 2023-07-12 22:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -459,6 +459,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 17
 # File: module/Application/view/application/air/segment.phtml, line: 146
 # File: module/Application/view/application/air/segment.phtml, line: 147
+# File: module/Application/view/application/login/profile.phtml, line: 23
 msgid "No results available"
 msgstr ""
 #
@@ -630,6 +631,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 449
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 368
 # File: module/Application/view/application/air/payment.phtml, line: 357
+# File: module/Application/view/application/login/profile.phtml, line: 275
 # File: module/Application/view/application/booking/paynow.phtml, line: 518
 msgid "PLEASE WAIT"
 msgstr ""
@@ -1190,6 +1192,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 47
 # File: module/Application/view/application/air/passengers.phtml, line: 37
 # File: module/Application/view/application/air/passengers.phtml, line: 68
+# File: module/Application/view/application/login/profile.phtml, line: 66
 msgid "First Name"
 msgstr ""
 #
@@ -1206,6 +1209,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 48
 # File: module/Application/view/application/air/passengers.phtml, line: 38
 # File: module/Application/view/application/air/passengers.phtml, line: 69
+# File: module/Application/view/application/login/profile.phtml, line: 67
 msgid "Last Name"
 msgstr ""
 #
@@ -1222,6 +1226,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 49
 # File: module/Application/view/application/air/passengers.phtml, line: 39
 # File: module/Application/view/application/air/passengers.phtml, line: 70
+# File: module/Application/view/application/login/profile.phtml, line: 73
 msgid "Email"
 msgstr ""
 #
@@ -1254,6 +1259,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 51
 # File: module/Application/view/application/air/passengers.phtml, line: 41
 # File: module/Application/view/application/air/passengers.phtml, line: 72
+# File: module/Application/view/application/login/profile.phtml, line: 68
 msgid "Please select your country"
 msgstr ""
 #
@@ -1376,6 +1382,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 86
 # File: module/Application/view/application/air/payment.phtml, line: 58
 # File: module/Application/view/application/air/payment.phtml, line: 59
+# File: module/Application/view/application/login/profile.phtml, line: 52
+# File: module/Application/view/application/login/profile.phtml, line: 53
 # File: module/Application/view/application/booking/paynow.phtml, line: 50
 # File: module/Application/view/application/booking/paynow.phtml, line: 51
 msgid "Expiration date"
@@ -1470,6 +1478,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 323
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 166
 # File: module/Application/view/application/air/payment.phtml, line: 169
+# File: module/Application/view/application/login/profile.phtml, line: 87
 # File: module/Application/view/application/booking/paynow.phtml, line: 329
 msgid "Incorrect information"
 msgstr ""
@@ -1820,6 +1829,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 36
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 36
 # File: module/Application/view/application/air/payment.phtml, line: 47
+# File: module/Application/view/application/login/profile.phtml, line: 41
 # File: module/Application/view/application/booking/paynow.phtml, line: 39
 msgid "NAME ON CARD"
 msgstr ""
@@ -1827,6 +1837,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 43
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 43
 # File: module/Application/view/application/air/payment.phtml, line: 54
+# File: module/Application/view/application/login/profile.phtml, line: 48
 # File: module/Application/view/application/booking/paynow.phtml, line: 46
 msgid "Name on card"
 msgstr ""
@@ -1834,6 +1845,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 44
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 44
 # File: module/Application/view/application/air/payment.phtml, line: 55
+# File: module/Application/view/application/login/profile.phtml, line: 49
 # File: module/Application/view/application/booking/paynow.phtml, line: 47
 msgid "Card Number"
 msgstr ""
@@ -1841,6 +1853,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 51
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 51
 # File: module/Application/view/application/air/payment.phtml, line: 62
+# File: module/Application/view/application/login/profile.phtml, line: 56
 # File: module/Application/view/application/booking/paynow.phtml, line: 54
 msgid "Security code"
 msgstr ""
@@ -1890,6 +1903,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 65
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 65
 # File: module/Application/view/application/air/payment.phtml, line: 76
+# File: module/Application/view/application/login/profile.phtml, line: 70
 # File: module/Application/view/application/booking/paynow.phtml, line: 68
 msgid "City"
 msgstr ""
@@ -1897,6 +1911,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 66
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 66
 # File: module/Application/view/application/air/payment.phtml, line: 77
+# File: module/Application/view/application/login/profile.phtml, line: 71
 # File: module/Application/view/application/booking/paynow.phtml, line: 69
 msgid "State"
 msgstr ""
@@ -1925,6 +1940,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 176
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 183
 # File: module/Application/view/application/air/payment.phtml, line: 177
+# File: module/Application/view/application/login/profile.phtml, line: 95
 # File: module/Application/view/application/booking/paynow.phtml, line: 338
 msgid "Invalid card holder name. You did not enter a valid card holder. Please input credit card holder name."
 msgstr ""
@@ -1932,6 +1948,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 177
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 184
 # File: module/Application/view/application/air/payment.phtml, line: 178
+# File: module/Application/view/application/login/profile.phtml, line: 96
 # File: module/Application/view/application/booking/paynow.phtml, line: 339
 msgid "Invalid credit card number. The credit card number you provided is invalid."
 msgstr ""
@@ -1939,6 +1956,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 178
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 185
 # File: module/Application/view/application/air/payment.phtml, line: 179
+# File: module/Application/view/application/login/profile.phtml, line: 97
 # File: module/Application/view/application/booking/paynow.phtml, line: 340
 msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
@@ -1946,6 +1964,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 179
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 186
 # File: module/Application/view/application/air/payment.phtml, line: 180
+# File: module/Application/view/application/login/profile.phtml, line: 98
 # File: module/Application/view/application/booking/paynow.phtml, line: 341
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
 msgstr ""
@@ -1953,6 +1972,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 180
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 187
 # File: module/Application/view/application/air/payment.phtml, line: 181
+# File: module/Application/view/application/login/profile.phtml, line: 99
 # File: module/Application/view/application/booking/paynow.phtml, line: 342
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
@@ -3534,6 +3554,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 17
 # File: module/Application/view/application/air/passengers.phtml, line: 22
 # File: module/Application/view/application/air/payment.phtml, line: 19
+# File: module/Application/view/application/login/profile.phtml, line: 25
 msgid "Please search again"
 msgstr ""
 #
@@ -3851,6 +3872,78 @@ msgstr ""
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/layout/layout.phtml, line: 565
 msgid "Please wait..."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 7
+msgid "My Account"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 8
+msgid "Edit Profile"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 15
+msgid "Please use the form below to update your profile and keep your contact information up-to-date."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 63
+msgid "Edit your profile"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 68
+msgid "Country"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 69
+msgid "Address"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 72
+msgid "Zip/Postal Code"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 74
+msgid "Phone number"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 78
+msgid "Update profile"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 200
+msgid "First Name is required! Please input First Name."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 208
+msgid "Last Name is required! Please input Last Name."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 216
+msgid "Country is required! Please select Country."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 224
+msgid "Address is required! Please input Address."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 232
+msgid "City is required! Please input City."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 240
+msgid "State is required! Please input State."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 248
+msgid "Zip/Postal Code is required! Please input Zip/Postal Code."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 256
+msgid "Email is required! Please input Email."
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 264
+msgid "Phone number is required! Please input Phone number."
 msgstr ""
 #
 # File: module/Application/view/application/login/signout.phtml, line: 15
