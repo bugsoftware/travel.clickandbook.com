@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-01 21:42+0100\n"
+"POT-Creation-Date: 2023-08-02 11:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1198,6 +1198,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 74
 # File: module/Application/view/application/login/profile.phtml, line: 66
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
+# File: module/Application/view/application/content/registeragent.phtml, line: 35
 msgid "First Name"
 msgstr ""
 #
@@ -1207,6 +1208,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 37
 # File: module/Application/view/application/air/passengers.phtml, line: 74
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
+# File: module/Application/view/application/content/registeragent.phtml, line: 36
 msgid "Please enter your First Name"
 msgstr ""
 #
@@ -1217,6 +1219,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 75
 # File: module/Application/view/application/login/profile.phtml, line: 67
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
+# File: module/Application/view/application/content/registeragent.phtml, line: 29
 msgid "Last Name"
 msgstr ""
 #
@@ -1226,6 +1229,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 38
 # File: module/Application/view/application/air/passengers.phtml, line: 75
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
+# File: module/Application/view/application/content/registeragent.phtml, line: 30
 msgid "Please enter your Last Name"
 msgstr ""
 #
@@ -1236,6 +1240,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 76
 # File: module/Application/view/application/login/profile.phtml, line: 73
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/registeragent.phtml, line: 85
 msgid "Email"
 msgstr ""
 #
@@ -1245,6 +1250,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 39
 # File: module/Application/view/application/air/passengers.phtml, line: 76
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/registeragent.phtml, line: 86
 msgid "Please enter your Email"
 msgstr ""
 #
@@ -1318,6 +1324,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 45
 # File: module/Application/view/application/login/profile.phtml, line: 69
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 87
+# File: module/Application/view/application/content/registeragent.phtml, line: 49
 msgid "Address"
 msgstr ""
 #
@@ -1325,6 +1332,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 55
 # File: module/Application/view/application/air/passengers.phtml, line: 45
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 87
+# File: module/Application/view/application/content/registeragent.phtml, line: 50
 msgid "Please enter your Address"
 msgstr ""
 #
@@ -1981,6 +1989,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 69
 # File: module/Application/view/application/air/payment.phtml, line: 80
 # File: module/Application/view/application/login/profile.phtml, line: 70
+# File: module/Application/view/application/content/registeragent.phtml, line: 67
 # File: module/Application/view/application/booking/paynow.phtml, line: 107
 msgid "City"
 msgstr ""
@@ -3924,6 +3933,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 24
 # File: module/Application/view/application/login/signout.phtml, line: 21
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 89
+# File: module/Application/view/application/content/registeragent.phtml, line: 97
 msgid "Password"
 msgstr ""
 #
@@ -3961,6 +3971,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 100
 # File: module/Application/view/application/login/signout.phtml, line: 96
 # File: module/Application/view/application/trip-planner/select.phtml, line: 652
+# File: module/Application/view/application/content/registeragent.phtml, line: 220
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/layout/layout.phtml, line: 565
 msgid "Please wait..."
@@ -3983,6 +3994,7 @@ msgid "Edit your profile"
 msgstr ""
 #
 # File: module/Application/view/application/login/profile.phtml, line: 68
+# File: module/Application/view/application/content/registeragent.phtml, line: 55
 msgid "Country"
 msgstr ""
 #
@@ -3991,6 +4003,7 @@ msgid "Zip/Postal Code"
 msgstr ""
 #
 # File: module/Application/view/application/login/profile.phtml, line: 74
+# File: module/Application/view/application/content/registeragent.phtml, line: 79
 msgid "Phone number"
 msgstr ""
 #
@@ -4233,14 +4246,17 @@ msgid "Extensive selection of hotels, resorts, apartments and holiday homes with
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 56
+# File: module/Application/view/application/content/registeragent.phtml, line: 16
 msgid "Please retype the characters from the security box. This ensures that a person, not an automated program is submitting this form."
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 65
+# File: module/Application/view/application/content/registeragent.phtml, line: 11
 msgid "The email address you have entered is already registered."
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 65
+# File: module/Application/view/application/content/registeragent.phtml, line: 11
 msgid "Please contact customer service."
 msgstr ""
 #
@@ -4249,6 +4265,7 @@ msgid "Create Your Affiliate Account"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
+# File: module/Application/view/application/content/registeragent.phtml, line: 43
 # File: module/Application/view/layout/layout.phtml, line: 622
 msgid "Company"
 msgstr ""
@@ -4258,18 +4275,22 @@ msgid "Please enter Company"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
+# File: module/Application/view/application/content/registeragent.phtml, line: 56
 msgid "Choose your country"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 85
+# File: module/Application/view/application/content/registeragent.phtml, line: 62
 msgid "Choose your state/region/zone"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 86
+# File: module/Application/view/application/content/registeragent.phtml, line: 68
 msgid "Please enter your City"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 88
+# File: module/Application/view/application/content/registeragent.phtml, line: 74
 msgid "Please enter your Zip/Postal Code"
 msgstr ""
 #
@@ -4278,10 +4299,12 @@ msgid "Please enter your Password"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 90
+# File: module/Application/view/application/content/registeragent.phtml, line: 102
 msgid "Memo"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 94
+# File: module/Application/view/application/content/registeragent.phtml, line: 109
 msgid "Security"
 msgstr ""
 #
@@ -4290,11 +4313,80 @@ msgid "Type the code shown in the image"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 106
+# File: module/Application/view/application/content/registeragent.phtml, line: 123
 msgid "Submit"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 178
 msgid "Please input the image shown in the security code."
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 23
+msgid "Travel Agent? Register your travel agency today to receive commission for bookings made with us!"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 44
+msgid "Please enter Company Name"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 61
+msgid "State/Region/Zone"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 73
+msgid "Zip/Postal code"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 80
+msgid "Please enter your Phone number"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 91
+msgid "Fax"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 92
+msgid "Please enter your Fax"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 116
+msgid "Type The Code Shown"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 124
+msgid "Reset"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 149
+msgid "None"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 162
+msgid "Last Name is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 168
+msgid "First Name is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 174
+msgid "Address is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 180
+msgid "Country is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 186
+msgid "Phone is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 195
+msgid "Email is required"
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 204
+msgid "Password is required"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 25
