@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-03 17:59+0100\n"
+"POT-Creation-Date: 2023-08-03 21:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2204,6 +2204,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 6
 # File: module/Application/view/application/hotels/confirm.phtml, line: 3
 # File: module/Application/view/application/transfers/confirm.phtml, line: 3
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 7
+# File: module/Application/view/application/login/register.phtml, line: 7
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 10
 # File: module/Application/view/application/content/registeragent.phtml, line: 10
 # File: module/Application/view/application/content/registerproperty.phtml, line: 10
@@ -2965,6 +2967,7 @@ msgid "Days range"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 280
+# File: module/Application/view/application/content/destinations.phtml, line: 6
 # File: module/Application/view/layout/layout.phtml, line: 677
 msgid "Destinations"
 msgstr ""
@@ -4053,6 +4056,14 @@ msgstr ""
 msgid "Please wait..."
 msgstr ""
 #
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 6
+msgid "Forgot Password"
+msgstr ""
+#
+# File: module/Application/view/application/login/register.phtml, line: 6
+msgid "Create an Account"
+msgstr ""
+#
 # File: module/Application/view/application/login/profile.phtml, line: 7
 msgid "My Account"
 msgstr ""
@@ -4269,6 +4280,20 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 722
 msgid "Don't show again"
+msgstr ""
+#
+# File: module/Application/view/application/content/aboutus.phtml, line: 6
+msgid "About Us"
+msgstr ""
+#
+# File: module/Application/view/application/content/privacypolicy.phtml, line: 6
+# File: module/Application/view/layout/layout.phtml, line: 625
+msgid "Privacy Policy"
+msgstr ""
+#
+# File: module/Application/view/application/content/termsandconditions.phtml, line: 6
+# File: module/Application/view/layout/layout.phtml, line: 626
+msgid "Terms & Conditions"
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 9
@@ -4738,14 +4763,6 @@ msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 624
 msgid "About us"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 625
-msgid "Privacy Policy"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 626
-msgid "Terms & Conditions"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 631
