@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-04 15:24+0100\n"
+"POT-Creation-Date: 2023-08-05 07:15+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1640,7 +1640,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 102
 # File: module/Application/view/application/content/registerproperty.phtml, line: 119
 # File: module/Application/view/application/content/groups.phtml, line: 175
-# File: module/Application/view/application/content/pricematch.phtml, line: 227
+# File: module/Application/view/application/content/pricematch.phtml, line: 245
 # File: module/Application/view/application/content/support.phtml, line: 89
 msgid "First name is required! Please input first name."
 msgstr ""
@@ -1653,7 +1653,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 110
 # File: module/Application/view/application/content/registerproperty.phtml, line: 127
 # File: module/Application/view/application/content/groups.phtml, line: 183
-# File: module/Application/view/application/content/pricematch.phtml, line: 235
+# File: module/Application/view/application/content/pricematch.phtml, line: 253
 # File: module/Application/view/application/content/support.phtml, line: 97
 msgid "Last name is required! Please input last name."
 msgstr ""
@@ -1666,7 +1666,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 118
 # File: module/Application/view/application/content/registerproperty.phtml, line: 135
 # File: module/Application/view/application/content/groups.phtml, line: 191
-# File: module/Application/view/application/content/pricematch.phtml, line: 243
+# File: module/Application/view/application/content/pricematch.phtml, line: 261
 # File: module/Application/view/application/content/support.phtml, line: 105
 msgid "Email is required! Please input email."
 msgstr ""
@@ -1679,7 +1679,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 126
 # File: module/Application/view/application/content/registerproperty.phtml, line: 143
 # File: module/Application/view/application/content/groups.phtml, line: 199
-# File: module/Application/view/application/content/pricematch.phtml, line: 251
+# File: module/Application/view/application/content/pricematch.phtml, line: 269
 # File: module/Application/view/application/content/support.phtml, line: 113
 msgid "Phone number is required! Please input phone number."
 msgstr ""
@@ -1700,7 +1700,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 159
 # File: module/Application/view/application/content/groups.phtml, line: 207
 # File: module/Application/view/application/content/groups.phtml, line: 215
-# File: module/Application/view/application/content/pricematch.phtml, line: 259
+# File: module/Application/view/application/content/pricematch.phtml, line: 277
 msgid "Country is required! Please select country."
 msgstr ""
 #
@@ -4465,7 +4465,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 78
 # File: module/Application/view/application/content/registerproperty.phtml, line: 95
 # File: module/Application/view/application/content/groups.phtml, line: 151
-# File: module/Application/view/application/content/pricematch.phtml, line: 211
+# File: module/Application/view/application/content/pricematch.phtml, line: 213
 msgid "Submit"
 msgstr ""
 #
@@ -4771,6 +4771,18 @@ msgstr ""
 msgid "Date of search:"
 msgstr ""
 #
+# File: module/Application/view/application/content/pricematch.phtml, line: 205
+msgid "Screenshoot"
+msgstr ""
+#
+# File: module/Application/view/application/content/pricematch.phtml, line: 222
+msgid "Specialists"
+msgstr ""
+#
+# File: module/Application/view/application/content/pricematch.phtml, line: 227
+msgid "We are experienced professionals in the travel industry. Our specialists have access to unparalleled relationships with the world's top luxury hotels, airlines, tours and cruise lines, who offer upgrades and travel experiences that is only available when you work with one of us."
+msgstr ""
+#
 # File: module/Application/view/application/content/support.phtml, line: 9
 # File: module/Application/view/application/content/support.phtml, line: 49
 msgid "Message Customer Service"
@@ -4826,6 +4838,14 @@ msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 245
 msgid "Activity"
+msgstr ""
+#
+# File: module/Application/view/application/destinations/index.phtml, line: 320
+msgid "Top hotels in"
+msgstr ""
+#
+# File: module/Application/view/application/destinations/index.phtml, line: 337
+msgid "Top attractions in"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 111
