@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 15:09+0100\n"
+"POT-Creation-Date: 2023-08-07 19:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -636,7 +636,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 372
 # File: module/Application/view/application/air/payment.phtml, line: 361
 # File: module/Application/view/application/login/profile.phtml, line: 275
-# File: module/Application/view/application/booking/paynow.phtml, line: 597
+# File: module/Application/view/application/booking/paynow.phtml, line: 610
 msgid "PLEASE WAIT"
 msgstr ""
 #
@@ -715,7 +715,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 223
 # File: module/Application/view/application/air/passengers.phtml, line: 339
 # File: module/Application/view/application/trip-planner/select.phtml, line: 627
-# File: module/Application/view/application/booking/paynow.phtml, line: 398
+# File: module/Application/view/application/booking/paynow.phtml, line: 399
 msgid "CONTINUE"
 msgstr ""
 #
@@ -1619,7 +1619,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 170
 # File: module/Application/view/application/air/payment.phtml, line: 173
 # File: module/Application/view/application/login/profile.phtml, line: 87
-# File: module/Application/view/application/booking/paynow.phtml, line: 407
+# File: module/Application/view/application/booking/paynow.phtml, line: 420
 msgid "Incorrect information"
 msgstr ""
 #
@@ -2116,7 +2116,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 187
 # File: module/Application/view/application/air/payment.phtml, line: 181
 # File: module/Application/view/application/login/profile.phtml, line: 95
-# File: module/Application/view/application/booking/paynow.phtml, line: 417
+# File: module/Application/view/application/booking/paynow.phtml, line: 430
 msgid "Invalid card holder name. You did not enter a valid card holder. Please input credit card holder name."
 msgstr ""
 #
@@ -2124,7 +2124,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 188
 # File: module/Application/view/application/air/payment.phtml, line: 182
 # File: module/Application/view/application/login/profile.phtml, line: 96
-# File: module/Application/view/application/booking/paynow.phtml, line: 418
+# File: module/Application/view/application/booking/paynow.phtml, line: 431
 msgid "Invalid credit card number. The credit card number you provided is invalid."
 msgstr ""
 #
@@ -2132,7 +2132,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 189
 # File: module/Application/view/application/air/payment.phtml, line: 183
 # File: module/Application/view/application/login/profile.phtml, line: 97
-# File: module/Application/view/application/booking/paynow.phtml, line: 419
+# File: module/Application/view/application/booking/paynow.phtml, line: 432
 msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
 #
@@ -2140,7 +2140,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 190
 # File: module/Application/view/application/air/payment.phtml, line: 184
 # File: module/Application/view/application/login/profile.phtml, line: 98
-# File: module/Application/view/application/booking/paynow.phtml, line: 420
+# File: module/Application/view/application/booking/paynow.phtml, line: 433
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
 msgstr ""
 #
@@ -2148,70 +2148,70 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 191
 # File: module/Application/view/application/air/payment.phtml, line: 185
 # File: module/Application/view/application/login/profile.phtml, line: 99
-# File: module/Application/view/application/booking/paynow.phtml, line: 421
+# File: module/Application/view/application/booking/paynow.phtml, line: 434
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 285
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 295
 # File: module/Application/view/application/air/payment.phtml, line: 286
-# File: module/Application/view/application/booking/paynow.phtml, line: 522
+# File: module/Application/view/application/booking/paynow.phtml, line: 535
 msgid "Billing first name is required! Please input billing first name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 293
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 303
 # File: module/Application/view/application/air/payment.phtml, line: 294
-# File: module/Application/view/application/booking/paynow.phtml, line: 530
+# File: module/Application/view/application/booking/paynow.phtml, line: 543
 msgid "Billing last name is required! Please input billing last name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 301
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 311
 # File: module/Application/view/application/air/payment.phtml, line: 302
-# File: module/Application/view/application/booking/paynow.phtml, line: 538
+# File: module/Application/view/application/booking/paynow.phtml, line: 551
 msgid "Billing country is required! Please select billing country."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 309
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 319
 # File: module/Application/view/application/air/payment.phtml, line: 310
-# File: module/Application/view/application/booking/paynow.phtml, line: 546
+# File: module/Application/view/application/booking/paynow.phtml, line: 559
 msgid "Billing address is required! Please input billing address."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 317
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 327
 # File: module/Application/view/application/air/payment.phtml, line: 318
-# File: module/Application/view/application/booking/paynow.phtml, line: 554
+# File: module/Application/view/application/booking/paynow.phtml, line: 567
 msgid "Billing city is required! Please input billing city."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 325
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 335
 # File: module/Application/view/application/air/payment.phtml, line: 326
-# File: module/Application/view/application/booking/paynow.phtml, line: 562
+# File: module/Application/view/application/booking/paynow.phtml, line: 575
 msgid "Billing state is required! Please input billing state."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 333
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 343
 # File: module/Application/view/application/air/payment.phtml, line: 334
-# File: module/Application/view/application/booking/paynow.phtml, line: 570
+# File: module/Application/view/application/booking/paynow.phtml, line: 583
 msgid "Billing zip/postal code is required! Please input billing zip/postal code."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 341
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 351
 # File: module/Application/view/application/air/payment.phtml, line: 342
-# File: module/Application/view/application/booking/paynow.phtml, line: 578
+# File: module/Application/view/application/booking/paynow.phtml, line: 591
 msgid "Billing email is required! Please input billing email."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 349
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 359
 # File: module/Application/view/application/air/payment.phtml, line: 350
-# File: module/Application/view/application/booking/paynow.phtml, line: 586
+# File: module/Application/view/application/booking/paynow.phtml, line: 599
 msgid "Billing phone is required! Please input billing phone."
 msgstr ""
 #
@@ -4821,14 +4821,17 @@ msgid "Contact Support"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 25
+# File: module/Application/view/application/booking/paynow.phtml, line: 404
 msgid "Thank you for updating your credit card information."
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 27
+# File: module/Application/view/application/booking/paynow.phtml, line: 406
 msgid "Thank you for updating your payment information."
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 29
+# File: module/Application/view/application/booking/paynow.phtml, line: 408
 msgid "Your reservation is now being processed and you will receive an email confirmation shortly."
 msgstr ""
 #
