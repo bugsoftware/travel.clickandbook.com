@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-18 16:14+0100\n"
+"POT-Creation-Date: 2023-08-18 16:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,6 +80,20 @@ msgstr ""
 # File: module/Application/view/application/cruises/search.phtml, line: 81
 # File: module/Application/view/application/index/index.phtml, line: 502
 msgid "Oceania"
+msgstr ""
+#
+# File: module/Application/src/Controller/EscortedToursController.php, line: 621
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 107
+msgid "Single"
+msgstr ""
+#
+# File: module/Application/src/Controller/EscortedToursController.php, line: 624
+# File: module/Application/src/Controller/EscortedToursController.php, line: 630
+msgid "Double"
+msgstr ""
+#
+# File: module/Application/src/Controller/EscortedToursController.php, line: 627
+msgid "Triple"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 41
@@ -3322,10 +3336,6 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 94
 msgid "Please, select the type of room that you want for your tour."
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 107
-msgid "Single"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 108
