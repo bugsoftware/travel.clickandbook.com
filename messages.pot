@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-06 15:00+0100\n"
+"POT-Creation-Date: 2023-09-06 21:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1166,7 +1166,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 421
 # File: module/Application/view/application/air/summary.phtml, line: 602
 # File: module/Application/view/application/air/payment.phtml, line: 88
-# File: module/Application/view/application/air/seating.phtml, line: 461
+# File: module/Application/view/application/air/seating.phtml, line: 479
 # File: module/Application/view/application/booking/paynow.phtml, line: 138
 msgid "CONFIRM"
 msgstr ""
@@ -3113,7 +3113,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 628
 # File: module/Application/view/application/air/return.phtml, line: 420
 # File: module/Application/view/application/air/segment.phtml, line: 325
-# File: module/Application/view/application/air/seating.phtml, line: 402
+# File: module/Application/view/application/air/seating.phtml, line: 422
 # File: module/Application/view/application/trip-planner/select.phtml, line: 727
 # File: module/Application/view/application/booking/paynow.phtml, line: 663
 # File: module/Application/view/application/booking/paynow.phtml, line: 666
@@ -4083,7 +4083,7 @@ msgid "Insurance travel protection"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 433
-# File: module/Application/view/application/air/seating.phtml, line: 402
+# File: module/Application/view/application/air/seating.phtml, line: 422
 msgid "Select Seats"
 msgstr ""
 #
@@ -4107,7 +4107,7 @@ msgid "MM-DD-YYYY"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 9
-# File: module/Application/view/application/air/seating.phtml, line: 402
+# File: module/Application/view/application/air/seating.phtml, line: 422
 # File: module/Application/view/offers/lastminute/index.phtml, line: 346
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "to"
@@ -4169,11 +4169,35 @@ msgstr ""
 msgid "Free Seat"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 401
+# File: module/Application/view/application/air/seating.phtml, line: 386
+msgid "Seat Assignment"
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 421
 msgid "Select Seat"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 447
+# File: module/Application/view/application/air/seating.phtml, line: 425
+msgid "I'm sorry to inform you that we are unable to retrieve the seat maps from the airline and as a result we can't display the seat map for you to choose your seats. This is due to a technical issue on the airline's side that is beyond our control. We apologize for any inconvenience this may cause you."
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 427
+msgid "You can still proceed with your booking without selecting your seats, and the airline will assign them for you at check-in."
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 429
+msgid "Alternatively, you can try to contact the airline directly and request your preferred seats, subject to availability and fees."
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 431
+msgid "You can find the airline's contact information on their website or on your confirmation email."
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 433
+msgid "We appreciate your understanding and cooperation. Thank you for choosing us for your travel needs."
+msgstr ""
+#
+# File: module/Application/view/application/air/seating.phtml, line: 464
 msgid "Not available"
 msgstr ""
 #
@@ -5173,15 +5197,15 @@ msgid "Give the money to the agent and pay any applicable fees. You will receive
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 80
-msgid "Your MoneyGram Reciever Code is "
+msgid "Your MoneyGram Reciever Code is"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 83
-msgid "The Account Number of the Bill to Pay is "
+msgid "The Account Number of the Bill to Pay is"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 86
-msgid "MoneyGram agent locations near me "
+msgid "MoneyGram agent locations near me"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 242
