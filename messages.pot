@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-13 14:37+0100\n"
+"POT-Creation-Date: 2023-09-13 15:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,6 +229,9 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 119
 # File: module/Application/view/application/air/segment.phtml, line: 135
 # File: module/Application/view/application/air/seating.phtml, line: 98
+# File: module/Application/view/application/insurances/summary.phtml, line: 140
+# File: module/Application/view/application/insurances/passengers.phtml, line: 305
+# File: module/Application/view/application/insurances/payment.phtml, line: 74
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
 # File: module/Application/view/application/trip-planner/index.phtml, line: 35
 # File: module/Application/view/application/trip-planner/select.phtml, line: 528
@@ -261,6 +264,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 70
 # File: module/Application/view/application/air/segment.phtml, line: 137
 # File: module/Application/view/application/air/seating.phtml, line: 98
+# File: module/Application/view/application/insurances/summary.phtml, line: 141
+# File: module/Application/view/application/insurances/passengers.phtml, line: 306
+# File: module/Application/view/application/insurances/payment.phtml, line: 75
 # File: module/Application/view/application/trip-planner/index.phtml, line: 39
 # File: module/Application/view/application/trip-planner/select.phtml, line: 535
 msgid "Children"
@@ -605,6 +611,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 472
 # File: module/Application/view/application/insurances/index.phtml, line: 482
 # File: module/Application/view/application/insurances/search.phtml, line: 414
+# File: module/Application/view/application/insurances/summary.phtml, line: 23
 msgid "From"
 msgstr ""
 #
@@ -751,6 +758,11 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 11
 # File: module/Application/view/application/air/payment.phtml, line: 8
 # File: module/Application/view/application/air/confirm.phtml, line: 153
+# File: module/Application/view/application/insurances/summary.phtml, line: 6
+# File: module/Application/view/application/insurances/summary.phtml, line: 55
+# File: module/Application/view/application/insurances/summary.phtml, line: 62
+# File: module/Application/view/application/insurances/passengers.phtml, line: 6
+# File: module/Application/view/application/insurances/payment.phtml, line: 6
 msgid "Passengers"
 msgstr ""
 #
@@ -779,6 +791,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 33
 # File: module/Application/view/application/air/passengers.phtml, line: 70
 # File: module/Application/view/application/air/confirm.phtml, line: 153
+# File: module/Application/view/application/insurances/summary.phtml, line: 55
+# File: module/Application/view/application/insurances/summary.phtml, line: 62
 msgid "Passenger"
 msgstr ""
 #
@@ -1060,6 +1074,9 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 136
 # File: module/Application/view/application/air/payment.phtml, line: 143
 # File: module/Application/view/application/air/payment.phtml, line: 160
+# File: module/Application/view/application/insurances/summary.phtml, line: 144
+# File: module/Application/view/application/insurances/passengers.phtml, line: 310
+# File: module/Application/view/application/insurances/payment.phtml, line: 79
 # File: module/Application/view/application/booking/paynow.phtml, line: 374
 msgid "Total"
 msgstr ""
@@ -1118,6 +1135,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 10
 # File: module/Application/view/application/air/payment.phtml, line: 7
 # File: module/Application/view/application/air/seating.phtml, line: 5
+# File: module/Application/view/application/insurances/summary.phtml, line: 5
+# File: module/Application/view/application/insurances/passengers.phtml, line: 5
+# File: module/Application/view/application/insurances/payment.phtml, line: 5
 # File: module/Application/view/application/booking/paynow.phtml, line: 14
 msgid "Summary"
 msgstr ""
@@ -1134,6 +1154,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 12
 # File: module/Application/view/application/air/passengers.phtml, line: 187
 # File: module/Application/view/application/air/payment.phtml, line: 9
+# File: module/Application/view/application/insurances/summary.phtml, line: 7
+# File: module/Application/view/application/insurances/passengers.phtml, line: 7
+# File: module/Application/view/application/insurances/payment.phtml, line: 7
 # File: module/Application/view/application/booking/paynow.phtml, line: 15
 # File: module/Application/view/application/booking/paynow.phtml, line: 382
 msgid "Payment"
@@ -1164,6 +1187,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 62
 # File: module/Application/view/application/air/confirm.phtml, line: 151
 # File: module/Application/view/application/air/seating.phtml, line: 97
+# File: module/Application/view/application/insurances/summary.phtml, line: 62
 msgid "TRAVELERS"
 msgstr ""
 #
@@ -1193,6 +1217,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 146
 # File: module/Application/view/application/air/summary.phtml, line: 310
 # File: module/Application/view/application/air/confirm.phtml, line: 319
+# File: module/Application/view/application/insurances/summary.phtml, line: 119
 msgid "Total:"
 msgstr ""
 #
@@ -1207,6 +1232,8 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 602
 # File: module/Application/view/application/air/payment.phtml, line: 88
 # File: module/Application/view/application/air/seating.phtml, line: 479
+# File: module/Application/view/application/insurances/summary.phtml, line: 120
+# File: module/Application/view/application/insurances/summary.phtml, line: 147
 # File: module/Application/view/application/booking/paynow.phtml, line: 138
 msgid "CONFIRM"
 msgstr ""
@@ -1691,6 +1718,9 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 406
 # File: module/Application/view/application/air/passengers.phtml, line: 111
 # File: module/Application/view/application/insurances/search.phtml, line: 63
+# File: module/Application/view/application/insurances/summary.phtml, line: 127
+# File: module/Application/view/application/insurances/passengers.phtml, line: 292
+# File: module/Application/view/application/insurances/payment.phtml, line: 61
 # File: module/Application/view/application/booking/paynow.phtml, line: 350
 msgid "Insurance"
 msgstr ""
@@ -2806,6 +2836,9 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 187
 # File: module/Application/view/application/air/return.phtml, line: 508
 # File: module/Application/view/application/air/seating.phtml, line: 98
+# File: module/Application/view/application/insurances/summary.phtml, line: 141
+# File: module/Application/view/application/insurances/passengers.phtml, line: 306
+# File: module/Application/view/application/insurances/payment.phtml, line: 75
 msgid "Child"
 msgstr ""
 #
@@ -3013,6 +3046,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 473
 # File: module/Application/view/application/insurances/index.phtml, line: 483
 # File: module/Application/view/application/insurances/search.phtml, line: 415
+# File: module/Application/view/application/insurances/summary.phtml, line: 99
 msgid "To"
 msgstr ""
 #
@@ -3124,6 +3158,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 290
 # File: module/Application/view/application/air/payment.phtml, line: 117
 # File: module/Application/view/application/air/seating.phtml, line: 98
+# File: module/Application/view/application/insurances/summary.phtml, line: 140
+# File: module/Application/view/application/insurances/passengers.phtml, line: 305
+# File: module/Application/view/application/insurances/payment.phtml, line: 74
 msgid "Adult"
 msgstr ""
 #
@@ -3335,6 +3372,7 @@ msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 29
+# File: module/Application/view/application/insurances/summary.phtml, line: 61
 msgid "DURATION"
 msgstr ""
 #
@@ -3344,6 +3382,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 235
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 15
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 36
+# File: module/Application/view/application/insurances/summary.phtml, line: 61
 # File: module/Application/view/offers/airline/index.phtml, line: 239
 # File: module/Application/view/offers/hotels/index.phtml, line: 240
 msgid "days"
@@ -4468,6 +4507,40 @@ msgstr ""
 #
 # File: module/Application/view/application/insurances/search.phtml, line: 438
 msgid "WAIT..."
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 63
+msgid "AGES"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 66
+msgid "Origin:"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 67
+msgid "Destination:"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 134
+# File: module/Application/view/application/insurances/passengers.phtml, line: 299
+# File: module/Application/view/application/insurances/payment.phtml, line: 68
+msgid "From:"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 135
+# File: module/Application/view/application/insurances/passengers.phtml, line: 300
+# File: module/Application/view/application/insurances/payment.phtml, line: 69
+msgid "To:"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 142
+# File: module/Application/view/application/insurances/passengers.phtml, line: 308
+# File: module/Application/view/application/insurances/payment.phtml, line: 77
+msgid "Ages:"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary.phtml, line: 156
+msgid "PLEASE WAIT..."
 msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 15
