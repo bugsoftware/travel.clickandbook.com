@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-14 11:10+0100\n"
+"POT-Creation-Date: 2023-09-14 16:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -734,7 +734,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 377
 # File: module/Application/view/application/cruises/select.phtml, line: 698
-# File: module/Application/view/application/cruises/summary.phtml, line: 320
+# File: module/Application/view/application/cruises/summary.phtml, line: 356
 # File: module/Application/view/application/cruises/passengers.phtml, line: 547
 # File: module/Application/view/application/cruises/payment.phtml, line: 362
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 494
@@ -788,7 +788,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 41
 # File: module/Application/view/application/cruises/select.phtml, line: 724
-# File: module/Application/view/application/cruises/summary.phtml, line: 242
+# File: module/Application/view/application/cruises/summary.phtml, line: 243
 # File: module/Application/view/application/cruises/passengers.phtml, line: 237
 # File: module/Application/view/application/cruises/payment.phtml, line: 106
 # File: module/Application/view/application/cruises/confirm.phtml, line: 178
@@ -1053,7 +1053,7 @@ msgid "Departure"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 285
-# File: module/Application/view/application/cruises/summary.phtml, line: 304
+# File: module/Application/view/application/cruises/summary.phtml, line: 340
 # File: module/Application/view/application/cruises/passengers.phtml, line: 297
 # File: module/Application/view/application/cruises/payment.phtml, line: 166
 # File: module/Application/view/application/cruises/confirm.phtml, line: 230
@@ -1061,7 +1061,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 621
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 630
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 640
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 739
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 765
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 288
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 297
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 306
@@ -1233,9 +1233,9 @@ msgid "Total:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 211
-# File: module/Application/view/application/cruises/summary.phtml, line: 309
+# File: module/Application/view/application/cruises/summary.phtml, line: 345
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 570
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 744
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 770
 # File: module/Application/view/application/air/summary.phtml, line: 316
 # File: module/Application/view/application/air/summary.phtml, line: 318
 # File: module/Application/view/application/air/summary.phtml, line: 419
@@ -1258,14 +1258,14 @@ msgstr ""
 msgid "Return"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 271
+# File: module/Application/view/application/cruises/summary.phtml, line: 281
 # File: module/Application/view/application/cruises/passengers.phtml, line: 265
 # File: module/Application/view/application/cruises/payment.phtml, line: 135
 # File: module/Application/view/application/cruises/confirm.phtml, line: 206
 msgid "Payment Schedule"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 282
+# File: module/Application/view/application/cruises/summary.phtml, line: 292
 # File: module/Application/view/application/cruises/passengers.phtml, line: 275
 # File: module/Application/view/application/cruises/payment.phtml, line: 146
 # File: module/Application/view/application/cruises/confirm.phtml, line: 217
@@ -1275,18 +1275,32 @@ msgstr ""
 msgid "Commission"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 285
+# File: module/Application/view/application/cruises/summary.phtml, line: 295
 # File: module/Application/view/application/cruises/passengers.phtml, line: 278
 # File: module/Application/view/application/cruises/payment.phtml, line: 149
 # File: module/Application/view/application/cruises/confirm.phtml, line: 220
 msgid "Total Commission"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 290
+# File: module/Application/view/application/cruises/summary.phtml, line: 313
+msgid "Gross Commissionable Total"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 317
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 745
+msgid "CTM Commission"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 321
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 750
+msgid "Linea Fina"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 326
 # File: module/Application/view/application/cruises/passengers.phtml, line: 283
 # File: module/Application/view/application/cruises/payment.phtml, line: 154
 # File: module/Application/view/application/cruises/confirm.phtml, line: 225
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 732
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 755
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 336
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 160
 msgid "Agent Commission"
