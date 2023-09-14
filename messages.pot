@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-14 16:20+0100\n"
+"POT-Creation-Date: 2023-09-14 18:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1938,7 +1938,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 415
 # File: module/Application/view/application/air/passengers.phtml, line: 379
 # File: module/Application/view/application/insurances/passengers.phtml, line: 239
-# File: module/Application/view/application/login/register.phtml, line: 113
+# File: module/Application/view/application/login/register.phtml, line: 137
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 144
 # File: module/Application/view/application/content/registeragent.phtml, line: 118
 # File: module/Application/view/application/content/registerproperty.phtml, line: 135
@@ -1954,7 +1954,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 423
 # File: module/Application/view/application/air/passengers.phtml, line: 387
 # File: module/Application/view/application/insurances/passengers.phtml, line: 247
-# File: module/Application/view/application/login/register.phtml, line: 121
+# File: module/Application/view/application/login/register.phtml, line: 129
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 152
 # File: module/Application/view/application/content/registeragent.phtml, line: 126
 # File: module/Application/view/application/content/registerproperty.phtml, line: 143
@@ -1975,8 +1975,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 403
 # File: module/Application/view/application/insurances/passengers.phtml, line: 255
 # File: module/Application/view/application/insurances/passengers.phtml, line: 263
-# File: module/Application/view/application/login/register.phtml, line: 129
-# File: module/Application/view/application/login/register.phtml, line: 137
+# File: module/Application/view/application/login/register.phtml, line: 113
+# File: module/Application/view/application/login/register.phtml, line: 121
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 160
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 168
 # File: module/Application/view/application/content/registeragent.phtml, line: 134
@@ -4829,13 +4829,7 @@ msgid "Create an Account"
 msgstr ""
 #
 # File: module/Application/view/application/login/register.phtml, line: 14
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 17
-# File: module/Application/view/application/content/registeragent.phtml, line: 17
-# File: module/Application/view/application/content/registerproperty.phtml, line: 17
-# File: module/Application/view/application/content/groups.phtml, line: 17
-# File: module/Application/view/application/content/weddings.phtml, line: 17
-# File: module/Application/view/application/content/pricematch.phtml, line: 17
-msgid "Thank you for creating your account with us. Your account is currently under review by our support team."
+msgid "Thank you for creating your account with us."
 msgstr ""
 #
 # File: module/Application/view/application/login/register.phtml, line: 15
@@ -4877,7 +4871,8 @@ msgid "Please contact customer service."
 msgstr ""
 #
 # File: module/Application/view/application/login/register.phtml, line: 44
-msgid "% Save an average of 15% on thousands of hotels, air, activities, escorted tours and cruises."
+#, php-format
+msgid "Save an average of 15% on thousands of hotels, air, activities, transfers, car rentals, escorted tours and cruises!"
 msgstr ""
 #
 # File: module/Application/view/application/login/register.phtml, line: 50
@@ -5217,6 +5212,15 @@ msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 9
 msgid "Affiliate Partner Program"
+msgstr ""
+#
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 17
+# File: module/Application/view/application/content/registeragent.phtml, line: 17
+# File: module/Application/view/application/content/registerproperty.phtml, line: 17
+# File: module/Application/view/application/content/groups.phtml, line: 17
+# File: module/Application/view/application/content/weddings.phtml, line: 17
+# File: module/Application/view/application/content/pricematch.phtml, line: 17
+msgid "Thank you for creating your account with us. Your account is currently under review by our support team."
 msgstr ""
 #
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 27
