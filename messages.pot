@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-28 13:44+0100\n"
+"POT-Creation-Date: 2023-09-28 14:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 125
-# File: module/Application/src/Controller/JSONController.php, line: 159
+# File: module/Application/src/Controller/JSONController.php, line: 242
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/search.phtml, line: 80
 # File: module/Application/view/application/index/index.phtml, line: 27
@@ -29,7 +29,7 @@ msgid "Asia"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 128
-# File: module/Application/src/Controller/JSONController.php, line: 162
+# File: module/Application/src/Controller/JSONController.php, line: 245
 # File: module/Application/view/application/index/index.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 342
@@ -38,7 +38,7 @@ msgid "Africa"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 131
-# File: module/Application/src/Controller/JSONController.php, line: 165
+# File: module/Application/src/Controller/JSONController.php, line: 248
 # File: module/Application/view/application/cruises/index.phtml, line: 50
 # File: module/Application/view/application/cruises/search.phtml, line: 77
 # File: module/Application/view/application/index/index.phtml, line: 153
@@ -55,7 +55,7 @@ msgid "North America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 134
-# File: module/Application/src/Controller/JSONController.php, line: 168
+# File: module/Application/src/Controller/JSONController.php, line: 251
 # File: module/Application/view/application/index/index.phtml, line: 153
 # File: module/Application/view/application/index/index.phtml, line: 155
 # File: module/Application/view/application/index/index.phtml, line: 161
@@ -70,7 +70,7 @@ msgid "South America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 137
-# File: module/Application/src/Controller/JSONController.php, line: 171
+# File: module/Application/src/Controller/JSONController.php, line: 254
 # File: module/Application/view/application/cruises/index.phtml, line: 52
 # File: module/Application/view/application/cruises/search.phtml, line: 79
 # File: module/Application/view/application/index/index.phtml, line: 15
@@ -92,8 +92,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 140
 # File: module/Application/src/Controller/EscortedToursController.php, line: 143
-# File: module/Application/src/Controller/JSONController.php, line: 174
-# File: module/Application/src/Controller/JSONController.php, line: 177
+# File: module/Application/src/Controller/JSONController.php, line: 257
+# File: module/Application/src/Controller/JSONController.php, line: 260
 # File: module/Application/view/application/cruises/index.phtml, line: 54
 # File: module/Application/view/application/cruises/search.phtml, line: 81
 # File: module/Application/view/application/index/index.phtml, line: 555
@@ -150,6 +150,11 @@ msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 76
 msgid "destinations"
+msgstr ""
+#
+# File: module/Application/src/Controller/JSONController.php, line: 93
+# File: module/Application/view/application/trip-planner/select.phtml, line: 963
+msgid "Search for"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 41
@@ -2880,6 +2885,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 28
 # File: module/Application/view/application/insurances/search.phtml, line: 30
 # File: module/Application/view/application/insurances/search.phtml, line: 40
+# File: module/Application/view/application/trip-planner/select.phtml, line: 66
 msgid "Mexico"
 msgstr ""
 #
@@ -5304,7 +5310,7 @@ msgstr ""
 msgid "Below, you can find the details of the services that you have reserved in with us."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/select.phtml, line: 9
+# File: module/Application/view/application/trip-planner/select.phtml, line: 10
 # File: module/Application/view/application/trip-planner/select.phtml, line: 143
 # File: module/Application/view/layout/layout.phtml, line: 174
 # File: module/Application/view/layout/layout.phtml, line: 674
@@ -5331,10 +5337,6 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 65
 msgid "Playa del Carmen"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/select.phtml, line: 66
-msgid "Quintana Roo, Mexico"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 73
