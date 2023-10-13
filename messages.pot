@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-13 07:17+0100\n"
+"POT-Creation-Date: 2023-10-13 13:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -247,7 +247,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 33
 # File: module/Application/view/application/trip-planner/select.phtml, line: 535
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
-# File: module/Application/view/application/destinations/index.phtml, line: 164
+# File: module/Application/view/application/destinations/index.phtml, line: 190
 msgid "Travelers"
 msgstr ""
 #
@@ -294,8 +294,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 35
 # File: module/Application/view/application/trip-planner/select.phtml, line: 532
 # File: module/Application/view/application/trip-planner/select.phtml, line: 537
-# File: module/Application/view/application/destinations/index.phtml, line: 159
-# File: module/Application/view/application/destinations/index.phtml, line: 166
+# File: module/Application/view/application/destinations/index.phtml, line: 185
+# File: module/Application/view/application/destinations/index.phtml, line: 192
 msgid "Adults"
 msgstr ""
 #
@@ -338,7 +338,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
 # File: module/Application/view/application/trip-planner/index.phtml, line: 39
 # File: module/Application/view/application/trip-planner/select.phtml, line: 539
-# File: module/Application/view/application/destinations/index.phtml, line: 171
+# File: module/Application/view/application/destinations/index.phtml, line: 197
 msgid "Children"
 msgstr ""
 #
@@ -358,7 +358,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 288
 # File: module/Application/view/application/trip-planner/index.phtml, line: 52
 # File: module/Application/view/application/trip-planner/select.phtml, line: 549
-# File: module/Application/view/application/destinations/index.phtml, line: 180
+# File: module/Application/view/application/destinations/index.phtml, line: 206
+# File: module/Application/view/application/destinations/index.phtml, line: 267
 msgid "Done"
 msgstr ""
 #
@@ -444,7 +445,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 108
 # File: module/Application/view/application/insurances/index.phtml, line: 137
 # File: module/Application/view/application/trip-planner/index.phtml, line: 83
-# File: module/Application/view/application/destinations/index.phtml, line: 186
+# File: module/Application/view/application/destinations/index.phtml, line: 212
 msgid "Search"
 msgstr ""
 #
@@ -833,6 +834,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 309
 # File: module/Application/view/application/login/profile.phtml, line: 275
 # File: module/Application/view/application/booking/paynow.phtml, line: 633
+# File: module/Application/view/application/destinations/index.phtml, line: 728
 msgid "PLEASE WAIT"
 msgstr ""
 #
@@ -3052,6 +3054,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 153
 # File: module/Application/view/application/air/segment.phtml, line: 110
 # File: module/Application/view/application/air/airline.phtml, line: 95
+# File: module/Application/view/application/destinations/index.phtml, line: 165
 msgid "Leaving from"
 msgstr ""
 #
@@ -3077,6 +3080,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 159
 # File: module/Application/view/application/air/segment.phtml, line: 116
 # File: module/Application/view/application/air/airline.phtml, line: 104
+# File: module/Application/view/application/destinations/index.phtml, line: 171
 msgid "Going to"
 msgstr ""
 #
@@ -3236,7 +3240,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 817
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 134
-# File: module/Application/view/application/destinations/index.phtml, line: 47
+# File: module/Application/view/application/destinations/index.phtml, line: 72
 # File: translate-dummy.php, line: 12
 msgid "Cities"
 msgstr ""
@@ -5701,6 +5705,7 @@ msgid "Travel Insurances"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 155
+# File: module/Application/view/application/destinations/index.phtml, line: 228
 # File: module/Application/view/layout/layout.phtml, line: 188
 msgid "Things to do"
 msgstr ""
@@ -6412,154 +6417,154 @@ msgstr ""
 msgid "Activity"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 41
+# File: module/Application/view/application/destinations/index.phtml, line: 66
 # File: module/Application/view/offers/lastminute/index.phtml, line: 8092
 # File: translate-dummy.php, line: 10
 msgid "About"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 44
+# File: module/Application/view/application/destinations/index.phtml, line: 69
 # File: translate-dummy.php, line: 11
 msgid "Regions"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 50
+# File: module/Application/view/application/destinations/index.phtml, line: 75
 # File: translate-dummy.php, line: 13
 msgid "Other destinations"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 53
+# File: module/Application/view/application/destinations/index.phtml, line: 78
 # File: translate-dummy.php, line: 14
 msgid "Districts"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 56
+# File: module/Application/view/application/destinations/index.phtml, line: 81
 # File: translate-dummy.php, line: 15
 msgid "Understand"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 59
+# File: module/Application/view/application/destinations/index.phtml, line: 84
 # File: translate-dummy.php, line: 16
 msgid "Talk"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 62
+# File: module/Application/view/application/destinations/index.phtml, line: 87
 # File: translate-dummy.php, line: 17
 msgid "Get in"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 65
+# File: module/Application/view/application/destinations/index.phtml, line: 90
 # File: translate-dummy.php, line: 18
 msgid "Get around"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 68
+# File: module/Application/view/application/destinations/index.phtml, line: 93
 # File: translate-dummy.php, line: 19
 msgid "See"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 71
+# File: module/Application/view/application/destinations/index.phtml, line: 96
 # File: translate-dummy.php, line: 20
 msgid "Do"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 74
+# File: module/Application/view/application/destinations/index.phtml, line: 99
 # File: translate-dummy.php, line: 21
 msgid "Learn"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 77
+# File: module/Application/view/application/destinations/index.phtml, line: 102
 # File: translate-dummy.php, line: 22
 msgid "Work"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 80
+# File: module/Application/view/application/destinations/index.phtml, line: 105
 # File: translate-dummy.php, line: 23
 msgid "Buy"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 83
+# File: module/Application/view/application/destinations/index.phtml, line: 108
 # File: translate-dummy.php, line: 24
 msgid "Eat"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 86
+# File: module/Application/view/application/destinations/index.phtml, line: 111
 # File: translate-dummy.php, line: 25
 msgid "Drink"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 89
+# File: module/Application/view/application/destinations/index.phtml, line: 114
 # File: translate-dummy.php, line: 26
 msgid "Sleep"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 92
+# File: module/Application/view/application/destinations/index.phtml, line: 117
 # File: translate-dummy.php, line: 27
 msgid "Stay safe"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 95
+# File: module/Application/view/application/destinations/index.phtml, line: 120
 # File: translate-dummy.php, line: 28
 msgid "Stay healthy"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 98
+# File: module/Application/view/application/destinations/index.phtml, line: 123
 # File: translate-dummy.php, line: 29
 msgid "Respect"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 101
+# File: module/Application/view/application/destinations/index.phtml, line: 126
 # File: translate-dummy.php, line: 30
 msgid "Cope"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 104
+# File: module/Application/view/application/destinations/index.phtml, line: 129
 # File: translate-dummy.php, line: 31
 msgid "Get out"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 107
+# File: module/Application/view/application/destinations/index.phtml, line: 132
 # File: translate-dummy.php, line: 32
 msgid "Local cuisine"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 110
+# File: module/Application/view/application/destinations/index.phtml, line: 135
 # File: translate-dummy.php, line: 33
 msgid "Shopping"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 113
+# File: module/Application/view/application/destinations/index.phtml, line: 138
 # File: translate-dummy.php, line: 34
 msgid "City pass"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 116
+# File: module/Application/view/application/destinations/index.phtml, line: 141
 # File: translate-dummy.php, line: 36
 msgid "Other"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 119
+# File: module/Application/view/application/destinations/index.phtml, line: 144
 # File: translate-dummy.php, line: 37
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 137
+# File: module/Application/view/application/destinations/index.phtml, line: 163
 msgid "Find the best flight to"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 272
+# File: module/Application/view/application/destinations/index.phtml, line: 280
 msgid "Top hotels in"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 273
+# File: module/Application/view/application/destinations/index.phtml, line: 281
 msgid "Recommended hotels in"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 288
+# File: module/Application/view/application/destinations/index.phtml, line: 296
 msgid "Top attractions in"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 290
+# File: module/Application/view/application/destinations/index.phtml, line: 298
 msgid "Recommended experiences in"
 msgstr ""
 #
