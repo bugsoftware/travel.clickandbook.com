@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-12 17:54+0100\n"
+"POT-Creation-Date: 2023-10-13 07:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 147
 # File: module/Application/view/application/hotels/index.phtml, line: 45
 # File: module/Application/view/application/hotels/index.phtml, line: 51
-# File: module/Application/view/application/hotels/info.phtml, line: 282
+# File: module/Application/view/application/hotels/info.phtml, line: 274
 # File: module/Application/view/application/insurances/confirm.phtml, line: 43
 # File: module/Application/view/application/trip-planner/index.phtml, line: 25
 # File: module/Application/view/application/trip-planner/index.phtml, line: 33
@@ -285,7 +285,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 144
 # File: module/Application/view/application/air/airline.phtml, line: 149
 # File: module/Application/view/application/hotels/index.phtml, line: 53
-# File: module/Application/view/application/hotels/info.phtml, line: 284
+# File: module/Application/view/application/hotels/info.phtml, line: 276
 # File: module/Application/view/application/insurances/summary.phtml, line: 140
 # File: module/Application/view/application/insurances/passengers.phtml, line: 193
 # File: module/Application/view/application/insurances/payment.phtml, line: 104
@@ -330,7 +330,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating.phtml, line: 337
 # File: module/Application/view/application/air/airline.phtml, line: 153
 # File: module/Application/view/application/hotels/index.phtml, line: 58
-# File: module/Application/view/application/hotels/info.phtml, line: 286
+# File: module/Application/view/application/hotels/info.phtml, line: 278
 # File: module/Application/view/application/insurances/summary.phtml, line: 141
 # File: module/Application/view/application/insurances/passengers.phtml, line: 59
 # File: module/Application/view/application/insurances/passengers.phtml, line: 194
@@ -355,7 +355,7 @@ msgstr ""
 # File: module/Application/view/application/air/segment.phtml, line: 143
 # File: module/Application/view/application/air/airline.phtml, line: 161
 # File: module/Application/view/application/hotels/index.phtml, line: 79
-# File: module/Application/view/application/hotels/info.phtml, line: 296
+# File: module/Application/view/application/hotels/info.phtml, line: 288
 # File: module/Application/view/application/trip-planner/index.phtml, line: 52
 # File: module/Application/view/application/trip-planner/select.phtml, line: 549
 # File: module/Application/view/application/destinations/index.phtml, line: 180
@@ -671,7 +671,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 272
 # File: module/Application/view/application/air/airline.phtml, line: 325
 # File: module/Application/view/application/air/airline.phtml, line: 374
-# File: module/Application/view/application/hotels/info.phtml, line: 41
+# File: module/Application/view/application/hotels/info.phtml, line: 34
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
 # File: module/Application/view/offers/lastminute/index.phtml, line: 290
 # File: module/Application/view/offers/lastminute/index.phtml, line: 624
@@ -764,7 +764,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/offer.phtml, line: 139
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 45
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 184
-# File: module/Application/view/application/hotels/info.phtml, line: 44
+# File: module/Application/view/application/hotels/info.phtml, line: 37
 msgid "BOOK NOW"
 msgstr ""
 #
@@ -810,7 +810,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 115
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 121
-# File: module/Application/view/application/hotels/info.phtml, line: 267
+# File: module/Application/view/application/hotels/info.phtml, line: 259
 msgid "Price & Availability"
 msgstr ""
 #
@@ -826,6 +826,10 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 515
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 396
 # File: module/Application/view/application/air/payment.phtml, line: 419
+# File: module/Application/view/application/hotels/info.phtml, line: 518
+# File: module/Application/view/application/hotels/info.phtml, line: 528
+# File: module/Application/view/application/hotels/checkout.phtml, line: 160
+# File: module/Application/view/application/hotels/checkout.phtml, line: 170
 # File: module/Application/view/application/insurances/payment.phtml, line: 309
 # File: module/Application/view/application/login/profile.phtml, line: 275
 # File: module/Application/view/application/booking/paynow.phtml, line: 633
@@ -852,6 +856,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 11
 # File: module/Application/view/application/air/payment.phtml, line: 8
 # File: module/Application/view/application/air/confirm.phtml, line: 145
+# File: module/Application/view/application/hotels/checkout.phtml, line: 6
 # File: module/Application/view/application/insurances/summary.phtml, line: 6
 # File: module/Application/view/application/insurances/summary.phtml, line: 55
 # File: module/Application/view/application/insurances/summary.phtml, line: 62
@@ -1177,6 +1182,8 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 193
 # File: module/Application/view/application/air/payment.phtml, line: 200
 # File: module/Application/view/application/air/payment.phtml, line: 217
+# File: module/Application/view/application/hotels/info.phtml, line: 321
+# File: module/Application/view/application/hotels/checkout.phtml, line: 144
 # File: module/Application/view/application/insurances/summary.phtml, line: 144
 # File: module/Application/view/application/insurances/passengers.phtml, line: 198
 # File: module/Application/view/application/insurances/payment.phtml, line: 109
@@ -1238,6 +1245,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 10
 # File: module/Application/view/application/air/payment.phtml, line: 7
 # File: module/Application/view/application/air/seating.phtml, line: 146
+# File: module/Application/view/application/hotels/checkout.phtml, line: 5
 # File: module/Application/view/application/insurances/summary.phtml, line: 5
 # File: module/Application/view/application/insurances/passengers.phtml, line: 10
 # File: module/Application/view/application/insurances/payment.phtml, line: 7
@@ -1257,6 +1265,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 12
 # File: module/Application/view/application/air/passengers.phtml, line: 220
 # File: module/Application/view/application/air/payment.phtml, line: 9
+# File: module/Application/view/application/hotels/checkout.phtml, line: 7
 # File: module/Application/view/application/insurances/summary.phtml, line: 7
 # File: module/Application/view/application/insurances/passengers.phtml, line: 12
 # File: module/Application/view/application/insurances/passengers.phtml, line: 99
@@ -1321,6 +1330,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 146
 # File: module/Application/view/application/air/summary.phtml, line: 327
 # File: module/Application/view/application/air/confirm.phtml, line: 364
+# File: module/Application/view/application/hotels/checkout.phtml, line: 105
 # File: module/Application/view/application/insurances/summary.phtml, line: 119
 # File: module/Application/view/application/insurances/confirm.phtml, line: 67
 msgid "Total:"
@@ -1336,6 +1346,8 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 93
 # File: module/Application/view/application/air/seating.phtml, line: 137
 # File: module/Application/view/application/air/seating.phtml, line: 245
+# File: module/Application/view/application/hotels/checkout.phtml, line: 108
+# File: module/Application/view/application/hotels/checkout.phtml, line: 150
 # File: module/Application/view/application/insurances/summary.phtml, line: 120
 # File: module/Application/view/application/insurances/summary.phtml, line: 147
 # File: module/Application/view/application/insurances/payment.phtml, line: 87
@@ -2997,6 +3009,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 604
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 388
 # File: module/Application/view/application/hotels/index.phtml, line: 62
+# File: module/Application/view/application/hotels/info.phtml, line: 280
 # File: module/Application/view/application/trip-planner/index.phtml, line: 43
 # File: module/Application/view/application/trip-planner/select.phtml, line: 541
 msgid "Rooms"
@@ -3306,6 +3319,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 280
 # File: module/Application/view/application/air/search.phtml, line: 285
 # File: module/Application/view/application/air/return.phtml, line: 167
+# File: module/Application/view/application/hotels/info.phtml, line: 265
 # File: module/Application/view/application/insurances/index.phtml, line: 117
 # File: module/Application/view/application/insurances/search.phtml, line: 104
 # File: module/Application/view/application/trip-planner/index.phtml, line: 19
@@ -4595,7 +4609,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 100
 # File: module/Application/view/application/air/confirm.phtml, line: 179
-# File: module/Application/view/application/hotels/info.phtml, line: 103
+# File: module/Application/view/application/hotels/info.phtml, line: 96
 msgid "Flight Information"
 msgstr ""
 #
@@ -4821,7 +4835,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 272
 # File: module/Application/view/application/air/airline.phtml, line: 325
 # File: module/Application/view/application/air/airline.phtml, line: 374
-# File: module/Application/view/application/hotels/info.phtml, line: 62
+# File: module/Application/view/application/hotels/info.phtml, line: 55
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
 # File: module/Application/view/offers/lastminute/index.phtml, line: 346
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
@@ -5155,22 +5169,66 @@ msgstr ""
 msgid "Experience Thailand: Where Culture Meets Nature"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 55
+# File: module/Application/view/application/hotels/info.phtml, line: 48
 # File: module/Application/view/application/insurances/summary.phtml, line: 67
 # File: module/Application/view/application/insurances/confirm.phtml, line: 17
 msgid "Destination:"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 62
+# File: module/Application/view/application/hotels/info.phtml, line: 55
 msgid "Transport From"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 92
+# File: module/Application/view/application/hotels/info.phtml, line: 85
 msgid "Flight details"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 302
+# File: module/Application/view/application/hotels/info.phtml, line: 293
 msgid "Apply changes"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 296
+msgid "Select your room"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 317
+msgid "Non Refundable"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 318
+msgid "Cancel free of charge before"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 324
+msgid "RESERVE"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 333
+msgid "Disclaimer: The image shown is for illustrative purposes only and may not represent the actual hotel room. The room layout, furniture, amenities, and view may vary depending on the availability and location of the hotel."
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 336
+msgid "We are sorry to inform you that there are no rooms available for the selected dates at this hotel. This may be due to high demand, limited availability, or special events but don't worry, we have some other hotels that you might like. You can also modify your search parameters and try other dates or hotels that suit your needs and preferences."
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 433
+msgid "Similar Hotels"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 433
+msgid "You may also like"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 434
+msgid "Popular properties similar to"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/checkout.phtml, line: 122
+msgid "Room:"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/checkout.phtml, line: 151
+msgid "ADD TO CART"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/index.phtml, line: 111
