@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-31 13:49+0000\n"
+"POT-Creation-Date: 2023-10-31 15:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -269,6 +269,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 250
 # File: module/Application/view/application/destinations/index.phtml, line: 343
 # File: module/Application/view/application/destinations/index.phtml, line: 384
+# File: module/Application/view/application/agent/reservations.phtml, line: 56
 msgid "Travelers"
 msgstr ""
 #
@@ -1151,6 +1152,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
+# File: module/Application/view/application/agent/reservations.phtml, line: 77
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1629
 msgid "total"
 msgstr ""
@@ -5629,6 +5631,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 439
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
+# File: module/Application/view/application/agent/reservations.phtml, line: 56
 msgid "Traveler"
 msgstr ""
 #
@@ -5675,6 +5678,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 65
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
 # File: module/Application/view/application/destinations/index.phtml, line: 290
+# File: module/Application/view/application/agent/reservations.phtml, line: 77
 # File: module/Application/view/offers/lastminute/index.phtml, line: 346
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "to"
@@ -6611,6 +6615,7 @@ msgid "Update settings"
 msgstr ""
 #
 # File: module/Application/view/application/login/signout.phtml, line: 15
+# File: module/Application/view/application/agent/reservations.phtml, line: 119
 msgid "Logout"
 msgstr ""
 #
@@ -6624,7 +6629,7 @@ msgstr ""
 #
 # File: module/Application/view/application/login/reservations.phtml, line: 8
 # File: module/Application/view/application/login/reservations.phtml, line: 20
-# File: module/Application/view/application/agent/reservations.phtml, line: 12
+# File: module/Application/view/application/agent/reservations.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 275
 # File: module/Application/view/layout/layout.phtml, line: 280
 msgid "Reservations"
@@ -7593,8 +7598,48 @@ msgstr ""
 msgid "Please select your state/region"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 12
+# File: module/Application/view/application/agent/reservations.phtml, line: 11
 msgid "My"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 17
+# File: module/Application/view/layout/layout.phtml, line: 341
+# File: module/Application/view/layout/layout.phtml, line: 461
+msgid "All"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 18
+msgid "Pending"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 19
+msgid "Confirmed"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 21
+msgid "Order by Creation Date"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 22
+msgid "Order by Departure Date"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 77
+msgid "Showing"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 107
+msgid "Member since"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 110
+msgid "My Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 114
+# File: module/Application/view/layout/layout.phtml, line: 273
+# File: module/Application/view/layout/layout.phtml, line: 277
+msgid "Profile"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 162
@@ -7613,11 +7658,6 @@ msgstr ""
 msgid "checkout"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 273
-# File: module/Application/view/layout/layout.phtml, line: 277
-msgid "Profile"
-msgstr ""
-#
 # File: module/Application/view/layout/layout.phtml, line: 282
 msgid "Sign out"
 msgstr ""
@@ -7629,11 +7669,6 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 302
 # File: module/Application/view/layout/layout.phtml, line: 392
 msgid "Suggested"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 341
-# File: module/Application/view/layout/layout.phtml, line: 461
-msgid "All"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 388
