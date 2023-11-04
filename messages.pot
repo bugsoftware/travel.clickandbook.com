@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-03 17:10+0000\n"
+"POT-Creation-Date: 2023-11-04 07:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -266,6 +266,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 25
 # File: module/Application/view/application/trip-planner/index.phtml, line: 31
 # File: module/Application/view/application/trip-planner/select.phtml, line: 547
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 28
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
 # File: module/Application/view/application/destinations/index.phtml, line: 250
 # File: module/Application/view/application/destinations/index.phtml, line: 343
@@ -332,6 +333,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 33
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
 # File: module/Application/view/application/trip-planner/select.phtml, line: 549
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 30
 # File: module/Application/view/application/cart/summary.phtml, line: 345
 # File: module/Application/view/application/cart/summary.phtml, line: 563
 # File: module/Application/view/application/cart/index.phtml, line: 83
@@ -395,6 +397,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
 # File: module/Application/view/application/trip-planner/index.phtml, line: 37
 # File: module/Application/view/application/trip-planner/select.phtml, line: 551
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 35
 # File: module/Application/view/application/cart/summary.phtml, line: 345
 # File: module/Application/view/application/cart/summary.phtml, line: 563
 # File: module/Application/view/application/cart/index.phtml, line: 84
@@ -426,6 +429,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 276
 # File: module/Application/view/application/trip-planner/index.phtml, line: 50
 # File: module/Application/view/application/trip-planner/select.phtml, line: 559
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 44
 # File: module/Application/view/application/destinations/index.phtml, line: 265
 # File: module/Application/view/application/destinations/index.phtml, line: 358
 # File: module/Application/view/application/destinations/index.phtml, line: 399
@@ -821,7 +825,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/summary.phtml, line: 23
 # File: module/Application/view/application/insurances/passengers.phtml, line: 334
 # File: module/Application/view/application/trip-planner/select.phtml, line: 832
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 209
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/passengers.phtml, line: 433
 # File: module/Application/view/application/destinations/index.phtml, line: 851
 msgid "From"
@@ -1065,7 +1069,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 312
 # File: module/Application/view/application/insurances/passengers.phtml, line: 176
 # File: module/Application/view/application/trip-planner/select.phtml, line: 639
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 527
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 518
 # File: module/Application/view/application/cart/index.phtml, line: 142
 # File: module/Application/view/application/cart/passengers.phtml, line: 300
 # File: module/Application/view/application/booking/paynow.phtml, line: 422
@@ -1542,7 +1546,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 133
 # File: module/Application/view/application/insurances/summary.phtml, line: 119
 # File: module/Application/view/application/insurances/confirm.phtml, line: 67
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 524
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 515
 # File: module/Application/view/application/cart/summary.phtml, line: 473
 msgid "Total:"
 msgstr ""
@@ -5761,7 +5765,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 81
 # File: module/Application/view/application/hotels/info.phtml, line: 82
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 209
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/application/agent/reservations.phtml, line: 77
 # File: module/Application/view/layout/layout.phtml, line: 249
@@ -6976,7 +6980,7 @@ msgstr ""
 msgid "Transport"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 231
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 222
 msgid "SELECTED"
 msgstr ""
 #
