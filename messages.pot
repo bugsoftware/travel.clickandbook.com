@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-09 16:13+0000\n"
+"POT-Creation-Date: 2023-11-10 07:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -270,6 +270,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 31
 # File: module/Application/view/application/trip-planner/select.phtml, line: 547
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 28
+# File: module/Application/view/application/cart/confirm.phtml, line: 196
+# File: module/Application/view/application/cart/confirm.phtml, line: 213
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
 # File: module/Application/view/application/destinations/index.phtml, line: 250
 # File: module/Application/view/application/destinations/index.phtml, line: 343
@@ -348,6 +350,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 128
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 # File: module/Application/view/application/destinations/index.phtml, line: 252
 # File: module/Application/view/application/destinations/index.phtml, line: 340
 # File: module/Application/view/application/destinations/index.phtml, line: 345
@@ -419,6 +422,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 134
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 # File: module/Application/view/application/destinations/index.phtml, line: 257
 # File: module/Application/view/application/destinations/index.phtml, line: 350
 # File: module/Application/view/application/destinations/index.phtml, line: 391
@@ -793,6 +797,9 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 181
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 136
+# File: module/Application/view/application/cart/confirm.phtml, line: 144
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 msgid "Nights"
 msgstr ""
 #
@@ -1244,6 +1251,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 257
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
+# File: module/Application/view/application/cart/confirm.phtml, line: 159
 msgid "Room"
 msgstr ""
 #
@@ -1582,7 +1590,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm.phtml, line: 67
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 515
 # File: module/Application/view/application/cart/summary.phtml, line: 896
-# File: module/Application/view/application/cart/confirm.phtml, line: 832
+# File: module/Application/view/application/cart/confirm.phtml, line: 861
 msgid "Total:"
 msgstr ""
 #
@@ -3334,6 +3342,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 13
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 5
 # File: module/Application/view/application/hotels/confirm.phtml, line: 19
+# File: module/Application/view/application/cart/confirm.phtml, line: 113
 msgid "in"
 msgstr ""
 #
@@ -3354,6 +3363,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 293
 # File: module/Application/view/application/hotels/confirm.phtml, line: 99
 # File: module/Application/view/application/insurances/confirm.phtml, line: 48
+# File: module/Application/view/application/cart/confirm.phtml, line: 201
+# File: module/Application/view/application/cart/confirm.phtml, line: 218
 msgid "First Name:"
 msgstr ""
 #
@@ -3362,6 +3373,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 294
 # File: module/Application/view/application/hotels/confirm.phtml, line: 103
 # File: module/Application/view/application/insurances/confirm.phtml, line: 52
+# File: module/Application/view/application/cart/confirm.phtml, line: 205
+# File: module/Application/view/application/cart/confirm.phtml, line: 222
 msgid "Last Name:"
 msgstr ""
 #
@@ -3874,6 +3887,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 132
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 # File: module/Application/view/application/destinations/index.phtml, line: 873
 msgid "Child"
 msgstr ""
@@ -4403,6 +4417,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 126
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 # File: module/Application/view/application/destinations/index.phtml, line: 247
 msgid "Adult"
 msgstr ""
@@ -4879,6 +4894,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 267
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 89
 # File: module/Application/view/application/hotels/confirm.phtml, line: 71
+# File: module/Application/view/application/cart/confirm.phtml, line: 160
 msgid "avg./night"
 msgstr ""
 #
@@ -4917,6 +4933,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/confirm.phtml, line: 87
 # File: module/Application/view/application/insurances/confirm.phtml, line: 35
 # File: module/Application/view/application/cart/confirm.phtml, line: 56
+# File: module/Application/view/application/cart/confirm.phtml, line: 184
 msgid "Subtotal"
 msgstr ""
 #
@@ -6568,6 +6585,9 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 325
 # File: module/Application/view/application/cart/payment.phtml, line: 181
 # File: module/Application/view/application/cart/payment.phtml, line: 185
+# File: module/Application/view/application/cart/confirm.phtml, line: 136
+# File: module/Application/view/application/cart/confirm.phtml, line: 144
+# File: module/Application/view/application/cart/confirm.phtml, line: 163
 msgid "Night"
 msgstr ""
 #
@@ -6588,11 +6608,13 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1000
 # File: module/Application/view/application/cart/passengers.phtml, line: 329
 # File: module/Application/view/application/cart/payment.phtml, line: 189
+# File: module/Application/view/application/cart/confirm.phtml, line: 168
 msgid "Taxes & Fees"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/confirm.phtml, line: 19
 # File: module/Application/view/application/cart/index.phtml, line: 77
+# File: module/Application/view/application/cart/confirm.phtml, line: 113
 # File: module/Application/view/application/content/groups.phtml, line: 65
 # File: module/Application/view/application/content/weddings.phtml, line: 66
 # File: module/Application/view/application/content/pricematch.phtml, line: 149
@@ -6602,6 +6624,7 @@ msgid "Hotel"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/confirm.phtml, line: 92
+# File: module/Application/view/application/cart/confirm.phtml, line: 191
 msgid "Guest Information"
 msgstr ""
 #
@@ -7298,6 +7321,10 @@ msgstr ""
 #
 # File: module/Application/view/application/cart/confirm.phtml, line: 47
 msgid "Adults:"
+msgstr ""
+#
+# File: module/Application/view/application/cart/confirm.phtml, line: 173
+msgid "Total due today"
 msgstr ""
 #
 # File: module/Application/view/application/content/aboutus.phtml, line: 6
