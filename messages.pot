@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-15 22:10+0000\n"
+"POT-Creation-Date: 2023-11-16 07:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1094,7 +1094,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 209
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 223
 # File: module/Application/view/application/air/passengers.phtml, line: 425
-# File: module/Application/view/application/air/ticketing.phtml, line: 285
+# File: module/Application/view/application/air/ticketing.phtml, line: 292
 # File: module/Application/view/application/hotels/passengers.phtml, line: 312
 # File: module/Application/view/application/insurances/passengers.phtml, line: 176
 # File: module/Application/view/application/trip-planner/select.phtml, line: 639
@@ -6283,6 +6283,7 @@ msgid "fares"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 11
+# File: module/Application/view/application/air/ticketing.phtml, line: 385
 msgid "Issue Tickets"
 msgstr ""
 #
@@ -6326,47 +6327,69 @@ msgstr ""
 msgid "Deduct the Ticket Cost from Account Balance to Issue the Ticket"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 293
+# File: module/Application/view/application/air/ticketing.phtml, line: 284
+msgid "Issue Ticket using Cash as Form of Payment"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 300
+msgid "Travel Agent"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 303
 msgid "Credit Limit"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 294
+# File: module/Application/view/application/air/ticketing.phtml, line: 304
 msgid "Total Due:"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 310
+# File: module/Application/view/application/air/ticketing.phtml, line: 321
 # File: module/Application/view/application/agent/reservations.phtml, line: 108
 msgid "Member since"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 313
+# File: module/Application/view/application/air/ticketing.phtml, line: 324
 # File: module/Application/view/application/agent/reservations.phtml, line: 111
 msgid "My Reservations"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 314
+# File: module/Application/view/application/air/ticketing.phtml, line: 325
 # File: module/Application/view/application/agent/reservations.phtml, line: 115
 # File: module/Application/view/layout/layout.phtml, line: 290
 # File: module/Application/view/layout/layout.phtml, line: 294
 msgid "Profile"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 316
+# File: module/Application/view/application/air/ticketing.phtml, line: 327
 # File: module/Application/view/application/login/signout.phtml, line: 15
 # File: module/Application/view/application/agent/reservations.phtml, line: 120
 msgid "Logout"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 323
+# File: module/Application/view/application/air/ticketing.phtml, line: 334
 msgid "Notes"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 324
+# File: module/Application/view/application/air/ticketing.phtml, line: 335
 msgid "We are unable to access your account information and balance at this time. However, you can still issue your airline tickets using your credit card."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 330
+# File: module/Application/view/application/air/ticketing.phtml, line: 342
 msgid "Accounting Information"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 388
+msgid "Are you sure you want to issue tickets for this reservation using cash as a form of payment?"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 390
+# File: module/Application/view/application/hotels/info.phtml, line: 54
+msgid "No"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 391
+# File: module/Application/view/application/hotels/info.phtml, line: 54
+msgid "Yes"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/index.phtml, line: 47
@@ -6511,14 +6534,6 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/info.phtml, line: 54
 msgid "Pets"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/info.phtml, line: 54
-msgid "Yes"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/info.phtml, line: 54
-msgid "No"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/info.phtml, line: 74
