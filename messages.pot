@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-17 17:39+0000\n"
+"POT-Creation-Date: 2024-01-17 20:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -609,7 +609,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 46
 # File: module/Application/view/application/hotels/list.phtml, line: 9
 # File: module/Application/view/application/hotels/brands.phtml, line: 6
-# File: module/Application/view/application/cars/search.phtml, line: 9
+# File: module/Application/view/application/cars/search.phtml, line: 14
 # File: module/Application/view/application/insurances/search.phtml, line: 62
 msgid "Home"
 msgstr ""
@@ -633,7 +633,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 48
 # File: module/Application/view/application/hotels/list.phtml, line: 11
 # File: module/Application/view/application/hotels/brands.phtml, line: 8
-# File: module/Application/view/application/cars/search.phtml, line: 11
+# File: module/Application/view/application/cars/search.phtml, line: 16
 # File: module/Application/view/application/insurances/search.phtml, line: 64
 msgid "Search results:"
 msgstr ""
@@ -781,6 +781,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 27
 # File: module/Application/view/application/hotels/brands.phtml, line: 239
 # File: module/Application/view/application/hotels/brands.phtml, line: 240
+# File: module/Application/view/application/cars/search.phtml, line: 171
+# File: module/Application/view/application/cars/summary.phtml, line: 15
 # File: module/Application/view/application/insurances/search.phtml, line: 159
 # File: module/Application/view/application/insurances/search.phtml, line: 160
 # File: module/Application/view/application/insurances/payment.phtml, line: 17
@@ -1078,7 +1080,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 9
 # File: module/Application/view/application/hotels/payment.phtml, line: 8
 # File: module/Application/view/application/hotels/summary.phtml, line: 7
-# File: module/Application/view/application/cars/search.phtml, line: 122
+# File: module/Application/view/application/cars/search.phtml, line: 125
+# File: module/Application/view/application/cars/summary.phtml, line: 6
 # File: module/Application/view/application/insurances/summary.phtml, line: 6
 # File: module/Application/view/application/insurances/summary.phtml, line: 55
 # File: module/Application/view/application/insurances/summary.phtml, line: 62
@@ -1457,7 +1460,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 283
 # File: module/Application/view/application/hotels/summary.phtml, line: 290
 # File: module/Application/view/application/hotels/summary.phtml, line: 303
-# File: module/Application/view/application/cars/search.phtml, line: 134
+# File: module/Application/view/application/cars/search.phtml, line: 137
 # File: module/Application/view/application/insurances/summary.phtml, line: 144
 # File: module/Application/view/application/insurances/passengers.phtml, line: 198
 # File: module/Application/view/application/insurances/payment.phtml, line: 109
@@ -1545,6 +1548,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 8
 # File: module/Application/view/application/hotels/payment.phtml, line: 7
 # File: module/Application/view/application/hotels/summary.phtml, line: 6
+# File: module/Application/view/application/cars/summary.phtml, line: 5
 # File: module/Application/view/application/insurances/summary.phtml, line: 5
 # File: module/Application/view/application/insurances/passengers.phtml, line: 10
 # File: module/Application/view/application/insurances/payment.phtml, line: 7
@@ -1572,6 +1576,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 151
 # File: module/Application/view/application/hotels/payment.phtml, line: 9
 # File: module/Application/view/application/hotels/summary.phtml, line: 8
+# File: module/Application/view/application/cars/summary.phtml, line: 7
 # File: module/Application/view/application/insurances/summary.phtml, line: 7
 # File: module/Application/view/application/insurances/passengers.phtml, line: 12
 # File: module/Application/view/application/insurances/passengers.phtml, line: 99
@@ -3816,7 +3821,7 @@ msgid "Activities"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 267
-# File: module/Application/view/application/cars/search.phtml, line: 10
+# File: module/Application/view/application/cars/search.phtml, line: 15
 # File: module/Application/view/application/trip-planner/select.phtml, line: 155
 # File: module/Application/view/layout/layout.phtml, line: 253
 msgid "Cars"
@@ -5066,7 +5071,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 451
 # File: module/Application/view/application/air/return.phtml, line: 253
 # File: module/Application/view/application/air/segment.phtml, line: 164
-# File: module/Application/view/application/cars/search.phtml, line: 167
 # File: module/Application/view/application/insurances/search.phtml, line: 161
 msgid "We're sorry, but no results match the criteria you selected. Please broaden your selections and search again."
 msgstr ""
@@ -5085,7 +5089,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 452
 # File: module/Application/view/application/air/return.phtml, line: 254
 # File: module/Application/view/application/air/segment.phtml, line: 165
-# File: module/Application/view/application/cars/search.phtml, line: 167
 # File: module/Application/view/application/insurances/search.phtml, line: 162
 msgid "Modify your search, remove your filters or try different dates."
 msgstr ""
@@ -5860,7 +5863,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 256
 # File: module/Application/view/application/air/confirm.phtml, line: 262
 # File: module/Application/view/application/air/segment.phtml, line: 346
-# File: module/Application/view/application/cars/search.phtml, line: 125
+# File: module/Application/view/application/cars/search.phtml, line: 128
 # File: module/Application/view/application/cart/summary.phtml, line: 222
 # File: module/Application/view/application/cart/summary.phtml, line: 230
 # File: module/Application/view/application/cart/summary.phtml, line: 238
@@ -6011,6 +6014,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1267
 # File: module/Application/view/application/air/return.phtml, line: 948
+# File: module/Application/view/application/cars/search.phtml, line: 189
 # File: module/Application/view/application/insurances/summary.phtml, line: 156
 # File: module/Application/view/application/cart/index.phtml, line: 176
 # File: module/Application/view/application/cart/index.phtml, line: 181
@@ -6049,6 +6053,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 19
 # File: module/Application/view/application/hotels/confirm.phtml, line: 12
 # File: module/Application/view/application/hotels/summary.phtml, line: 29
+# File: module/Application/view/application/cars/summary.phtml, line: 17
 # File: module/Application/view/application/insurances/payment.phtml, line: 19
 # File: module/Application/view/application/login/profile.phtml, line: 25
 # File: module/Application/view/application/cart/summary.phtml, line: 18
@@ -7477,48 +7482,66 @@ msgstr ""
 msgid "Hotel Search"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 11
+# File: module/Application/view/application/cars/search.phtml, line: 16
 msgid "Cars in"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 109
+# File: module/Application/view/application/cars/search.phtml, line: 36
+msgid "New Car Search"
+msgstr ""
+#
+# File: module/Application/view/application/cars/search.phtml, line: 112
 msgid "or similar"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 113
+# File: module/Application/view/application/cars/search.phtml, line: 116
 msgid "Pick up location:"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 116
+# File: module/Application/view/application/cars/search.phtml, line: 119
 msgid "Taxes & Fees payable at pick up:"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 124
+# File: module/Application/view/application/cars/search.phtml, line: 127
 msgid "Doors"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 126
+# File: module/Application/view/application/cars/search.phtml, line: 129
 msgid "Air Conditioning"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 127
+# File: module/Application/view/application/cars/search.phtml, line: 130
 msgid "More info"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 134
+# File: module/Application/view/application/cars/search.phtml, line: 137
 msgid "Daily"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 138
+# File: module/Application/view/application/cars/search.phtml, line: 140
 msgid "BOOK"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 149
+# File: module/Application/view/application/cars/search.phtml, line: 150
+# File: module/Application/view/application/cars/search.phtml, line: 160
 msgid "payable at the rental location"
 msgstr ""
 #
-# File: module/Application/view/application/cars/search.phtml, line: 167
-msgid "No cars shown, try clearing some filters to see more availability."
+# File: module/Application/view/application/cars/search.phtml, line: 171
+# File: module/Application/view/application/cars/search.phtml, line: 172
+msgid "No cars available"
+msgstr ""
+#
+# File: module/Application/view/application/cars/search.phtml, line: 173
+msgid "We're sorry, but we couldn't find any cars that match your search criteria. This may be because you have selected a very popular destination or date range, or because the car type or features you want are not available."
+msgstr ""
+#
+# File: module/Application/view/application/cars/search.phtml, line: 174
+msgid "However, we do not want you to miss the opportunity to book your ideal car rental with us. Therefore, we suggest that you widen your search by changing some of the parameters, such as your pick-up or drop-off location to a nearby city or airport. Adjust your travel dates by selecting a different start or end date, or a longer or shorter rental period. You can also use the filters on the left side of the page to refine your search and find more options that suit your needs."
+msgstr ""
+#
+# File: module/Application/view/application/cars/search.phtml, line: 175
+msgid "We hope that you will find a car rental offer that meets your expectations. Thank you for choosing us for your travel needs."
 msgstr ""
 #
 # File: module/Application/view/application/insurances/index.phtml, line: 111
