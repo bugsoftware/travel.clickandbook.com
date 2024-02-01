@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 07:24+0000\n"
+"POT-Creation-Date: 2024-02-01 17:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -265,7 +265,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 157
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 163
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 224
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 126
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 144
 # File: module/Application/view/application/air/index.phtml, line: 135
 # File: module/Application/view/application/air/index.phtml, line: 141
 # File: module/Application/view/application/air/search.phtml, line: 309
@@ -991,6 +991,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 233
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 257
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 262
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 128
 # File: module/Application/view/application/hotels/summary.phtml, line: 59
 # File: module/Application/view/application/hotels/summary.phtml, line: 64
 # File: module/Application/view/application/cars/summary.phtml, line: 49
@@ -1041,7 +1042,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 591
 # File: module/Application/view/application/cruises/payment.phtml, line: 383
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 573
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 472
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 473
 # File: module/Application/view/application/air/summary.phtml, line: 677
 # File: module/Application/view/application/air/summary.phtml, line: 683
 # File: module/Application/view/application/air/summary.phtml, line: 696
@@ -1081,7 +1082,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 274
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 348
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 8
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 106
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 107
 # File: module/Application/view/application/air/summary.phtml, line: 6
 # File: module/Application/view/application/air/summary.phtml, line: 66
 # File: module/Application/view/application/air/passengers.phtml, line: 9
@@ -1160,7 +1161,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 347
 # File: module/Application/view/application/cruises/payment.phtml, line: 77
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 407
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 93
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 94
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 82
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 176
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 209
@@ -1428,11 +1429,11 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 312
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 340
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 384
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 132
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 141
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 150
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 178
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 198
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 133
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 142
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 151
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 179
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 199
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 261
 # File: module/Application/view/application/air/summary.phtml, line: 372
 # File: module/Application/view/application/air/summary.phtml, line: 384
@@ -1684,7 +1685,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 208
 # File: module/Application/view/application/cruises/confirm.phtml, line: 273
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 558
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 201
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 217
 # File: module/Application/view/application/air/summary.phtml, line: 299
 # File: module/Application/view/application/air/confirm.phtml, line: 374
 # File: module/Application/view/application/hotels/confirm.phtml, line: 86
@@ -1751,7 +1752,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 172
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 736
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 355
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 187
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 188
 msgid "Commission"
 msgstr ""
 #
@@ -1784,7 +1785,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 768
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 374
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 379
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 192
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 193
 msgid "Agent Commission"
 msgstr ""
 #
@@ -2413,8 +2414,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 52
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 88
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 89
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 57
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 58
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 59
 # File: module/Application/view/application/air/passengers.phtml, line: 64
 # File: module/Application/view/application/air/passengers.phtml, line: 121
 # File: module/Application/view/application/air/passengers.phtml, line: 122
@@ -2585,7 +2586,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 354
 # File: module/Application/view/application/cruises/payment.phtml, line: 195
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 414
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 229
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 230
 # File: module/Application/view/application/air/payment.phtml, line: 270
 # File: module/Application/view/application/air/ticketing.phtml, line: 788
 # File: module/Application/view/application/hotels/payment.phtml, line: 223
@@ -3206,7 +3207,7 @@ msgid "Saturday"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 40
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 46
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 47
 # File: module/Application/view/application/air/payment.phtml, line: 61
 # File: module/Application/view/application/air/ticketing.phtml, line: 42
 # File: module/Application/view/application/hotels/payment.phtml, line: 69
@@ -3219,7 +3220,7 @@ msgid "NAME ON CARD"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 47
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 53
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 54
 # File: module/Application/view/application/air/payment.phtml, line: 68
 # File: module/Application/view/application/air/ticketing.phtml, line: 49
 # File: module/Application/view/application/hotels/payment.phtml, line: 76
@@ -3232,7 +3233,7 @@ msgid "Name on card"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 48
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 54
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 55
 # File: module/Application/view/application/air/payment.phtml, line: 69
 # File: module/Application/view/application/air/ticketing.phtml, line: 50
 # File: module/Application/view/application/hotels/payment.phtml, line: 77
@@ -3245,7 +3246,7 @@ msgid "Card Number"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 55
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 61
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 62
 # File: module/Application/view/application/air/payment.phtml, line: 76
 # File: module/Application/view/application/air/ticketing.phtml, line: 57
 # File: module/Application/view/application/hotels/payment.phtml, line: 84
@@ -3258,7 +3259,7 @@ msgid "Security code"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 62
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 78
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 79
 # File: module/Application/view/application/air/payment.phtml, line: 93
 # File: module/Application/view/application/air/ticketing.phtml, line: 63
 # File: module/Application/view/application/hotels/payment.phtml, line: 91
@@ -3270,7 +3271,7 @@ msgid "Billing information"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 65
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 81
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 82
 # File: module/Application/view/application/air/payment.phtml, line: 96
 # File: module/Application/view/application/air/ticketing.phtml, line: 66
 # File: module/Application/view/application/hotels/payment.phtml, line: 94
@@ -3282,7 +3283,7 @@ msgid "Billing First Name"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 66
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 82
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 83
 # File: module/Application/view/application/air/payment.phtml, line: 97
 # File: module/Application/view/application/air/ticketing.phtml, line: 67
 # File: module/Application/view/application/hotels/payment.phtml, line: 95
@@ -3294,7 +3295,7 @@ msgid "Billing Last Name"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 67
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 83
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 84
 # File: module/Application/view/application/air/payment.phtml, line: 98
 # File: module/Application/view/application/air/ticketing.phtml, line: 68
 # File: module/Application/view/application/hotels/payment.phtml, line: 96
@@ -3306,7 +3307,7 @@ msgid "Billing Country"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 67
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 83
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 84
 # File: module/Application/view/application/air/payment.phtml, line: 98
 # File: module/Application/view/application/air/ticketing.phtml, line: 68
 # File: module/Application/view/application/hotels/payment.phtml, line: 96
@@ -3318,7 +3319,7 @@ msgid "Select billing country"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 68
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 84
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 85
 # File: module/Application/view/application/air/payment.phtml, line: 99
 # File: module/Application/view/application/air/ticketing.phtml, line: 69
 # File: module/Application/view/application/hotels/payment.phtml, line: 97
@@ -3330,7 +3331,7 @@ msgid "Billing Address"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 69
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 85
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 86
 # File: module/Application/view/application/air/payment.phtml, line: 100
 # File: module/Application/view/application/air/ticketing.phtml, line: 70
 # File: module/Application/view/application/hotels/payment.phtml, line: 98
@@ -3345,7 +3346,7 @@ msgid "City"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 70
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 86
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 87
 # File: module/Application/view/application/air/payment.phtml, line: 101
 # File: module/Application/view/application/air/ticketing.phtml, line: 71
 # File: module/Application/view/application/hotels/payment.phtml, line: 99
@@ -3360,7 +3361,7 @@ msgid "State"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 71
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 87
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 88
 # File: module/Application/view/application/air/payment.phtml, line: 102
 # File: module/Application/view/application/air/ticketing.phtml, line: 72
 # File: module/Application/view/application/hotels/payment.phtml, line: 100
@@ -3372,7 +3373,7 @@ msgid "ZIP Code/Postal Code"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 72
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 88
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 89
 # File: module/Application/view/application/air/payment.phtml, line: 103
 # File: module/Application/view/application/air/ticketing.phtml, line: 73
 # File: module/Application/view/application/hotels/payment.phtml, line: 101
@@ -3384,7 +3385,7 @@ msgid "Billing Email"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 73
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 89
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 90
 # File: module/Application/view/application/air/payment.phtml, line: 104
 # File: module/Application/view/application/air/ticketing.phtml, line: 74
 # File: module/Application/view/application/hotels/payment.phtml, line: 102
@@ -3396,7 +3397,7 @@ msgid "Billing Phone"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 203
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 286
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 287
 # File: module/Application/view/application/air/payment.phtml, line: 319
 # File: module/Application/view/application/air/ticketing.phtml, line: 554
 # File: module/Application/view/application/hotels/payment.phtml, line: 231
@@ -3410,7 +3411,7 @@ msgid "Invalid card holder name. You did not enter a valid card holder. Please i
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 204
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 287
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 288
 # File: module/Application/view/application/air/payment.phtml, line: 320
 # File: module/Application/view/application/air/ticketing.phtml, line: 555
 # File: module/Application/view/application/hotels/payment.phtml, line: 232
@@ -3424,7 +3425,7 @@ msgid "Invalid credit card number. The credit card number you provided is invali
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 205
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 288
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 289
 # File: module/Application/view/application/air/payment.phtml, line: 321
 # File: module/Application/view/application/air/ticketing.phtml, line: 556
 # File: module/Application/view/application/hotels/payment.phtml, line: 233
@@ -3438,7 +3439,7 @@ msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 206
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 289
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 290
 # File: module/Application/view/application/air/payment.phtml, line: 322
 # File: module/Application/view/application/air/ticketing.phtml, line: 557
 # File: module/Application/view/application/hotels/payment.phtml, line: 234
@@ -3452,7 +3453,7 @@ msgid "The security code is a 3 or 4 digit number found on the back of the credi
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 207
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 290
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 291
 # File: module/Application/view/application/air/payment.phtml, line: 323
 # File: module/Application/view/application/air/ticketing.phtml, line: 558
 # File: module/Application/view/application/hotels/payment.phtml, line: 235
@@ -3466,7 +3467,7 @@ msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 308
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 394
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 395
 # File: module/Application/view/application/air/payment.phtml, line: 424
 # File: module/Application/view/application/air/ticketing.phtml, line: 659
 # File: module/Application/view/application/hotels/payment.phtml, line: 336
@@ -3478,7 +3479,7 @@ msgid "Billing first name is required! Please input billing first name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 316
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 402
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 403
 # File: module/Application/view/application/air/payment.phtml, line: 432
 # File: module/Application/view/application/air/ticketing.phtml, line: 667
 # File: module/Application/view/application/hotels/payment.phtml, line: 344
@@ -3490,7 +3491,7 @@ msgid "Billing last name is required! Please input billing last name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 324
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 410
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 411
 # File: module/Application/view/application/air/payment.phtml, line: 440
 # File: module/Application/view/application/air/ticketing.phtml, line: 675
 # File: module/Application/view/application/hotels/payment.phtml, line: 352
@@ -3502,7 +3503,7 @@ msgid "Billing country is required! Please select billing country."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 332
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 418
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 419
 # File: module/Application/view/application/air/payment.phtml, line: 448
 # File: module/Application/view/application/air/ticketing.phtml, line: 683
 # File: module/Application/view/application/hotels/payment.phtml, line: 360
@@ -3514,7 +3515,7 @@ msgid "Billing address is required! Please input billing address."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 340
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 426
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 427
 # File: module/Application/view/application/air/payment.phtml, line: 456
 # File: module/Application/view/application/air/ticketing.phtml, line: 691
 # File: module/Application/view/application/hotels/payment.phtml, line: 368
@@ -3526,7 +3527,7 @@ msgid "Billing city is required! Please input billing city."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 348
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 434
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 435
 # File: module/Application/view/application/air/payment.phtml, line: 464
 # File: module/Application/view/application/air/ticketing.phtml, line: 699
 # File: module/Application/view/application/hotels/payment.phtml, line: 376
@@ -3538,7 +3539,7 @@ msgid "Billing state is required! Please input billing state."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 356
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 442
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 443
 # File: module/Application/view/application/air/payment.phtml, line: 472
 # File: module/Application/view/application/air/ticketing.phtml, line: 707
 # File: module/Application/view/application/hotels/payment.phtml, line: 384
@@ -3550,7 +3551,7 @@ msgid "Billing zip/postal code is required! Please input billing zip/postal code
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 364
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 450
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 451
 # File: module/Application/view/application/air/payment.phtml, line: 480
 # File: module/Application/view/application/air/ticketing.phtml, line: 715
 # File: module/Application/view/application/hotels/payment.phtml, line: 392
@@ -3562,7 +3563,7 @@ msgid "Billing email is required! Please input billing email."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 372
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 458
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 459
 # File: module/Application/view/application/air/payment.phtml, line: 488
 # File: module/Application/view/application/air/ticketing.phtml, line: 723
 # File: module/Application/view/application/hotels/payment.phtml, line: 400
@@ -3624,7 +3625,7 @@ msgid "Cruise Information"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 258
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 129
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 147
 # File: module/Application/view/application/air/confirm.phtml, line: 293
 # File: module/Application/view/application/hotels/confirm.phtml, line: 102
 # File: module/Application/view/application/cars/confirm.phtml, line: 106
@@ -3635,7 +3636,7 @@ msgid "First Name:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 259
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 130
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 148
 # File: module/Application/view/application/air/confirm.phtml, line: 294
 # File: module/Application/view/application/hotels/confirm.phtml, line: 106
 # File: module/Application/view/application/cars/confirm.phtml, line: 110
@@ -5325,7 +5326,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 372
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 397
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 206
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 293
 # File: module/Application/view/application/air/search.phtml, line: 680
 # File: module/Application/view/application/air/return.phtml, line: 442
@@ -5362,7 +5363,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 30
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 267
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 99
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 100
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 235
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 15
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 38
@@ -5420,7 +5421,7 @@ msgid "Sat"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 216
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 151
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 167
 msgid "Tour Includes"
 msgstr ""
 #
@@ -5450,7 +5451,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 590
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 281
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 119
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 120
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 42
 msgid "Pax"
 msgstr ""
@@ -5459,8 +5460,8 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 617
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 286
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 308
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 124
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 146
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 125
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 147
 msgid "Promotion"
 msgstr ""
 #
@@ -5468,35 +5469,35 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 608
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 290
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 299
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 128
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 129
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 138
 msgid "Children Discount"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 627
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 318
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 156
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 157
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 47
 msgid "Extra night/s at start"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 633
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 324
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 162
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 163
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 53
 msgid "Extra night/s at end"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 639
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 330
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 168
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 169
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 59
 msgid "Transfer on departure"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 645
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 336
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 174
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 175
 msgid "Supplement"
 msgstr ""
 #
@@ -5506,76 +5507,76 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 718
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 391
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 207
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 136
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 208
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 154
 # File: module/Application/view/application/cars/confirm.phtml, line: 116
 msgid "Cancellation Policies"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 721
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 394
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 210
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 138
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 211
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 156
 msgid "Free cancellation until"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 723
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 396
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 212
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 140
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 213
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 158
 msgid "Booking is under cancellation penalties!"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 726
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 399
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 215
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 161
 msgid "Cancel on or after"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 726
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 399
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 215
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 161
 # File: module/Application/view/offers/hotels/index.phtml, line: 292
 msgid "with"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 726
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 399
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 215
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 161
 msgid "penalty"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 726
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 399
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 215
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 161
 msgid "and"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 726
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 399
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 215
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 143
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 161
 msgid "managing costs"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 271
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 103
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 104
 # File: module/Application/view/application/hotels/confirm.phtml, line: 74
 # File: module/Application/view/application/cart/confirm.phtml, line: 147
 msgid "avg./night"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 274
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 106
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 107
 msgid "Days"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 68
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 71
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 69
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 72
 # File: module/Application/view/application/air/payment.phtml, line: 83
 # File: module/Application/view/application/air/payment.phtml, line: 86
 # File: module/Application/view/application/cart/passengers.phtml, line: 69
@@ -5587,7 +5588,7 @@ msgstr ""
 msgid "Copy information from passenger"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 69
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 70
 # File: module/Application/view/application/air/payment.phtml, line: 84
 # File: module/Application/view/application/cart/passengers.phtml, line: 70
 # File: module/Application/view/application/cart/passengers.phtml, line: 149
@@ -5595,7 +5596,7 @@ msgstr ""
 msgid "Copy from..."
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 102
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 103
 msgid "Room Type:"
 msgstr ""
 #
@@ -5697,10 +5698,14 @@ msgid "MoneyGram agent locations near me"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 123
+msgid "Itinerary Details"
+msgstr ""
+#
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 141
 msgid "Escorted Tour Information"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 206
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
 # File: module/Application/view/application/air/confirm.phtml, line: 381
 # File: module/Application/view/application/hotels/confirm.phtml, line: 221
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
@@ -5708,24 +5713,24 @@ msgstr ""
 msgid "Moneygram Agent Locations"
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 233
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 249
 # File: module/Application/view/application/air/confirm.phtml, line: 410
 # File: module/Application/view/application/hotels/confirm.phtml, line: 248
 # File: module/Application/view/application/cars/confirm.phtml, line: 156
 msgid "Your reservation is being processed and you will receive an email with your booking PNR codes shortly."
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 233
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 249
 # File: module/Application/view/application/air/confirm.phtml, line: 410
 # File: module/Application/view/application/hotels/confirm.phtml, line: 248
 # File: module/Application/view/application/cars/confirm.phtml, line: 156
 msgid "Thank you for choosing us for your travel needs. We hope you have a wonderful trip."
 msgstr ""
 #
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 247
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 248
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 249
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 259
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 263
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 264
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 265
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 275
 # File: module/Application/view/application/air/confirm.phtml, line: 424
 # File: module/Application/view/application/air/confirm.phtml, line: 425
 # File: module/Application/view/application/air/confirm.phtml, line: 426
