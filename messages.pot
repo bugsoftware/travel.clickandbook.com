@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-08 07:19+0000\n"
+"POT-Creation-Date: 2024-02-10 19:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -250,7 +250,7 @@ msgid "Select month of departure"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 47
-# File: module/Application/view/application/cruises/confirm.phtml, line: 255
+# File: module/Application/view/application/cruises/confirm.phtml, line: 256
 # File: module/Application/view/application/index/index.phtml, line: 313
 # File: module/Application/view/application/index/index.phtml, line: 321
 # File: module/Application/view/application/index/index.phtml, line: 396
@@ -328,7 +328,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 140
 # File: module/Application/view/application/air/confirm.phtml, line: 355
 # File: module/Application/view/application/air/segment.phtml, line: 135
-# File: module/Application/view/application/air/seating.phtml, line: 337
+# File: module/Application/view/application/air/seating.phtml, line: 402
 # File: module/Application/view/application/air/airline.phtml, line: 144
 # File: module/Application/view/application/air/airline.phtml, line: 149
 # File: module/Application/view/application/hotels/index.phtml, line: 84
@@ -407,7 +407,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 146
 # File: module/Application/view/application/air/confirm.phtml, line: 355
 # File: module/Application/view/application/air/segment.phtml, line: 137
-# File: module/Application/view/application/air/seating.phtml, line: 337
+# File: module/Application/view/application/air/seating.phtml, line: 402
 # File: module/Application/view/application/air/airline.phtml, line: 153
 # File: module/Application/view/application/hotels/index.phtml, line: 94
 # File: module/Application/view/application/hotels/search.phtml, line: 83
@@ -954,7 +954,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 24
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 24
-# File: module/Application/view/application/air/seating.phtml, line: 209
+# File: module/Application/view/application/air/seating.phtml, line: 230
 msgid "DATE"
 msgstr ""
 #
@@ -964,7 +964,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 91
 # File: module/Application/view/application/air/summary.phtml, line: 60
 # File: module/Application/view/application/air/confirm.phtml, line: 148
-# File: module/Application/view/application/air/seating.phtml, line: 324
+# File: module/Application/view/application/air/seating.phtml, line: 389
 # File: module/Application/view/application/cart/summary.phtml, line: 74
 # File: module/Application/view/application/cart/summary.phtml, line: 292
 # File: module/Application/view/application/cart/summary.phtml, line: 856
@@ -1424,7 +1424,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 346
 # File: module/Application/view/application/cruises/passengers.phtml, line: 341
 # File: module/Application/view/application/cruises/payment.phtml, line: 187
-# File: module/Application/view/application/cruises/confirm.phtml, line: 248
+# File: module/Application/view/application/cruises/confirm.phtml, line: 249
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 603
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 612
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 621
@@ -1575,7 +1575,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 5
 # File: module/Application/view/application/air/passengers.phtml, line: 8
 # File: module/Application/view/application/air/payment.phtml, line: 7
-# File: module/Application/view/application/air/seating.phtml, line: 146
+# File: module/Application/view/application/air/seating.phtml, line: 155
 # File: module/Application/view/application/hotels/passengers.phtml, line: 8
 # File: module/Application/view/application/hotels/payment.phtml, line: 7
 # File: module/Application/view/application/hotels/summary.phtml, line: 6
@@ -1651,7 +1651,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 291
 # File: module/Application/view/application/air/summary.phtml, line: 64
 # File: module/Application/view/application/air/confirm.phtml, line: 152
-# File: module/Application/view/application/air/seating.phtml, line: 336
+# File: module/Application/view/application/air/seating.phtml, line: 401
 # File: module/Application/view/application/hotels/info.phtml, line: 115
 # File: module/Application/view/application/hotels/summary.phtml, line: 88
 # File: module/Application/view/application/insurances/summary.phtml, line: 62
@@ -1669,7 +1669,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 118
 # File: module/Application/view/application/air/summary.phtml, line: 76
 # File: module/Application/view/application/air/confirm.phtml, line: 164
-# File: module/Application/view/application/air/seating.phtml, line: 346
+# File: module/Application/view/application/air/seating.phtml, line: 409
 # File: module/Application/view/application/cart/summary.phtml, line: 83
 # File: module/Application/view/application/cart/summary.phtml, line: 324
 # File: module/Application/view/application/cart/summary.phtml, line: 865
@@ -1681,7 +1681,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 112
 # File: module/Application/view/application/air/summary.phtml, line: 77
 # File: module/Application/view/application/air/confirm.phtml, line: 165
-# File: module/Application/view/application/air/seating.phtml, line: 347
+# File: module/Application/view/application/air/seating.phtml, line: 410
 # File: module/Application/view/application/cart/summary.phtml, line: 84
 # File: module/Application/view/application/cart/summary.phtml, line: 327
 # File: module/Application/view/application/cart/summary.phtml, line: 866
@@ -1689,7 +1689,7 @@ msgid "Arrival:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 208
-# File: module/Application/view/application/cruises/confirm.phtml, line: 273
+# File: module/Application/view/application/cruises/confirm.phtml, line: 274
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 558
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 217
 # File: module/Application/view/application/air/summary.phtml, line: 313
@@ -1719,8 +1719,8 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 445
 # File: module/Application/view/application/air/summary.phtml, line: 625
 # File: module/Application/view/application/air/payment.phtml, line: 108
-# File: module/Application/view/application/air/seating.phtml, line: 137
-# File: module/Application/view/application/air/seating.phtml, line: 245
+# File: module/Application/view/application/air/seating.phtml, line: 146
+# File: module/Application/view/application/air/seating.phtml, line: 307
 # File: module/Application/view/application/air/ticketing.phtml, line: 78
 # File: module/Application/view/application/hotels/payment.phtml, line: 106
 # File: module/Application/view/application/hotels/summary.phtml, line: 149
@@ -1750,7 +1750,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 283
 # File: module/Application/view/application/cruises/passengers.phtml, line: 279
 # File: module/Application/view/application/cruises/payment.phtml, line: 147
-# File: module/Application/view/application/cruises/confirm.phtml, line: 216
+# File: module/Application/view/application/cruises/confirm.phtml, line: 217
 msgid "Payment Schedule"
 msgstr ""
 #
@@ -1788,7 +1788,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 331
 # File: module/Application/view/application/cruises/passengers.phtml, line: 326
 # File: module/Application/view/application/cruises/payment.phtml, line: 174
-# File: module/Application/view/application/cruises/confirm.phtml, line: 242
+# File: module/Application/view/application/cruises/confirm.phtml, line: 243
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 768
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 374
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 379
@@ -3627,11 +3627,11 @@ msgstr ""
 msgid "Sailing port:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 252
+# File: module/Application/view/application/cruises/confirm.phtml, line: 253
 msgid "Cruise Information"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 258
+# File: module/Application/view/application/cruises/confirm.phtml, line: 259
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 147
 # File: module/Application/view/application/air/confirm.phtml, line: 299
 # File: module/Application/view/application/hotels/confirm.phtml, line: 102
@@ -3642,7 +3642,7 @@ msgstr ""
 msgid "First Name:"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 259
+# File: module/Application/view/application/cruises/confirm.phtml, line: 260
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 148
 # File: module/Application/view/application/air/confirm.phtml, line: 300
 # File: module/Application/view/application/hotels/confirm.phtml, line: 106
@@ -4193,7 +4193,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 331
 # File: module/Application/view/application/air/payment.phtml, line: 144
 # File: module/Application/view/application/air/confirm.phtml, line: 355
-# File: module/Application/view/application/air/seating.phtml, line: 337
+# File: module/Application/view/application/air/seating.phtml, line: 402
 # File: module/Application/view/application/air/airline.phtml, line: 144
 # File: module/Application/view/application/air/airline.phtml, line: 445
 # File: module/Application/view/application/hotels/index.phtml, line: 1184
@@ -5033,7 +5033,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 325
 # File: module/Application/view/application/air/payment.phtml, line: 138
 # File: module/Application/view/application/air/confirm.phtml, line: 355
-# File: module/Application/view/application/air/seating.phtml, line: 337
+# File: module/Application/view/application/air/seating.phtml, line: 402
 # File: module/Application/view/application/hotels/search.phtml, line: 83
 # File: module/Application/view/application/hotels/search.phtml, line: 517
 # File: module/Application/view/application/hotels/info.phtml, line: 115
@@ -5079,7 +5079,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 123
 # File: module/Application/view/application/air/confirm.phtml, line: 9
 # File: module/Application/view/application/air/confirm.phtml, line: 244
-# File: module/Application/view/application/air/seating.phtml, line: 168
+# File: module/Application/view/application/air/seating.phtml, line: 178
 # File: module/Application/view/application/air/airline.phtml, line: 446
 # File: module/Application/view/application/air/ticketing.phtml, line: 89
 # File: module/Application/view/application/air/ticketing.phtml, line: 129
@@ -5360,7 +5360,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 671
 # File: module/Application/view/application/air/confirm.phtml, line: 387
 # File: module/Application/view/application/air/segment.phtml, line: 325
-# File: module/Application/view/application/air/seating.phtml, line: 80
+# File: module/Application/view/application/air/seating.phtml, line: 93
 # File: module/Application/view/application/hotels/search.phtml, line: 474
 # File: module/Application/view/application/hotels/info.phtml, line: 658
 # File: module/Application/view/application/hotels/info.phtml, line: 840
@@ -5950,7 +5950,7 @@ msgid "Do you want to add more hotel nights to the end of your trip?"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 336
-# File: module/Application/view/application/air/seating.phtml, line: 148
+# File: module/Application/view/application/air/seating.phtml, line: 157
 # File: module/Application/view/application/cart/index.phtml, line: 285
 msgid "Confirm"
 msgstr ""
@@ -6527,13 +6527,13 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 47
 # File: module/Application/view/application/air/confirm.phtml, line: 134
 # File: module/Application/view/application/air/confirm.phtml, line: 135
-# File: module/Application/view/application/air/seating.phtml, line: 263
+# File: module/Application/view/application/air/seating.phtml, line: 327
 msgid "Journey"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 56
 # File: module/Application/view/application/air/confirm.phtml, line: 144
-# File: module/Application/view/application/air/seating.phtml, line: 318
+# File: module/Application/view/application/air/seating.phtml, line: 384
 # File: module/Application/view/application/cart/summary.phtml, line: 71
 # File: module/Application/view/application/cart/summary.phtml, line: 286
 # File: module/Application/view/application/cart/summary.phtml, line: 853
@@ -6542,7 +6542,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 61
 # File: module/Application/view/application/air/confirm.phtml, line: 149
-# File: module/Application/view/application/air/seating.phtml, line: 328
+# File: module/Application/view/application/air/seating.phtml, line: 393
 # File: module/Application/view/application/cart/summary.phtml, line: 75
 # File: module/Application/view/application/cart/summary.phtml, line: 296
 # File: module/Application/view/application/cart/summary.phtml, line: 857
@@ -6551,7 +6551,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 62
 # File: module/Application/view/application/air/confirm.phtml, line: 150
-# File: module/Application/view/application/air/seating.phtml, line: 332
+# File: module/Application/view/application/air/seating.phtml, line: 397
 # File: module/Application/view/application/hotels/info.phtml, line: 114
 # File: module/Application/view/application/cart/summary.phtml, line: 76
 # File: module/Application/view/application/cart/summary.phtml, line: 300
@@ -6736,6 +6736,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 223
 # File: module/Application/view/application/air/confirm.phtml, line: 74
+# File: module/Application/view/application/air/seating.phtml, line: 565
 msgid "Select seats"
 msgstr ""
 #
@@ -6974,7 +6975,7 @@ msgid "ADD TO CART"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 456
-# File: module/Application/view/application/air/seating.phtml, line: 80
+# File: module/Application/view/application/air/seating.phtml, line: 92
 msgid "Select Seats"
 msgstr ""
 #
@@ -7049,8 +7050,8 @@ msgid "MM-DD-YYYY"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 9
-# File: module/Application/view/application/air/seating.phtml, line: 80
-# File: module/Application/view/application/air/seating.phtml, line: 206
+# File: module/Application/view/application/air/seating.phtml, line: 92
+# File: module/Application/view/application/air/seating.phtml, line: 225
 # File: module/Application/view/application/air/airline.phtml, line: 214
 # File: module/Application/view/application/air/airline.phtml, line: 272
 # File: module/Application/view/application/air/airline.phtml, line: 325
@@ -7120,78 +7121,78 @@ msgstr ""
 msgid "Standard Seat"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 42
+# File: module/Application/view/application/air/seating.phtml, line: 43
 msgid "Free Seat"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 44
+# File: module/Application/view/application/air/seating.phtml, line: 46
 msgid "Seat Assignment"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 79
+# File: module/Application/view/application/air/seating.phtml, line: 90
 msgid "Select Seat"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 83
+# File: module/Application/view/application/air/seating.phtml, line: 97
 msgid "I'm sorry to inform you that we are unable to retrieve the seat maps from the airline and as a result we can't display the seat map for you to choose your seats. This is due to a technical issue on the airline's side that is beyond our control. We apologize for any inconvenience this may cause you."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 85
+# File: module/Application/view/application/air/seating.phtml, line: 99
 msgid "You can still proceed with your booking without selecting your seats, and the airline will assign them for you at check-in."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 87
+# File: module/Application/view/application/air/seating.phtml, line: 101
 msgid "Alternatively, you can try to contact the airline directly and request your preferred seats, subject to availability and fees."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 89
+# File: module/Application/view/application/air/seating.phtml, line: 103
 msgid "You can find the airline's contact information on their website or on your confirmation email."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 91
+# File: module/Application/view/application/air/seating.phtml, line: 105
 msgid "We appreciate your understanding and cooperation. Thank you for choosing us for your travel needs."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 122
+# File: module/Application/view/application/air/seating.phtml, line: 133
 msgid "Not available"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 147
-# File: module/Application/view/application/air/seating.phtml, line: 201
-# File: module/Application/view/application/air/seating.phtml, line: 203
+# File: module/Application/view/application/air/seating.phtml, line: 156
+# File: module/Application/view/application/air/seating.phtml, line: 218
+# File: module/Application/view/application/air/seating.phtml, line: 221
 msgid "Seat Selection"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 157
+# File: module/Application/view/application/air/seating.phtml, line: 166
 msgid "Thank you for choosing your preferred seats. We have received your seat selection and we are processing your reservation. We are sending the air seats to the airline for confirmation. This may take a few minutes, so please do not close this window or refresh the page. We will notify you as soon as your seat selection is confirmed. Thank you for your patience and cooperation."
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 210
+# File: module/Application/view/application/air/seating.phtml, line: 233
 msgid "HOUR"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 211
+# File: module/Application/view/application/air/seating.phtml, line: 236
 msgid "PASSENGER"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 212
+# File: module/Application/view/application/air/seating.phtml, line: 239
 msgid "SEAT"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 213
+# File: module/Application/view/application/air/seating.phtml, line: 242
 msgid "PRICING"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 221
-# File: module/Application/view/application/air/seating.phtml, line: 224
+# File: module/Application/view/application/air/seating.phtml, line: 257
+# File: module/Application/view/application/air/seating.phtml, line: 262
 msgid "No seat selected"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 615
+# File: module/Application/view/application/air/seating.phtml, line: 674
 msgid "Unable to retrieve booking code(s)"
 msgstr ""
 #
-# File: module/Application/view/application/air/seating.phtml, line: 686
+# File: module/Application/view/application/air/seating.phtml, line: 758
 # File: module/Application/view/application/air/airline.phtml, line: 451
 # File: module/Application/view/application/hotels/info.phtml, line: 896
 # File: module/Application/view/application/login/index.phtml, line: 100
