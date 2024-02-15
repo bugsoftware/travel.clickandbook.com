@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-15 14:51+0000\n"
+"POT-Creation-Date: 2024-02-15 16:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -266,6 +266,7 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 78
 # File: module/Application/view/application/activities/index.phtml, line: 84
 # File: module/Application/view/application/activities/search.phtml, line: 94
+# File: module/Application/view/application/activities/info.phtml, line: 108
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 157
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 163
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 224
@@ -315,6 +316,8 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 86
 # File: module/Application/view/application/activities/search.phtml, line: 91
 # File: module/Application/view/application/activities/search.phtml, line: 96
+# File: module/Application/view/application/activities/info.phtml, line: 105
+# File: module/Application/view/application/activities/info.phtml, line: 110
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 160
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 165
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 625
@@ -396,6 +399,8 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 90
 # File: module/Application/view/application/activities/search.phtml, line: 91
 # File: module/Application/view/application/activities/search.phtml, line: 101
+# File: module/Application/view/application/activities/info.phtml, line: 105
+# File: module/Application/view/application/activities/info.phtml, line: 112
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 160
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 167
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 623
@@ -467,6 +472,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 857
 # File: module/Application/view/application/activities/index.phtml, line: 98
 # File: module/Application/view/application/activities/search.phtml, line: 113
+# File: module/Application/view/application/activities/info.phtml, line: 122
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 172
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 238
 # File: module/Application/view/application/air/index.phtml, line: 155
@@ -986,6 +992,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 38
 # File: module/Application/view/application/cruises/offer.phtml, line: 139
+# File: module/Application/view/application/activities/info.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 45
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 207
 # File: module/Application/view/application/hotels/info.phtml, line: 78
@@ -1046,6 +1053,7 @@ msgid "Day at sea"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 115
+# File: module/Application/view/application/activities/info.phtml, line: 99
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 150
 # File: module/Application/view/application/hotels/info.phtml, line: 262
 msgid "Price & Availability"
@@ -1643,6 +1651,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 76
 # File: module/Application/view/application/cruises/summary.phtml, line: 142
 # File: module/Application/view/application/cruises/confirm.phtml, line: 95
+# File: module/Application/view/application/activities/info.phtml, line: 25
 msgid "DAYS"
 msgstr ""
 #
@@ -5327,6 +5336,16 @@ msgstr ""
 msgid "per adult"
 msgstr ""
 #
+# File: module/Application/view/application/activities/info.phtml, line: 26
+msgid "HOURS"
+msgstr ""
+#
+# File: module/Application/view/application/activities/info.phtml, line: 27
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 29
+# File: module/Application/view/application/insurances/summary.phtml, line: 61
+msgid "DURATION"
+msgstr ""
+#
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 128
 msgid "Discover the best choices for your trip"
 msgstr ""
@@ -5541,11 +5560,6 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 687
 # File: module/Application/view/layout/layout.phtml, line: 484
 msgid "Close"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 29
-# File: module/Application/view/application/insurances/summary.phtml, line: 61
-msgid "DURATION"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 30
