@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-16 21:31+0000\n"
+"POT-Creation-Date: 2024-02-17 22:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1065,7 +1065,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 377
 # File: module/Application/view/application/cruises/select.phtml, line: 698
-# File: module/Application/view/application/cruises/summary.phtml, line: 362
+# File: module/Application/view/application/cruises/summary.phtml, line: 367
 # File: module/Application/view/application/cruises/passengers.phtml, line: 591
 # File: module/Application/view/application/cruises/payment.phtml, line: 383
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 573
@@ -1442,7 +1442,7 @@ msgid "Departure"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 285
-# File: module/Application/view/application/cruises/summary.phtml, line: 346
+# File: module/Application/view/application/cruises/summary.phtml, line: 351
 # File: module/Application/view/application/cruises/passengers.phtml, line: 341
 # File: module/Application/view/application/cruises/payment.phtml, line: 187
 # File: module/Application/view/application/cruises/confirm.phtml, line: 249
@@ -1734,7 +1734,7 @@ msgid "Total:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 211
-# File: module/Application/view/application/cruises/summary.phtml, line: 351
+# File: module/Application/view/application/cruises/summary.phtml, line: 356
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 561
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 783
 # File: module/Application/view/application/air/summary.phtml, line: 317
@@ -1769,14 +1769,19 @@ msgstr ""
 msgid "Return"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 283
+# File: module/Application/view/application/cruises/summary.phtml, line: 282
+#, php-format
+msgid "BOGO60 is a promotional offer by Royal Caribbean Cruise that gives you 60% off the cruise fare of the second guest booked in the same stateroom as the first full fare paying guest. It also gives you 30% off any additional guests booked in the same stateroom as the first and second guest."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 288
 # File: module/Application/view/application/cruises/passengers.phtml, line: 279
 # File: module/Application/view/application/cruises/payment.phtml, line: 147
 # File: module/Application/view/application/cruises/confirm.phtml, line: 217
 msgid "Payment Schedule"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 308
+# File: module/Application/view/application/cruises/summary.phtml, line: 313
 # File: module/Application/view/application/cruises/passengers.phtml, line: 318
 # File: module/Application/view/application/cruises/payment.phtml, line: 172
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 736
@@ -1785,29 +1790,29 @@ msgstr ""
 msgid "Commission"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 311
+# File: module/Application/view/application/cruises/summary.phtml, line: 316
 # File: module/Application/view/application/cruises/passengers.phtml, line: 321
 msgid "Total Commission"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 317
+# File: module/Application/view/application/cruises/summary.phtml, line: 322
 # File: module/Application/view/application/cruises/passengers.phtml, line: 304
 msgid "Gross Commissionable Total"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 321
+# File: module/Application/view/application/cruises/summary.phtml, line: 326
 # File: module/Application/view/application/cruises/passengers.phtml, line: 308
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 757
 msgid "CTM Commission"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 325
+# File: module/Application/view/application/cruises/summary.phtml, line: 330
 # File: module/Application/view/application/cruises/passengers.phtml, line: 312
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 762
 msgid "Linea Fina"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/summary.phtml, line: 331
+# File: module/Application/view/application/cruises/summary.phtml, line: 336
 # File: module/Application/view/application/cruises/passengers.phtml, line: 326
 # File: module/Application/view/application/cruises/payment.phtml, line: 174
 # File: module/Application/view/application/cruises/confirm.phtml, line: 243
