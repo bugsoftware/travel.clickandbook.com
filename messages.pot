@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-19 10:18+0000\n"
+"POT-Creation-Date: 2024-02-19 10:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -638,7 +638,7 @@ msgstr ""
 # File: module/Application/view/application/content/groups.phtml, line: 78
 # File: module/Application/view/application/content/weddings.phtml, line: 79
 # File: module/Application/view/application/content/pricematch.phtml, line: 162
-# File: module/Application/view/application/quotes/cruises.phtml, line: 65
+# File: module/Application/view/application/quotes/cruises.phtml, line: 66
 # File: module/Application/view/layout/layout.phtml, line: 251
 # File: module/Application/view/layout/layout.phtml, line: 787
 msgid "Cruises"
@@ -946,7 +946,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/offer.phtml, line: 120
 # File: module/Application/view/application/cruises/select.phtml, line: 63
 # File: module/Application/view/application/cruises/select.phtml, line: 166
-# File: module/Application/view/application/quotes/cruises.phtml, line: 133
+# File: module/Application/view/application/quotes/cruises.phtml, line: 134
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "Cabin"
 msgstr ""
@@ -1040,7 +1040,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/offer.phtml, line: 99
 # File: module/Application/view/application/cruises/summary.phtml, line: 127
 # File: module/Application/view/application/cruises/confirm.phtml, line: 80
-# File: module/Application/view/application/quotes/cruises.phtml, line: 349
+# File: module/Application/view/application/quotes/cruises.phtml, line: 231
 msgid "Cruising"
 msgstr ""
 #
@@ -1137,8 +1137,8 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 608
 # File: module/Application/view/application/cart/passengers.phtml, line: 9
 # File: module/Application/view/application/cart/payment.phtml, line: 8
-# File: module/Application/view/application/quotes/cruises.phtml, line: 161
 # File: module/Application/view/application/quotes/cruises.phtml, line: 162
+# File: module/Application/view/application/quotes/cruises.phtml, line: 163
 msgid "Passengers"
 msgstr ""
 #
@@ -1175,7 +1175,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 59
 # File: module/Application/view/application/cart/passengers.phtml, line: 81
 # File: module/Application/view/application/cart/passengers.phtml, line: 159
-# File: module/Application/view/application/quotes/cruises.phtml, line: 203
+# File: module/Application/view/application/quotes/cruises.phtml, line: 271
 msgid "Passenger"
 msgstr ""
 #
@@ -1546,8 +1546,9 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 405
 # File: module/Application/view/application/cart/payment.phtml, line: 422
 # File: module/Application/view/application/booking/paynow.phtml, line: 395
-# File: module/Application/view/application/quotes/cruises.phtml, line: 204
-# File: module/Application/view/application/quotes/cruises.phtml, line: 241
+# File: module/Application/view/application/quotes/cruises.phtml, line: 164
+# File: module/Application/view/application/quotes/cruises.phtml, line: 272
+# File: module/Application/view/application/quotes/cruises.phtml, line: 309
 # File: module/Application/view/layout/layout.phtml, line: 312
 msgid "Total"
 msgstr ""
@@ -1779,7 +1780,7 @@ msgid "Return"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 282
-# File: module/Application/view/application/quotes/cruises.phtml, line: 288
+# File: module/Application/view/application/quotes/cruises.phtml, line: 355
 #, php-format
 msgid "BOGO60 is a promotional offer by Royal Caribbean Cruise that gives you 60% off the cruise fare of the second guest booked in the same stateroom as the first full fare paying guest. It also gives you 30% off any additional guests booked in the same stateroom as the first and second guest."
 msgstr ""
@@ -5984,7 +5985,7 @@ msgid "First select the required departure date from among those available. Pric
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 36
-# File: module/Application/view/application/quotes/cruises.phtml, line: 118
+# File: module/Application/view/application/quotes/cruises.phtml, line: 119
 msgid "Departure Date"
 msgstr ""
 #
@@ -9989,7 +9990,7 @@ msgid "My"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 18
-# File: module/Application/view/application/quotes/cruises.phtml, line: 149
+# File: module/Application/view/application/quotes/cruises.phtml, line: 150
 msgid "Pending"
 msgstr ""
 #
@@ -10014,135 +10015,135 @@ msgstr ""
 msgid "Booking Quote"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 65
+# File: module/Application/view/application/quotes/cruises.phtml, line: 66
 msgid "Offer Confirmation - Guest Copy"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 77
+# File: module/Application/view/application/quotes/cruises.phtml, line: 78
 # File: module/Application/view/offers/cruises/index.phtml, line: 162
 msgid "Itinerary"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 90
+# File: module/Application/view/application/quotes/cruises.phtml, line: 91
 msgid "Ship"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 103
+# File: module/Application/view/application/quotes/cruises.phtml, line: 104
 msgid "Cruise Line"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 105
+# File: module/Application/view/application/quotes/cruises.phtml, line: 106
 msgid "Departures"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 120
+# File: module/Application/view/application/quotes/cruises.phtml, line: 121
 msgid "Cabin Code"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 146
+# File: module/Application/view/application/quotes/cruises.phtml, line: 147
 msgid "Cabin Number"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 148
+# File: module/Application/view/application/quotes/cruises.phtml, line: 149
 msgid "Cruise Line Confirmation Number"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 175
+# File: module/Application/view/application/quotes/cruises.phtml, line: 176
 msgid "Agent ID:"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 175
+# File: module/Application/view/application/quotes/cruises.phtml, line: 176
 msgid "Agent Number:"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 176
+# File: module/Application/view/application/quotes/cruises.phtml, line: 177
 msgid "Restrictions"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 195
+# File: module/Application/view/application/quotes/cruises.phtml, line: 197
+msgid "Travel arrangements"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 198
+msgid "Local Times"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 207
+msgid "Arrive"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 208
+msgid "Depart"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 219
+msgid "Cruise Itinerary:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 245
+msgid "Cruise itinerary may change without notice as conditions warrant."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/cruises.phtml, line: 263
 msgid "Charges"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 240
+# File: module/Application/view/application/quotes/cruises.phtml, line: 308
 # File: module/Application/view/offers/cruises/index.phtml, line: 204
 msgid "Item"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 269
+# File: module/Application/view/application/quotes/cruises.phtml, line: 336
 msgid "Total Charge"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 315
-msgid "Travel arrangements"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 316
-msgid "Local Times"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 325
-msgid "Arrive"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 326
-msgid "Depart"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 337
-msgid "Cruise Itinerary:"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 363
-msgid "Cruise itinerary may change without notice as conditions warrant."
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 381
+# File: module/Application/view/application/quotes/cruises.phtml, line: 383
 #, php-format
 msgid "The ASSIST CARD Global Cruise Coverage Program is a vacation protection plan. Please consult your travel agent for the terms and conditions of 'Covered Reasons' coverage. Any Reason Cancellation provides future cruise credits equal to 75% of the cancellation fee if a guest cancels for a reason not covered by the ASSIST CARD Global cruise coverage program. ASSIST CARD coverage can be purchased at any time from deposit, up to and including final cruise payment. Guests who purchase coverage after the cruise's final payment date are not eligible to receive 'Any Reason' cancellation coverage. The plan cost is fully refundable only if canceled outside of the published cancellation period."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 382
+# File: module/Application/view/application/quotes/cruises.phtml, line: 384
 # File: module/Application/view/offers/cruises/index.phtml, line: 289
 msgid "GENERAL CONDITIONS:"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 383
+# File: module/Application/view/application/quotes/cruises.phtml, line: 385
 msgid "Assistance and cancellation insurance is paid only on the first deposit."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 384
+# File: module/Application/view/application/quotes/cruises.phtml, line: 386
 msgid "Taxes subject to change at all times."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 385
+# File: module/Application/view/application/quotes/cruises.phtml, line: 387
 msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK PASSENGER DATA, TRAVEL DATES, ITINERARIES, CATEGORIES, VISAS AND VACCINES."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 386
+# File: module/Application/view/application/quotes/cruises.phtml, line: 388
 msgid "For required visas, it is suggested to visit the following link: https://www.visahq.com/"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 387
+# File: module/Application/view/application/quotes/cruises.phtml, line: 389
 msgid "One person over the age of 21 is required in each cabin. With the only exception of having the children's cabin in front of or to the side of the parents' cabin."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 388
+# File: module/Application/view/application/quotes/cruises.phtml, line: 390
 msgid "Minor spouses with proof of marriage can travel."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 389
+# File: module/Application/view/application/quotes/cruises.phtml, line: 391
 msgid "Boarding of pregnant women in their 24th week is NOT permitted. Medical proof will be requested in the case of pregnant women with a period of less than 24 weeks of gestation, which indicates how many weeks pregnant they are at the time of boarding, demonstrating that they are in good health. and that it is not a high-risk pregnancy."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 390
+# File: module/Application/view/application/quotes/cruises.phtml, line: 392
 msgid "Infants under 6 months of age may not be boarded. For itineraries of 3 consecutive nights of sailing at sea, transatlantic, transpacific and some South American itineraries, infants must be 1 year of age at the time of boarding."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 391
+# File: module/Application/view/application/quotes/cruises.phtml, line: 393
 msgid "For all our routes, a Valid Passport is required (minimum 6 months, at the time of disembarkation) and a photocopy of it."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 392
+# File: module/Application/view/application/quotes/cruises.phtml, line: 394
 msgid "Los puertos pueden variar, si la naviera lo estima conveniente."
 msgstr ""
 #
