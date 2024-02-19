@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-19 17:45+0000\n"
+"POT-Creation-Date: 2024-02-19 18:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1033,6 +1033,8 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 717
 # File: module/Application/view/application/cart/summary.phtml, line: 841
 # File: module/Application/view/application/cart/summary.phtml, line: 846
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 184
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 209
 msgid "Day"
 msgstr ""
 #
@@ -1137,6 +1139,8 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 608
 # File: module/Application/view/application/cart/passengers.phtml, line: 9
 # File: module/Application/view/application/cart/payment.phtml, line: 8
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 139
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 140
 # File: module/Application/view/application/quotes/cruises.phtml, line: 162
 # File: module/Application/view/application/quotes/cruises.phtml, line: 163
 msgid "Passengers"
@@ -1364,6 +1368,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
 # File: module/Application/view/application/cart/confirm.phtml, line: 146
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 100
 msgid "Room"
 msgstr ""
 #
@@ -1546,6 +1551,9 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 405
 # File: module/Application/view/application/cart/payment.phtml, line: 422
 # File: module/Application/view/application/booking/paynow.phtml, line: 395
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 141
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 245
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 270
 # File: module/Application/view/application/quotes/cruises.phtml, line: 164
 # File: module/Application/view/application/quotes/cruises.phtml, line: 272
 # File: module/Application/view/application/quotes/cruises.phtml, line: 309
@@ -5342,6 +5350,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/index.phtml, line: 69
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 27
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 185
 # File: module/Application/view/offers/cruises/index.phtml, line: 161
 msgid "Date"
 msgstr ""
@@ -5706,10 +5715,12 @@ msgid "Room Type"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 573
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 113
 msgid "Tour Starts"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 577
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 126
 msgid "Tour Ends"
 msgstr ""
 #
@@ -5717,6 +5728,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 281
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 120
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 42
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 257
 msgid "Pax"
 msgstr ""
 #
@@ -5869,6 +5881,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 8
 # File: module/Application/view/application/booking/paynow.phtml, line: 322
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 62
 msgid "Escorted Tour"
 msgstr ""
 #
@@ -10052,18 +10065,92 @@ msgstr ""
 msgid "Showing"
 msgstr ""
 #
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 28
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 42
 # File: module/Application/view/application/quotes/cruises.phtml, line: 32
 # File: module/Application/view/application/quotes/cruises.phtml, line: 46
 msgid "Booking Quote"
 msgstr ""
 #
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 62
 # File: module/Application/view/application/quotes/cruises.phtml, line: 66
 msgid "Offer Confirmation - Guest Copy"
 msgstr ""
 #
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 74
 # File: module/Application/view/application/quotes/cruises.phtml, line: 78
 # File: module/Application/view/offers/cruises/index.phtml, line: 162
 msgid "Itinerary"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 87
+msgid "Category"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 153
+# File: module/Application/view/application/quotes/cruises.phtml, line: 176
+msgid "Agent ID:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 153
+# File: module/Application/view/application/quotes/cruises.phtml, line: 176
+msgid "Agent Number:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 154
+# File: module/Application/view/application/quotes/cruises.phtml, line: 177
+msgid "Restrictions"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 174
+# File: module/Application/view/application/quotes/cruises.phtml, line: 197
+msgid "Travel arrangements"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 175
+# File: module/Application/view/application/quotes/cruises.phtml, line: 198
+msgid "Local Times"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 196
+msgid "Escorted Tour Itinerary:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 221
+msgid "Itinerary may change without notice as conditions warrant."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 238
+# File: module/Application/view/application/quotes/cruises.phtml, line: 263
+msgid "Charges"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 244
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 269
+# File: module/Application/view/application/quotes/cruises.phtml, line: 308
+# File: module/Application/view/offers/cruises/index.phtml, line: 204
+msgid "Item"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 281
+# File: module/Application/view/application/quotes/cruises.phtml, line: 336
+msgid "Total Charge"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 310
+# File: module/Application/view/application/quotes/cruises.phtml, line: 382
+# File: module/Application/view/offers/cruises/index.phtml, line: 289
+msgid "GENERAL CONDITIONS:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 311
+# File: module/Application/view/application/quotes/cruises.phtml, line: 385
+msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK PASSENGER DATA, TRAVEL DATES, ITINERARIES, CATEGORIES, VISAS AND VACCINES."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 312
+# File: module/Application/view/application/quotes/cruises.phtml, line: 386
+msgid "For required visas, it is suggested to visit the following link: https://www.visahq.com/"
 msgstr ""
 #
 # File: module/Application/view/application/quotes/cruises.phtml, line: 91
@@ -10090,26 +10177,6 @@ msgstr ""
 msgid "Cruise Line Confirmation Number"
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 176
-msgid "Agent ID:"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 176
-msgid "Agent Number:"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 177
-msgid "Restrictions"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 197
-msgid "Travel arrangements"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 198
-msgid "Local Times"
-msgstr ""
-#
 # File: module/Application/view/application/quotes/cruises.phtml, line: 207
 msgid "Arrive"
 msgstr ""
@@ -10126,27 +10193,9 @@ msgstr ""
 msgid "Cruise itinerary may change without notice as conditions warrant."
 msgstr ""
 #
-# File: module/Application/view/application/quotes/cruises.phtml, line: 263
-msgid "Charges"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 308
-# File: module/Application/view/offers/cruises/index.phtml, line: 204
-msgid "Item"
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 336
-msgid "Total Charge"
-msgstr ""
-#
 # File: module/Application/view/application/quotes/cruises.phtml, line: 381
 #, php-format
 msgid "The ASSIST CARD Global Cruise Coverage Program is a vacation protection plan. Please consult your travel agent for the terms and conditions of 'Covered Reasons' coverage. Any Reason Cancellation provides future cruise credits equal to 75% of the cancellation fee if a guest cancels for a reason not covered by the ASSIST CARD Global cruise coverage program. ASSIST CARD coverage can be purchased at any time from deposit, up to and including final cruise payment. Guests who purchase coverage after the cruise's final payment date are not eligible to receive 'Any Reason' cancellation coverage. The plan cost is fully refundable only if canceled outside of the published cancellation period."
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 382
-# File: module/Application/view/offers/cruises/index.phtml, line: 289
-msgid "GENERAL CONDITIONS:"
 msgstr ""
 #
 # File: module/Application/view/application/quotes/cruises.phtml, line: 383
@@ -10155,14 +10204,6 @@ msgstr ""
 #
 # File: module/Application/view/application/quotes/cruises.phtml, line: 384
 msgid "Taxes subject to change at all times."
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 385
-msgid "IT IS THE RESPONSIBILITY OF EACH PERSON TO CHECK PASSENGER DATA, TRAVEL DATES, ITINERARIES, CATEGORIES, VISAS AND VACCINES."
-msgstr ""
-#
-# File: module/Application/view/application/quotes/cruises.phtml, line: 386
-msgid "For required visas, it is suggested to visit the following link: https://www.visahq.com/"
 msgstr ""
 #
 # File: module/Application/view/application/quotes/cruises.phtml, line: 387
@@ -10186,7 +10227,7 @@ msgid "For all our routes, a Valid Passport is required (minimum 6 months, at th
 msgstr ""
 #
 # File: module/Application/view/application/quotes/cruises.phtml, line: 392
-msgid "Los puertos pueden variar, si la naviera lo estima conveniente."
+msgid "The ports may vary, if the shipping company deems it appropriate."
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 269
