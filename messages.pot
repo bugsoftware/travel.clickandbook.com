@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-19 13:53+0000\n"
+"POT-Creation-Date: 2024-02-19 14:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1069,7 +1069,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 377
 # File: module/Application/view/application/cruises/select.phtml, line: 698
-# File: module/Application/view/application/cruises/summary.phtml, line: 372
+# File: module/Application/view/application/cruises/summary.phtml, line: 407
 # File: module/Application/view/application/cruises/passengers.phtml, line: 591
 # File: module/Application/view/application/cruises/payment.phtml, line: 383
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 573
@@ -1744,7 +1744,7 @@ msgid "Total:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 211
-# File: module/Application/view/application/cruises/summary.phtml, line: 360
+# File: module/Application/view/application/cruises/summary.phtml, line: 361
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 561
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 783
 # File: module/Application/view/application/air/summary.phtml, line: 317
@@ -1836,6 +1836,90 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 358
 msgid "PDF"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 359
+# File: module/Application/view/application/cruises/passengers.phtml, line: 50
+# File: module/Application/view/application/cruises/passengers.phtml, line: 88
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 65
+# File: module/Application/view/application/air/passengers.phtml, line: 43
+# File: module/Application/view/application/air/passengers.phtml, line: 106
+# File: module/Application/view/application/hotels/passengers.phtml, line: 55
+# File: module/Application/view/application/hotels/passengers.phtml, line: 118
+# File: module/Application/view/application/cars/passengers.phtml, line: 47
+# File: module/Application/view/application/insurances/passengers.phtml, line: 28
+# File: module/Application/view/application/insurances/passengers.phtml, line: 65
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 22
+# File: module/Application/view/application/login/register.phtml, line: 56
+# File: module/Application/view/application/login/profile.phtml, line: 73
+# File: module/Application/view/application/login/unsubscribe.phtml, line: 30
+# File: module/Application/view/application/cart/passengers.phtml, line: 87
+# File: module/Application/view/application/cart/passengers.phtml, line: 165
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
+# File: module/Application/view/application/content/registeragent.phtml, line: 54
+# File: module/Application/view/application/content/registerproperty.phtml, line: 70
+# File: module/Application/view/application/content/groups.phtml, line: 32
+# File: module/Application/view/application/content/weddings.phtml, line: 32
+# File: module/Application/view/application/content/pricematch.phtml, line: 116
+# File: module/Application/view/application/content/support.phtml, line: 54
+# File: module/Application/view/application/content/contactus.phtml, line: 41
+# File: module/Application/view/application/agent/profile.phtml, line: 45
+msgid "Email"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 371
+msgid "Send quote by email"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 372
+# File: module/Application/view/application/cruises/summary.phtml, line: 391
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 372
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 397
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 293
+# File: module/Application/view/application/air/search.phtml, line: 680
+# File: module/Application/view/application/air/return.phtml, line: 442
+# File: module/Application/view/application/air/summary.phtml, line: 649
+# File: module/Application/view/application/air/summary.phtml, line: 660
+# File: module/Application/view/application/air/summary.phtml, line: 671
+# File: module/Application/view/application/air/confirm.phtml, line: 387
+# File: module/Application/view/application/air/segment.phtml, line: 325
+# File: module/Application/view/application/air/seating.phtml, line: 93
+# File: module/Application/view/application/hotels/search.phtml, line: 471
+# File: module/Application/view/application/hotels/search.phtml, line: 486
+# File: module/Application/view/application/hotels/info.phtml, line: 658
+# File: module/Application/view/application/hotels/info.phtml, line: 840
+# File: module/Application/view/application/hotels/confirm.phtml, line: 221
+# File: module/Application/view/application/hotels/summary.phtml, line: 328
+# File: module/Application/view/application/hotels/summary.phtml, line: 339
+# File: module/Application/view/application/hotels/brands.phtml, line: 336
+# File: module/Application/view/application/cars/confirm.phtml, line: 130
+# File: module/Application/view/application/trip-planner/select.phtml, line: 282
+# File: module/Application/view/application/trip-planner/select.phtml, line: 736
+# File: module/Application/view/application/cart/summary.phtml, line: 1340
+# File: module/Application/view/application/cart/summary.phtml, line: 1351
+# File: module/Application/view/application/cart/summary.phtml, line: 1362
+# File: module/Application/view/application/cart/index.phtml, line: 201
+# File: module/Application/view/application/booking/paynow.phtml, line: 684
+# File: module/Application/view/application/booking/paynow.phtml, line: 687
+# File: module/Application/view/layout/layout.phtml, line: 484
+msgid "Close"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 377
+msgid "Name:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 381
+msgid "Email:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 385
+msgid "Message:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 392
+msgid "Send quote"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 44
@@ -2025,34 +2109,6 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 msgid "Please enter your Last Name"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/passengers.phtml, line: 50
-# File: module/Application/view/application/cruises/passengers.phtml, line: 88
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 65
-# File: module/Application/view/application/air/passengers.phtml, line: 43
-# File: module/Application/view/application/air/passengers.phtml, line: 106
-# File: module/Application/view/application/hotels/passengers.phtml, line: 55
-# File: module/Application/view/application/hotels/passengers.phtml, line: 118
-# File: module/Application/view/application/cars/passengers.phtml, line: 47
-# File: module/Application/view/application/insurances/passengers.phtml, line: 28
-# File: module/Application/view/application/insurances/passengers.phtml, line: 65
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 22
-# File: module/Application/view/application/login/register.phtml, line: 56
-# File: module/Application/view/application/login/profile.phtml, line: 73
-# File: module/Application/view/application/login/unsubscribe.phtml, line: 30
-# File: module/Application/view/application/cart/passengers.phtml, line: 87
-# File: module/Application/view/application/cart/passengers.phtml, line: 165
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
-# File: module/Application/view/application/content/registeragent.phtml, line: 54
-# File: module/Application/view/application/content/registerproperty.phtml, line: 70
-# File: module/Application/view/application/content/groups.phtml, line: 32
-# File: module/Application/view/application/content/weddings.phtml, line: 32
-# File: module/Application/view/application/content/pricematch.phtml, line: 116
-# File: module/Application/view/application/content/support.phtml, line: 54
-# File: module/Application/view/application/content/contactus.phtml, line: 41
-# File: module/Application/view/application/agent/profile.phtml, line: 45
-msgid "Email"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 50
@@ -5548,39 +5604,6 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 371
 msgid "escorted tour"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 372
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 397
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 293
-# File: module/Application/view/application/air/search.phtml, line: 680
-# File: module/Application/view/application/air/return.phtml, line: 442
-# File: module/Application/view/application/air/summary.phtml, line: 649
-# File: module/Application/view/application/air/summary.phtml, line: 660
-# File: module/Application/view/application/air/summary.phtml, line: 671
-# File: module/Application/view/application/air/confirm.phtml, line: 387
-# File: module/Application/view/application/air/segment.phtml, line: 325
-# File: module/Application/view/application/air/seating.phtml, line: 93
-# File: module/Application/view/application/hotels/search.phtml, line: 471
-# File: module/Application/view/application/hotels/search.phtml, line: 486
-# File: module/Application/view/application/hotels/info.phtml, line: 658
-# File: module/Application/view/application/hotels/info.phtml, line: 840
-# File: module/Application/view/application/hotels/confirm.phtml, line: 221
-# File: module/Application/view/application/hotels/summary.phtml, line: 328
-# File: module/Application/view/application/hotels/summary.phtml, line: 339
-# File: module/Application/view/application/hotels/brands.phtml, line: 336
-# File: module/Application/view/application/cars/confirm.phtml, line: 130
-# File: module/Application/view/application/trip-planner/select.phtml, line: 282
-# File: module/Application/view/application/trip-planner/select.phtml, line: 736
-# File: module/Application/view/application/cart/summary.phtml, line: 1340
-# File: module/Application/view/application/cart/summary.phtml, line: 1351
-# File: module/Application/view/application/cart/summary.phtml, line: 1362
-# File: module/Application/view/application/cart/index.phtml, line: 201
-# File: module/Application/view/application/booking/paynow.phtml, line: 684
-# File: module/Application/view/application/booking/paynow.phtml, line: 687
-# File: module/Application/view/layout/layout.phtml, line: 484
-msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 30
