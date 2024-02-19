@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-19 16:32+0000\n"
+"POT-Creation-Date: 2024-02-19 17:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 247
+# File: module/Application/src/Controller/EscortedToursController.php, line: 250
 # File: module/Application/src/Controller/JSONController.php, line: 242
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/search.phtml, line: 80
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Asia"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 250
+# File: module/Application/src/Controller/EscortedToursController.php, line: 253
 # File: module/Application/src/Controller/JSONController.php, line: 245
 # File: module/Application/view/application/index/index.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 33
@@ -37,7 +37,7 @@ msgstr ""
 msgid "Africa"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 253
+# File: module/Application/src/Controller/EscortedToursController.php, line: 256
 # File: module/Application/src/Controller/JSONController.php, line: 248
 # File: module/Application/view/application/cruises/index.phtml, line: 50
 # File: module/Application/view/application/cruises/search.phtml, line: 77
@@ -54,7 +54,7 @@ msgstr ""
 msgid "North America"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 256
+# File: module/Application/src/Controller/EscortedToursController.php, line: 259
 # File: module/Application/src/Controller/JSONController.php, line: 251
 # File: module/Application/view/application/index/index.phtml, line: 153
 # File: module/Application/view/application/index/index.phtml, line: 155
@@ -69,7 +69,7 @@ msgstr ""
 msgid "South America"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 259
+# File: module/Application/src/Controller/EscortedToursController.php, line: 262
 # File: module/Application/src/Controller/JSONController.php, line: 254
 # File: module/Application/view/application/cruises/index.phtml, line: 52
 # File: module/Application/view/application/cruises/search.phtml, line: 79
@@ -90,8 +90,8 @@ msgstr ""
 msgid "Europe"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 262
 # File: module/Application/src/Controller/EscortedToursController.php, line: 265
+# File: module/Application/src/Controller/EscortedToursController.php, line: 268
 # File: module/Application/src/Controller/JSONController.php, line: 257
 # File: module/Application/src/Controller/JSONController.php, line: 260
 # File: module/Application/view/application/cruises/index.phtml, line: 54
@@ -100,17 +100,17 @@ msgstr ""
 msgid "Oceania"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 764
+# File: module/Application/src/Controller/EscortedToursController.php, line: 768
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 107
 msgid "Single"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 767
-# File: module/Application/src/Controller/EscortedToursController.php, line: 773
+# File: module/Application/src/Controller/EscortedToursController.php, line: 771
+# File: module/Application/src/Controller/EscortedToursController.php, line: 777
 msgid "Double"
 msgstr ""
 #
-# File: module/Application/src/Controller/EscortedToursController.php, line: 770
+# File: module/Application/src/Controller/EscortedToursController.php, line: 774
 msgid "Triple"
 msgstr ""
 #
@@ -1746,7 +1746,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 211
 # File: module/Application/view/application/cruises/summary.phtml, line: 362
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 561
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 783
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 789
 # File: module/Application/view/application/air/summary.phtml, line: 317
 # File: module/Application/view/application/air/summary.phtml, line: 445
 # File: module/Application/view/application/air/summary.phtml, line: 625
@@ -1835,16 +1835,19 @@ msgid "Agent Commission"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 358
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 785
 msgid "PDF"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 359
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 786
 msgid "We are pleased to inform you that we have successfully sent the quote for the requested trip to the customer. The quote includes the details of the itinerary, the price and the payment options. The customer can review the quote and confirm their booking online."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 360
 # File: module/Application/view/application/cruises/passengers.phtml, line: 50
 # File: module/Application/view/application/cruises/passengers.phtml, line: 88
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 787
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 65
 # File: module/Application/view/application/air/passengers.phtml, line: 43
 # File: module/Application/view/application/air/passengers.phtml, line: 106
@@ -1872,6 +1875,7 @@ msgid "Email"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 372
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 799
 msgid "Send quote by email"
 msgstr ""
 #
@@ -1879,6 +1883,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 396
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 372
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 397
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 800
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 823
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 293
 # File: module/Application/view/application/air/search.phtml, line: 680
@@ -1911,22 +1917,27 @@ msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 378
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 805
 msgid "Name:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 382
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 809
 msgid "Email:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 386
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 813
 msgid "Subject:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 390
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 817
 msgid "Message:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 397
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 824
 msgid "Send quote"
 msgstr ""
 #
