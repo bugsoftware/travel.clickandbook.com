@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-22 07:12+0000\n"
+"POT-Creation-Date: 2024-02-22 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,6 +123,7 @@ msgid "is the world's leading airline. Book flights, hotels, cars and more on ou
 msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 628
+# File: module/Application/view/application/packages/info.phtml, line: 25
 msgid "flights"
 msgstr ""
 #
@@ -135,10 +136,12 @@ msgid "travel"
 msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 628
+# File: module/Application/view/application/packages/info.phtml, line: 35
 msgid "hotels"
 msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 628
+# File: module/Application/view/application/packages/info.phtml, line: 50
 msgid "cars"
 msgstr ""
 #
@@ -733,6 +736,7 @@ msgid "Length"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 196
+# File: module/Application/view/application/packages/info.phtml, line: 30
 # File: module/Application/view/offers/airline/index.phtml, line: 239
 # File: module/Application/view/offers/hotels/index.phtml, line: 240
 msgid "nights"
@@ -896,6 +900,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 377
 # File: module/Application/view/application/hotels/info.phtml, line: 77
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
+# File: module/Application/view/application/packages/info.phtml, line: 59
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/offers/lastminute/index.phtml, line: 293
@@ -1009,6 +1014,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 45
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 207
 # File: module/Application/view/application/hotels/info.phtml, line: 78
+# File: module/Application/view/application/packages/info.phtml, line: 63
 msgid "BOOK NOW"
 msgstr ""
 #
@@ -5689,6 +5695,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 140
 # File: module/Application/view/application/hotels/info.phtml, line: 177
 # File: module/Application/view/application/insurances/summary.phtml, line: 61
+# File: module/Application/view/application/packages/info.phtml, line: 30
 # File: module/Application/view/application/cart/summary.phtml, line: 118
 # File: module/Application/view/application/cart/summary.phtml, line: 164
 # File: module/Application/view/application/cart/summary.phtml, line: 364
@@ -9054,6 +9061,38 @@ msgstr ""
 #
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 46
 msgid "If you want to unsubscribe from the newsletter, please input your email address in the email address box below."
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 25
+msgid "flight"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 35
+msgid "hotel"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 40
+msgid "transfer"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 40
+msgid "transfers"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 45
+msgid "activity"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 45
+msgid "activities"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 50
+msgid "car"
+msgstr ""
+#
+# File: module/Application/view/application/packages/info.phtml, line: 73
+msgid "Destinations:"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 11
