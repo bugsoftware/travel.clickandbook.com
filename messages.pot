@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 11:26+0000\n"
+"POT-Creation-Date: 2024-02-23 13:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,7 +157,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/JSONController.php, line: 93
 # File: module/Application/src/Controller/JSONController.php, line: 784
-# File: module/Application/view/application/index/index.phtml, line: 1839
+# File: module/Application/view/application/index/index.phtml, line: 1860
 # File: module/Application/view/application/hotels/index.phtml, line: 1187
 # File: module/Application/view/application/hotels/search.phtml, line: 573
 # File: module/Application/view/application/hotels/list.phtml, line: 611
@@ -292,7 +292,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 96
 # File: module/Application/view/application/transfers/index.phtml, line: 102
 # File: module/Application/view/application/insurances/confirm.phtml, line: 43
-# File: module/Application/view/application/packages/info.phtml, line: 938
+# File: module/Application/view/application/packages/info.phtml, line: 432
 # File: module/Application/view/application/packages/confirm.phtml, line: 98
 # File: module/Application/view/application/trip-planner/index.phtml, line: 25
 # File: module/Application/view/application/trip-planner/index.phtml, line: 31
@@ -320,7 +320,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 556
 # File: module/Application/view/application/index/index.phtml, line: 793
 # File: module/Application/view/application/index/index.phtml, line: 798
-# File: module/Application/view/application/index/index.phtml, line: 1821
+# File: module/Application/view/application/index/index.phtml, line: 1842
 # File: module/Application/view/application/activities/index.phtml, line: 81
 # File: module/Application/view/application/activities/index.phtml, line: 86
 # File: module/Application/view/application/activities/search.phtml, line: 91
@@ -371,8 +371,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 193
 # File: module/Application/view/application/insurances/payment.phtml, line: 104
 # File: module/Application/view/application/insurances/confirm.phtml, line: 28
-# File: module/Application/view/application/packages/info.phtml, line: 935
-# File: module/Application/view/application/packages/info.phtml, line: 940
+# File: module/Application/view/application/packages/info.phtml, line: 429
+# File: module/Application/view/application/packages/info.phtml, line: 434
 # File: module/Application/view/application/packages/summary.phtml, line: 63
 # File: module/Application/view/application/packages/summary.phtml, line: 148
 # File: module/Application/view/application/packages/confirm.phtml, line: 77
@@ -414,7 +414,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 556
 # File: module/Application/view/application/index/index.phtml, line: 793
 # File: module/Application/view/application/index/index.phtml, line: 800
-# File: module/Application/view/application/index/index.phtml, line: 1819
+# File: module/Application/view/application/index/index.phtml, line: 1840
 # File: module/Application/view/application/activities/index.phtml, line: 90
 # File: module/Application/view/application/activities/search.phtml, line: 91
 # File: module/Application/view/application/activities/search.phtml, line: 101
@@ -462,7 +462,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 194
 # File: module/Application/view/application/insurances/payment.phtml, line: 105
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
-# File: module/Application/view/application/packages/info.phtml, line: 942
+# File: module/Application/view/application/packages/info.phtml, line: 436
 # File: module/Application/view/application/packages/summary.phtml, line: 63
 # File: module/Application/view/application/packages/summary.phtml, line: 148
 # File: module/Application/view/application/packages/confirm.phtml, line: 77
@@ -513,7 +513,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 112
 # File: module/Application/view/application/hotels/info.phtml, line: 294
 # File: module/Application/view/application/transfers/index.phtml, line: 120
-# File: module/Application/view/application/packages/info.phtml, line: 952
+# File: module/Application/view/application/packages/info.phtml, line: 446
 # File: module/Application/view/application/trip-planner/index.phtml, line: 50
 # File: module/Application/view/application/trip-planner/select.phtml, line: 559
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 44
@@ -622,8 +622,8 @@ msgid "Popular Cruises"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 177
-# File: module/Application/view/application/index/index.phtml, line: 1031
-# File: module/Application/view/application/index/index.phtml, line: 1410
+# File: module/Application/view/application/index/index.phtml, line: 1052
+# File: module/Application/view/application/index/index.phtml, line: 1431
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 325
 # File: module/Application/view/application/hotels/index.phtml, line: 133
 msgid "Popular Destinations"
@@ -921,6 +921,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 373
 # File: module/Application/view/application/cruises/offer.phtml, line: 35
+# File: module/Application/view/application/index/index.phtml, line: 1041
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 43
 # File: module/Application/view/application/air/confirm.phtml, line: 9
 # File: module/Application/view/application/air/airline.phtml, line: 214
@@ -929,7 +930,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 377
 # File: module/Application/view/application/hotels/info.phtml, line: 77
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
-# File: module/Application/view/application/packages/info.phtml, line: 81
+# File: module/Application/view/application/packages/info.phtml, line: 82
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/offers/lastminute/index.phtml, line: 293
@@ -946,7 +947,7 @@ msgid "Sailing dates:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 400
-# File: module/Application/view/application/index/index.phtml, line: 1794
+# File: module/Application/view/application/index/index.phtml, line: 1815
 # File: module/Application/view/application/activities/index.phtml, line: 126
 # File: module/Application/view/application/activities/search.phtml, line: 585
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 598
@@ -970,7 +971,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 414
 # File: module/Application/view/application/insurances/summary.phtml, line: 23
 # File: module/Application/view/application/insurances/passengers.phtml, line: 334
-# File: module/Application/view/application/packages/info.phtml, line: 992
+# File: module/Application/view/application/packages/info.phtml, line: 486
 # File: module/Application/view/application/packages/passengers.phtml, line: 467
 # File: module/Application/view/application/trip-planner/select.phtml, line: 832
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
@@ -1045,7 +1046,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 45
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 207
 # File: module/Application/view/application/hotels/info.phtml, line: 78
-# File: module/Application/view/application/packages/info.phtml, line: 84
+# File: module/Application/view/application/packages/info.phtml, line: 85
 msgid "BOOK NOW"
 msgstr ""
 #
@@ -1140,7 +1141,7 @@ msgstr ""
 # File: module/Application/view/application/cars/payment.phtml, line: 415
 # File: module/Application/view/application/insurances/payment.phtml, line: 309
 # File: module/Application/view/application/login/profile.phtml, line: 275
-# File: module/Application/view/application/packages/info.phtml, line: 1046
+# File: module/Application/view/application/packages/info.phtml, line: 540
 # File: module/Application/view/application/packages/summary.phtml, line: 324
 # File: module/Application/view/application/packages/summary.phtml, line: 349
 # File: module/Application/view/application/packages/payment.phtml, line: 397
@@ -1415,7 +1416,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/select.phtml, line: 165
 # File: module/Application/view/application/index/index.phtml, line: 316
 # File: module/Application/view/application/index/index.phtml, line: 399
-# File: module/Application/view/application/index/index.phtml, line: 1816
+# File: module/Application/view/application/index/index.phtml, line: 1837
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 620
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 431
 # File: module/Application/view/application/hotels/index.phtml, line: 84
@@ -3113,7 +3114,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1803
+# File: module/Application/view/application/index/index.phtml, line: 1824
 # File: module/Application/view/application/activities/index.phtml, line: 135
 # File: module/Application/view/application/activities/search.phtml, line: 594
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 607
@@ -3136,7 +3137,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 491
 # File: module/Application/view/application/insurances/search.phtml, line: 423
 # File: module/Application/view/application/insurances/passengers.phtml, line: 343
-# File: module/Application/view/application/packages/info.phtml, line: 1001
+# File: module/Application/view/application/packages/info.phtml, line: 495
 # File: module/Application/view/application/packages/passengers.phtml, line: 476
 # File: module/Application/view/application/trip-planner/select.phtml, line: 841
 # File: module/Application/view/application/cart/passengers.phtml, line: 751
@@ -3148,7 +3149,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1804
+# File: module/Application/view/application/index/index.phtml, line: 1825
 # File: module/Application/view/application/activities/index.phtml, line: 136
 # File: module/Application/view/application/activities/search.phtml, line: 595
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 608
@@ -3171,7 +3172,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 492
 # File: module/Application/view/application/insurances/search.phtml, line: 424
 # File: module/Application/view/application/insurances/passengers.phtml, line: 344
-# File: module/Application/view/application/packages/info.phtml, line: 1002
+# File: module/Application/view/application/packages/info.phtml, line: 496
 # File: module/Application/view/application/packages/passengers.phtml, line: 477
 # File: module/Application/view/application/trip-planner/select.phtml, line: 842
 # File: module/Application/view/application/cart/passengers.phtml, line: 752
@@ -3183,7 +3184,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1805
+# File: module/Application/view/application/index/index.phtml, line: 1826
 # File: module/Application/view/application/activities/index.phtml, line: 137
 # File: module/Application/view/application/activities/search.phtml, line: 596
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 609
@@ -3206,7 +3207,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 493
 # File: module/Application/view/application/insurances/search.phtml, line: 425
 # File: module/Application/view/application/insurances/passengers.phtml, line: 345
-# File: module/Application/view/application/packages/info.phtml, line: 1003
+# File: module/Application/view/application/packages/info.phtml, line: 497
 # File: module/Application/view/application/packages/passengers.phtml, line: 478
 # File: module/Application/view/application/trip-planner/select.phtml, line: 843
 # File: module/Application/view/application/cart/passengers.phtml, line: 753
@@ -3218,7 +3219,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1806
+# File: module/Application/view/application/index/index.phtml, line: 1827
 # File: module/Application/view/application/activities/index.phtml, line: 138
 # File: module/Application/view/application/activities/search.phtml, line: 597
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 610
@@ -3241,7 +3242,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 494
 # File: module/Application/view/application/insurances/search.phtml, line: 426
 # File: module/Application/view/application/insurances/passengers.phtml, line: 346
-# File: module/Application/view/application/packages/info.phtml, line: 1004
+# File: module/Application/view/application/packages/info.phtml, line: 498
 # File: module/Application/view/application/packages/passengers.phtml, line: 479
 # File: module/Application/view/application/trip-planner/select.phtml, line: 844
 # File: module/Application/view/application/cart/passengers.phtml, line: 754
@@ -3253,7 +3254,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1807
+# File: module/Application/view/application/index/index.phtml, line: 1828
 # File: module/Application/view/application/activities/index.phtml, line: 139
 # File: module/Application/view/application/activities/search.phtml, line: 598
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 611
@@ -3276,7 +3277,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 495
 # File: module/Application/view/application/insurances/search.phtml, line: 427
 # File: module/Application/view/application/insurances/passengers.phtml, line: 347
-# File: module/Application/view/application/packages/info.phtml, line: 1005
+# File: module/Application/view/application/packages/info.phtml, line: 499
 # File: module/Application/view/application/packages/passengers.phtml, line: 480
 # File: module/Application/view/application/trip-planner/select.phtml, line: 845
 # File: module/Application/view/application/cart/passengers.phtml, line: 755
@@ -3288,7 +3289,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1808
+# File: module/Application/view/application/index/index.phtml, line: 1829
 # File: module/Application/view/application/activities/index.phtml, line: 140
 # File: module/Application/view/application/activities/search.phtml, line: 599
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 612
@@ -3311,7 +3312,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 496
 # File: module/Application/view/application/insurances/search.phtml, line: 428
 # File: module/Application/view/application/insurances/passengers.phtml, line: 348
-# File: module/Application/view/application/packages/info.phtml, line: 1006
+# File: module/Application/view/application/packages/info.phtml, line: 500
 # File: module/Application/view/application/packages/passengers.phtml, line: 481
 # File: module/Application/view/application/trip-planner/select.phtml, line: 846
 # File: module/Application/view/application/cart/passengers.phtml, line: 756
@@ -3323,7 +3324,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1809
+# File: module/Application/view/application/index/index.phtml, line: 1830
 # File: module/Application/view/application/activities/index.phtml, line: 141
 # File: module/Application/view/application/activities/search.phtml, line: 600
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 613
@@ -3346,7 +3347,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 497
 # File: module/Application/view/application/insurances/search.phtml, line: 429
 # File: module/Application/view/application/insurances/passengers.phtml, line: 349
-# File: module/Application/view/application/packages/info.phtml, line: 1007
+# File: module/Application/view/application/packages/info.phtml, line: 501
 # File: module/Application/view/application/packages/passengers.phtml, line: 482
 # File: module/Application/view/application/trip-planner/select.phtml, line: 847
 # File: module/Application/view/application/cart/passengers.phtml, line: 757
@@ -3358,7 +3359,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1810
+# File: module/Application/view/application/index/index.phtml, line: 1831
 # File: module/Application/view/application/activities/index.phtml, line: 142
 # File: module/Application/view/application/activities/search.phtml, line: 601
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 614
@@ -3381,7 +3382,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 498
 # File: module/Application/view/application/insurances/search.phtml, line: 430
 # File: module/Application/view/application/insurances/passengers.phtml, line: 350
-# File: module/Application/view/application/packages/info.phtml, line: 1008
+# File: module/Application/view/application/packages/info.phtml, line: 502
 # File: module/Application/view/application/packages/passengers.phtml, line: 483
 # File: module/Application/view/application/trip-planner/select.phtml, line: 848
 # File: module/Application/view/application/cart/passengers.phtml, line: 758
@@ -3393,7 +3394,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1811
+# File: module/Application/view/application/index/index.phtml, line: 1832
 # File: module/Application/view/application/activities/index.phtml, line: 143
 # File: module/Application/view/application/activities/search.phtml, line: 602
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 615
@@ -3416,7 +3417,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 499
 # File: module/Application/view/application/insurances/search.phtml, line: 431
 # File: module/Application/view/application/insurances/passengers.phtml, line: 351
-# File: module/Application/view/application/packages/info.phtml, line: 1009
+# File: module/Application/view/application/packages/info.phtml, line: 503
 # File: module/Application/view/application/packages/passengers.phtml, line: 484
 # File: module/Application/view/application/trip-planner/select.phtml, line: 849
 # File: module/Application/view/application/cart/passengers.phtml, line: 759
@@ -3428,7 +3429,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1812
+# File: module/Application/view/application/index/index.phtml, line: 1833
 # File: module/Application/view/application/activities/index.phtml, line: 144
 # File: module/Application/view/application/activities/search.phtml, line: 603
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 616
@@ -3451,7 +3452,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 500
 # File: module/Application/view/application/insurances/search.phtml, line: 432
 # File: module/Application/view/application/insurances/passengers.phtml, line: 352
-# File: module/Application/view/application/packages/info.phtml, line: 1010
+# File: module/Application/view/application/packages/info.phtml, line: 504
 # File: module/Application/view/application/packages/passengers.phtml, line: 485
 # File: module/Application/view/application/trip-planner/select.phtml, line: 850
 # File: module/Application/view/application/cart/passengers.phtml, line: 760
@@ -3463,7 +3464,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1813
+# File: module/Application/view/application/index/index.phtml, line: 1834
 # File: module/Application/view/application/activities/index.phtml, line: 145
 # File: module/Application/view/application/activities/search.phtml, line: 604
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 617
@@ -3486,7 +3487,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 501
 # File: module/Application/view/application/insurances/search.phtml, line: 433
 # File: module/Application/view/application/insurances/passengers.phtml, line: 353
-# File: module/Application/view/application/packages/info.phtml, line: 1011
+# File: module/Application/view/application/packages/info.phtml, line: 505
 # File: module/Application/view/application/packages/passengers.phtml, line: 486
 # File: module/Application/view/application/trip-planner/select.phtml, line: 851
 # File: module/Application/view/application/cart/passengers.phtml, line: 761
@@ -3498,7 +3499,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 624
 # File: module/Application/view/application/cruises/passengers.phtml, line: 636
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
-# File: module/Application/view/application/index/index.phtml, line: 1814
+# File: module/Application/view/application/index/index.phtml, line: 1835
 # File: module/Application/view/application/activities/index.phtml, line: 146
 # File: module/Application/view/application/activities/search.phtml, line: 605
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 618
@@ -3521,7 +3522,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 502
 # File: module/Application/view/application/insurances/search.phtml, line: 434
 # File: module/Application/view/application/insurances/passengers.phtml, line: 354
-# File: module/Application/view/application/packages/info.phtml, line: 1012
+# File: module/Application/view/application/packages/info.phtml, line: 506
 # File: module/Application/view/application/packages/passengers.phtml, line: 487
 # File: module/Application/view/application/trip-planner/select.phtml, line: 852
 # File: module/Application/view/application/cart/passengers.phtml, line: 762
@@ -4073,7 +4074,7 @@ msgid "Explore trending countries"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 14
-# File: module/Application/view/application/index/index.phtml, line: 1446
+# File: module/Application/view/application/index/index.phtml, line: 1467
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 12
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 8
 # File: module/Application/view/application/content/destinations.phtml, line: 78
@@ -4115,7 +4116,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 49
 # File: module/Application/view/application/index/index.phtml, line: 205
-# File: module/Application/view/application/index/index.phtml, line: 1446
+# File: module/Application/view/application/index/index.phtml, line: 1467
 # File: module/Application/view/application/activities/index.phtml, line: 16
 # File: module/Application/view/application/activities/search.phtml, line: 16
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 47
@@ -4307,7 +4308,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 175
 # File: module/Application/view/application/index/index.phtml, line: 185
-# File: module/Application/view/application/index/index.phtml, line: 1416
+# File: module/Application/view/application/index/index.phtml, line: 1437
 # File: module/Application/view/application/hotels/index.phtml, line: 172
 # File: module/Application/view/application/insurances/index.phtml, line: 18
 # File: module/Application/view/application/insurances/index.phtml, line: 28
@@ -4319,8 +4320,8 @@ msgid "Mexico"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 180
-# File: module/Application/view/application/index/index.phtml, line: 1426
-# File: module/Application/view/application/index/index.phtml, line: 1436
+# File: module/Application/view/application/index/index.phtml, line: 1447
+# File: module/Application/view/application/index/index.phtml, line: 1457
 # File: module/Application/view/application/insurances/index.phtml, line: 23
 # File: module/Application/view/application/insurances/search.phtml, line: 35
 msgid "Dominican Republic"
@@ -4454,7 +4455,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 331
 # File: module/Application/view/application/index/index.phtml, line: 412
-# File: module/Application/view/application/index/index.phtml, line: 1817
+# File: module/Application/view/application/index/index.phtml, line: 1838
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 621
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 432
 # File: module/Application/view/application/hotels/index.phtml, line: 98
@@ -4503,7 +4504,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 135
 # File: module/Application/view/application/insurances/index.phtml, line: 117
 # File: module/Application/view/application/insurances/search.phtml, line: 104
-# File: module/Application/view/application/packages/info.phtml, line: 933
+# File: module/Application/view/application/packages/info.phtml, line: 427
 # File: module/Application/view/application/trip-planner/index.phtml, line: 19
 # File: module/Application/view/application/destinations/index.phtml, line: 334
 # File: module/Application/view/application/destinations/index.phtml, line: 375
@@ -4620,7 +4621,7 @@ msgid "add Flight"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 502
-# File: module/Application/view/application/index/index.phtml, line: 1818
+# File: module/Application/view/application/index/index.phtml, line: 1839
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 221
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 236
@@ -4662,7 +4663,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 194
 # File: module/Application/view/application/insurances/payment.phtml, line: 105
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
-# File: module/Application/view/application/packages/info.phtml, line: 1014
+# File: module/Application/view/application/packages/info.phtml, line: 508
 # File: module/Application/view/application/packages/summary.phtml, line: 63
 # File: module/Application/view/application/packages/summary.phtml, line: 148
 # File: module/Application/view/application/packages/confirm.phtml, line: 77
@@ -4976,75 +4977,79 @@ msgstr ""
 msgid "Select drop off hour"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1035
+# File: module/Application/view/application/index/index.phtml, line: 1032
+msgid "Popular Packages"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1056
 msgid "Whether you want to hit the jackpot, watch a dazzling show, or party all night, Las Vegas has it all. Book your trip now and get ready for the ultimate adventure."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1036
+# File: module/Application/view/application/index/index.phtml, line: 1057
 msgid "Las Vegas"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1037
+# File: module/Application/view/application/index/index.phtml, line: 1058
 msgid "The City That Never Sleeps"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1043
-# File: module/Application/view/application/index/index.phtml, line: 1044
-# File: module/Application/view/application/index/index.phtml, line: 1416
+# File: module/Application/view/application/index/index.phtml, line: 1064
+# File: module/Application/view/application/index/index.phtml, line: 1065
+# File: module/Application/view/application/index/index.phtml, line: 1437
 # File: module/Application/view/application/activities/index.phtml, line: 4
 # File: module/Application/view/application/activities/search.phtml, line: 4
 msgid "Cancun"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1043
+# File: module/Application/view/application/index/index.phtml, line: 1064
 msgid "Enjoy the sun, sand, and sea in one of the most popular destinations in Mexico. Whether you want to relax on the beach, swim with dolphins, or explore ancient Mayan ruins, Cancun has it all. Book your trip now and discover the beauty of Cancun."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1045
+# File: module/Application/view/application/index/index.phtml, line: 1066
 msgid "The Tropical Paradise"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1053
-# File: module/Application/view/application/index/index.phtml, line: 1054
+# File: module/Application/view/application/index/index.phtml, line: 1074
+# File: module/Application/view/application/index/index.phtml, line: 1075
 # File: module/Application/view/application/trip-planner/select.phtml, line: 48
 msgid "New York City"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1055
+# File: module/Application/view/application/index/index.phtml, line: 1076
 msgid "The Big Apple"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1063
-# File: module/Application/view/application/index/index.phtml, line: 1064
+# File: module/Application/view/application/index/index.phtml, line: 1084
+# File: module/Application/view/application/index/index.phtml, line: 1085
 msgid "Barcelona"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1063
+# File: module/Application/view/application/index/index.phtml, line: 1084
 msgid "Experience the charm and beauty of one of the most vibrant cities in Europe. Whether you want to admire the stunning architecture of Gaudi, visit the world-class museums and galleries, or enjoy the delicious tapas and wine, Barcelona has it all. Book your trip now and explore the wonders of Barcelona."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1065
+# File: module/Application/view/application/index/index.phtml, line: 1086
 msgid "The City of Art and Culture"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1074
-# File: module/Application/view/application/index/index.phtml, line: 1076
+# File: module/Application/view/application/index/index.phtml, line: 1095
+# File: module/Application/view/application/index/index.phtml, line: 1097
 msgid "Santo Domingo"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1074
+# File: module/Application/view/application/index/index.phtml, line: 1095
 msgid "Experience the history and culture of the oldest city in the Americas. Whether you want to visit the impressive monuments, museums, and churches, enjoy the lively music and dance, or taste the rich cuisine and coffee, Santo Domingo has it all. Book your trip now and discover the charm of Santo Domingo."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1077
+# File: module/Application/view/application/index/index.phtml, line: 1098
 msgid "The Colonial Jewel"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1085
+# File: module/Application/view/application/index/index.phtml, line: 1106
 msgid "view more destinations"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1169
+# File: module/Application/view/application/index/index.phtml, line: 1190
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 324
 # File: module/Application/view/application/content/destinations.phtml, line: 5
 # File: module/Application/view/error/404.phtml, line: 45
@@ -5052,191 +5057,191 @@ msgstr ""
 msgid "Destinations"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1170
+# File: module/Application/view/application/index/index.phtml, line: 1191
 # File: module/Application/view/error/404.phtml, line: 46
 msgid "Where do you want to go? Type your dream destination and explore the best deals on flights, hotels, and activities. Whether you are looking for a relaxing beach getaway, a cultural city break, or an adventurous mountain trek, we have something for you. Just enter your desired location and let us do the rest."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1184
+# File: module/Application/view/application/index/index.phtml, line: 1205
 msgid "Winter Destinations"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1355
+# File: module/Application/view/application/index/index.phtml, line: 1376
 # File: module/Application/view/application/air/index.phtml, line: 277
 msgid "American Airlines - Fly with Confidence and Comfort"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1356
+# File: module/Application/view/application/index/index.phtml, line: 1377
 # File: module/Application/view/application/air/index.phtml, line: 278
 msgid "United Airlines Flights - Find Cheap Deals and Save Money"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1357
+# File: module/Application/view/application/index/index.phtml, line: 1378
 # File: module/Application/view/application/air/index.phtml, line: 279
 msgid "Delta Air Lines - The Leader in Domestic and International Travel"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1358
+# File: module/Application/view/application/index/index.phtml, line: 1379
 # File: module/Application/view/application/air/index.phtml, line: 280
 msgid "LATAM Airlines - The Largest Airline in Latin America"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1359
+# File: module/Application/view/application/index/index.phtml, line: 1380
 # File: module/Application/view/application/air/index.phtml, line: 281
 msgid "Aeromexico - The Flag Carrier of Mexico and a SkyTeam Member"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1360
+# File: module/Application/view/application/index/index.phtml, line: 1381
 # File: module/Application/view/application/air/index.phtml, line: 282
 msgid "Avianca - The Leading Airline in Latin America and a Star Alliance Member"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1361
+# File: module/Application/view/application/index/index.phtml, line: 1382
 # File: module/Application/view/application/air/index.phtml, line: 283
 #, php-format
 msgid "Book cheap flights with jetBlue and Save up to 50% on JetBlue flights"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1362
+# File: module/Application/view/application/index/index.phtml, line: 1383
 # File: module/Application/view/application/air/index.phtml, line: 284
 msgid "Book cheap flights with Air Europa"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1364
+# File: module/Application/view/application/index/index.phtml, line: 1385
 # File: module/Application/view/application/air/index.phtml, line: 286
 msgid "American Airlines - Your Travel Companion for Any Occasion"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1365
+# File: module/Application/view/application/index/index.phtml, line: 1386
 # File: module/Application/view/application/air/index.phtml, line: 287
 msgid "Book Your Next Trip with United Airlines - The Best Travel Partner"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1366
+# File: module/Application/view/application/index/index.phtml, line: 1387
 # File: module/Application/view/application/air/index.phtml, line: 288
 msgid "Delta Air Lines - Fly with the Best in the Sky"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1367
+# File: module/Application/view/application/index/index.phtml, line: 1388
 # File: module/Application/view/application/air/index.phtml, line: 289
 msgid "LATAM Airlines - Fly to Latin America and Beyond with the Best Airline"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1368
+# File: module/Application/view/application/index/index.phtml, line: 1389
 # File: module/Application/view/application/air/index.phtml, line: 290
 msgid "Aeromexico - Fly with Mexico's Premier Airline and Enjoy the SkyTeam Benefits"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1369
+# File: module/Application/view/application/index/index.phtml, line: 1390
 # File: module/Application/view/application/air/index.phtml, line: 291
 msgid "Avianca - Fly with the Best in Latin America and the World"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1370
+# File: module/Application/view/application/index/index.phtml, line: 1391
 # File: module/Application/view/application/air/index.phtml, line: 292
 msgid "Plan your dream vacation with jetBlue"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1371
+# File: module/Application/view/application/index/index.phtml, line: 1392
 # File: module/Application/view/application/air/index.phtml, line: 293
 msgid "Discover the best offers from Air Europa"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1384
+# File: module/Application/view/application/index/index.phtml, line: 1405
 msgid "Discover Peru: A Land of Wonders"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1385
+# File: module/Application/view/application/index/index.phtml, line: 1406
 msgid "Peru is a country of wonders, where you can explore ancient ruins, diverse landscapes, and vibrant cultures. You can visit Machu Picchu, one of the 7 Wonders of the World, and marvel at the Inca legacy. You can enjoy the sunny beaches of the coast, the majestic mountains of the highlands, and the lush rainforest of the Amazon. You can taste the delicious Peruvian cuisine, from ceviche to alpaca, and sip the famous Pisco Sour. You can experience the colorful festivals, the rich art, and the friendly people of Peru. Peru is a destination you will never forget."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1386
+# File: module/Application/view/application/index/index.phtml, line: 1407
 msgid "Discover Peru"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1399
+# File: module/Application/view/application/index/index.phtml, line: 1420
 # File: module/Application/view/application/content/destinations.phtml, line: 129
 msgid "NEW SANDALS DESTINATION"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1400
+# File: module/Application/view/application/index/index.phtml, line: 1421
 # File: module/Application/view/application/content/destinations.phtml, line: 130
 msgid "Sandals Resort in Saint Vincent and the Grenadines Grand Opening March 27, 2024"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1401
-# File: module/Application/view/application/packages/info.phtml, line: 956
+# File: module/Application/view/application/index/index.phtml, line: 1422
+# File: module/Application/view/application/packages/info.phtml, line: 450
 # File: module/Application/view/application/content/destinations.phtml, line: 131
 # File: module/Application/view/offers/lastminute/index.phtml, line: 642
 msgid "Book Now"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1414
+# File: module/Application/view/application/index/index.phtml, line: 1435
 msgid "Cancun: Where adventure and culture meet."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1414
+# File: module/Application/view/application/index/index.phtml, line: 1435
 msgid "Cancun: Sun, sea and history in one city."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1417
+# File: module/Application/view/application/index/index.phtml, line: 1438
 msgid "Cancun: A Caribbean paradise with a Maya touch."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1418
-# File: module/Application/view/application/index/index.phtml, line: 1428
-# File: module/Application/view/application/index/index.phtml, line: 1438
-# File: module/Application/view/application/index/index.phtml, line: 1448
+# File: module/Application/view/application/index/index.phtml, line: 1439
+# File: module/Application/view/application/index/index.phtml, line: 1449
+# File: module/Application/view/application/index/index.phtml, line: 1459
+# File: module/Application/view/application/index/index.phtml, line: 1469
 msgid "view"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1424
+# File: module/Application/view/application/index/index.phtml, line: 1445
 msgid " Playa Bavaro: The ultimate Caribbean getaway."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1424
+# File: module/Application/view/application/index/index.phtml, line: 1445
 msgid "Playa Bavaro: Where dreams come true."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1426
+# File: module/Application/view/application/index/index.phtml, line: 1447
 msgid "Playa Bavaro"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1427
+# File: module/Application/view/application/index/index.phtml, line: 1448
 msgid "Playa Bavaro: White sand, blue water, endless fun."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1434
+# File: module/Application/view/application/index/index.phtml, line: 1455
 msgid "Experience Punta Cana: The perfect blend of nature, history, and culture"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1434
+# File: module/Application/view/application/index/index.phtml, line: 1455
 msgid "Punta Cana: The ultimate Caribbean escape"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1436
+# File: module/Application/view/application/index/index.phtml, line: 1457
 # File: module/Application/view/application/activities/index.phtml, line: 8
 # File: module/Application/view/application/activities/search.phtml, line: 8
 msgid "Punta Cana"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1437
+# File: module/Application/view/application/index/index.phtml, line: 1458
 msgid "Discover Punta Cana: Where dreams come true."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1444
+# File: module/Application/view/application/index/index.phtml, line: 1465
 msgid "Madrid: A lively and cosmopolitan city with something for everyone."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1444
+# File: module/Application/view/application/index/index.phtml, line: 1465
 msgid "Madrid: Art, culture and history in the heart of Spain."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1447
+# File: module/Application/view/application/index/index.phtml, line: 1468
 msgid "Madrid: Enjoy the beauty, charm and excitement of Spain's capital."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1792
+# File: module/Application/view/application/index/index.phtml, line: 1813
 # File: module/Application/view/application/activities/index.phtml, line: 124
 # File: module/Application/view/application/activities/search.phtml, line: 583
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 596
@@ -5257,7 +5262,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 480
 # File: module/Application/view/application/insurances/search.phtml, line: 412
 # File: module/Application/view/application/insurances/passengers.phtml, line: 332
-# File: module/Application/view/application/packages/info.phtml, line: 990
+# File: module/Application/view/application/packages/info.phtml, line: 484
 # File: module/Application/view/application/packages/passengers.phtml, line: 465
 # File: module/Application/view/application/trip-planner/select.phtml, line: 830
 # File: module/Application/view/application/cart/passengers.phtml, line: 740
@@ -5265,7 +5270,7 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1793
+# File: module/Application/view/application/index/index.phtml, line: 1814
 # File: module/Application/view/application/activities/index.phtml, line: 125
 # File: module/Application/view/application/activities/search.phtml, line: 584
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 597
@@ -5286,7 +5291,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 481
 # File: module/Application/view/application/insurances/search.phtml, line: 413
 # File: module/Application/view/application/insurances/passengers.phtml, line: 333
-# File: module/Application/view/application/packages/info.phtml, line: 991
+# File: module/Application/view/application/packages/info.phtml, line: 485
 # File: module/Application/view/application/packages/passengers.phtml, line: 466
 # File: module/Application/view/application/trip-planner/select.phtml, line: 831
 # File: module/Application/view/application/cart/passengers.phtml, line: 741
@@ -5294,7 +5299,7 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1795
+# File: module/Application/view/application/index/index.phtml, line: 1816
 # File: module/Application/view/application/activities/index.phtml, line: 127
 # File: module/Application/view/application/activities/search.phtml, line: 586
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 599
@@ -5316,7 +5321,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 415
 # File: module/Application/view/application/insurances/summary.phtml, line: 99
 # File: module/Application/view/application/insurances/passengers.phtml, line: 335
-# File: module/Application/view/application/packages/info.phtml, line: 993
+# File: module/Application/view/application/packages/info.phtml, line: 487
 # File: module/Application/view/application/packages/passengers.phtml, line: 468
 # File: module/Application/view/application/trip-planner/select.phtml, line: 833
 # File: module/Application/view/application/cart/passengers.phtml, line: 743
@@ -5324,7 +5329,7 @@ msgstr ""
 msgid "To"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1796
+# File: module/Application/view/application/index/index.phtml, line: 1817
 # File: module/Application/view/application/activities/index.phtml, line: 128
 # File: module/Application/view/application/activities/search.phtml, line: 587
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 600
@@ -5345,7 +5350,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 484
 # File: module/Application/view/application/insurances/search.phtml, line: 416
 # File: module/Application/view/application/insurances/passengers.phtml, line: 336
-# File: module/Application/view/application/packages/info.phtml, line: 994
+# File: module/Application/view/application/packages/info.phtml, line: 488
 # File: module/Application/view/application/packages/passengers.phtml, line: 469
 # File: module/Application/view/application/trip-planner/select.phtml, line: 834
 # File: module/Application/view/application/cart/passengers.phtml, line: 744
@@ -5353,7 +5358,7 @@ msgstr ""
 msgid "Su"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1797
+# File: module/Application/view/application/index/index.phtml, line: 1818
 # File: module/Application/view/application/activities/index.phtml, line: 129
 # File: module/Application/view/application/activities/search.phtml, line: 588
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 601
@@ -5374,7 +5379,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 485
 # File: module/Application/view/application/insurances/search.phtml, line: 417
 # File: module/Application/view/application/insurances/passengers.phtml, line: 337
-# File: module/Application/view/application/packages/info.phtml, line: 995
+# File: module/Application/view/application/packages/info.phtml, line: 489
 # File: module/Application/view/application/packages/passengers.phtml, line: 470
 # File: module/Application/view/application/trip-planner/select.phtml, line: 835
 # File: module/Application/view/application/cart/passengers.phtml, line: 745
@@ -5382,7 +5387,7 @@ msgstr ""
 msgid "Mo"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1798
+# File: module/Application/view/application/index/index.phtml, line: 1819
 # File: module/Application/view/application/activities/index.phtml, line: 130
 # File: module/Application/view/application/activities/search.phtml, line: 589
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 602
@@ -5403,7 +5408,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 486
 # File: module/Application/view/application/insurances/search.phtml, line: 418
 # File: module/Application/view/application/insurances/passengers.phtml, line: 338
-# File: module/Application/view/application/packages/info.phtml, line: 996
+# File: module/Application/view/application/packages/info.phtml, line: 490
 # File: module/Application/view/application/packages/passengers.phtml, line: 471
 # File: module/Application/view/application/trip-planner/select.phtml, line: 836
 # File: module/Application/view/application/cart/passengers.phtml, line: 746
@@ -5411,7 +5416,7 @@ msgstr ""
 msgid "Tu"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1799
+# File: module/Application/view/application/index/index.phtml, line: 1820
 # File: module/Application/view/application/activities/index.phtml, line: 131
 # File: module/Application/view/application/activities/search.phtml, line: 590
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 603
@@ -5432,7 +5437,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 487
 # File: module/Application/view/application/insurances/search.phtml, line: 419
 # File: module/Application/view/application/insurances/passengers.phtml, line: 339
-# File: module/Application/view/application/packages/info.phtml, line: 997
+# File: module/Application/view/application/packages/info.phtml, line: 491
 # File: module/Application/view/application/packages/passengers.phtml, line: 472
 # File: module/Application/view/application/trip-planner/select.phtml, line: 837
 # File: module/Application/view/application/cart/passengers.phtml, line: 747
@@ -5440,7 +5445,7 @@ msgstr ""
 msgid "We"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1800
+# File: module/Application/view/application/index/index.phtml, line: 1821
 # File: module/Application/view/application/activities/index.phtml, line: 132
 # File: module/Application/view/application/activities/search.phtml, line: 591
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 604
@@ -5461,7 +5466,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 488
 # File: module/Application/view/application/insurances/search.phtml, line: 420
 # File: module/Application/view/application/insurances/passengers.phtml, line: 340
-# File: module/Application/view/application/packages/info.phtml, line: 998
+# File: module/Application/view/application/packages/info.phtml, line: 492
 # File: module/Application/view/application/packages/passengers.phtml, line: 473
 # File: module/Application/view/application/trip-planner/select.phtml, line: 838
 # File: module/Application/view/application/cart/passengers.phtml, line: 748
@@ -5469,7 +5474,7 @@ msgstr ""
 msgid "Th"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1801
+# File: module/Application/view/application/index/index.phtml, line: 1822
 # File: module/Application/view/application/activities/index.phtml, line: 133
 # File: module/Application/view/application/activities/search.phtml, line: 592
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 605
@@ -5490,7 +5495,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 489
 # File: module/Application/view/application/insurances/search.phtml, line: 421
 # File: module/Application/view/application/insurances/passengers.phtml, line: 341
-# File: module/Application/view/application/packages/info.phtml, line: 999
+# File: module/Application/view/application/packages/info.phtml, line: 493
 # File: module/Application/view/application/packages/passengers.phtml, line: 474
 # File: module/Application/view/application/trip-planner/select.phtml, line: 839
 # File: module/Application/view/application/cart/passengers.phtml, line: 749
@@ -5498,7 +5503,7 @@ msgstr ""
 msgid "Fr"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1802
+# File: module/Application/view/application/index/index.phtml, line: 1823
 # File: module/Application/view/application/activities/index.phtml, line: 134
 # File: module/Application/view/application/activities/search.phtml, line: 593
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 606
@@ -5519,7 +5524,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 490
 # File: module/Application/view/application/insurances/search.phtml, line: 422
 # File: module/Application/view/application/insurances/passengers.phtml, line: 342
-# File: module/Application/view/application/packages/info.phtml, line: 1000
+# File: module/Application/view/application/packages/info.phtml, line: 494
 # File: module/Application/view/application/packages/passengers.phtml, line: 475
 # File: module/Application/view/application/trip-planner/select.phtml, line: 840
 # File: module/Application/view/application/cart/passengers.phtml, line: 750
@@ -5527,7 +5532,7 @@ msgstr ""
 msgid "Sa"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1815
+# File: module/Application/view/application/index/index.phtml, line: 1836
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 619
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 236
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 430
@@ -5544,13 +5549,13 @@ msgstr ""
 # File: module/Application/view/application/hotels/list.phtml, line: 604
 # File: module/Application/view/application/hotels/brands.phtml, line: 380
 # File: module/Application/view/application/transfers/index.phtml, line: 208
-# File: module/Application/view/application/packages/info.phtml, line: 1013
+# File: module/Application/view/application/packages/info.phtml, line: 507
 # File: module/Application/view/application/trip-planner/select.phtml, line: 853
 # File: module/Application/view/application/destinations/index.phtml, line: 881
 msgid "Age"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1820
+# File: module/Application/view/application/index/index.phtml, line: 1841
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 624
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 435
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 53
@@ -5600,7 +5605,7 @@ msgstr ""
 msgid "Adult"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1827
+# File: module/Application/view/application/index/index.phtml, line: 1848
 # File: module/Application/view/application/air/index.phtml, line: 610
 # File: module/Application/view/application/air/search.phtml, line: 785
 # File: module/Application/view/application/air/return.phtml, line: 540
@@ -5621,7 +5626,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1185
 # File: module/Application/view/application/hotels/info.phtml, line: 887
 # File: module/Application/view/application/transfers/index.phtml, line: 210
-# File: module/Application/view/application/packages/info.phtml, line: 1015
+# File: module/Application/view/application/packages/info.phtml, line: 509
 # File: module/Application/view/application/trip-planner/select.phtml, line: 855
 # File: module/Application/view/application/cart/summary.phtml, line: 1098
 # File: module/Application/view/application/cart/summary.phtml, line: 1109
@@ -5639,7 +5644,7 @@ msgstr ""
 msgid "Flight"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 1828
+# File: module/Application/view/application/index/index.phtml, line: 1849
 # File: module/Application/view/application/air/index.phtml, line: 611
 # File: module/Application/view/application/air/search.phtml, line: 786
 # File: module/Application/view/application/air/return.phtml, line: 541
@@ -5647,7 +5652,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1186
 # File: module/Application/view/application/hotels/info.phtml, line: 888
 # File: module/Application/view/application/transfers/index.phtml, line: 211
-# File: module/Application/view/application/packages/info.phtml, line: 1016
+# File: module/Application/view/application/packages/info.phtml, line: 510
 # File: module/Application/view/application/trip-planner/select.phtml, line: 856
 # File: module/Application/view/application/destinations/index.phtml, line: 884
 msgid "Remove"
@@ -5701,7 +5706,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 98
 # File: module/Application/view/application/login/signout.phtml, line: 96
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 50
-# File: module/Application/view/application/packages/info.phtml, line: 1019
+# File: module/Application/view/application/packages/info.phtml, line: 513
 # File: module/Application/view/application/packages/passengers.phtml, line: 455
 # File: module/Application/view/application/trip-planner/select.phtml, line: 661
 # File: module/Application/view/application/cart/passengers.phtml, line: 730
@@ -7189,7 +7194,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 119
 # File: module/Application/view/application/hotels/info.phtml, line: 140
 # File: module/Application/view/application/hotels/info.phtml, line: 177
-# File: module/Application/view/application/packages/info.phtml, line: 100
+# File: module/Application/view/application/packages/info.phtml, line: 102
 # File: module/Application/view/application/cart/summary.phtml, line: 118
 # File: module/Application/view/application/cart/summary.phtml, line: 164
 # File: module/Application/view/application/cart/summary.phtml, line: 362
@@ -9484,15 +9489,15 @@ msgstr ""
 msgid "dinners"
 msgstr ""
 #
-# File: module/Application/view/application/packages/info.phtml, line: 92
+# File: module/Application/view/application/packages/info.phtml, line: 94
 msgid "Destinations:"
 msgstr ""
 #
-# File: module/Application/view/application/packages/info.phtml, line: 963
+# File: module/Application/view/application/packages/info.phtml, line: 457
 msgid "Package Excludes"
 msgstr ""
 #
-# File: module/Application/view/application/packages/info.phtml, line: 975
+# File: module/Application/view/application/packages/info.phtml, line: 469
 msgid "Package Includes"
 msgstr ""
 #
