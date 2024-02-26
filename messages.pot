@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-26 20:40+0000\n"
+"POT-Creation-Date: 2024-02-26 21:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1961,7 +1961,7 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 47
 # File: module/Application/view/application/insurances/passengers.phtml, line: 28
 # File: module/Application/view/application/insurances/passengers.phtml, line: 65
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 22
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 41
 # File: module/Application/view/application/login/register.phtml, line: 56
 # File: module/Application/view/application/login/profile.phtml, line: 73
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 30
@@ -1978,6 +1978,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/agent/profile.phtml, line: 45
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 41
 msgid "Email"
 msgstr ""
 #
@@ -2293,7 +2294,7 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 48
 # File: module/Application/view/application/insurances/passengers.phtml, line: 29
 # File: module/Application/view/application/insurances/passengers.phtml, line: 66
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 23
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 42
 # File: module/Application/view/application/login/register.phtml, line: 55
 # File: module/Application/view/application/packages/passengers.phtml, line: 41
 # File: module/Application/view/application/packages/passengers.phtml, line: 104
@@ -2307,6 +2308,7 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 117
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/contactus.phtml, line: 42
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 42
 msgid "Phone"
 msgstr ""
 #
@@ -4008,6 +4010,7 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 10
 # File: module/Application/view/application/content/support.phtml, line: 10
 # File: module/Application/view/application/content/contactus.phtml, line: 10
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
 msgid "Confirmation"
 msgstr ""
 #
@@ -5698,6 +5701,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 896
 # File: module/Application/view/application/hotels/passengers.phtml, line: 471
 # File: module/Application/view/application/login/index.phtml, line: 102
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 79
 # File: module/Application/view/application/login/signout.phtml, line: 96
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 50
 # File: module/Application/view/application/packages/info.phtml, line: 497
@@ -5706,6 +5710,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 730
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/application/agent/login.phtml, line: 104
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 79
 # File: module/Application/view/layout/layout.phtml, line: 738
 msgid "Please wait..."
 msgstr ""
@@ -9138,30 +9143,53 @@ msgid "Login with Facebook"
 msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 89
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 66
 # File: module/Application/view/application/login/signout.phtml, line: 83
 # File: module/Application/view/application/agent/login.phtml, line: 91
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 66
 msgid "Email is required! Please input your email address."
 msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 96
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 73
 # File: module/Application/view/application/login/signout.phtml, line: 90
 # File: module/Application/view/application/agent/login.phtml, line: 98
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 73
 msgid "Password is required! Please input your password."
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 6
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 6
 msgid "Forgot Password"
 msgstr ""
 #
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 14
-msgid "If you have forgotten your password, please fill out the form below and we will send you a link to create a new one:"
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 15
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 15
+msgid "We will email you a link and instructions for updating your password. Please check your email and click the link in the message. It should be there momentarily. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
 msgstr ""
 #
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 19
-msgid "Forgot Password - Reset Your Account"
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 21
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 21
+msgid "There was a problem processing your request. Please Try again."
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 27
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 27
+msgid "A temporary password will be sent to the email address you have provided. Please log in with the temporary password and change it to a password of your choice as soon as possible. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
+msgstr ""
+#
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 33
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 33
+msgid "If you have forgotten your password, please fill out the form below and we will send you a link to create a new one:"
+msgstr ""
+#
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 37
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 37
+msgid "Forgot Password - Reset Your Account"
+msgstr ""
+#
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 47
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 47
 msgid "Reset password"
 msgstr ""
 #
