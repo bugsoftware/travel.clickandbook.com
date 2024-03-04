@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-01 16:07+0000\n"
+"POT-Creation-Date: 2024-03-04 17:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1137,7 +1137,7 @@ msgstr ""
 # File: module/Application/view/application/cars/summary.phtml, line: 274
 # File: module/Application/view/application/cars/payment.phtml, line: 415
 # File: module/Application/view/application/insurances/payment.phtml, line: 319
-# File: module/Application/view/application/login/profile.phtml, line: 301
+# File: module/Application/view/application/login/profile.phtml, line: 302
 # File: module/Application/view/application/packages/info.phtml, line: 524
 # File: module/Application/view/application/packages/summary.phtml, line: 331
 # File: module/Application/view/application/packages/summary.phtml, line: 356
@@ -2910,7 +2910,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 233
 # File: module/Application/view/application/cars/payment.phtml, line: 227
 # File: module/Application/view/application/insurances/payment.phtml, line: 131
-# File: module/Application/view/application/login/profile.phtml, line: 89
+# File: module/Application/view/application/login/profile.phtml, line: 90
 # File: module/Application/view/application/packages/payment.phtml, line: 232
 # File: module/Application/view/application/cart/payment.phtml, line: 436
 # File: module/Application/view/application/booking/paynow.phtml, line: 478
@@ -3811,7 +3811,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 241
 # File: module/Application/view/application/cars/payment.phtml, line: 235
 # File: module/Application/view/application/insurances/payment.phtml, line: 139
-# File: module/Application/view/application/login/profile.phtml, line: 97
+# File: module/Application/view/application/login/profile.phtml, line: 98
 # File: module/Application/view/application/packages/payment.phtml, line: 240
 # File: module/Application/view/application/cart/payment.phtml, line: 484
 # File: module/Application/view/application/booking/paynow.phtml, line: 488
@@ -3826,7 +3826,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 242
 # File: module/Application/view/application/cars/payment.phtml, line: 236
 # File: module/Application/view/application/insurances/payment.phtml, line: 140
-# File: module/Application/view/application/login/profile.phtml, line: 98
+# File: module/Application/view/application/login/profile.phtml, line: 99
 # File: module/Application/view/application/packages/payment.phtml, line: 241
 # File: module/Application/view/application/cart/payment.phtml, line: 485
 # File: module/Application/view/application/booking/paynow.phtml, line: 489
@@ -3841,7 +3841,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 243
 # File: module/Application/view/application/cars/payment.phtml, line: 237
 # File: module/Application/view/application/insurances/payment.phtml, line: 141
-# File: module/Application/view/application/login/profile.phtml, line: 99
+# File: module/Application/view/application/login/profile.phtml, line: 100
 # File: module/Application/view/application/packages/payment.phtml, line: 242
 # File: module/Application/view/application/cart/payment.phtml, line: 486
 # File: module/Application/view/application/booking/paynow.phtml, line: 490
@@ -3856,7 +3856,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 244
 # File: module/Application/view/application/cars/payment.phtml, line: 238
 # File: module/Application/view/application/insurances/payment.phtml, line: 142
-# File: module/Application/view/application/login/profile.phtml, line: 100
+# File: module/Application/view/application/login/profile.phtml, line: 101
 # File: module/Application/view/application/packages/payment.phtml, line: 243
 # File: module/Application/view/application/cart/payment.phtml, line: 487
 # File: module/Application/view/application/booking/paynow.phtml, line: 491
@@ -3871,7 +3871,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 245
 # File: module/Application/view/application/cars/payment.phtml, line: 239
 # File: module/Application/view/application/insurances/payment.phtml, line: 143
-# File: module/Application/view/application/login/profile.phtml, line: 101
+# File: module/Application/view/application/login/profile.phtml, line: 102
 # File: module/Application/view/application/packages/payment.phtml, line: 244
 # File: module/Application/view/application/cart/payment.phtml, line: 488
 # File: module/Application/view/application/booking/paynow.phtml, line: 492
@@ -9339,7 +9339,7 @@ msgid "Please use the form below to update your profile and keep your contact in
 msgstr ""
 #
 # File: module/Application/view/application/login/profile.phtml, line: 61
-# File: module/Application/view/application/login/settings.phtml, line: 21
+# File: module/Application/view/application/login/settings.phtml, line: 35
 # File: module/Application/view/application/agent/profile.phtml, line: 35
 msgid "Edit your profile"
 msgstr ""
@@ -9367,65 +9367,97 @@ msgstr ""
 msgid "National Document"
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 80
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "Preferred language"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "Select Language"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "English"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "Spanish"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "Portuguese"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "French"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "Italian"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 77
+msgid "German"
+msgstr ""
+#
+# File: module/Application/view/application/login/profile.phtml, line: 81
 # File: module/Application/view/application/agent/profile.phtml, line: 50
 msgid "Update profile"
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 202
+# File: module/Application/view/application/login/profile.phtml, line: 203
 # File: module/Application/view/application/agent/profile.phtml, line: 83
 msgid "First Name is required! Please input First Name."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 210
+# File: module/Application/view/application/login/profile.phtml, line: 211
 # File: module/Application/view/application/agent/profile.phtml, line: 91
 msgid "Last Name is required! Please input Last Name."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 218
+# File: module/Application/view/application/login/profile.phtml, line: 219
 # File: module/Application/view/application/agent/profile.phtml, line: 99
 msgid "Country is required! Please select Country."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 226
+# File: module/Application/view/application/login/profile.phtml, line: 227
 # File: module/Application/view/application/agent/profile.phtml, line: 107
 msgid "Address is required! Please input Address."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 234
+# File: module/Application/view/application/login/profile.phtml, line: 235
 # File: module/Application/view/application/agent/profile.phtml, line: 123
 msgid "City is required! Please input City."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 242
+# File: module/Application/view/application/login/profile.phtml, line: 243
 # File: module/Application/view/application/agent/profile.phtml, line: 115
 msgid "State is required! Please input State."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 250
+# File: module/Application/view/application/login/profile.phtml, line: 251
 # File: module/Application/view/application/agent/profile.phtml, line: 131
 msgid "Zip/Postal Code is required! Please input Zip/Postal Code."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 258
+# File: module/Application/view/application/login/profile.phtml, line: 259
 # File: module/Application/view/application/agent/profile.phtml, line: 139
 msgid "Email is required! Please input Email."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 266
+# File: module/Application/view/application/login/profile.phtml, line: 267
 # File: module/Application/view/application/agent/profile.phtml, line: 147
 msgid "Phone number is required! Please input Phone number."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 274
+# File: module/Application/view/application/login/profile.phtml, line: 275
 msgid "Date of Birth is required! Please input Date of Birth."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 282
+# File: module/Application/view/application/login/profile.phtml, line: 283
 msgid "Document Type is required! Please input Document Type."
 msgstr ""
 #
-# File: module/Application/view/application/login/profile.phtml, line: 290
+# File: module/Application/view/application/login/profile.phtml, line: 291
 msgid "Document Number is required! Please input Document Number."
 msgstr ""
 #
@@ -9438,7 +9470,15 @@ msgstr ""
 msgid "You can customize your preferences and options by adjusting the settings below:"
 msgstr ""
 #
-# File: module/Application/view/application/login/settings.phtml, line: 29
+# File: module/Application/view/application/login/settings.phtml, line: 20
+msgid "Do not send Promotional Emails"
+msgstr ""
+#
+# File: module/Application/view/application/login/settings.phtml, line: 27
+msgid "Do not send Whatsapp Promotions"
+msgstr ""
+#
+# File: module/Application/view/application/login/settings.phtml, line: 43
 msgid "Update settings"
 msgstr ""
 #
