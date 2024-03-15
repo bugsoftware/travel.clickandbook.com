@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-14 17:18+0000\n"
+"POT-Creation-Date: 2024-03-15 13:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7707,6 +7707,7 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 199
 # File: module/Application/view/application/content/contactus.phtml, line: 60
 # File: module/Application/view/application/agent/addnew.phtml, line: 66
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 78
 msgid "Submit"
 msgstr ""
 #
@@ -10839,6 +10840,43 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 45
 msgid "Use this form to register new sub-agents. Sub-agents will have the ability to log in and make reservations under your own account."
+msgstr ""
+#
+# File: module/Application/view/application/agent/addnew.phtml, line: 137
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 89
+msgid "Please wait"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 16
+msgid "Hotel Markup Settings"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 25
+msgid "If you want to add a percentage of markup to the base price of the hotel reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 40
+msgid "If you want to add a markup fee to the base price of the hotel reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 55
+msgid "Hotel Markup Visibility"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 62
+msgid "Include in the price: This option will include the hotel markup in the price of the hotel that the customer sees. The customer will not see the base price or the markup separately, only the total price."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 63
+msgid "If you choose this option, the customer may compare the price of the hotel with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 69
+msgid "Show as a service fee: This option will add the hotel markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the hotel and the service fee separately, and the total price will be the sum of both."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 70
+msgid "This option may be more transparent, but it may also discourage some customers from completing the booking."
 msgstr ""
 #
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 28
