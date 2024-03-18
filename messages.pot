@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 14:15+0000\n"
+"POT-Creation-Date: 2024-03-18 17:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -7647,6 +7647,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 359
 # File: module/Application/view/application/cart/payment.phtml, line: 394
 # File: module/Application/view/application/cart/payment.phtml, line: 398
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 319
 msgid "Service Fee"
 msgstr ""
 #
@@ -7716,6 +7717,7 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 168
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 238
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 308
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 366
 msgid "Submit"
 msgstr ""
 #
@@ -9417,6 +9419,8 @@ msgstr ""
 #
 # File: module/Application/view/application/login/profile.phtml, line: 67
 # File: module/Application/view/application/agent/profile.phtml, line: 40
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 335
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 337
 msgid "Country"
 msgstr ""
 #
@@ -10860,7 +10864,7 @@ msgid "Use this form to register new sub-agents. Sub-agents will have the abilit
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 137
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 359
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 409
 msgid "Please wait"
 msgstr ""
 #
@@ -10899,6 +10903,7 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 160
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 230
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 300
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 358
 msgid "This option may be more transparent, but it may also discourage some customers from completing the booking."
 msgstr ""
 #
@@ -10959,22 +10964,50 @@ msgid "Show as a service fee: This option will add the transfer markup as a sepa
 msgstr ""
 #
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 316
-msgid "Flights Markup Settings"
+msgid "Flight Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 324
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 323
+msgid "Service Fee Per Passenger"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 327
+msgid "International Service Fee"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 331
+msgid "International Service Fee Per Passenger"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 343
+msgid "Flight Markup Visibility"
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 350
+msgid "Include in the price: This option will include the flight markup in the price of the flight that the customer sees. The customer will not see the base price or the markup separately, only the total price."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 351
+msgid "If you choose this option, the customer may compare the price of the flight with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 357
+msgid "Show as a service fee: This option will add the flight markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the flight and the service fee separately, and the total price will be the sum of both."
+msgstr ""
+#
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 374
 msgid "Cars Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 332
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 382
 msgid "Escorted Tours Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 340
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 390
 msgid "Cruises Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 348
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 398
 msgid "Packages Markup Settings"
 msgstr ""
 #
