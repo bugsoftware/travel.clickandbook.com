@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21 19:01+0000\n"
+"POT-Creation-Date: 2024-03-21 20:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1417,7 +1417,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
 # File: module/Application/view/application/agent/reservations.phtml, line: 78
-# File: module/Application/view/application/agent/agents.phtml, line: 62
+# File: module/Application/view/application/agent/agents.phtml, line: 63
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
 msgstr ""
@@ -2064,6 +2064,7 @@ msgstr ""
 # File: module/Application/view/application/agent/profile.phtml, line: 45
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 41
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
+# File: module/Application/view/application/agent/subagent.phtml, line: 49
 msgid "Email"
 msgstr ""
 #
@@ -2178,6 +2179,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
+# File: module/Application/view/application/agent/subagent.phtml, line: 45
 msgid "Title"
 msgstr ""
 #
@@ -2202,6 +2204,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
+# File: module/Application/view/application/agent/subagent.phtml, line: 45
 msgid "Select Title"
 msgstr ""
 #
@@ -2226,6 +2229,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
+# File: module/Application/view/application/agent/subagent.phtml, line: 45
 msgid "Mr"
 msgstr ""
 #
@@ -2250,6 +2254,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
+# File: module/Application/view/application/agent/subagent.phtml, line: 45
 msgid "Ms"
 msgstr ""
 #
@@ -2281,6 +2286,7 @@ msgstr ""
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/agent/profile.phtml, line: 38
 # File: module/Application/view/application/agent/addnew.phtml, line: 49
+# File: module/Application/view/application/agent/subagent.phtml, line: 46
 msgid "First Name"
 msgstr ""
 #
@@ -2310,6 +2316,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 52
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/agent/addnew.phtml, line: 49
+# File: module/Application/view/application/agent/subagent.phtml, line: 46
 msgid "Please enter your First Name"
 msgstr ""
 #
@@ -2341,6 +2348,7 @@ msgstr ""
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/agent/profile.phtml, line: 39
 # File: module/Application/view/application/agent/addnew.phtml, line: 50
+# File: module/Application/view/application/agent/subagent.phtml, line: 47
 msgid "Last Name"
 msgstr ""
 #
@@ -2370,6 +2378,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/agent/addnew.phtml, line: 50
+# File: module/Application/view/application/agent/subagent.phtml, line: 47
 msgid "Please enter your Last Name"
 msgstr ""
 #
@@ -2399,6 +2408,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
+# File: module/Application/view/application/agent/subagent.phtml, line: 49
 msgid "Please enter your Email"
 msgstr ""
 #
@@ -2430,6 +2440,7 @@ msgstr ""
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 42
 # File: module/Application/view/application/agent/addnew.phtml, line: 53
+# File: module/Application/view/application/agent/subagent.phtml, line: 50
 msgid "Phone"
 msgstr ""
 #
@@ -2458,6 +2469,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/agent/addnew.phtml, line: 53
+# File: module/Application/view/application/agent/subagent.phtml, line: 50
 msgid "Please enter your Phone"
 msgstr ""
 #
@@ -2486,6 +2498,7 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 143
 # File: module/Application/view/application/agent/profile.phtml, line: 40
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
+# File: module/Application/view/application/agent/subagent.phtml, line: 51
 msgid "Please select your country"
 msgstr ""
 #
@@ -2513,6 +2526,7 @@ msgstr ""
 # File: module/Application/view/application/content/weddings.phtml, line: 60
 # File: module/Application/view/application/content/pricematch.phtml, line: 143
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
+# File: module/Application/view/application/agent/subagent.phtml, line: 51
 msgid "Select your country"
 msgstr ""
 #
@@ -2529,6 +2543,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 73
 # File: module/Application/view/application/agent/addnew.phtml, line: 55
+# File: module/Application/view/application/agent/subagent.phtml, line: 52
 msgid "Please select your state"
 msgstr ""
 #
@@ -2546,6 +2561,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 73
 # File: module/Application/view/application/agent/addnew.phtml, line: 55
+# File: module/Application/view/application/agent/subagent.phtml, line: 52
 msgid "Select your state"
 msgstr ""
 #
@@ -2563,6 +2579,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/agent/profile.phtml, line: 43
 # File: module/Application/view/application/agent/addnew.phtml, line: 56
+# File: module/Application/view/application/agent/subagent.phtml, line: 53
 msgid "Please select your city"
 msgstr ""
 #
@@ -2580,6 +2597,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 58
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/agent/addnew.phtml, line: 56
+# File: module/Application/view/application/agent/subagent.phtml, line: 53
 msgid "Select your city"
 msgstr ""
 #
@@ -2599,6 +2617,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 75
 # File: module/Application/view/application/agent/profile.phtml, line: 41
 # File: module/Application/view/application/agent/addnew.phtml, line: 57
+# File: module/Application/view/application/agent/subagent.phtml, line: 54
 msgid "Address"
 msgstr ""
 #
@@ -2615,6 +2634,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 59
 # File: module/Application/view/application/content/registerproperty.phtml, line: 75
 # File: module/Application/view/application/agent/addnew.phtml, line: 57
+# File: module/Application/view/application/agent/subagent.phtml, line: 54
 msgid "Please enter your Address"
 msgstr ""
 #
@@ -2631,6 +2651,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 60
 # File: module/Application/view/application/content/registerproperty.phtml, line: 76
 # File: module/Application/view/application/agent/addnew.phtml, line: 58
+# File: module/Application/view/application/agent/subagent.phtml, line: 55
 msgid "Zip Code/Postal Code"
 msgstr ""
 #
@@ -3112,6 +3133,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 120
 # File: module/Application/view/application/content/registeragent.phtml, line: 94
 # File: module/Application/view/application/agent/addnew.phtml, line: 82
+# File: module/Application/view/application/agent/subagent.phtml, line: 79
 msgid "Title is required! Please select title."
 msgstr ""
 #
@@ -3135,6 +3157,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 89
 # File: module/Application/view/application/content/contactus.phtml, line: 76
 # File: module/Application/view/application/agent/addnew.phtml, line: 90
+# File: module/Application/view/application/agent/subagent.phtml, line: 87
 msgid "First name is required! Please input first name."
 msgstr ""
 #
@@ -3158,6 +3181,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 97
 # File: module/Application/view/application/content/contactus.phtml, line: 84
 # File: module/Application/view/application/agent/addnew.phtml, line: 98
+# File: module/Application/view/application/agent/subagent.phtml, line: 95
 msgid "Last name is required! Please input last name."
 msgstr ""
 #
@@ -3181,6 +3205,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 105
 # File: module/Application/view/application/content/contactus.phtml, line: 92
 # File: module/Application/view/application/agent/addnew.phtml, line: 106
+# File: module/Application/view/application/agent/subagent.phtml, line: 103
 msgid "Email is required! Please input email."
 msgstr ""
 #
@@ -3204,6 +3229,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 113
 # File: module/Application/view/application/content/contactus.phtml, line: 100
 # File: module/Application/view/application/agent/addnew.phtml, line: 114
+# File: module/Application/view/application/agent/subagent.phtml, line: 111
 msgid "Phone number is required! Please input phone number."
 msgstr ""
 #
@@ -3239,6 +3265,8 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 247
 # File: module/Application/view/application/agent/addnew.phtml, line: 122
 # File: module/Application/view/application/agent/addnew.phtml, line: 130
+# File: module/Application/view/application/agent/subagent.phtml, line: 119
+# File: module/Application/view/application/agent/subagent.phtml, line: 127
 msgid "Country is required! Please select country."
 msgstr ""
 #
@@ -4260,6 +4288,7 @@ msgstr ""
 # File: module/Application/view/application/content/contactus.phtml, line: 10
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
 # File: module/Application/view/application/agent/addnew.phtml, line: 10
+# File: module/Application/view/application/agent/subagent.phtml, line: 10
 msgid "Confirmation"
 msgstr ""
 #
@@ -8047,6 +8076,7 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 308
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 366
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 436
+# File: module/Application/view/application/agent/subagent.phtml, line: 63
 msgid "Submit"
 msgstr ""
 #
@@ -8105,7 +8135,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/application/agent/reservations.phtml, line: 78
-# File: module/Application/view/application/agent/agents.phtml, line: 62
+# File: module/Application/view/application/agent/agents.phtml, line: 63
 # File: module/Application/view/layout/layout.phtml, line: 289
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
@@ -8391,7 +8421,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 427
 # File: module/Application/view/application/agent/reservations.phtml, line: 108
-# File: module/Application/view/application/agent/agents.phtml, line: 84
+# File: module/Application/view/application/agent/agents.phtml, line: 85
 msgid "Member since"
 msgstr ""
 #
@@ -8411,7 +8441,7 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
 # File: module/Application/view/application/login/signout.phtml, line: 15
 # File: module/Application/view/application/agent/reservations.phtml, line: 120
-# File: module/Application/view/application/agent/agents.phtml, line: 90
+# File: module/Application/view/application/agent/agents.phtml, line: 91
 msgid "Logout"
 msgstr ""
 #
@@ -9570,6 +9600,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 77
 # File: module/Application/view/application/agent/login.phtml, line: 24
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
 # File: module/Application/view/layout/layout.phtml, line: 361
 msgid "Password"
 msgstr ""
@@ -9579,6 +9610,7 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 99
 # File: module/Application/view/application/agent/login.phtml, line: 27
 # File: module/Application/view/application/agent/addnew.phtml, line: 20
+# File: module/Application/view/application/agent/subagent.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 759
 msgid "Continue"
 msgstr ""
@@ -9685,6 +9717,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 37
 # File: module/Application/view/application/content/registerproperty.phtml, line: 53
 # File: module/Application/view/application/agent/addnew.phtml, line: 35
+# File: module/Application/view/application/agent/subagent.phtml, line: 32
 msgid "The email address you have entered is already registered."
 msgstr ""
 #
@@ -9693,6 +9726,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 37
 # File: module/Application/view/application/content/registerproperty.phtml, line: 53
 # File: module/Application/view/application/agent/addnew.phtml, line: 35
+# File: module/Application/view/application/agent/subagent.phtml, line: 32
 msgid "Please contact customer service."
 msgstr ""
 #
@@ -9718,6 +9752,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 73
 # File: module/Application/view/application/agent/addnew.phtml, line: 55
+# File: module/Application/view/application/agent/subagent.phtml, line: 52
 msgid "Choose your state/region/zone"
 msgstr ""
 #
@@ -9726,6 +9761,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 58
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/agent/addnew.phtml, line: 56
+# File: module/Application/view/application/agent/subagent.phtml, line: 53
 msgid "Please enter your City"
 msgstr ""
 #
@@ -9740,6 +9776,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 60
 # File: module/Application/view/application/content/registerproperty.phtml, line: 76
 # File: module/Application/view/application/agent/addnew.phtml, line: 58
+# File: module/Application/view/application/agent/subagent.phtml, line: 55
 msgid "Please enter your Zip/Postal Code"
 msgstr ""
 #
@@ -9752,6 +9789,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 61
 # File: module/Application/view/application/content/registerproperty.phtml, line: 77
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
 msgid "Please enter your Password"
 msgstr ""
 #
@@ -10406,6 +10444,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 53
 # File: module/Application/view/application/content/registerproperty.phtml, line: 69
 # File: module/Application/view/application/agent/addnew.phtml, line: 51
+# File: module/Application/view/application/agent/subagent.phtml, line: 48
 # File: module/Application/view/layout/layout.phtml, line: 816
 msgid "Company"
 msgstr ""
@@ -10414,6 +10453,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 53
 # File: module/Application/view/application/content/registerproperty.phtml, line: 69
 # File: module/Application/view/application/agent/addnew.phtml, line: 51
+# File: module/Application/view/application/agent/subagent.phtml, line: 48
 msgid "Please enter Company"
 msgstr ""
 #
@@ -10424,6 +10464,7 @@ msgstr ""
 # File: module/Application/view/application/content/weddings.phtml, line: 60
 # File: module/Application/view/application/content/pricematch.phtml, line: 143
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
+# File: module/Application/view/application/agent/subagent.phtml, line: 51
 msgid "Choose your country"
 msgstr ""
 #
@@ -10432,6 +10473,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 78
 # File: module/Application/view/application/content/support.phtml, line: 57
 # File: module/Application/view/application/agent/addnew.phtml, line: 60
+# File: module/Application/view/application/agent/subagent.phtml, line: 57
 msgid "Memo"
 msgstr ""
 #
@@ -11180,14 +11222,14 @@ msgid "Order by Departure Date"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 78
-# File: module/Application/view/application/agent/agents.phtml, line: 62
+# File: module/Application/view/application/agent/agents.phtml, line: 63
 msgid "Showing"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 5
 # File: module/Application/view/application/agent/index.phtml, line: 34
 # File: module/Application/view/application/agent/agents.phtml, line: 11
-# File: module/Application/view/application/agent/agents.phtml, line: 72
+# File: module/Application/view/application/agent/agents.phtml, line: 73
 # File: module/Application/view/layout/layout.phtml, line: 338
 msgid "Agents"
 msgstr ""
@@ -11197,7 +11239,7 @@ msgid "Dashboard"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 62
-# File: module/Application/view/application/agent/agents.phtml, line: 88
+# File: module/Application/view/application/agent/agents.phtml, line: 89
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 7
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 20
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 31
@@ -11219,7 +11261,11 @@ msgstr ""
 msgid "Log off"
 msgstr ""
 #
-# File: module/Application/view/application/agent/agents.phtml, line: 87
+# File: module/Application/view/application/agent/agents.phtml, line: 51
+msgid "Edit agent"
+msgstr ""
+#
+# File: module/Application/view/application/agent/agents.phtml, line: 88
 # File: module/Application/view/application/agent/addnew.phtml, line: 9
 # File: module/Application/view/application/agent/addnew.phtml, line: 23
 msgid "Add New Agent"
@@ -11230,10 +11276,12 @@ msgid "A new sub-agent account has been created and linked to your main account.
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 18
+# File: module/Application/view/application/agent/subagent.phtml, line: 18
 msgid "The sub-agent can now log in and make bookings on your platform."
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 26
+# File: module/Application/view/application/agent/subagent.phtml, line: 23
 msgid "List Agents"
 msgstr ""
 #
@@ -11243,6 +11291,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 137
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 471
+# File: module/Application/view/application/agent/subagent.phtml, line: 134
 msgid "Please wait"
 msgstr ""
 #
@@ -11412,6 +11461,18 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 460
 msgid "Packages Markup Settings"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 9
+msgid "Edit Sub Agent"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 17
+msgid "The sub-agent's information has been successfully updated. Thank you for ensuring our records remain accurate and up-to-date."
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 42
+msgid "Please use the form below to update the information for your sub-agent. Ensure all details are accurate before submitting. Thank you for keeping our records current."
 msgstr ""
 #
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 28
