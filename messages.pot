@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21 14:38+0000\n"
+"POT-Creation-Date: 2024-03-21 19:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -380,7 +380,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary.phtml, line: 327
 # File: module/Application/view/application/transfers/passengers.phtml, line: 261
 # File: module/Application/view/application/transfers/payment.phtml, line: 148
-# File: module/Application/view/application/transfers/confirm.phtml, line: 85
+# File: module/Application/view/application/transfers/confirm.phtml, line: 84
 # File: module/Application/view/application/insurances/summary.phtml, line: 140
 # File: module/Application/view/application/insurances/passengers.phtml, line: 193
 # File: module/Application/view/application/insurances/payment.phtml, line: 114
@@ -478,7 +478,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/passengers.phtml, line: 107
 # File: module/Application/view/application/transfers/passengers.phtml, line: 267
 # File: module/Application/view/application/transfers/payment.phtml, line: 154
-# File: module/Application/view/application/transfers/confirm.phtml, line: 91
+# File: module/Application/view/application/transfers/confirm.phtml, line: 90
 # File: module/Application/view/application/insurances/summary.phtml, line: 141
 # File: module/Application/view/application/insurances/passengers.phtml, line: 59
 # File: module/Application/view/application/insurances/passengers.phtml, line: 194
@@ -993,6 +993,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/passengers.phtml, line: 238
 # File: module/Application/view/application/transfers/passengers.phtml, line: 578
 # File: module/Application/view/application/transfers/payment.phtml, line: 125
+# File: module/Application/view/application/transfers/confirm.phtml, line: 59
 # File: module/Application/view/application/cars/passengers.phtml, line: 378
 # File: module/Application/view/application/insurances/index.phtml, line: 482
 # File: module/Application/view/application/insurances/search.phtml, line: 414
@@ -1907,6 +1908,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 145
 # File: module/Application/view/application/hotels/summary.phtml, line: 156
 # File: module/Application/view/application/transfers/summary.phtml, line: 288
+# File: module/Application/view/application/transfers/confirm.phtml, line: 349
 # File: module/Application/view/application/cars/summary.phtml, line: 173
 # File: module/Application/view/application/cars/passengers.phtml, line: 279
 # File: module/Application/view/application/cars/payment.phtml, line: 211
@@ -2094,6 +2096,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 328
 # File: module/Application/view/application/hotels/summary.phtml, line: 339
 # File: module/Application/view/application/hotels/brands.phtml, line: 336
+# File: module/Application/view/application/transfers/confirm.phtml, line: 356
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
 # File: module/Application/view/application/packages/summary.phtml, line: 307
 # File: module/Application/view/application/packages/summary.phtml, line: 318
@@ -4269,6 +4272,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirm.phtml, line: 13
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 8
 # File: module/Application/view/application/hotels/confirm.phtml, line: 22
+# File: module/Application/view/application/transfers/confirm.phtml, line: 30
 # File: module/Application/view/application/cars/confirm.phtml, line: 9
 # File: module/Application/view/application/packages/confirm.phtml, line: 29
 # File: module/Application/view/application/cart/confirm.phtml, line: 113
@@ -5627,6 +5631,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/passengers.phtml, line: 244
 # File: module/Application/view/application/transfers/passengers.phtml, line: 579
 # File: module/Application/view/application/transfers/payment.phtml, line: 131
+# File: module/Application/view/application/transfers/confirm.phtml, line: 67
 # File: module/Application/view/application/cars/passengers.phtml, line: 379
 # File: module/Application/view/application/insurances/index.phtml, line: 483
 # File: module/Application/view/application/insurances/search.phtml, line: 415
@@ -6578,7 +6583,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary.phtml, line: 344
 # File: module/Application/view/application/transfers/passengers.phtml, line: 278
 # File: module/Application/view/application/transfers/payment.phtml, line: 165
-# File: module/Application/view/application/transfers/confirm.phtml, line: 102
+# File: module/Application/view/application/transfers/confirm.phtml, line: 101
 # File: module/Application/view/application/cars/confirm.phtml, line: 54
 # File: module/Application/view/application/insurances/confirm.phtml, line: 36
 # File: module/Application/view/application/packages/confirm.phtml, line: 155
@@ -6592,6 +6597,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 101
 # File: module/Application/view/application/air/confirm.phtml, line: 90
 # File: module/Application/view/application/hotels/confirm.phtml, line: 132
+# File: module/Application/view/application/transfers/confirm.phtml, line: 151
 # File: module/Application/view/application/cars/confirm.phtml, line: 69
 # File: module/Application/view/application/packages/confirm.phtml, line: 88
 msgid "How to make payment?"
@@ -6600,6 +6606,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 105
 # File: module/Application/view/application/air/confirm.phtml, line: 94
 # File: module/Application/view/application/hotels/confirm.phtml, line: 136
+# File: module/Application/view/application/transfers/confirm.phtml, line: 155
 # File: module/Application/view/application/cars/confirm.phtml, line: 73
 # File: module/Application/view/application/packages/confirm.phtml, line: 92
 # File: module/Application/view/application/booking/paynow.phtml, line: 73
@@ -6609,6 +6616,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 106
 # File: module/Application/view/application/air/confirm.phtml, line: 95
 # File: module/Application/view/application/hotels/confirm.phtml, line: 137
+# File: module/Application/view/application/transfers/confirm.phtml, line: 156
 # File: module/Application/view/application/cars/confirm.phtml, line: 74
 # File: module/Application/view/application/packages/confirm.phtml, line: 93
 # File: module/Application/view/application/booking/paynow.phtml, line: 74
@@ -6618,6 +6626,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 107
 # File: module/Application/view/application/air/confirm.phtml, line: 96
 # File: module/Application/view/application/hotels/confirm.phtml, line: 138
+# File: module/Application/view/application/transfers/confirm.phtml, line: 157
 # File: module/Application/view/application/cars/confirm.phtml, line: 75
 # File: module/Application/view/application/packages/confirm.phtml, line: 94
 # File: module/Application/view/application/booking/paynow.phtml, line: 75
@@ -6627,6 +6636,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 108
 # File: module/Application/view/application/air/confirm.phtml, line: 97
 # File: module/Application/view/application/hotels/confirm.phtml, line: 139
+# File: module/Application/view/application/transfers/confirm.phtml, line: 158
 # File: module/Application/view/application/cars/confirm.phtml, line: 76
 # File: module/Application/view/application/packages/confirm.phtml, line: 95
 # File: module/Application/view/application/booking/paynow.phtml, line: 76
@@ -6636,6 +6646,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 112
 # File: module/Application/view/application/air/confirm.phtml, line: 101
 # File: module/Application/view/application/hotels/confirm.phtml, line: 143
+# File: module/Application/view/application/transfers/confirm.phtml, line: 162
 # File: module/Application/view/application/cars/confirm.phtml, line: 80
 # File: module/Application/view/application/packages/confirm.phtml, line: 99
 # File: module/Application/view/application/booking/paynow.phtml, line: 80
@@ -6645,6 +6656,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 115
 # File: module/Application/view/application/air/confirm.phtml, line: 104
 # File: module/Application/view/application/hotels/confirm.phtml, line: 146
+# File: module/Application/view/application/transfers/confirm.phtml, line: 165
 # File: module/Application/view/application/cars/confirm.phtml, line: 83
 # File: module/Application/view/application/packages/confirm.phtml, line: 102
 # File: module/Application/view/application/booking/paynow.phtml, line: 83
@@ -6654,6 +6666,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 118
 # File: module/Application/view/application/air/confirm.phtml, line: 107
 # File: module/Application/view/application/hotels/confirm.phtml, line: 149
+# File: module/Application/view/application/transfers/confirm.phtml, line: 168
 # File: module/Application/view/application/cars/confirm.phtml, line: 86
 # File: module/Application/view/application/packages/confirm.phtml, line: 105
 # File: module/Application/view/application/booking/paynow.phtml, line: 86
@@ -6671,6 +6684,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 222
 # File: module/Application/view/application/air/confirm.phtml, line: 387
 # File: module/Application/view/application/hotels/confirm.phtml, line: 221
+# File: module/Application/view/application/transfers/confirm.phtml, line: 356
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
 # File: module/Application/view/application/packages/confirm.phtml, line: 177
 # File: module/Application/view/application/booking/paynow.phtml, line: 697
@@ -6680,6 +6694,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 249
 # File: module/Application/view/application/air/confirm.phtml, line: 416
 # File: module/Application/view/application/hotels/confirm.phtml, line: 248
+# File: module/Application/view/application/transfers/confirm.phtml, line: 383
 # File: module/Application/view/application/cars/confirm.phtml, line: 156
 msgid "Your reservation is being processed and you will receive an email with your booking PNR codes shortly."
 msgstr ""
@@ -6687,6 +6702,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 249
 # File: module/Application/view/application/air/confirm.phtml, line: 416
 # File: module/Application/view/application/hotels/confirm.phtml, line: 248
+# File: module/Application/view/application/transfers/confirm.phtml, line: 383
 # File: module/Application/view/application/cars/confirm.phtml, line: 156
 msgid "Thank you for choosing us for your travel needs. We hope you have a wonderful trip."
 msgstr ""
@@ -6703,6 +6719,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/confirm.phtml, line: 263
 # File: module/Application/view/application/hotels/confirm.phtml, line: 264
 # File: module/Application/view/application/hotels/confirm.phtml, line: 274
+# File: module/Application/view/application/transfers/confirm.phtml, line: 397
+# File: module/Application/view/application/transfers/confirm.phtml, line: 398
+# File: module/Application/view/application/transfers/confirm.phtml, line: 399
+# File: module/Application/view/application/transfers/confirm.phtml, line: 409
 # File: module/Application/view/application/cars/confirm.phtml, line: 170
 # File: module/Application/view/application/cars/confirm.phtml, line: 171
 # File: module/Application/view/application/cars/confirm.phtml, line: 172
@@ -7787,7 +7807,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary.phtml, line: 339
 # File: module/Application/view/application/transfers/passengers.phtml, line: 273
 # File: module/Application/view/application/transfers/payment.phtml, line: 160
-# File: module/Application/view/application/transfers/confirm.phtml, line: 97
+# File: module/Application/view/application/transfers/confirm.phtml, line: 96
 # File: module/Application/view/application/cart/summary.phtml, line: 1138
 # File: module/Application/view/application/cart/passengers.phtml, line: 322
 # File: module/Application/view/application/cart/payment.phtml, line: 157
@@ -9165,6 +9185,7 @@ msgid "BAGS"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/summary.phtml, line: 96
+# File: module/Application/view/application/transfers/confirm.phtml, line: 42
 # File: module/Application/view/application/cars/confirm.phtml, line: 22
 # File: module/Application/view/application/insurances/summary.phtml, line: 134
 # File: module/Application/view/application/insurances/passengers.phtml, line: 187
@@ -9176,6 +9197,7 @@ msgid "From:"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/summary.phtml, line: 98
+# File: module/Application/view/application/transfers/confirm.phtml, line: 45
 # File: module/Application/view/application/cars/confirm.phtml, line: 23
 # File: module/Application/view/application/insurances/summary.phtml, line: 135
 # File: module/Application/view/application/insurances/passengers.phtml, line: 188
@@ -9189,7 +9211,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary.phtml, line: 321
 # File: module/Application/view/application/transfers/passengers.phtml, line: 255
 # File: module/Application/view/application/transfers/payment.phtml, line: 142
-# File: module/Application/view/application/transfers/confirm.phtml, line: 79
+# File: module/Application/view/application/transfers/confirm.phtml, line: 78
 msgid "Cost per pax:"
 msgstr ""
 #
@@ -9198,6 +9220,23 @@ msgstr ""
 # File: module/Application/view/application/transfers/payment.phtml, line: 223
 # File: module/Application/view/application/cart/confirm.phtml, line: 221
 msgid "Free cancellation before"
+msgstr ""
+#
+# File: module/Application/view/application/transfers/confirm.phtml, line: 30
+# File: module/Application/view/application/booking/paynow.phtml, line: 242
+msgid "Transfer"
+msgstr ""
+#
+# File: module/Application/view/application/transfers/confirm.phtml, line: 30
+msgid "from Airport to hotel"
+msgstr ""
+#
+# File: module/Application/view/application/transfers/confirm.phtml, line: 48
+msgid "Bags:"
+msgstr ""
+#
+# File: module/Application/view/application/transfers/confirm.phtml, line: 49
+msgid "Duration:"
 msgstr ""
 #
 # File: module/Application/view/application/cars/search.phtml, line: 16
@@ -10923,10 +10962,6 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 29
 # File: module/Application/view/application/booking/paynow.phtml, line: 465
 msgid "Your reservation is now being processed and you will receive an email confirmation shortly."
-msgstr ""
-#
-# File: module/Application/view/application/booking/paynow.phtml, line: 242
-msgid "Transfer"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 268
