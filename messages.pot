@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-26 16:20+0000\n"
+"POT-Creation-Date: 2024-03-26 19:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1159,33 +1159,33 @@ msgstr ""
 # File: module/Application/view/application/cruises/select.phtml, line: 701
 # File: module/Application/view/application/cruises/summary.phtml, line: 414
 # File: module/Application/view/application/cruises/passengers.phtml, line: 591
-# File: module/Application/view/application/cruises/payment.phtml, line: 383
+# File: module/Application/view/application/cruises/payment.phtml, line: 391
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 575
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 473
 # File: module/Application/view/application/air/summary.phtml, line: 691
 # File: module/Application/view/application/air/summary.phtml, line: 697
 # File: module/Application/view/application/air/summary.phtml, line: 710
 # File: module/Application/view/application/air/summary.phtml, line: 744
-# File: module/Application/view/application/air/payment.phtml, line: 501
+# File: module/Application/view/application/air/payment.phtml, line: 509
 # File: module/Application/view/application/air/ticketing.phtml, line: 543
-# File: module/Application/view/application/air/ticketing.phtml, line: 734
+# File: module/Application/view/application/air/ticketing.phtml, line: 742
 # File: module/Application/view/application/hotels/info.phtml, line: 948
-# File: module/Application/view/application/hotels/payment.phtml, line: 421
+# File: module/Application/view/application/hotels/payment.phtml, line: 429
 # File: module/Application/view/application/hotels/summary.phtml, line: 352
 # File: module/Application/view/application/hotels/summary.phtml, line: 377
-# File: module/Application/view/application/transfers/payment.phtml, line: 524
+# File: module/Application/view/application/transfers/payment.phtml, line: 532
 # File: module/Application/view/application/cars/summary.phtml, line: 274
-# File: module/Application/view/application/cars/payment.phtml, line: 415
-# File: module/Application/view/application/insurances/payment.phtml, line: 319
+# File: module/Application/view/application/cars/payment.phtml, line: 423
+# File: module/Application/view/application/insurances/payment.phtml, line: 327
 # File: module/Application/view/application/login/profile.phtml, line: 302
 # File: module/Application/view/application/packages/info.phtml, line: 524
 # File: module/Application/view/application/packages/summary.phtml, line: 331
 # File: module/Application/view/application/packages/summary.phtml, line: 356
-# File: module/Application/view/application/packages/payment.phtml, line: 420
+# File: module/Application/view/application/packages/payment.phtml, line: 428
 # File: module/Application/view/application/cart/summary.phtml, line: 1384
 # File: module/Application/view/application/cart/summary.phtml, line: 1398
 # File: module/Application/view/application/cart/summary.phtml, line: 1408
-# File: module/Application/view/application/cart/payment.phtml, line: 661
+# File: module/Application/view/application/cart/payment.phtml, line: 669
 # File: module/Application/view/application/booking/paynow.phtml, line: 668
 # File: module/Application/view/application/destinations/index.phtml, line: 911
 # File: module/Application/view/application/agent/profile.phtml, line: 158
@@ -3106,7 +3106,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 416
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 230
 # File: module/Application/view/application/air/payment.phtml, line: 271
-# File: module/Application/view/application/air/ticketing.phtml, line: 788
+# File: module/Application/view/application/air/ticketing.phtml, line: 796
 # File: module/Application/view/application/hotels/payment.phtml, line: 233
 # File: module/Application/view/application/transfers/payment.phtml, line: 336
 # File: module/Application/view/application/cars/payment.phtml, line: 227
@@ -4139,22 +4139,8 @@ msgstr ""
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/payment.phtml, line: 308
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 395
-# File: module/Application/view/application/air/payment.phtml, line: 425
-# File: module/Application/view/application/air/ticketing.phtml, line: 659
-# File: module/Application/view/application/hotels/payment.phtml, line: 346
-# File: module/Application/view/application/transfers/payment.phtml, line: 449
-# File: module/Application/view/application/cars/payment.phtml, line: 340
-# File: module/Application/view/application/insurances/payment.phtml, line: 244
-# File: module/Application/view/application/packages/payment.phtml, line: 345
-# File: module/Application/view/application/cart/payment.phtml, line: 589
-# File: module/Application/view/application/booking/paynow.phtml, line: 593
-msgid "Billing first name is required! Please input billing first name."
-msgstr ""
-#
 # File: module/Application/view/application/cruises/payment.phtml, line: 316
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 403
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 395
 # File: module/Application/view/application/air/payment.phtml, line: 433
 # File: module/Application/view/application/air/ticketing.phtml, line: 667
 # File: module/Application/view/application/hotels/payment.phtml, line: 354
@@ -4163,12 +4149,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 252
 # File: module/Application/view/application/packages/payment.phtml, line: 353
 # File: module/Application/view/application/cart/payment.phtml, line: 597
-# File: module/Application/view/application/booking/paynow.phtml, line: 601
-msgid "Billing last name is required! Please input billing last name."
+# File: module/Application/view/application/booking/paynow.phtml, line: 593
+msgid "Billing first name is required! Please input billing first name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 324
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 411
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 403
 # File: module/Application/view/application/air/payment.phtml, line: 441
 # File: module/Application/view/application/air/ticketing.phtml, line: 675
 # File: module/Application/view/application/hotels/payment.phtml, line: 362
@@ -4177,12 +4163,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 260
 # File: module/Application/view/application/packages/payment.phtml, line: 361
 # File: module/Application/view/application/cart/payment.phtml, line: 605
-# File: module/Application/view/application/booking/paynow.phtml, line: 609
-msgid "Billing country is required! Please select billing country."
+# File: module/Application/view/application/booking/paynow.phtml, line: 601
+msgid "Billing last name is required! Please input billing last name."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 332
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 419
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 411
 # File: module/Application/view/application/air/payment.phtml, line: 449
 # File: module/Application/view/application/air/ticketing.phtml, line: 683
 # File: module/Application/view/application/hotels/payment.phtml, line: 370
@@ -4191,12 +4177,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 268
 # File: module/Application/view/application/packages/payment.phtml, line: 369
 # File: module/Application/view/application/cart/payment.phtml, line: 613
-# File: module/Application/view/application/booking/paynow.phtml, line: 617
-msgid "Billing address is required! Please input billing address."
+# File: module/Application/view/application/booking/paynow.phtml, line: 609
+msgid "Billing country is required! Please select billing country."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 340
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 427
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 419
 # File: module/Application/view/application/air/payment.phtml, line: 457
 # File: module/Application/view/application/air/ticketing.phtml, line: 691
 # File: module/Application/view/application/hotels/payment.phtml, line: 378
@@ -4205,12 +4191,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 276
 # File: module/Application/view/application/packages/payment.phtml, line: 377
 # File: module/Application/view/application/cart/payment.phtml, line: 621
-# File: module/Application/view/application/booking/paynow.phtml, line: 625
-msgid "Billing city is required! Please input billing city."
+# File: module/Application/view/application/booking/paynow.phtml, line: 617
+msgid "Billing address is required! Please input billing address."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 348
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 435
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 427
 # File: module/Application/view/application/air/payment.phtml, line: 465
 # File: module/Application/view/application/air/ticketing.phtml, line: 699
 # File: module/Application/view/application/hotels/payment.phtml, line: 386
@@ -4219,12 +4205,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 284
 # File: module/Application/view/application/packages/payment.phtml, line: 385
 # File: module/Application/view/application/cart/payment.phtml, line: 629
-# File: module/Application/view/application/booking/paynow.phtml, line: 633
-msgid "Billing state is required! Please input billing state."
+# File: module/Application/view/application/booking/paynow.phtml, line: 625
+msgid "Billing city is required! Please input billing city."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 356
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 443
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 435
 # File: module/Application/view/application/air/payment.phtml, line: 473
 # File: module/Application/view/application/air/ticketing.phtml, line: 707
 # File: module/Application/view/application/hotels/payment.phtml, line: 394
@@ -4233,12 +4219,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 292
 # File: module/Application/view/application/packages/payment.phtml, line: 393
 # File: module/Application/view/application/cart/payment.phtml, line: 637
-# File: module/Application/view/application/booking/paynow.phtml, line: 641
-msgid "Billing zip/postal code is required! Please input billing zip/postal code."
+# File: module/Application/view/application/booking/paynow.phtml, line: 633
+msgid "Billing state is required! Please input billing state."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 364
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 451
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 443
 # File: module/Application/view/application/air/payment.phtml, line: 481
 # File: module/Application/view/application/air/ticketing.phtml, line: 715
 # File: module/Application/view/application/hotels/payment.phtml, line: 402
@@ -4247,12 +4233,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 300
 # File: module/Application/view/application/packages/payment.phtml, line: 401
 # File: module/Application/view/application/cart/payment.phtml, line: 645
-# File: module/Application/view/application/booking/paynow.phtml, line: 649
-msgid "Billing email is required! Please input billing email."
+# File: module/Application/view/application/booking/paynow.phtml, line: 641
+msgid "Billing zip/postal code is required! Please input billing zip/postal code."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/payment.phtml, line: 372
-# File: module/Application/view/application/escorted-tours/payment.phtml, line: 459
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 451
 # File: module/Application/view/application/air/payment.phtml, line: 489
 # File: module/Application/view/application/air/ticketing.phtml, line: 723
 # File: module/Application/view/application/hotels/payment.phtml, line: 410
@@ -4261,6 +4247,20 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 308
 # File: module/Application/view/application/packages/payment.phtml, line: 409
 # File: module/Application/view/application/cart/payment.phtml, line: 653
+# File: module/Application/view/application/booking/paynow.phtml, line: 649
+msgid "Billing email is required! Please input billing email."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/payment.phtml, line: 380
+# File: module/Application/view/application/escorted-tours/payment.phtml, line: 459
+# File: module/Application/view/application/air/payment.phtml, line: 497
+# File: module/Application/view/application/air/ticketing.phtml, line: 731
+# File: module/Application/view/application/hotels/payment.phtml, line: 418
+# File: module/Application/view/application/transfers/payment.phtml, line: 521
+# File: module/Application/view/application/cars/payment.phtml, line: 412
+# File: module/Application/view/application/insurances/payment.phtml, line: 316
+# File: module/Application/view/application/packages/payment.phtml, line: 417
+# File: module/Application/view/application/cart/payment.phtml, line: 661
 # File: module/Application/view/application/booking/paynow.phtml, line: 657
 msgid "Billing phone is required! Please input billing phone."
 msgstr ""
@@ -6888,7 +6888,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 324
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 325
 # File: module/Application/view/application/air/summary.phtml, line: 675
-# File: module/Application/view/application/air/ticketing.phtml, line: 779
+# File: module/Application/view/application/air/ticketing.phtml, line: 787
 # File: module/Application/view/application/hotels/info.phtml, line: 63
 # File: module/Application/view/application/cart/summary.phtml, line: 1366
 msgid "No"
@@ -6927,7 +6927,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 319
 # File: module/Application/view/application/air/summary.phtml, line: 676
-# File: module/Application/view/application/air/ticketing.phtml, line: 780
+# File: module/Application/view/application/air/ticketing.phtml, line: 788
 # File: module/Application/view/application/hotels/info.phtml, line: 63
 # File: module/Application/view/application/cart/summary.phtml, line: 1367
 msgid "Yes"
@@ -8331,7 +8331,7 @@ msgid "fares"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 13
-# File: module/Application/view/application/air/ticketing.phtml, line: 774
+# File: module/Application/view/application/air/ticketing.phtml, line: 782
 msgid "Issue Tickets"
 msgstr ""
 #
@@ -8400,6 +8400,10 @@ msgid "Form of Payment"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 382
+msgid "Cash"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing.phtml, line: 382
 msgid "Deduct the Ticket Cost from Account Balance to Issue the Ticket"
 msgstr ""
 #
@@ -8465,11 +8469,11 @@ msgstr ""
 msgid "Accounting Information"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 761
+# File: module/Application/view/application/air/ticketing.phtml, line: 769
 msgid "Your invoice is being processed and you will receive an email with your invoice number shortly."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing.phtml, line: 777
+# File: module/Application/view/application/air/ticketing.phtml, line: 785
 msgid "Are you sure you want to issue tickets for this reservation using cash as a form of payment?"
 msgstr ""
 #
