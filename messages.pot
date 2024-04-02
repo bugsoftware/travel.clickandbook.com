@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-02 13:00+0100\n"
+"POT-Creation-Date: 2024-04-02 16:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3138,7 +3138,7 @@ msgstr ""
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 120
 # File: module/Application/view/application/content/registeragent.phtml, line: 94
 # File: module/Application/view/application/agent/addnew.phtml, line: 82
-# File: module/Application/view/application/agent/subagent.phtml, line: 78
+# File: module/Application/view/application/agent/subagent.phtml, line: 79
 msgid "Title is required! Please select title."
 msgstr ""
 #
@@ -3162,7 +3162,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 89
 # File: module/Application/view/application/content/contactus.phtml, line: 76
 # File: module/Application/view/application/agent/addnew.phtml, line: 90
-# File: module/Application/view/application/agent/subagent.phtml, line: 86
+# File: module/Application/view/application/agent/subagent.phtml, line: 87
 msgid "First name is required! Please input first name."
 msgstr ""
 #
@@ -3186,7 +3186,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 97
 # File: module/Application/view/application/content/contactus.phtml, line: 84
 # File: module/Application/view/application/agent/addnew.phtml, line: 98
-# File: module/Application/view/application/agent/subagent.phtml, line: 94
+# File: module/Application/view/application/agent/subagent.phtml, line: 95
 msgid "Last name is required! Please input last name."
 msgstr ""
 #
@@ -3210,7 +3210,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 105
 # File: module/Application/view/application/content/contactus.phtml, line: 92
 # File: module/Application/view/application/agent/addnew.phtml, line: 106
-# File: module/Application/view/application/agent/subagent.phtml, line: 102
+# File: module/Application/view/application/agent/subagent.phtml, line: 103
 msgid "Email is required! Please input email."
 msgstr ""
 #
@@ -3234,7 +3234,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 113
 # File: module/Application/view/application/content/contactus.phtml, line: 100
 # File: module/Application/view/application/agent/addnew.phtml, line: 114
-# File: module/Application/view/application/agent/subagent.phtml, line: 110
+# File: module/Application/view/application/agent/subagent.phtml, line: 111
 msgid "Phone number is required! Please input phone number."
 msgstr ""
 #
@@ -3270,8 +3270,8 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 247
 # File: module/Application/view/application/agent/addnew.phtml, line: 122
 # File: module/Application/view/application/agent/addnew.phtml, line: 130
-# File: module/Application/view/application/agent/subagent.phtml, line: 118
-# File: module/Application/view/application/agent/subagent.phtml, line: 126
+# File: module/Application/view/application/agent/subagent.phtml, line: 119
+# File: module/Application/view/application/agent/subagent.phtml, line: 127
 msgid "Country is required! Please select country."
 msgstr ""
 #
@@ -8082,7 +8082,7 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 308
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 366
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 436
-# File: module/Application/view/application/agent/subagent.phtml, line: 62
+# File: module/Application/view/application/agent/subagent.phtml, line: 63
 msgid "Submit"
 msgstr ""
 #
@@ -10492,7 +10492,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 78
 # File: module/Application/view/application/content/support.phtml, line: 57
 # File: module/Application/view/application/agent/addnew.phtml, line: 60
-# File: module/Application/view/application/agent/subagent.phtml, line: 56
+# File: module/Application/view/application/agent/subagent.phtml, line: 57
 msgid "Memo"
 msgstr ""
 #
@@ -11310,7 +11310,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 137
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 471
-# File: module/Application/view/application/agent/subagent.phtml, line: 133
+# File: module/Application/view/application/agent/subagent.phtml, line: 134
 msgid "Please wait"
 msgstr ""
 #
@@ -11492,6 +11492,30 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/subagent.phtml, line: 42
 msgid "Please use the form below to update the information for your sub-agent. Ensure all details are accurate before submitting. Thank you for keeping our records current."
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Status"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Please status"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Select status"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Enabled"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Disable"
+msgstr ""
+#
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Pending Review"
 msgstr ""
 #
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 28
