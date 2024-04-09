@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-08 15:57+0100\n"
+"POT-Creation-Date: 2024-04-09 17:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,44 +114,44 @@ msgstr ""
 msgid "Triple"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 654
+# File: module/Application/src/Controller/AirController.php, line: 674
 msgid "Book Flights, Hotels, Cars and More"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 655
+# File: module/Application/src/Controller/AirController.php, line: 675
 msgid "is the world's leading airline. Book flights, hotels, cars and more on our site and enjoy our award-winning service and in-flight entertainment."
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 # File: module/Application/view/application/packages/info.phtml, line: 32
 msgid "flights"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 msgid "tickets"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 msgid "travel"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 # File: module/Application/view/application/packages/info.phtml, line: 42
 msgid "hotels"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 # File: module/Application/view/application/packages/info.phtml, line: 57
 msgid "cars"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 # File: module/Application/view/offers/airline/index.phtml, line: 211
 # File: module/Application/view/offers/airline/index.phtml, line: 212
 msgid "deals"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 656
+# File: module/Application/src/Controller/AirController.php, line: 676
 msgid "destinations"
 msgstr ""
 #
@@ -1420,7 +1420,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
-# File: module/Application/view/application/agent/reservations.phtml, line: 78
+# File: module/Application/view/application/agent/reservations.phtml, line: 82
 # File: module/Application/view/application/agent/agents.phtml, line: 70
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
@@ -7662,6 +7662,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 188
 # File: module/Application/view/application/cart/summary.phtml, line: 451
 # File: module/Application/view/application/cart/summary.phtml, line: 966
+# File: module/Application/view/application/agent/reservations.phtml, line: 66
 msgid "Baggage"
 msgstr ""
 #
@@ -8160,7 +8161,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/agent/reservations.phtml, line: 78
+# File: module/Application/view/application/agent/reservations.phtml, line: 82
 # File: module/Application/view/application/agent/agents.phtml, line: 70
 # File: module/Application/view/layout/layout.phtml, line: 289
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
@@ -8370,6 +8371,7 @@ msgid "Ticketed"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 157
+# File: module/Application/view/application/agent/reservations.phtml, line: 64
 msgid "Ticket"
 msgstr ""
 #
@@ -8450,18 +8452,18 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 427
-# File: module/Application/view/application/agent/reservations.phtml, line: 108
+# File: module/Application/view/application/agent/reservations.phtml, line: 112
 # File: module/Application/view/application/agent/agents.phtml, line: 92
 msgid "Member since"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 430
-# File: module/Application/view/application/agent/reservations.phtml, line: 111
+# File: module/Application/view/application/agent/reservations.phtml, line: 115
 msgid "My Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 431
-# File: module/Application/view/application/agent/reservations.phtml, line: 115
+# File: module/Application/view/application/agent/reservations.phtml, line: 119
 # File: module/Application/view/application/agent/index.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 336
 # File: module/Application/view/layout/layout.phtml, line: 344
@@ -8470,7 +8472,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
 # File: module/Application/view/application/login/signout.phtml, line: 15
-# File: module/Application/view/application/agent/reservations.phtml, line: 120
+# File: module/Application/view/application/agent/reservations.phtml, line: 124
 # File: module/Application/view/application/agent/agents.phtml, line: 98
 msgid "Logout"
 msgstr ""
@@ -11261,7 +11263,11 @@ msgstr ""
 msgid "Order by Departure Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 78
+# File: module/Application/view/application/agent/reservations.phtml, line: 65
+msgid "Seats"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 82
 # File: module/Application/view/application/agent/agents.phtml, line: 70
 msgid "Showing"
 msgstr ""
