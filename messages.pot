@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 12:21+0100\n"
+"POT-Creation-Date: 2024-04-15 14:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1421,7 +1421,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
 # File: module/Application/view/application/agent/reservations.phtml, line: 82
-# File: module/Application/view/application/agent/agents.phtml, line: 70
+# File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
 msgstr ""
@@ -8162,7 +8162,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/application/agent/reservations.phtml, line: 82
-# File: module/Application/view/application/agent/agents.phtml, line: 70
+# File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/layout/layout.phtml, line: 289
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
@@ -8453,7 +8453,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 427
 # File: module/Application/view/application/agent/reservations.phtml, line: 112
-# File: module/Application/view/application/agent/agents.phtml, line: 92
+# File: module/Application/view/application/agent/agents.phtml, line: 94
 msgid "Member since"
 msgstr ""
 #
@@ -8473,7 +8473,7 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
 # File: module/Application/view/application/login/signout.phtml, line: 15
 # File: module/Application/view/application/agent/reservations.phtml, line: 124
-# File: module/Application/view/application/agent/agents.phtml, line: 98
+# File: module/Application/view/application/agent/agents.phtml, line: 100
 msgid "Logout"
 msgstr ""
 #
@@ -11268,14 +11268,14 @@ msgid "Seats"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 82
-# File: module/Application/view/application/agent/agents.phtml, line: 70
+# File: module/Application/view/application/agent/agents.phtml, line: 72
 msgid "Showing"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 5
 # File: module/Application/view/application/agent/index.phtml, line: 35
 # File: module/Application/view/application/agent/agents.phtml, line: 18
-# File: module/Application/view/application/agent/agents.phtml, line: 80
+# File: module/Application/view/application/agent/agents.phtml, line: 82
 # File: module/Application/view/layout/layout.phtml, line: 338
 msgid "Agents"
 msgstr ""
@@ -11285,7 +11285,7 @@ msgid "Dashboard"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 63
-# File: module/Application/view/application/agent/agents.phtml, line: 96
+# File: module/Application/view/application/agent/agents.phtml, line: 98
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 7
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 20
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 31
@@ -11307,11 +11307,19 @@ msgstr ""
 msgid "Log off"
 msgstr ""
 #
-# File: module/Application/view/application/agent/agents.phtml, line: 58
+# File: module/Application/view/application/agent/agents.phtml, line: 37
+msgid "Disabled Agent"
+msgstr ""
+#
+# File: module/Application/view/application/agent/agents.phtml, line: 38
+msgid "Sub Agent"
+msgstr ""
+#
+# File: module/Application/view/application/agent/agents.phtml, line: 60
 msgid "Edit agent"
 msgstr ""
 #
-# File: module/Application/view/application/agent/agents.phtml, line: 95
+# File: module/Application/view/application/agent/agents.phtml, line: 97
 # File: module/Application/view/application/agent/addnew.phtml, line: 9
 # File: module/Application/view/application/agent/addnew.phtml, line: 23
 msgid "Add New Agent"
