@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-25 07:26+0100\n"
+"POT-Creation-Date: 2024-04-25 13:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -692,8 +692,8 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 162
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 85
 # File: module/Application/view/application/quotes/cruises.phtml, line: 66
-# File: module/Application/view/layout/layout.phtml, line: 253
-# File: module/Application/view/layout/layout.phtml, line: 788
+# File: module/Application/view/layout/layout.phtml, line: 241
+# File: module/Application/view/layout/layout.phtml, line: 776
 msgid "Cruises"
 msgstr ""
 #
@@ -1710,7 +1710,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/cruises.phtml, line: 164
 # File: module/Application/view/application/quotes/cruises.phtml, line: 272
 # File: module/Application/view/application/quotes/cruises.phtml, line: 309
-# File: module/Application/view/layout/layout.phtml, line: 314
+# File: module/Application/view/layout/layout.phtml, line: 302
 msgid "Total"
 msgstr ""
 #
@@ -2120,7 +2120,7 @@ msgstr ""
 # File: module/Application/view/application/cart/index.phtml, line: 201
 # File: module/Application/view/application/booking/paynow.phtml, line: 698
 # File: module/Application/view/application/booking/paynow.phtml, line: 701
-# File: module/Application/view/layout/layout.phtml, line: 506
+# File: module/Application/view/layout/layout.phtml, line: 494
 msgid "Close"
 msgstr ""
 #
@@ -4849,8 +4849,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 143
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 6
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 19
-# File: module/Application/view/layout/layout.phtml, line: 245
-# File: module/Application/view/layout/layout.phtml, line: 785
+# File: module/Application/view/layout/layout.phtml, line: 233
+# File: module/Application/view/layout/layout.phtml, line: 773
 msgid "Hotels"
 msgstr ""
 #
@@ -4859,8 +4859,8 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 114
 # File: module/Application/view/application/air/segment.phtml, line: 68
 # File: module/Application/view/application/trip-planner/select.phtml, line: 151
-# File: module/Application/view/layout/layout.phtml, line: 252
-# File: module/Application/view/layout/layout.phtml, line: 787
+# File: module/Application/view/layout/layout.phtml, line: 240
+# File: module/Application/view/layout/layout.phtml, line: 775
 msgid "Air / Transport"
 msgstr ""
 #
@@ -4869,8 +4869,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/return.phtml, line: 7
 # File: module/Application/view/application/trip-planner/select.phtml, line: 146
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 41
-# File: module/Application/view/layout/layout.phtml, line: 247
-# File: module/Application/view/layout/layout.phtml, line: 789
+# File: module/Application/view/layout/layout.phtml, line: 235
+# File: module/Application/view/layout/layout.phtml, line: 777
 msgid "Transfers"
 msgstr ""
 #
@@ -4879,8 +4879,8 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 127
 # File: module/Application/view/application/trip-planner/select.phtml, line: 144
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 74
-# File: module/Application/view/layout/layout.phtml, line: 246
-# File: module/Application/view/layout/layout.phtml, line: 786
+# File: module/Application/view/layout/layout.phtml, line: 234
+# File: module/Application/view/layout/layout.phtml, line: 774
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -4888,7 +4888,7 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 54
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 8
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 30
-# File: module/Application/view/layout/layout.phtml, line: 790
+# File: module/Application/view/layout/layout.phtml, line: 778
 # File: translate-dummy.php, line: 7
 msgid "Activities"
 msgstr ""
@@ -4897,7 +4897,7 @@ msgstr ""
 # File: module/Application/view/application/cars/search.phtml, line: 15
 # File: module/Application/view/application/trip-planner/select.phtml, line: 155
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 63
-# File: module/Application/view/layout/layout.phtml, line: 255
+# File: module/Application/view/layout/layout.phtml, line: 243
 msgid "Cars"
 msgstr ""
 #
@@ -5553,7 +5553,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 324
 # File: module/Application/view/application/content/destinations.phtml, line: 5
 # File: module/Application/view/error/404.phtml, line: 45
-# File: module/Application/view/layout/layout.phtml, line: 862
+# File: module/Application/view/layout/layout.phtml, line: 850
 msgid "Destinations"
 msgstr ""
 #
@@ -6153,7 +6153,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 35
 # File: module/Application/view/application/booking/paynow.phtml, line: 157
 # File: module/Application/view/application/destinations/index.phtml, line: 883
-# File: module/Application/view/layout/layout.phtml, line: 288
+# File: module/Application/view/layout/layout.phtml, line: 276
 msgid "Flight"
 msgstr ""
 #
@@ -6228,7 +6228,7 @@ msgstr ""
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/application/agent/login.phtml, line: 102
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 79
-# File: module/Application/view/layout/layout.phtml, line: 744
+# File: module/Application/view/layout/layout.phtml, line: 732
 msgid "Please wait..."
 msgstr ""
 #
@@ -6236,7 +6236,7 @@ msgstr ""
 # File: module/Application/view/application/activities/search.phtml, line: 76
 # File: module/Application/view/application/trip-planner/select.phtml, line: 154
 # File: module/Application/view/application/destinations/index.phtml, line: 368
-# File: module/Application/view/layout/layout.phtml, line: 254
+# File: module/Application/view/layout/layout.phtml, line: 242
 msgid "Things to do"
 msgstr ""
 #
@@ -8178,7 +8178,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 290
 # File: module/Application/view/application/agent/reservations.phtml, line: 86
 # File: module/Application/view/application/agent/agents.phtml, line: 72
-# File: module/Application/view/layout/layout.phtml, line: 289
+# File: module/Application/view/layout/layout.phtml, line: 277
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "to"
@@ -8480,8 +8480,8 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 431
 # File: module/Application/view/application/agent/reservations.phtml, line: 123
 # File: module/Application/view/application/agent/index.phtml, line: 23
-# File: module/Application/view/layout/layout.phtml, line: 336
-# File: module/Application/view/layout/layout.phtml, line: 345
+# File: module/Application/view/layout/layout.phtml, line: 324
+# File: module/Application/view/layout/layout.phtml, line: 333
 msgid "Profile"
 msgstr ""
 #
@@ -9123,7 +9123,7 @@ msgstr ""
 # File: module/Application/view/application/content/weddings.phtml, line: 66
 # File: module/Application/view/application/content/pricematch.phtml, line: 149
 # File: module/Application/view/application/booking/paynow.phtml, line: 216
-# File: module/Application/view/layout/layout.phtml, line: 282
+# File: module/Application/view/layout/layout.phtml, line: 270
 msgid "Hotel"
 msgstr ""
 #
@@ -9625,7 +9625,7 @@ msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 16
 # File: module/Application/view/application/agent/login.phtml, line: 15
-# File: module/Application/view/layout/layout.phtml, line: 333
+# File: module/Application/view/layout/layout.phtml, line: 321
 msgid "Login"
 msgstr ""
 #
@@ -9647,7 +9647,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 24
 # File: module/Application/view/application/login/signout.phtml, line: 20
 # File: module/Application/view/application/agent/login.phtml, line: 23
-# File: module/Application/view/layout/layout.phtml, line: 359
+# File: module/Application/view/layout/layout.phtml, line: 347
 msgid "Email address"
 msgstr ""
 #
@@ -9659,7 +9659,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 77
 # File: module/Application/view/application/agent/login.phtml, line: 24
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
-# File: module/Application/view/layout/layout.phtml, line: 362
+# File: module/Application/view/layout/layout.phtml, line: 350
 msgid "Password"
 msgstr ""
 #
@@ -9669,7 +9669,7 @@ msgstr ""
 # File: module/Application/view/application/agent/login.phtml, line: 27
 # File: module/Application/view/application/agent/addnew.phtml, line: 20
 # File: module/Application/view/application/agent/subagent.phtml, line: 20
-# File: module/Application/view/layout/layout.phtml, line: 760
+# File: module/Application/view/layout/layout.phtml, line: 748
 msgid "Continue"
 msgstr ""
 #
@@ -10018,7 +10018,7 @@ msgid "Document Number is required! Please input Document Number."
 msgstr ""
 #
 # File: module/Application/view/application/login/settings.phtml, line: 8
-# File: module/Application/view/layout/layout.phtml, line: 346
+# File: module/Application/view/layout/layout.phtml, line: 334
 msgid "Settings"
 msgstr ""
 #
@@ -10050,8 +10050,8 @@ msgstr ""
 # File: module/Application/view/application/login/reservations.phtml, line: 20
 # File: module/Application/view/application/agent/reservations.phtml, line: 14
 # File: module/Application/view/application/agent/index.phtml, line: 53
-# File: module/Application/view/layout/layout.phtml, line: 341
-# File: module/Application/view/layout/layout.phtml, line: 348
+# File: module/Application/view/layout/layout.phtml, line: 329
+# File: module/Application/view/layout/layout.phtml, line: 336
 msgid "Reservations"
 msgstr ""
 #
@@ -10158,8 +10158,8 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 11
 # File: module/Application/view/application/trip-planner/select.phtml, line: 141
-# File: module/Application/view/layout/layout.phtml, line: 243
-# File: module/Application/view/layout/layout.phtml, line: 798
+# File: module/Application/view/layout/layout.phtml, line: 231
+# File: module/Application/view/layout/layout.phtml, line: 786
 msgid "Trip Planner"
 msgstr ""
 #
@@ -10188,34 +10188,34 @@ msgid "England, United Kingdom"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 135
-# File: module/Application/view/layout/layout.phtml, line: 237
-# File: module/Application/view/layout/layout.phtml, line: 783
+# File: module/Application/view/layout/layout.phtml, line: 225
+# File: module/Application/view/layout/layout.phtml, line: 771
 msgid "Categories"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 148
-# File: module/Application/view/layout/layout.phtml, line: 248
-# File: module/Application/view/layout/layout.phtml, line: 796
+# File: module/Application/view/layout/layout.phtml, line: 236
+# File: module/Application/view/layout/layout.phtml, line: 784
 msgid "Travel Insurances"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 156
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 96
-# File: module/Application/view/layout/layout.phtml, line: 257
-# File: module/Application/view/layout/layout.phtml, line: 793
+# File: module/Application/view/layout/layout.phtml, line: 245
+# File: module/Application/view/layout/layout.phtml, line: 781
 # File: module/Application/view/offers/hotels/index.phtml, line: 238
 msgid "Packages"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 191
-# File: module/Application/view/layout/layout.phtml, line: 403
+# File: module/Application/view/layout/layout.phtml, line: 391
 msgid "Select your currency"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 195
 # File: module/Application/view/application/trip-planner/select.phtml, line: 295
-# File: module/Application/view/layout/layout.phtml, line: 407
-# File: module/Application/view/layout/layout.phtml, line: 509
+# File: module/Application/view/layout/layout.phtml, line: 395
+# File: module/Application/view/layout/layout.phtml, line: 497
 msgid "Suggested"
 msgstr ""
 #
@@ -10223,13 +10223,13 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 354
 # File: module/Application/view/application/agent/reservations.phtml, line: 20
 # File: module/Application/view/application/agent/agents.phtml, line: 24
-# File: module/Application/view/layout/layout.phtml, line: 452
-# File: module/Application/view/layout/layout.phtml, line: 568
+# File: module/Application/view/layout/layout.phtml, line: 440
+# File: module/Application/view/layout/layout.phtml, line: 556
 msgid "All"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 281
-# File: module/Application/view/layout/layout.phtml, line: 505
+# File: module/Application/view/layout/layout.phtml, line: 493
 msgid "Select your language"
 msgstr ""
 #
@@ -10363,7 +10363,7 @@ msgid "Delete"
 msgstr ""
 #
 # File: module/Application/view/application/cart/index.phtml, line: 66
-# File: module/Application/view/layout/layout.phtml, line: 294
+# File: module/Application/view/layout/layout.phtml, line: 282
 msgid "Auto"
 msgstr ""
 #
@@ -10436,12 +10436,12 @@ msgid "About Us"
 msgstr ""
 #
 # File: module/Application/view/application/content/privacypolicy.phtml, line: 6
-# File: module/Application/view/layout/layout.phtml, line: 807
+# File: module/Application/view/layout/layout.phtml, line: 795
 msgid "Privacy Policy"
 msgstr ""
 #
 # File: module/Application/view/application/content/termsandconditions.phtml, line: 6
-# File: module/Application/view/layout/layout.phtml, line: 808
+# File: module/Application/view/layout/layout.phtml, line: 796
 msgid "Terms & Conditions"
 msgstr ""
 #
@@ -10502,7 +10502,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 69
 # File: module/Application/view/application/agent/addnew.phtml, line: 51
 # File: module/Application/view/application/agent/subagent.phtml, line: 48
-# File: module/Application/view/layout/layout.phtml, line: 804
+# File: module/Application/view/layout/layout.phtml, line: 792
 msgid "Company"
 msgstr ""
 #
@@ -10880,7 +10880,7 @@ msgid "Step 3 - Hotel Details"
 msgstr ""
 #
 # File: module/Application/view/application/content/pricematch.phtml, line: 9
-# File: module/Application/view/layout/layout.phtml, line: 856
+# File: module/Application/view/layout/layout.phtml, line: 844
 msgid "Price Match"
 msgstr ""
 #
@@ -11291,12 +11291,12 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 36
 # File: module/Application/view/application/agent/agents.phtml, line: 18
 # File: module/Application/view/application/agent/agents.phtml, line: 82
-# File: module/Application/view/layout/layout.phtml, line: 339
+# File: module/Application/view/layout/layout.phtml, line: 327
 msgid "Agents"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 6
-# File: module/Application/view/layout/layout.phtml, line: 337
+# File: module/Application/view/layout/layout.phtml, line: 325
 msgid "Dashboard"
 msgstr ""
 #
@@ -11319,7 +11319,7 @@ msgid "New Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 89
-# File: module/Application/view/layout/layout.phtml, line: 343
+# File: module/Application/view/layout/layout.phtml, line: 331
 msgid "Log off"
 msgstr ""
 #
@@ -11731,140 +11731,140 @@ msgid "The ports may vary, if the shipping company deems it appropriate."
 msgstr ""
 #
 # File: module/Application/view/application/catalog/index.phtml, line: 17
-# File: module/Application/view/layout/layout.phtml, line: 249
-# File: module/Application/view/layout/layout.phtml, line: 800
+# File: module/Application/view/layout/layout.phtml, line: 237
+# File: module/Application/view/layout/layout.phtml, line: 788
 msgid "Catalog"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 271
+# File: module/Application/view/layout/layout.phtml, line: 259
 msgid "Shopping Cart"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 321
+# File: module/Application/view/layout/layout.phtml, line: 309
 msgid "summary"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 322
+# File: module/Application/view/layout/layout.phtml, line: 310
 msgid "checkout"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 350
+# File: module/Application/view/layout/layout.phtml, line: 338
 msgid "Sign out"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 356
+# File: module/Application/view/layout/layout.phtml, line: 344
 msgid "Sign in for more offers!"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 357
+# File: module/Application/view/layout/layout.phtml, line: 345
 msgid "It's easy and Free!"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 364
+# File: module/Application/view/layout/layout.phtml, line: 352
 msgid "Sign in"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 368
+# File: module/Application/view/layout/layout.phtml, line: 356
 msgid "Sign up with Google"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 372
+# File: module/Application/view/layout/layout.phtml, line: 360
 msgid "Sign up with Facebook"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 743
+# File: module/Application/view/layout/layout.phtml, line: 731
 msgid "Searching the best options"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 758
+# File: module/Application/view/layout/layout.phtml, line: 746
 msgid "Need Help?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 759
+# File: module/Application/view/layout/layout.phtml, line: 747
 msgid "Call us for better advice"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 771
+# File: module/Application/view/layout/layout.phtml, line: 759
 msgid "Information"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 780
+# File: module/Application/view/layout/layout.phtml, line: 768
 msgid "Traveling around the world!"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 791
+# File: module/Application/view/layout/layout.phtml, line: 779
 msgid "Car Rentals"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 794
+# File: module/Application/view/layout/layout.phtml, line: 782
 msgid "Confirmed Departures"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 806
+# File: module/Application/view/layout/layout.phtml, line: 794
 msgid "About us"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 809
+# File: module/Application/view/layout/layout.phtml, line: 797
 msgid "Contact us"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 814
+# File: module/Application/view/layout/layout.phtml, line: 802
 msgid "Social"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 828
+# File: module/Application/view/layout/layout.phtml, line: 816
 msgid "Main Office"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 847
+# File: module/Application/view/layout/layout.phtml, line: 835
 msgid "New customer? Register here"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 848
+# File: module/Application/view/layout/layout.phtml, line: 836
 msgid "Forgot Password?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 849
+# File: module/Application/view/layout/layout.phtml, line: 837
 msgid "Travel Agent Login"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 850
+# File: module/Application/view/layout/layout.phtml, line: 838
 msgid "Unsubscribe from Newsletter?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 853
+# File: module/Application/view/layout/layout.phtml, line: 841
 msgid "Support"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 854
+# File: module/Application/view/layout/layout.phtml, line: 842
 msgid "Groups"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 855
+# File: module/Application/view/layout/layout.phtml, line: 843
 msgid "Weddings"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 859
+# File: module/Application/view/layout/layout.phtml, line: 847
 msgid "Become an affiliate"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 860
+# File: module/Application/view/layout/layout.phtml, line: 848
 msgid "Open Business Account"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 861
+# File: module/Application/view/layout/layout.phtml, line: 849
 msgid "List your property"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 868
+# File: module/Application/view/layout/layout.phtml, line: 856
 msgid "Back to top"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 869
+# File: module/Application/view/layout/layout.phtml, line: 857
 msgid "Privacy"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 869
+# File: module/Application/view/layout/layout.phtml, line: 857
 msgid "Terms"
 msgstr ""
 #
