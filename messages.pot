@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-25 17:05+0100\n"
+"POT-Creation-Date: 2024-04-26 07:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -169,13 +169,15 @@ msgstr ""
 msgid "Search for"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 58
-# File: module/Application/src/Controller/BookingController.php, line: 477
+# File: module/Application/src/Controller/BookingController.php, line: 434
+# File: module/Application/src/Controller/BookingController.php, line: 527
+# File: module/Application/src/Controller/BookingController.php, line: 946
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 59
-# File: module/Application/src/Controller/BookingController.php, line: 478
+# File: module/Application/src/Controller/BookingController.php, line: 435
+# File: module/Application/src/Controller/BookingController.php, line: 528
+# File: module/Application/src/Controller/BookingController.php, line: 947
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -1420,7 +1422,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
-# File: module/Application/view/application/agent/reservations.phtml, line: 86
+# File: module/Application/view/application/agent/reservations.phtml, line: 110
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
@@ -6226,6 +6228,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 661
 # File: module/Application/view/application/cart/passengers.phtml, line: 730
 # File: module/Application/view/application/booking/pay.phtml, line: 269
+# File: module/Application/view/application/booking/index.phtml, line: 269
+# File: module/Application/view/application/booking/info.phtml, line: 269
 # File: module/Application/view/application/agent/login.phtml, line: 102
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 79
 # File: module/Application/view/layout/layout.phtml, line: 732
@@ -7677,7 +7681,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 188
 # File: module/Application/view/application/cart/summary.phtml, line: 451
 # File: module/Application/view/application/cart/summary.phtml, line: 966
-# File: module/Application/view/application/agent/reservations.phtml, line: 69
+# File: module/Application/view/application/agent/reservations.phtml, line: 93
 msgid "Baggage"
 msgstr ""
 #
@@ -8176,7 +8180,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/agent/reservations.phtml, line: 86
+# File: module/Application/view/application/agent/reservations.phtml, line: 110
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/layout/layout.phtml, line: 277
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
@@ -8386,7 +8390,7 @@ msgid "Ticketed"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 157
-# File: module/Application/view/application/agent/reservations.phtml, line: 67
+# File: module/Application/view/application/agent/reservations.phtml, line: 91
 msgid "Ticket"
 msgstr ""
 #
@@ -8467,18 +8471,18 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 427
-# File: module/Application/view/application/agent/reservations.phtml, line: 116
+# File: module/Application/view/application/agent/reservations.phtml, line: 140
 # File: module/Application/view/application/agent/agents.phtml, line: 94
 msgid "Member since"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 430
-# File: module/Application/view/application/agent/reservations.phtml, line: 119
+# File: module/Application/view/application/agent/reservations.phtml, line: 143
 msgid "My Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 431
-# File: module/Application/view/application/agent/reservations.phtml, line: 123
+# File: module/Application/view/application/agent/reservations.phtml, line: 147
 # File: module/Application/view/application/agent/index.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 324
 # File: module/Application/view/layout/layout.phtml, line: 333
@@ -8487,7 +8491,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
 # File: module/Application/view/application/login/signout.phtml, line: 15
-# File: module/Application/view/application/agent/reservations.phtml, line: 128
+# File: module/Application/view/application/agent/reservations.phtml, line: 152
 # File: module/Application/view/application/agent/agents.phtml, line: 102
 msgid "Logout"
 msgstr ""
@@ -11278,11 +11282,57 @@ msgstr ""
 msgid "Order by Departure Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 68
+# File: module/Application/view/application/agent/reservations.phtml, line: 63
+# File: module/Application/view/application/agent/index.phtml, line: 77
+msgid "New Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 65
+msgid "Reservation Pending"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 67
+msgid "Reservation Confirmed"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 69
+msgid "Reservation Cancelled"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 71
+msgid "Reservation Waiting Confirmation"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 73
+msgid "Exception Error"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 75
+msgid "Processing Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 77
+msgid "Queued for Cancellation"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 79
+msgid "Partially Confirmed"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 81
+msgid "Duplicate Booking Alert"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 83
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Pending Review"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 92
 msgid "Seats"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 86
+# File: module/Application/view/application/agent/reservations.phtml, line: 110
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 msgid "Showing"
 msgstr ""
@@ -11312,10 +11362,6 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 86
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 97
 msgid "Markup Settings"
-msgstr ""
-#
-# File: module/Application/view/application/agent/index.phtml, line: 77
-msgid "New Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 89
@@ -11559,10 +11605,6 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/subagent.phtml, line: 56
 msgid "Disabled"
-msgstr ""
-#
-# File: module/Application/view/application/agent/subagent.phtml, line: 56
-msgid "Pending Review"
 msgstr ""
 #
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 28
