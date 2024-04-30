@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-30 07:14+0100\n"
+"POT-Creation-Date: 2024-04-30 17:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -169,15 +169,19 @@ msgstr ""
 msgid "Search for"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 434
-# File: module/Application/src/Controller/BookingController.php, line: 527
-# File: module/Application/src/Controller/BookingController.php, line: 946
+# File: module/Application/src/Controller/BookingController.php, line: 169
+# File: module/Application/src/Controller/BookingController.php, line: 170
+# File: module/Application/view/application/booking/details.phtml, line: 260
+msgid "Reservation Details"
+msgstr ""
+#
+# File: module/Application/src/Controller/BookingController.php, line: 262
+# File: module/Application/src/Controller/BookingController.php, line: 681
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 435
-# File: module/Application/src/Controller/BookingController.php, line: 528
-# File: module/Application/src/Controller/BookingController.php, line: 947
+# File: module/Application/src/Controller/BookingController.php, line: 263
+# File: module/Application/src/Controller/BookingController.php, line: 682
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -2123,6 +2127,7 @@ msgstr ""
 # File: module/Application/view/application/cart/index.phtml, line: 201
 # File: module/Application/view/application/booking/paynow.phtml, line: 698
 # File: module/Application/view/application/booking/paynow.phtml, line: 701
+# File: module/Application/view/application/booking/details.phtml, line: 351
 # File: module/Application/view/layout/layout.phtml, line: 572
 msgid "Close"
 msgstr ""
@@ -8801,6 +8806,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 1125
 # File: module/Application/view/application/hotels/list.phtml, line: 548
 # File: module/Application/view/application/hotels/brands.phtml, line: 277
+# File: module/Application/view/application/booking/details.phtml, line: 252
 # File: module/Application/view/application/catalog/destination.phtml, line: 47
 msgid "view on map"
 msgstr ""
@@ -8903,6 +8909,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 464
 # File: module/Application/view/application/hotels/search.phtml, line: 479
 # File: module/Application/view/application/hotels/brands.phtml, line: 335
+# File: module/Application/view/application/booking/details.phtml, line: 350
 msgid "Map"
 msgstr ""
 #
@@ -10140,6 +10147,7 @@ msgid "dinners"
 msgstr ""
 #
 # File: module/Application/view/application/packages/info.phtml, line: 94
+# File: module/Application/view/application/booking/details.phtml, line: 6
 msgid "Destinations:"
 msgstr ""
 #
@@ -11093,6 +11101,165 @@ msgstr ""
 msgid "Unfortunately, we are unable to process your payment for the cancelled reservation. If you still wish, you will need to make a new reservation through our website or by calling our customer service."
 msgstr ""
 #
+# File: module/Application/view/application/booking/details.phtml, line: 227
+msgid "Accomodation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 274
+msgid "Cancelation Policies"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 275
+msgid "You may cancel your reservation without any charges before"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 275
+msgid "In the event of a no-show, the total amount of the reservation will be charged."
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 281
+msgid "Reservation Status"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 63
+# File: module/Application/view/application/agent/index.phtml, line: 77
+msgid "New Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 65
+msgid "Reservation Pending"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 67
+msgid "Reservation Confirmed"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 69
+msgid "Reservation Cancelled"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 71
+msgid "Reservation Waiting Confirmation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 73
+msgid "Exception Error"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 75
+msgid "Processing Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 77
+msgid "Queued for Cancellation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 79
+msgid "Partially Confirmed"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 81
+msgid "Duplicate Booking Alert"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 282
+# File: module/Application/view/application/agent/reservations.phtml, line: 83
+# File: module/Application/view/application/agent/subagent.phtml, line: 56
+msgid "Pending Review"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 288
+msgid "Payment Status"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 291
+msgid "We are awaiting payment to finalize the booking"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 293
+msgid "Payment confirmed and successfully charged"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 295
+msgid "Payment refunded"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 297
+msgid "Pending review"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 299
+msgid "Payment on hold"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 301
+msgid "Partially paid"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 303
+msgid "Awaiting refund"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 305
+msgid "Payment cancelled"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 307
+msgid "Exception error"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 309
+msgid "Payment failed. This may be due to a variety of reasons such as insufficient funds, incorrect card details, or a technical issue with the payment processor"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 311
+msgid "Payment is currently in the queue for processing "
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 312
+msgid "Transaction will be processed through airline's processing system"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 319
+msgid "Travel Dates"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 326
+msgid "Room Occupancy"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 327
+msgid "adult"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 327
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "adults"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 327
+msgid "child"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 327
+# File: module/Application/view/offers/cruises/index.phtml, line: 139
+msgid "children"
+msgstr ""
+#
+# File: module/Application/view/application/booking/details.phtml, line: 333
+msgid "Confirmation Voucher"
+msgstr ""
+#
 # File: module/Application/view/application/destinations/index.phtml, line: 126
 # File: module/Application/view/offers/lastminute/index.phtml, line: 8095
 # File: translate-dummy.php, line: 10
@@ -11287,52 +11454,6 @@ msgstr ""
 # File: module/Application/view/application/agent/reservations.phtml, line: 25
 # File: module/Application/view/application/agent/agents.phtml, line: 29
 msgid "Order by Departure Date"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 63
-# File: module/Application/view/application/agent/index.phtml, line: 77
-msgid "New Reservation"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 65
-msgid "Reservation Pending"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 67
-msgid "Reservation Confirmed"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 69
-msgid "Reservation Cancelled"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 71
-msgid "Reservation Waiting Confirmation"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 73
-msgid "Exception Error"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 75
-msgid "Processing Reservation"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 77
-msgid "Queued for Cancellation"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 79
-msgid "Partially Confirmed"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 81
-msgid "Duplicate Booking Alert"
-msgstr ""
-#
-# File: module/Application/view/application/agent/reservations.phtml, line: 83
-# File: module/Application/view/application/agent/subagent.phtml, line: 56
-msgid "Pending Review"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 92
@@ -12083,14 +12204,6 @@ msgstr ""
 #
 # File: module/Application/view/offers/cruises/index.phtml, line: 139
 msgid "Passengers:"
-msgstr ""
-#
-# File: module/Application/view/offers/cruises/index.phtml, line: 139
-msgid "adults"
-msgstr ""
-#
-# File: module/Application/view/offers/cruises/index.phtml, line: 139
-msgid "children"
 msgstr ""
 #
 # File: module/Application/view/offers/cruises/index.phtml, line: 141
