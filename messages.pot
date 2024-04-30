@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-30 20:04+0100\n"
+"POT-Creation-Date: 2024-04-30 20:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -169,19 +169,19 @@ msgstr ""
 msgid "Search for"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 169
-# File: module/Application/src/Controller/BookingController.php, line: 170
+# File: module/Application/src/Controller/BookingController.php, line: 190
+# File: module/Application/src/Controller/BookingController.php, line: 191
 # File: module/Application/view/application/booking/details.phtml, line: 227
 msgid "Reservation Details"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 262
-# File: module/Application/src/Controller/BookingController.php, line: 681
+# File: module/Application/src/Controller/BookingController.php, line: 283
+# File: module/Application/src/Controller/BookingController.php, line: 702
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 263
-# File: module/Application/src/Controller/BookingController.php, line: 682
+# File: module/Application/src/Controller/BookingController.php, line: 284
+# File: module/Application/src/Controller/BookingController.php, line: 703
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -8944,6 +8944,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 96
 # File: module/Application/view/application/insurances/summary.phtml, line: 67
 # File: module/Application/view/application/insurances/confirm.phtml, line: 17
+# File: module/Application/view/application/booking/details.phtml, line: 6
 msgid "Destination:"
 msgstr ""
 #
@@ -10155,7 +10156,6 @@ msgid "dinners"
 msgstr ""
 #
 # File: module/Application/view/application/packages/info.phtml, line: 94
-# File: module/Application/view/application/booking/details.phtml, line: 6
 msgid "Destinations:"
 msgstr ""
 #
