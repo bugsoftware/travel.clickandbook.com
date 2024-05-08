@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-07 15:02+0100\n"
+"POT-Creation-Date: 2024-05-08 17:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,44 +114,44 @@ msgstr ""
 msgid "Triple"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 674
+# File: module/Application/src/Controller/AirController.php, line: 679
 msgid "Book Flights, Hotels, Cars and More"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 675
+# File: module/Application/src/Controller/AirController.php, line: 680
 msgid "is the world's leading airline. Book flights, hotels, cars and more on our site and enjoy our award-winning service and in-flight entertainment."
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 # File: module/Application/view/application/packages/info.phtml, line: 32
 msgid "flights"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 msgid "tickets"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 msgid "travel"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 # File: module/Application/view/application/packages/info.phtml, line: 42
 msgid "hotels"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 # File: module/Application/view/application/packages/info.phtml, line: 57
 msgid "cars"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 # File: module/Application/view/offers/airline/index.phtml, line: 211
 # File: module/Application/view/offers/airline/index.phtml, line: 212
 msgid "deals"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 676
+# File: module/Application/src/Controller/AirController.php, line: 681
 msgid "destinations"
 msgstr ""
 #
@@ -176,12 +176,12 @@ msgid "Reservation Details"
 msgstr ""
 #
 # File: module/Application/src/Controller/BookingController.php, line: 283
-# File: module/Application/src/Controller/BookingController.php, line: 705
+# File: module/Application/src/Controller/BookingController.php, line: 707
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
 # File: module/Application/src/Controller/BookingController.php, line: 284
-# File: module/Application/src/Controller/BookingController.php, line: 706
+# File: module/Application/src/Controller/BookingController.php, line: 708
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -1081,7 +1081,8 @@ msgid "FROM"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 38
-# File: module/Application/view/application/cruises/offer.phtml, line: 143
+# File: module/Application/view/application/cruises/offer.phtml, line: 147
+# File: module/Application/view/application/cruises/offer.phtml, line: 149
 # File: module/Application/view/application/activities/info.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 45
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 207
@@ -1162,12 +1163,17 @@ msgstr ""
 msgid "Price & Availability"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/offer.phtml, line: 153
+# File: module/Application/view/application/cruises/offer.phtml, line: 145
+msgid "Select Fare"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/offer.phtml, line: 160
 msgid "Cruise facilities"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/offer.phtml, line: 381
-# File: module/Application/view/application/cruises/select.phtml, line: 707
+# File: module/Application/view/application/cruises/offer.phtml, line: 388
+# File: module/Application/view/application/cruises/offer.phtml, line: 403
+# File: module/Application/view/application/cruises/select.phtml, line: 724
 # File: module/Application/view/application/cruises/summary.phtml, line: 415
 # File: module/Application/view/application/cruises/passengers.phtml, line: 591
 # File: module/Application/view/application/cruises/payment.phtml, line: 391
@@ -1203,6 +1209,10 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 911
 # File: module/Application/view/application/agent/profile.phtml, line: 160
 msgid "PLEASE WAIT"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/offer.phtml, line: 400
+msgid "Please select cruise fare"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 10
@@ -1274,7 +1284,7 @@ msgid "Ages"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 41
-# File: module/Application/view/application/cruises/select.phtml, line: 733
+# File: module/Application/view/application/cruises/select.phtml, line: 750
 # File: module/Application/view/application/cruises/summary.phtml, line: 244
 # File: module/Application/view/application/cruises/passengers.phtml, line: 240
 # File: module/Application/view/application/cruises/payment.phtml, line: 107
@@ -1303,7 +1313,7 @@ msgid "Passenger"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 41
-# File: module/Application/view/application/cruises/select.phtml, line: 733
+# File: module/Application/view/application/cruises/select.phtml, line: 750
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 425
 msgid "Input age for guest"
 msgstr ""
@@ -1399,7 +1409,7 @@ msgid "The category has cabins for guests with special needs."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 110
-# File: module/Application/view/application/cruises/select.phtml, line: 504
+# File: module/Application/view/application/cruises/select.phtml, line: 509
 msgid "Guarantee"
 msgstr ""
 #
@@ -1408,7 +1418,7 @@ msgid "Guests who book a guarantee cabin will receive the cabin assignment when 
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 115
-# File: module/Application/view/application/cruises/select.phtml, line: 501
+# File: module/Application/view/application/cruises/select.phtml, line: 506
 msgid "Waitlist"
 msgstr ""
 #
@@ -1417,7 +1427,7 @@ msgid "Cabins on the waiting list are cabins that are not available but can be \
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 127
-# File: module/Application/view/application/cruises/select.phtml, line: 514
+# File: module/Application/view/application/cruises/select.phtml, line: 519
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 115
 # File: module/Application/view/application/air/search.phtml, line: 564
 # File: module/Application/view/application/air/search.phtml, line: 657
@@ -1429,7 +1439,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
-# File: module/Application/view/application/agent/reservations.phtml, line: 128
+# File: module/Application/view/application/agent/reservations.phtml, line: 130
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
@@ -1740,34 +1750,34 @@ msgid "Please select dining time"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 366
-# File: module/Application/view/application/cruises/select.phtml, line: 514
+# File: module/Application/view/application/cruises/select.phtml, line: 519
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 116
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 142
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 169
 msgid "selected"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 478
+# File: module/Application/view/application/cruises/select.phtml, line: 483
 msgid "Non Refundable Deposit"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 511
+# File: module/Application/view/application/cruises/select.phtml, line: 516
 msgid "Deposit is non-refundable. Once the deposit is paid it will not be refunded."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 681
+# File: module/Application/view/application/cruises/select.phtml, line: 694
 msgid "Pay Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 685
+# File: module/Application/view/application/cruises/select.phtml, line: 698
 msgid "Do not pay Service Gratuities (Tips)"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 718
+# File: module/Application/view/application/cruises/select.phtml, line: 735
 msgid "Max Occupancy is"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 720
+# File: module/Application/view/application/cruises/select.phtml, line: 737
 msgid "Handicap Cabin"
 msgstr ""
 #
@@ -8209,7 +8219,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/agent/reservations.phtml, line: 128
+# File: module/Application/view/application/agent/reservations.phtml, line: 130
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/layout/layout.phtml, line: 301
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
@@ -8500,18 +8510,18 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 427
-# File: module/Application/view/application/agent/reservations.phtml, line: 158
+# File: module/Application/view/application/agent/reservations.phtml, line: 160
 # File: module/Application/view/application/agent/agents.phtml, line: 94
 msgid "Member since"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 430
-# File: module/Application/view/application/agent/reservations.phtml, line: 161
+# File: module/Application/view/application/agent/reservations.phtml, line: 163
 msgid "My Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 431
-# File: module/Application/view/application/agent/reservations.phtml, line: 165
+# File: module/Application/view/application/agent/reservations.phtml, line: 167
 # File: module/Application/view/application/agent/index.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 348
 # File: module/Application/view/layout/layout.phtml, line: 357
@@ -8520,7 +8530,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
 # File: module/Application/view/application/login/signout.phtml, line: 15
-# File: module/Application/view/application/agent/reservations.phtml, line: 170
+# File: module/Application/view/application/agent/reservations.phtml, line: 172
 # File: module/Application/view/application/agent/agents.phtml, line: 102
 msgid "Logout"
 msgstr ""
@@ -11526,7 +11536,11 @@ msgstr ""
 msgid "Seats"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 128
+# File: module/Application/view/application/agent/reservations.phtml, line: 116
+msgid "Change Payment Type"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 130
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 msgid "Showing"
 msgstr ""
