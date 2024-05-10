@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-09 22:03+0100\n"
+"POT-Creation-Date: 2024-05-10 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -315,7 +315,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 250
 # File: module/Application/view/application/destinations/index.phtml, line: 343
 # File: module/Application/view/application/destinations/index.phtml, line: 384
-# File: module/Application/view/application/agent/reservations.phtml, line: 59
+# File: module/Application/view/application/agent/reservations.phtml, line: 60
 msgid "Travelers"
 msgstr ""
 #
@@ -1439,7 +1439,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
-# File: module/Application/view/application/agent/reservations.phtml, line: 130
+# File: module/Application/view/application/agent/reservations.phtml, line: 131
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
@@ -7710,7 +7710,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 188
 # File: module/Application/view/application/cart/summary.phtml, line: 451
 # File: module/Application/view/application/cart/summary.phtml, line: 966
-# File: module/Application/view/application/agent/reservations.phtml, line: 108
+# File: module/Application/view/application/agent/reservations.phtml, line: 109
 msgid "Baggage"
 msgstr ""
 #
@@ -8113,7 +8113,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 491
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
-# File: module/Application/view/application/agent/reservations.phtml, line: 59
+# File: module/Application/view/application/agent/reservations.phtml, line: 60
 msgid "Traveler"
 msgstr ""
 #
@@ -8219,7 +8219,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/agent/reservations.phtml, line: 130
+# File: module/Application/view/application/agent/reservations.phtml, line: 131
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/layout/layout.phtml, line: 301
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
@@ -8426,7 +8426,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 36
 # File: module/Application/view/application/air/ticketing.phtml, line: 185
-# File: module/Application/view/application/agent/reservations.phtml, line: 106
+# File: module/Application/view/application/agent/reservations.phtml, line: 107
 msgid "Ticket"
 msgstr ""
 #
@@ -8515,18 +8515,18 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 455
-# File: module/Application/view/application/agent/reservations.phtml, line: 160
+# File: module/Application/view/application/agent/reservations.phtml, line: 161
 # File: module/Application/view/application/agent/agents.phtml, line: 94
 msgid "Member since"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 458
-# File: module/Application/view/application/agent/reservations.phtml, line: 163
+# File: module/Application/view/application/agent/reservations.phtml, line: 164
 msgid "My Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 459
-# File: module/Application/view/application/agent/reservations.phtml, line: 167
+# File: module/Application/view/application/agent/reservations.phtml, line: 168
 # File: module/Application/view/application/agent/index.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 348
 # File: module/Application/view/layout/layout.phtml, line: 357
@@ -8535,7 +8535,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 461
 # File: module/Application/view/application/login/signout.phtml, line: 15
-# File: module/Application/view/application/agent/reservations.phtml, line: 172
+# File: module/Application/view/application/agent/reservations.phtml, line: 173
 # File: module/Application/view/application/agent/agents.phtml, line: 102
 msgid "Logout"
 msgstr ""
@@ -8549,6 +8549,7 @@ msgid "Approval Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 484
+# File: module/Application/view/application/agent/reservations.phtml, line: 177
 msgid "Notes"
 msgstr ""
 #
@@ -11142,7 +11143,7 @@ msgid "Flight From"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 19
-# File: module/Application/view/application/agent/reservations.phtml, line: 61
+# File: module/Application/view/application/agent/reservations.phtml, line: 62
 msgid "Ticket Issued"
 msgstr ""
 #
@@ -11176,59 +11177,59 @@ msgid "Reservation Status"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 65
+# File: module/Application/view/application/agent/reservations.phtml, line: 66
 # File: module/Application/view/application/agent/index.phtml, line: 77
 msgid "New Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 67
+# File: module/Application/view/application/agent/reservations.phtml, line: 68
 msgid "Reservation Pending"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 69
+# File: module/Application/view/application/agent/reservations.phtml, line: 70
 msgid "Reservation Confirmed"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 71
+# File: module/Application/view/application/agent/reservations.phtml, line: 72
 msgid "Reservation Cancelled"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 73
+# File: module/Application/view/application/agent/reservations.phtml, line: 74
 msgid "Reservation Waiting Confirmation"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 75
+# File: module/Application/view/application/agent/reservations.phtml, line: 76
 msgid "Exception Error"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 77
+# File: module/Application/view/application/agent/reservations.phtml, line: 78
 msgid "Processing Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 79
+# File: module/Application/view/application/agent/reservations.phtml, line: 80
 msgid "Queued for Cancellation"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 81
+# File: module/Application/view/application/agent/reservations.phtml, line: 82
 msgid "Partially Confirmed"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
-# File: module/Application/view/application/agent/reservations.phtml, line: 83
+# File: module/Application/view/application/agent/reservations.phtml, line: 84
 msgid "Duplicate Booking Alert"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 249
 # File: module/Application/view/application/booking/details.phtml, line: 264
-# File: module/Application/view/application/agent/reservations.phtml, line: 85
+# File: module/Application/view/application/agent/reservations.phtml, line: 86
 # File: module/Application/view/application/agent/subagent.phtml, line: 56
 msgid "Pending Review"
 msgstr ""
@@ -11254,7 +11255,7 @@ msgid "Payment on hold"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 268
-# File: module/Application/view/application/agent/reservations.phtml, line: 96
+# File: module/Application/view/application/agent/reservations.phtml, line: 97
 msgid "Partially Paid"
 msgstr ""
 #
@@ -11313,7 +11314,7 @@ msgid "Confirmation Voucher"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 313
-# File: module/Application/view/application/agent/reservations.phtml, line: 114
+# File: module/Application/view/application/agent/reservations.phtml, line: 115
 msgid "Pay Now"
 msgstr ""
 #
@@ -11498,56 +11499,88 @@ msgstr ""
 msgid "My"
 msgstr ""
 #
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "All Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "Pending Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "Confirmed Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "Cancelled Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "order by creation date"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 14
+msgid "order by departure date"
+msgstr ""
+#
 # File: module/Application/view/application/agent/reservations.phtml, line: 22
 # File: module/Application/view/application/agent/agents.phtml, line: 26
 msgid "Confirmed"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 24
+# File: module/Application/view/application/agent/reservations.phtml, line: 23
+msgid "Cancelled"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 25
 # File: module/Application/view/application/agent/agents.phtml, line: 28
 msgid "Order by Creation Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 25
+# File: module/Application/view/application/agent/reservations.phtml, line: 26
 # File: module/Application/view/application/agent/agents.phtml, line: 29
 msgid "Order by Departure Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 60
+# File: module/Application/view/application/agent/reservations.phtml, line: 61
 msgid "Partner Agency"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 88
+# File: module/Application/view/application/agent/reservations.phtml, line: 89
 msgid "Payment Failed"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 90
+# File: module/Application/view/application/agent/reservations.phtml, line: 91
 msgid "Chargeback"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 92
+# File: module/Application/view/application/agent/reservations.phtml, line: 93
 msgid "Payment Pending"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 94
+# File: module/Application/view/application/agent/reservations.phtml, line: 95
 msgid "Payment Received"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 98
+# File: module/Application/view/application/agent/reservations.phtml, line: 99
 msgid "Airline Payment"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 107
+# File: module/Application/view/application/agent/reservations.phtml, line: 108
 msgid "Seats"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 116
+# File: module/Application/view/application/agent/reservations.phtml, line: 117
 msgid "Change Payment Type"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 130
+# File: module/Application/view/application/agent/reservations.phtml, line: 131
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 msgid "Showing"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 177
+msgid "Execution time :"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 5
