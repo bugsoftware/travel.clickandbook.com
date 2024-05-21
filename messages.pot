@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-21 17:42+0100\n"
+"POT-Creation-Date: 2024-05-21 22:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2170,6 +2170,7 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 698
 # File: module/Application/view/application/booking/paynow.phtml, line: 701
 # File: module/Application/view/application/booking/details.phtml, line: 323
+# File: module/Application/view/application/agent/reservations.phtml, line: 200
 # File: module/Application/view/layout/layout.phtml, line: 572
 msgid "Close"
 msgstr ""
@@ -2181,6 +2182,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 383
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 812
+# File: module/Application/view/application/agent/reservations.phtml, line: 194
 msgid "Email:"
 msgstr ""
 #
@@ -8629,18 +8631,18 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 484
-# File: module/Application/view/application/agent/reservations.phtml, line: 161
+# File: module/Application/view/application/agent/reservations.phtml, line: 163
 # File: module/Application/view/application/agent/agents.phtml, line: 94
 msgid "Member since"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 487
-# File: module/Application/view/application/agent/reservations.phtml, line: 164
+# File: module/Application/view/application/agent/reservations.phtml, line: 166
 msgid "My Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 488
-# File: module/Application/view/application/agent/reservations.phtml, line: 168
+# File: module/Application/view/application/agent/reservations.phtml, line: 170
 # File: module/Application/view/application/agent/index.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 348
 # File: module/Application/view/layout/layout.phtml, line: 357
@@ -8649,7 +8651,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 490
 # File: module/Application/view/application/login/signout.phtml, line: 15
-# File: module/Application/view/application/agent/reservations.phtml, line: 173
+# File: module/Application/view/application/agent/reservations.phtml, line: 175
 # File: module/Application/view/application/agent/agents.phtml, line: 102
 msgid "Logout"
 msgstr ""
@@ -8663,7 +8665,7 @@ msgid "Approval Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 513
-# File: module/Application/view/application/agent/reservations.phtml, line: 177
+# File: module/Application/view/application/agent/reservations.phtml, line: 179
 msgid "Notes"
 msgstr ""
 #
@@ -11798,8 +11800,13 @@ msgstr ""
 msgid "Showing"
 msgstr ""
 #
-# File: module/Application/view/application/agent/reservations.phtml, line: 177
+# File: module/Application/view/application/agent/reservations.phtml, line: 179
 msgid "Execution time :"
+msgstr ""
+#
+# File: module/Application/view/application/agent/reservations.phtml, line: 188
+# File: module/Application/view/application/agent/reservations.phtml, line: 201
+msgid "Send voucher"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 5
