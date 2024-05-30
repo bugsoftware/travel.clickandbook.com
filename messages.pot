@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-30 14:27+0100\n"
+"POT-Creation-Date: 2024-05-30 18:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5739,7 +5739,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1384
 # File: module/Application/view/application/packages/info.phtml, line: 433
 # File: module/Application/view/application/content/destinations.phtml, line: 131
-# File: module/Application/view/application/destinations/peru.phtml, line: 318
+# File: module/Application/view/application/destinations/peru.phtml, line: 321
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 866
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 980
 # File: module/Application/view/offers/lastminute/index.phtml, line: 642
@@ -6305,6 +6305,7 @@ msgstr ""
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/application/booking/index.phtml, line: 269
 # File: module/Application/view/application/booking/info.phtml, line: 269
+# File: module/Application/view/application/destinations/peru.phtml, line: 573
 # File: module/Application/view/application/agent/login.phtml, line: 102
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 79
 # File: module/Application/view/layout/layout.phtml, line: 810
@@ -6321,7 +6322,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/search.phtml, line: 56
 # File: module/Application/view/application/destinations/index.phtml, line: 371
-# File: module/Application/view/application/destinations/peru.phtml, line: 131
+# File: module/Application/view/application/destinations/peru.phtml, line: 135
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 81
 msgid "Things to do in"
 msgstr ""
@@ -6445,7 +6446,7 @@ msgid "view more"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 128
-# File: module/Application/view/application/destinations/peru.phtml, line: 182
+# File: module/Application/view/application/destinations/peru.phtml, line: 185
 msgid "Tours"
 msgstr ""
 #
@@ -8341,7 +8342,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 7
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/destinations/peru.phtml, line: 90
+# File: module/Application/view/application/destinations/peru.phtml, line: 94
 # File: module/Application/view/application/agent/reservations.phtml, line: 131
 # File: module/Application/view/application/agent/agents.phtml, line: 72
 # File: module/Application/view/layout/layout.phtml, line: 301
@@ -8481,7 +8482,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 325
 # File: module/Application/view/application/air/airline.phtml, line: 377
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/destinations/peru.phtml, line: 90
+# File: module/Application/view/application/destinations/peru.phtml, line: 94
 msgid "Fly with"
 msgstr ""
 #
@@ -8502,7 +8503,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 325
 # File: module/Application/view/application/air/airline.phtml, line: 377
 # File: module/Application/view/application/destinations/index.phtml, line: 290
-# File: module/Application/view/application/destinations/peru.phtml, line: 90
+# File: module/Application/view/application/destinations/peru.phtml, line: 94
 msgid "for as low as"
 msgstr ""
 #
@@ -8513,7 +8514,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/airline.phtml, line: 228
 # File: module/Application/view/application/air/airline.phtml, line: 337
-# File: module/Application/view/application/destinations/peru.phtml, line: 104
+# File: module/Application/view/application/destinations/peru.phtml, line: 108
 msgid "International"
 msgstr ""
 #
@@ -8522,7 +8523,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 351
 # File: module/Application/view/application/air/airline.phtml, line: 402
 # File: module/Application/view/application/destinations/index.phtml, line: 307
-# File: module/Application/view/application/destinations/peru.phtml, line: 119
+# File: module/Application/view/application/destinations/peru.phtml, line: 123
 msgid "roundtrip per traveler"
 msgstr ""
 #
@@ -11728,7 +11729,7 @@ msgid "MORE HOTELS"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/index.phtml, line: 441
-# File: module/Application/view/application/destinations/peru.phtml, line: 324
+# File: module/Application/view/application/destinations/peru.phtml, line: 327
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 762
 msgid "Top attractions in"
 msgstr ""
@@ -11770,25 +11771,29 @@ msgstr ""
 msgid "Peru is a country of breathtaking landscapes, rich cultural heritage, and world-renowned cuisine. From the ancient ruins of Machu Picchu to the vibrant streets of Lima, there's something for every traveler. Explore the Amazon rainforest, trek through the Andes, and immerse yourself in the local traditions that make Peru a unique and unforgettable destination."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 79
-msgid "Airline fares"
+# File: module/Application/view/application/destinations/peru.phtml, line: 80
+msgid "Offers"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 139
+# File: module/Application/view/application/destinations/peru.phtml, line: 82
+msgid "Airline Fares"
+msgstr ""
+#
+# File: module/Application/view/application/destinations/peru.phtml, line: 143
 msgid "Hotels & Lodging"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 140
+# File: module/Application/view/application/destinations/peru.phtml, line: 144
 msgid "The best deals on Peru hotels of every type to help you find the perfect room that will fit your budget."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 142
-# File: module/Application/view/application/destinations/peru.phtml, line: 156
-# File: module/Application/view/application/destinations/peru.phtml, line: 170
-# File: module/Application/view/application/destinations/peru.phtml, line: 185
-# File: module/Application/view/application/destinations/peru.phtml, line: 197
-# File: module/Application/view/application/destinations/peru.phtml, line: 209
-# File: module/Application/view/application/destinations/peru.phtml, line: 221
+# File: module/Application/view/application/destinations/peru.phtml, line: 146
+# File: module/Application/view/application/destinations/peru.phtml, line: 159
+# File: module/Application/view/application/destinations/peru.phtml, line: 173
+# File: module/Application/view/application/destinations/peru.phtml, line: 188
+# File: module/Application/view/application/destinations/peru.phtml, line: 200
+# File: module/Application/view/application/destinations/peru.phtml, line: 212
+# File: module/Application/view/application/destinations/peru.phtml, line: 224
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 91
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 103
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 115
@@ -11799,68 +11804,72 @@ msgstr ""
 msgid "See more"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 153
+# File: module/Application/view/application/destinations/peru.phtml, line: 156
 msgid "Cultural Shows"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 154
+# File: module/Application/view/application/destinations/peru.phtml, line: 157
 msgid "Experience the rich cultural heritage of Peru through traditional music, dance, and theater performances."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 167
+# File: module/Application/view/application/destinations/peru.phtml, line: 170
 msgid "Attractions"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 168
+# File: module/Application/view/application/destinations/peru.phtml, line: 171
 msgid "Discover the iconic attractions of Peru, from Machu Picchu to the Nazca Lines."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 183
+# File: module/Application/view/application/destinations/peru.phtml, line: 186
 msgid "Explore the diverse landscapes and cultures of Peru with guided tours."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 194
+# File: module/Application/view/application/destinations/peru.phtml, line: 197
 msgid "Nightlife"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 195
+# File: module/Application/view/application/destinations/peru.phtml, line: 198
 msgid "Experience the vibrant nightlife of Peru, from Lima's trendy bars to Cusco's lively clubs."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 206
+# File: module/Application/view/application/destinations/peru.phtml, line: 209
 # File: module/Application/view/layout/layout.phtml, line: 921
 msgid "Weddings"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 207
+# File: module/Application/view/application/destinations/peru.phtml, line: 210
 msgid "Plan your dream wedding in the stunning landscapes of Peru, from beach ceremonies to mountain vows."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 218
+# File: module/Application/view/application/destinations/peru.phtml, line: 221
 msgid "More"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 219
+# File: module/Application/view/application/destinations/peru.phtml, line: 222
 msgid "Savor the flavors of Peru's world-renowned cuisine, shop at local markets, and relax in top-notch spas."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 236
+# File: module/Application/view/application/destinations/peru.phtml, line: 239
 msgid "Upcoming Attractions"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 238
+# File: module/Application/view/application/destinations/peru.phtml, line: 241
 msgid "Located on top of a mountain in the middle of a tropical forest, it is considered the tourist attraction par excellence in Peru. The historic sanctuary is a place that captivates tourists not only for its dazzling architectural beauty, but also for its important historical-cultural legacy, which has led it to be recognized and admired throughout the world."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 239
-# File: module/Application/view/application/destinations/peru.phtml, line: 290
+# File: module/Application/view/application/destinations/peru.phtml, line: 242
+# File: module/Application/view/application/destinations/peru.phtml, line: 293
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 73
 msgid "Reserve"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/peru.phtml, line: 298
+# File: module/Application/view/application/destinations/peru.phtml, line: 301
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 872
 msgid "Best lodging options in"
+msgstr ""
+#
+# File: module/Application/view/application/destinations/peru.phtml, line: 572
+msgid "Searching Dates"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/bahamas.phtml, line: 7
