@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-12 07:16+0100\n"
+"POT-Creation-Date: 2024-06-13 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -166,7 +166,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 203
 # File: module/Application/view/application/trip-planner/select.phtml, line: 857
 # File: module/Application/view/application/trip-planner/select.phtml, line: 1037
-# File: module/Application/view/application/destinations/index.phtml, line: 893
+# File: module/Application/view/application/destinations/index.phtml, line: 891
 msgid "Search for"
 msgstr ""
 #
@@ -184,6 +184,30 @@ msgstr ""
 # File: module/Application/src/Controller/BookingController.php, line: 284
 # File: module/Application/src/Controller/BookingController.php, line: 708
 msgid "Securely pay your travel reservations online."
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 1766
+msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 1767
+msgid "If you did not request a password reset then you can safely ignore this email."
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 1771
+msgid "Password Reset Instructions for Your Account"
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 2058
+msgid "We have generated a temporary password for you to access your account. Your new password is"
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 2059
+msgid "We strongly recommend that you change your password immediately after logging in. If you did not request a password reset, please contact our support team immediately.."
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentController.php, line: 2063
+msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 41
@@ -328,7 +352,6 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 348
 # File: module/Application/view/application/index/index.phtml, line: 424
 # File: module/Application/view/application/index/index.phtml, line: 429
-# File: module/Application/view/application/index/index.phtml, line: 527
 # File: module/Application/view/application/index/index.phtml, line: 532
 # File: module/Application/view/application/index/index.phtml, line: 581
 # File: module/Application/view/application/index/index.phtml, line: 654
@@ -1039,7 +1062,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 832
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/passengers.phtml, line: 742
-# File: module/Application/view/application/destinations/index.phtml, line: 860
+# File: module/Application/view/application/destinations/index.phtml, line: 858
 # File: module/Application/view/application/destinations/peru.phtml, line: 661
 msgid "From"
 msgstr ""
@@ -1237,7 +1260,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1408
 # File: module/Application/view/application/cart/payment.phtml, line: 669
 # File: module/Application/view/application/booking/paynow.phtml, line: 668
-# File: module/Application/view/application/destinations/index.phtml, line: 911
+# File: module/Application/view/application/destinations/index.phtml, line: 909
 # File: module/Application/view/application/agent/profile.phtml, line: 160
 msgid "PLEASE WAIT"
 msgstr ""
@@ -3451,7 +3474,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 491
 # File: module/Application/view/application/trip-planner/select.phtml, line: 841
 # File: module/Application/view/application/cart/passengers.phtml, line: 751
-# File: module/Application/view/application/destinations/index.phtml, line: 869
+# File: module/Application/view/application/destinations/index.phtml, line: 867
 # File: module/Application/view/application/destinations/peru.phtml, line: 670
 msgid "January"
 msgstr ""
@@ -3488,7 +3511,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 492
 # File: module/Application/view/application/trip-planner/select.phtml, line: 842
 # File: module/Application/view/application/cart/passengers.phtml, line: 752
-# File: module/Application/view/application/destinations/index.phtml, line: 870
+# File: module/Application/view/application/destinations/index.phtml, line: 868
 # File: module/Application/view/application/destinations/peru.phtml, line: 671
 msgid "February"
 msgstr ""
@@ -3525,7 +3548,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 493
 # File: module/Application/view/application/trip-planner/select.phtml, line: 843
 # File: module/Application/view/application/cart/passengers.phtml, line: 753
-# File: module/Application/view/application/destinations/index.phtml, line: 871
+# File: module/Application/view/application/destinations/index.phtml, line: 869
 # File: module/Application/view/application/destinations/peru.phtml, line: 672
 msgid "March"
 msgstr ""
@@ -3562,7 +3585,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 494
 # File: module/Application/view/application/trip-planner/select.phtml, line: 844
 # File: module/Application/view/application/cart/passengers.phtml, line: 754
-# File: module/Application/view/application/destinations/index.phtml, line: 872
+# File: module/Application/view/application/destinations/index.phtml, line: 870
 # File: module/Application/view/application/destinations/peru.phtml, line: 673
 msgid "April"
 msgstr ""
@@ -3599,7 +3622,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 495
 # File: module/Application/view/application/trip-planner/select.phtml, line: 845
 # File: module/Application/view/application/cart/passengers.phtml, line: 755
-# File: module/Application/view/application/destinations/index.phtml, line: 873
+# File: module/Application/view/application/destinations/index.phtml, line: 871
 # File: module/Application/view/application/destinations/peru.phtml, line: 674
 msgid "May"
 msgstr ""
@@ -3636,7 +3659,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 496
 # File: module/Application/view/application/trip-planner/select.phtml, line: 846
 # File: module/Application/view/application/cart/passengers.phtml, line: 756
-# File: module/Application/view/application/destinations/index.phtml, line: 874
+# File: module/Application/view/application/destinations/index.phtml, line: 872
 # File: module/Application/view/application/destinations/peru.phtml, line: 675
 msgid "June"
 msgstr ""
@@ -3673,7 +3696,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 497
 # File: module/Application/view/application/trip-planner/select.phtml, line: 847
 # File: module/Application/view/application/cart/passengers.phtml, line: 757
-# File: module/Application/view/application/destinations/index.phtml, line: 875
+# File: module/Application/view/application/destinations/index.phtml, line: 873
 # File: module/Application/view/application/destinations/peru.phtml, line: 676
 msgid "July"
 msgstr ""
@@ -3710,7 +3733,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 498
 # File: module/Application/view/application/trip-planner/select.phtml, line: 848
 # File: module/Application/view/application/cart/passengers.phtml, line: 758
-# File: module/Application/view/application/destinations/index.phtml, line: 876
+# File: module/Application/view/application/destinations/index.phtml, line: 874
 # File: module/Application/view/application/destinations/peru.phtml, line: 677
 msgid "August"
 msgstr ""
@@ -3747,7 +3770,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 499
 # File: module/Application/view/application/trip-planner/select.phtml, line: 849
 # File: module/Application/view/application/cart/passengers.phtml, line: 759
-# File: module/Application/view/application/destinations/index.phtml, line: 877
+# File: module/Application/view/application/destinations/index.phtml, line: 875
 # File: module/Application/view/application/destinations/peru.phtml, line: 678
 msgid "September"
 msgstr ""
@@ -3784,7 +3807,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 500
 # File: module/Application/view/application/trip-planner/select.phtml, line: 850
 # File: module/Application/view/application/cart/passengers.phtml, line: 760
-# File: module/Application/view/application/destinations/index.phtml, line: 878
+# File: module/Application/view/application/destinations/index.phtml, line: 876
 # File: module/Application/view/application/destinations/peru.phtml, line: 679
 msgid "October"
 msgstr ""
@@ -3821,7 +3844,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 501
 # File: module/Application/view/application/trip-planner/select.phtml, line: 851
 # File: module/Application/view/application/cart/passengers.phtml, line: 761
-# File: module/Application/view/application/destinations/index.phtml, line: 879
+# File: module/Application/view/application/destinations/index.phtml, line: 877
 # File: module/Application/view/application/destinations/peru.phtml, line: 680
 msgid "November"
 msgstr ""
@@ -3858,7 +3881,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 502
 # File: module/Application/view/application/trip-planner/select.phtml, line: 852
 # File: module/Application/view/application/cart/passengers.phtml, line: 762
-# File: module/Application/view/application/destinations/index.phtml, line: 880
+# File: module/Application/view/application/destinations/index.phtml, line: 878
 # File: module/Application/view/application/destinations/peru.phtml, line: 681
 msgid "December"
 msgstr ""
@@ -5161,6 +5184,58 @@ msgid "add Flight"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 527
+# File: module/Application/view/application/index/index.phtml, line: 1838
+# File: module/Application/view/application/escorted-tours/index.phtml, line: 624
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 435
+# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 53
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 67
+# File: module/Application/view/application/air/index.phtml, line: 138
+# File: module/Application/view/application/air/search.phtml, line: 313
+# File: module/Application/view/application/air/return.phtml, line: 176
+# File: module/Application/view/application/air/summary.phtml, line: 386
+# File: module/Application/view/application/air/passengers.phtml, line: 327
+# File: module/Application/view/application/air/payment.phtml, line: 140
+# File: module/Application/view/application/air/confirm.phtml, line: 357
+# File: module/Application/view/application/air/seating.phtml, line: 377
+# File: module/Application/view/application/hotels/search.phtml, line: 83
+# File: module/Application/view/application/hotels/search.phtml, line: 559
+# File: module/Application/view/application/hotels/info.phtml, line: 122
+# File: module/Application/view/application/hotels/passengers.phtml, line: 239
+# File: module/Application/view/application/hotels/payment.phtml, line: 127
+# File: module/Application/view/application/hotels/confirm.phtml, line: 77
+# File: module/Application/view/application/hotels/confirm.phtml, line: 192
+# File: module/Application/view/application/hotels/summary.phtml, line: 89
+# File: module/Application/view/application/hotels/summary.phtml, line: 174
+# File: module/Application/view/application/hotels/list.phtml, line: 609
+# File: module/Application/view/application/hotels/brands.phtml, line: 385
+# File: module/Application/view/application/insurances/summary.phtml, line: 140
+# File: module/Application/view/application/insurances/passengers.phtml, line: 193
+# File: module/Application/view/application/insurances/payment.phtml, line: 114
+# File: module/Application/view/application/insurances/confirm.phtml, line: 28
+# File: module/Application/view/application/packages/summary.phtml, line: 62
+# File: module/Application/view/application/packages/summary.phtml, line: 156
+# File: module/Application/view/application/packages/confirm.phtml, line: 148
+# File: module/Application/view/application/packages/passengers.phtml, line: 222
+# File: module/Application/view/application/packages/payment.phtml, line: 110
+# File: module/Application/view/application/cart/summary.phtml, line: 77
+# File: module/Application/view/application/cart/summary.phtml, line: 305
+# File: module/Application/view/application/cart/summary.phtml, line: 746
+# File: module/Application/view/application/cart/summary.phtml, line: 859
+# File: module/Application/view/application/cart/summary.phtml, line: 1124
+# File: module/Application/view/application/cart/summary.phtml, line: 1182
+# File: module/Application/view/application/cart/index.phtml, line: 105
+# File: module/Application/view/application/cart/passengers.phtml, line: 308
+# File: module/Application/view/application/cart/passengers.phtml, line: 479
+# File: module/Application/view/application/cart/payment.phtml, line: 143
+# File: module/Application/view/application/cart/payment.phtml, line: 319
+# File: module/Application/view/application/cart/confirm.phtml, line: 150
+# File: module/Application/view/application/cart/confirm.phtml, line: 946
+# File: module/Application/view/application/booking/details.phtml, line: 48
+# File: module/Application/view/application/destinations/index.phtml, line: 247
+msgid "Adult"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 527
 # File: module/Application/view/application/index/index.phtml, line: 1836
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 221
@@ -5224,7 +5299,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 150
 # File: module/Application/view/application/cart/confirm.phtml, line: 946
 # File: module/Application/view/application/booking/details.phtml, line: 48
-# File: module/Application/view/application/destinations/index.phtml, line: 882
+# File: module/Application/view/application/destinations/index.phtml, line: 880
 # File: module/Application/view/application/destinations/peru.phtml, line: 71
 # File: module/Application/view/application/destinations/peru.phtml, line: 683
 msgid "Child"
@@ -5861,7 +5936,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 480
 # File: module/Application/view/application/trip-planner/select.phtml, line: 830
 # File: module/Application/view/application/cart/passengers.phtml, line: 740
-# File: module/Application/view/application/destinations/index.phtml, line: 858
+# File: module/Application/view/application/destinations/index.phtml, line: 856
 # File: module/Application/view/application/destinations/peru.phtml, line: 659
 msgid "Clear"
 msgstr ""
@@ -5892,7 +5967,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 481
 # File: module/Application/view/application/trip-planner/select.phtml, line: 831
 # File: module/Application/view/application/cart/passengers.phtml, line: 741
-# File: module/Application/view/application/destinations/index.phtml, line: 859
+# File: module/Application/view/application/destinations/index.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 660
 msgid "Apply"
 msgstr ""
@@ -5932,7 +6007,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 483
 # File: module/Application/view/application/trip-planner/select.phtml, line: 833
 # File: module/Application/view/application/cart/passengers.phtml, line: 743
-# File: module/Application/view/application/destinations/index.phtml, line: 861
+# File: module/Application/view/application/destinations/index.phtml, line: 859
 # File: module/Application/view/application/destinations/peru.phtml, line: 662
 msgid "To"
 msgstr ""
@@ -5963,7 +6038,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 484
 # File: module/Application/view/application/trip-planner/select.phtml, line: 834
 # File: module/Application/view/application/cart/passengers.phtml, line: 744
-# File: module/Application/view/application/destinations/index.phtml, line: 862
+# File: module/Application/view/application/destinations/index.phtml, line: 860
 # File: module/Application/view/application/destinations/peru.phtml, line: 663
 msgid "Su"
 msgstr ""
@@ -5994,7 +6069,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 485
 # File: module/Application/view/application/trip-planner/select.phtml, line: 835
 # File: module/Application/view/application/cart/passengers.phtml, line: 745
-# File: module/Application/view/application/destinations/index.phtml, line: 863
+# File: module/Application/view/application/destinations/index.phtml, line: 861
 # File: module/Application/view/application/destinations/peru.phtml, line: 664
 msgid "Mo"
 msgstr ""
@@ -6025,7 +6100,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 486
 # File: module/Application/view/application/trip-planner/select.phtml, line: 836
 # File: module/Application/view/application/cart/passengers.phtml, line: 746
-# File: module/Application/view/application/destinations/index.phtml, line: 864
+# File: module/Application/view/application/destinations/index.phtml, line: 862
 # File: module/Application/view/application/destinations/peru.phtml, line: 665
 msgid "Tu"
 msgstr ""
@@ -6056,7 +6131,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 487
 # File: module/Application/view/application/trip-planner/select.phtml, line: 837
 # File: module/Application/view/application/cart/passengers.phtml, line: 747
-# File: module/Application/view/application/destinations/index.phtml, line: 865
+# File: module/Application/view/application/destinations/index.phtml, line: 863
 # File: module/Application/view/application/destinations/peru.phtml, line: 666
 msgid "We"
 msgstr ""
@@ -6087,7 +6162,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 488
 # File: module/Application/view/application/trip-planner/select.phtml, line: 838
 # File: module/Application/view/application/cart/passengers.phtml, line: 748
-# File: module/Application/view/application/destinations/index.phtml, line: 866
+# File: module/Application/view/application/destinations/index.phtml, line: 864
 # File: module/Application/view/application/destinations/peru.phtml, line: 667
 msgid "Th"
 msgstr ""
@@ -6118,7 +6193,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 489
 # File: module/Application/view/application/trip-planner/select.phtml, line: 839
 # File: module/Application/view/application/cart/passengers.phtml, line: 749
-# File: module/Application/view/application/destinations/index.phtml, line: 867
+# File: module/Application/view/application/destinations/index.phtml, line: 865
 # File: module/Application/view/application/destinations/peru.phtml, line: 668
 msgid "Fr"
 msgstr ""
@@ -6149,7 +6224,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 490
 # File: module/Application/view/application/trip-planner/select.phtml, line: 840
 # File: module/Application/view/application/cart/passengers.phtml, line: 750
-# File: module/Application/view/application/destinations/index.phtml, line: 868
+# File: module/Application/view/application/destinations/index.phtml, line: 866
 # File: module/Application/view/application/destinations/peru.phtml, line: 669
 msgid "Sa"
 msgstr ""
@@ -6173,60 +6248,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 199
 # File: module/Application/view/application/packages/info.phtml, line: 491
 # File: module/Application/view/application/trip-planner/select.phtml, line: 853
-# File: module/Application/view/application/destinations/index.phtml, line: 881
+# File: module/Application/view/application/destinations/index.phtml, line: 879
 # File: module/Application/view/application/destinations/peru.phtml, line: 682
 msgid "Age"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1838
-# File: module/Application/view/application/escorted-tours/index.phtml, line: 624
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 435
-# File: module/Application/view/application/escorted-tours/passengers.phtml, line: 53
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 67
-# File: module/Application/view/application/air/index.phtml, line: 138
-# File: module/Application/view/application/air/search.phtml, line: 313
-# File: module/Application/view/application/air/return.phtml, line: 176
-# File: module/Application/view/application/air/summary.phtml, line: 386
-# File: module/Application/view/application/air/passengers.phtml, line: 327
-# File: module/Application/view/application/air/payment.phtml, line: 140
-# File: module/Application/view/application/air/confirm.phtml, line: 357
-# File: module/Application/view/application/air/seating.phtml, line: 377
-# File: module/Application/view/application/hotels/search.phtml, line: 83
-# File: module/Application/view/application/hotels/search.phtml, line: 559
-# File: module/Application/view/application/hotels/info.phtml, line: 122
-# File: module/Application/view/application/hotels/passengers.phtml, line: 239
-# File: module/Application/view/application/hotels/payment.phtml, line: 127
-# File: module/Application/view/application/hotels/confirm.phtml, line: 77
-# File: module/Application/view/application/hotels/confirm.phtml, line: 192
-# File: module/Application/view/application/hotels/summary.phtml, line: 89
-# File: module/Application/view/application/hotels/summary.phtml, line: 174
-# File: module/Application/view/application/hotels/list.phtml, line: 609
-# File: module/Application/view/application/hotels/brands.phtml, line: 385
-# File: module/Application/view/application/insurances/summary.phtml, line: 140
-# File: module/Application/view/application/insurances/passengers.phtml, line: 193
-# File: module/Application/view/application/insurances/payment.phtml, line: 114
-# File: module/Application/view/application/insurances/confirm.phtml, line: 28
-# File: module/Application/view/application/packages/summary.phtml, line: 62
-# File: module/Application/view/application/packages/summary.phtml, line: 156
-# File: module/Application/view/application/packages/confirm.phtml, line: 148
-# File: module/Application/view/application/packages/passengers.phtml, line: 222
-# File: module/Application/view/application/packages/payment.phtml, line: 110
-# File: module/Application/view/application/cart/summary.phtml, line: 77
-# File: module/Application/view/application/cart/summary.phtml, line: 305
-# File: module/Application/view/application/cart/summary.phtml, line: 746
-# File: module/Application/view/application/cart/summary.phtml, line: 859
-# File: module/Application/view/application/cart/summary.phtml, line: 1124
-# File: module/Application/view/application/cart/summary.phtml, line: 1182
-# File: module/Application/view/application/cart/index.phtml, line: 105
-# File: module/Application/view/application/cart/passengers.phtml, line: 308
-# File: module/Application/view/application/cart/passengers.phtml, line: 479
-# File: module/Application/view/application/cart/payment.phtml, line: 143
-# File: module/Application/view/application/cart/payment.phtml, line: 319
-# File: module/Application/view/application/cart/confirm.phtml, line: 150
-# File: module/Application/view/application/cart/confirm.phtml, line: 946
-# File: module/Application/view/application/booking/details.phtml, line: 48
-# File: module/Application/view/application/destinations/index.phtml, line: 247
-msgid "Adult"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1845
@@ -6264,7 +6288,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 18
 # File: module/Application/view/application/cart/confirm.phtml, line: 35
 # File: module/Application/view/application/booking/paynow.phtml, line: 157
-# File: module/Application/view/application/destinations/index.phtml, line: 883
+# File: module/Application/view/application/destinations/index.phtml, line: 881
 # File: module/Application/view/application/destinations/peru.phtml, line: 684
 # File: module/Application/view/layout/layout.phtml, line: 300
 msgid "Flight"
@@ -6280,7 +6304,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 202
 # File: module/Application/view/application/packages/info.phtml, line: 494
 # File: module/Application/view/application/trip-planner/select.phtml, line: 856
-# File: module/Application/view/application/destinations/index.phtml, line: 884
+# File: module/Application/view/application/destinations/index.phtml, line: 882
 # File: module/Application/view/application/destinations/peru.phtml, line: 685
 msgid "Remove"
 msgstr ""
@@ -6345,7 +6369,7 @@ msgstr ""
 # File: module/Application/view/application/booking/info.phtml, line: 269
 # File: module/Application/view/application/destinations/peru.phtml, line: 586
 # File: module/Application/view/application/agent/login.phtml, line: 102
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 79
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 81
 # File: module/Application/view/layout/layout.phtml, line: 819
 # File: module/Application/view/layout/layout.phtml, line: 990
 msgid "Please wait..."
@@ -9987,6 +10011,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 16
 # File: module/Application/view/application/agent/login.phtml, line: 15
 # File: module/Application/view/layout/layout.phtml, line: 345
+# File: module/Application/Templates/resetpasswordconfirm.phtml, line: 245
 msgid "Login"
 msgstr ""
 #
@@ -13185,6 +13210,17 @@ msgstr ""
 #
 # File: module/Application/view/offers/hotels/index.phtml, line: 294
 msgid "just one click away"
+msgstr ""
+#
+# File: module/Application/Templates/resetpassword.phtml, line: 13
+# File: module/Application/Templates/resetpassword.phtml, line: 245
+# File: module/Application/Templates/resetpasswordconfirm.phtml, line: 13
+msgid "Reset Password"
+msgstr ""
+#
+# File: module/Application/Templates/resetpassword.phtml, line: 234
+# File: module/Application/Templates/resetpasswordconfirm.phtml, line: 234
+msgid "Dear"
 msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
