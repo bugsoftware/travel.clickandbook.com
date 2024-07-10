@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-09 14:45+0100\n"
+"POT-Creation-Date: 2024-07-10 12:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1252,17 +1252,17 @@ msgstr ""
 # File: module/Application/view/application/cruises/payment.phtml, line: 391
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 583
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 473
-# File: module/Application/view/application/air/summary.phtml, line: 762
-# File: module/Application/view/application/air/summary.phtml, line: 768
-# File: module/Application/view/application/air/summary.phtml, line: 781
-# File: module/Application/view/application/air/summary.phtml, line: 827
+# File: module/Application/view/application/air/summary.phtml, line: 763
+# File: module/Application/view/application/air/summary.phtml, line: 769
+# File: module/Application/view/application/air/summary.phtml, line: 782
+# File: module/Application/view/application/air/summary.phtml, line: 831
 # File: module/Application/view/application/air/payment.phtml, line: 559
 # File: module/Application/view/application/air/ticketing.phtml, line: 612
 # File: module/Application/view/application/air/ticketing.phtml, line: 811
 # File: module/Application/view/application/hotels/info.phtml, line: 962
 # File: module/Application/view/application/hotels/payment.phtml, line: 440
-# File: module/Application/view/application/hotels/summary.phtml, line: 364
-# File: module/Application/view/application/hotels/summary.phtml, line: 389
+# File: module/Application/view/application/hotels/summary.phtml, line: 365
+# File: module/Application/view/application/hotels/summary.phtml, line: 390
 # File: module/Application/view/application/transfers/search.phtml, line: 298
 # File: module/Application/view/application/transfers/search.phtml, line: 310
 # File: module/Application/view/application/transfers/summary.phtml, line: 448
@@ -2212,8 +2212,8 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 750
 # File: module/Application/view/application/air/return.phtml, line: 444
 # File: module/Application/view/application/air/summary.phtml, line: 719
-# File: module/Application/view/application/air/summary.phtml, line: 731
-# File: module/Application/view/application/air/summary.phtml, line: 742
+# File: module/Application/view/application/air/summary.phtml, line: 732
+# File: module/Application/view/application/air/summary.phtml, line: 743
 # File: module/Application/view/application/air/confirm.phtml, line: 391
 # File: module/Application/view/application/air/segment.phtml, line: 332
 # File: module/Application/view/application/air/seating.phtml, line: 91
@@ -2223,7 +2223,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 870
 # File: module/Application/view/application/hotels/confirm.phtml, line: 223
 # File: module/Application/view/application/hotels/summary.phtml, line: 339
-# File: module/Application/view/application/hotels/summary.phtml, line: 351
+# File: module/Application/view/application/hotels/summary.phtml, line: 352
 # File: module/Application/view/application/hotels/brands.phtml, line: 336
 # File: module/Application/view/application/transfers/confirm.phtml, line: 274
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
@@ -7177,7 +7177,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 318
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 324
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 325
-# File: module/Application/view/application/air/summary.phtml, line: 746
+# File: module/Application/view/application/air/summary.phtml, line: 747
 # File: module/Application/view/application/air/ticketing.phtml, line: 856
 # File: module/Application/view/application/hotels/info.phtml, line: 63
 # File: module/Application/view/application/cart/summary.phtml, line: 1460
@@ -7217,7 +7217,7 @@ msgid "Do you require a transfer on departure?"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 319
-# File: module/Application/view/application/air/summary.phtml, line: 747
+# File: module/Application/view/application/air/summary.phtml, line: 748
 # File: module/Application/view/application/air/ticketing.phtml, line: 857
 # File: module/Application/view/application/hotels/info.phtml, line: 63
 # File: module/Application/view/application/cart/summary.phtml, line: 1461
@@ -8454,10 +8454,16 @@ msgstr ""
 msgid "Notice: The maximum service charge applicable is $200.00. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 725
+# File: module/Application/view/application/air/summary.phtml, line: 724
+# File: module/Application/view/application/hotels/summary.phtml, line: 344
+#, php-format
+msgid "Notice: In accordance with our pricing policy, the service fee for each booking is strictly limited to a maximum of 10% of the total booking value. For example, if the total booking amount is $100, the service fee can't be more than $10."
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 726
 # File: module/Application/view/application/air/confirm.phtml, line: 378
 # File: module/Application/view/application/hotels/confirm.phtml, line: 212
-# File: module/Application/view/application/hotels/summary.phtml, line: 345
+# File: module/Application/view/application/hotels/summary.phtml, line: 346
 # File: module/Application/view/application/packages/summary.phtml, line: 312
 # File: module/Application/view/application/packages/confirm.phtml, line: 166
 # File: module/Application/view/application/cart/summary.phtml, line: 1439
@@ -8465,8 +8471,8 @@ msgstr ""
 msgid "Service Fee:"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 732
-# File: module/Application/view/application/hotels/summary.phtml, line: 352
+# File: module/Application/view/application/air/summary.phtml, line: 733
+# File: module/Application/view/application/hotels/summary.phtml, line: 353
 # File: module/Application/view/application/login/register.phtml, line: 73
 # File: module/Application/view/application/packages/summary.phtml, line: 319
 # File: module/Application/view/application/cart/summary.phtml, line: 1446
@@ -8487,17 +8493,17 @@ msgstr ""
 msgid "Submit"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 737
+# File: module/Application/view/application/air/summary.phtml, line: 738
 # File: module/Application/view/application/cart/summary.phtml, line: 1451
 msgid "Add Service Fee to Your Reservation Now"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 741
+# File: module/Application/view/application/air/summary.phtml, line: 742
 # File: module/Application/view/application/cart/summary.phtml, line: 1455
 msgid "Add Service Fee to Your Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 744
+# File: module/Application/view/application/air/summary.phtml, line: 745
 # File: module/Application/view/application/cart/summary.phtml, line: 1458
 msgid "We noticed that you did not add any service fee to your current reservation. Do you want to add the service fee to your reservation now?"
 msgstr ""
