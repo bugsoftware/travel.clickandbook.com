@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-26 15:10+0100\n"
+"POT-Creation-Date: 2024-07-27 18:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -186,27 +186,27 @@ msgstr ""
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2096
+# File: module/Application/src/Controller/AgentController.php, line: 2335
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2097
+# File: module/Application/src/Controller/AgentController.php, line: 2336
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2102
+# File: module/Application/src/Controller/AgentController.php, line: 2341
 msgid "Password Reset Instructions for Your Account"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2396
+# File: module/Application/src/Controller/AgentController.php, line: 2635
 msgid "We have generated a temporary password for you to access your account. Your new password is"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2397
+# File: module/Application/src/Controller/AgentController.php, line: 2636
 msgid "We strongly recommend that you change your password immediately after logging in. If you did not request a password reset, please contact our support team immediately."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2402
+# File: module/Application/src/Controller/AgentController.php, line: 2641
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
@@ -1525,7 +1525,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 360
 # File: module/Application/view/application/agent/reservations.phtml, line: 134
 # File: module/Application/view/application/agent/agents.phtml, line: 72
-# File: module/Application/view/application/agent/commissions.phtml, line: 73
+# File: module/Application/view/application/agent/commissions.phtml, line: 165
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 41
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1632
 msgid "total"
@@ -2111,7 +2111,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 407
 # File: module/Application/view/application/air/payment.phtml, line: 220
 # File: module/Application/view/application/air/ticketing.phtml, line: 496
-# File: module/Application/view/application/agent/commissions.phtml, line: 48
+# File: module/Application/view/application/agent/commissions.phtml, line: 111
 msgid "Commission"
 msgstr ""
 #
@@ -6493,6 +6493,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 586
 # File: module/Application/view/application/agent/login.phtml, line: 102
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 87
+# File: module/Application/view/application/agent/commissions.phtml, line: 177
 # File: module/Application/view/layout/layout.phtml, line: 825
 # File: module/Application/view/layout/layout.phtml, line: 996
 msgid "Please wait..."
@@ -7617,7 +7618,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 141
 # File: module/Application/view/application/agent/reservations.phtml, line: 134
 # File: module/Application/view/application/agent/agents.phtml, line: 72
-# File: module/Application/view/application/agent/commissions.phtml, line: 73
+# File: module/Application/view/application/agent/commissions.phtml, line: 165
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 41
 # File: module/Application/view/layout/layout.phtml, line: 301
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
@@ -11993,6 +11994,7 @@ msgid "child"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 306
+# File: module/Application/view/application/agent/commissions.phtml, line: 142
 # File: module/Application/view/offers/cruises/index.phtml, line: 139
 msgid "children"
 msgstr ""
@@ -12467,6 +12469,7 @@ msgid "My"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 14
+# File: module/Application/view/application/agent/commissions.phtml, line: 88
 msgid "All Reservations"
 msgstr ""
 #
@@ -12475,6 +12478,7 @@ msgid "Pending Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 14
+# File: module/Application/view/application/agent/commissions.phtml, line: 92
 msgid "Confirmed Reservations"
 msgstr ""
 #
@@ -12496,6 +12500,7 @@ msgid "Confirmed"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 23
+# File: module/Application/view/application/agent/commissions.phtml, line: 121
 msgid "Cancelled"
 msgstr ""
 #
@@ -12543,7 +12548,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 134
 # File: module/Application/view/application/agent/agents.phtml, line: 72
-# File: module/Application/view/application/agent/commissions.phtml, line: 73
+# File: module/Application/view/application/agent/commissions.phtml, line: 165
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 41
 msgid "Showing"
 msgstr ""
@@ -12864,24 +12869,58 @@ msgstr ""
 msgid "Payment Sent"
 msgstr ""
 #
-# File: module/Application/view/application/agent/commissions.phtml, line: 44
-msgid "Agent"
-msgstr ""
-#
-# File: module/Application/view/application/agent/commissions.phtml, line: 45
-msgid "Booking #"
-msgstr ""
-#
-# File: module/Application/view/application/agent/commissions.phtml, line: 46
+# File: module/Application/view/application/agent/commissions.phtml, line: 43
+# File: module/Application/view/application/agent/commissions.phtml, line: 109
 msgid "Reservation Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/commissions.phtml, line: 47
+# File: module/Application/view/application/agent/commissions.phtml, line: 52
+msgid "Select reservation date range"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 58
+# File: module/Application/view/application/agent/commissions.phtml, line: 110
 msgid "Service Date"
 msgstr ""
 #
-# File: module/Application/view/application/agent/commissions.phtml, line: 63
+# File: module/Application/view/application/agent/commissions.phtml, line: 67
+msgid "Select service date range"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 74
+msgid "All Commissions"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 78
+msgid "My Commissions"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 82
+msgid "Sub Agent's Commissions"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 97
+msgid "Apply Changes"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 107
+msgid "Agent"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 108
+msgid "Booking #"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 126
 msgid "View reservation"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 142
+msgid "adult(s)"
+msgstr ""
+#
+# File: module/Application/view/application/agent/commissions.phtml, line: 142
+msgid "infant(s)"
 msgstr ""
 #
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 18
