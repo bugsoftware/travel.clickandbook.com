@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-12 20:30+0100\n"
+"POT-Creation-Date: 2024-09-12 21:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6514,7 +6514,8 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 825
 # File: module/Application/view/layout/layout.phtml, line: 996
 # File: module/Application/view/application2/index/index.phtml, line: 1324
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 48
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 44
+# File: module/Application/view/application2/agent/login.phtml, line: 58
 msgid "Please wait..."
 msgstr ""
 #
@@ -10391,8 +10392,10 @@ msgstr ""
 # File: module/Application/view/application/login/signout.phtml, line: 21
 # File: module/Application/view/application/agent/login.phtml, line: 23
 # File: module/Application/view/layout/layout.phtml, line: 377
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 16
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 17
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 12
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 13
+# File: module/Application/view/application2/agent/login.phtml, line: 11
+# File: module/Application/view/application2/agent/login.phtml, line: 12
 msgid "Email address"
 msgstr ""
 #
@@ -10405,6 +10408,7 @@ msgstr ""
 # File: module/Application/view/application/agent/login.phtml, line: 24
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
 # File: module/Application/view/layout/layout.phtml, line: 378
+# File: module/Application/view/application2/agent/login.phtml, line: 15
 msgid "Password"
 msgstr ""
 #
@@ -10415,7 +10419,8 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 20
 # File: module/Application/view/application/agent/subagent.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 841
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 19
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 15
+# File: module/Application/view/application2/agent/login.phtml, line: 22
 msgid "Continue"
 msgstr ""
 #
@@ -10842,7 +10847,7 @@ msgid "We're sorry to see you go. If you no longer wish to receive our newslette
 msgstr ""
 #
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 35
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 4
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 3
 msgid "Unsubscribe"
 msgstr ""
 #
@@ -13197,6 +13202,7 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 1019
 # File: module/Application/view/layout/layout.phtml, line: 1025
 # File: module/Application/view/application2/layout/layout.phtml, line: 94
+# File: module/Application/view/application2/agent/login.phtml, line: 4
 msgid "Sign in"
 msgstr ""
 #
@@ -13796,8 +13802,29 @@ msgstr ""
 msgid "by"
 msgstr ""
 #
-# File: module/Application/view/application2/login/unsubscribe.phtml, line: 43
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 8
+msgid "You have successfully unsubscribed from our mailing list. We are sorry to see you go, but we respect your decision. You will no longer receive any emails from us, unless you choose to subscribe again in the future. Thank you for your interest and support. We hope you have a great day."
+msgstr ""
+#
+# File: module/Application/view/application2/login/unsubscribe.phtml, line: 39
+# File: module/Application/view/application2/agent/login.phtml, line: 47
 msgid "Email is required"
+msgstr ""
+#
+# File: module/Application/view/application2/agent/login.phtml, line: 20
+msgid "This is a public or shared device"
+msgstr ""
+#
+# File: module/Application/view/application2/agent/login.phtml, line: 23
+msgid "Forgot your password?"
+msgstr ""
+#
+# File: module/Application/view/application2/agent/login.phtml, line: 24
+msgid "Don't have an account?"
+msgstr ""
+#
+# File: module/Application/view/application2/agent/login.phtml, line: 53
+msgid "Password is required"
 msgstr ""
 #
 # File: module/Application/Templates/resetpassword.phtml, line: 26
