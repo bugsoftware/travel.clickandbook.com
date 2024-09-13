@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-12 21:14+0100\n"
+"POT-Creation-Date: 2024-09-13 07:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6515,7 +6515,7 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 996
 # File: module/Application/view/application2/index/index.phtml, line: 1324
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 44
-# File: module/Application/view/application2/agent/login.phtml, line: 58
+# File: module/Application/view/application2/agent/login.phtml, line: 56
 msgid "Please wait..."
 msgstr ""
 #
@@ -10394,8 +10394,8 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 377
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 12
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 13
-# File: module/Application/view/application2/agent/login.phtml, line: 11
-# File: module/Application/view/application2/agent/login.phtml, line: 12
+# File: module/Application/view/application2/agent/login.phtml, line: 9
+# File: module/Application/view/application2/agent/login.phtml, line: 10
 msgid "Email address"
 msgstr ""
 #
@@ -10408,7 +10408,7 @@ msgstr ""
 # File: module/Application/view/application/agent/login.phtml, line: 24
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
 # File: module/Application/view/layout/layout.phtml, line: 378
-# File: module/Application/view/application2/agent/login.phtml, line: 15
+# File: module/Application/view/application2/agent/login.phtml, line: 13
 msgid "Password"
 msgstr ""
 #
@@ -10420,7 +10420,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 841
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 15
-# File: module/Application/view/application2/agent/login.phtml, line: 22
+# File: module/Application/view/application2/agent/login.phtml, line: 20
 msgid "Continue"
 msgstr ""
 #
@@ -13202,7 +13202,7 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 1019
 # File: module/Application/view/layout/layout.phtml, line: 1025
 # File: module/Application/view/application2/layout/layout.phtml, line: 94
-# File: module/Application/view/application2/agent/login.phtml, line: 4
+# File: module/Application/view/application2/agent/login.phtml, line: 3
 msgid "Sign in"
 msgstr ""
 #
@@ -13807,24 +13807,32 @@ msgid "You have successfully unsubscribed from our mailing list. We are sorry to
 msgstr ""
 #
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 39
-# File: module/Application/view/application2/agent/login.phtml, line: 47
+# File: module/Application/view/application2/agent/login.phtml, line: 45
 msgid "Email is required"
 msgstr ""
 #
-# File: module/Application/view/application2/agent/login.phtml, line: 20
+# File: module/Application/view/application2/agent/login.phtml, line: 18
 msgid "This is a public or shared device"
 msgstr ""
 #
-# File: module/Application/view/application2/agent/login.phtml, line: 23
+# File: module/Application/view/application2/agent/login.phtml, line: 21
 msgid "Forgot your password?"
 msgstr ""
 #
-# File: module/Application/view/application2/agent/login.phtml, line: 24
+# File: module/Application/view/application2/agent/login.phtml, line: 22
 msgid "Don't have an account?"
 msgstr ""
 #
-# File: module/Application/view/application2/agent/login.phtml, line: 53
+# File: module/Application/view/application2/agent/login.phtml, line: 51
 msgid "Password is required"
+msgstr ""
+#
+# File: module/Application/view/application2/agent/index.phtml, line: 1
+msgid "Welcome and thanks for signing up. We are excited to have you as a member."
+msgstr ""
+#
+# File: module/Application/view/application2/agent/index.phtml, line: 2
+msgid "You are being redirected to the home page."
 msgstr ""
 #
 # File: module/Application/Templates/resetpassword.phtml, line: 26
