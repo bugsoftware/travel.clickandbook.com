@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-26 13:52+0100\n"
+"POT-Creation-Date: 2024-09-26 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -902,6 +902,10 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 343
 # File: module/Application/view/application/cruises/search.phtml, line: 344
+# File: module/Application/view/application/activities/search.phtml, line: 525
+# File: module/Application/view/application/activities/search.phtml, line: 526
+# File: module/Application/view/application/activities/search.phtml, line: 538
+# File: module/Application/view/application/activities/search.phtml, line: 539
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 345
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 346
 # File: module/Application/view/application/air/search.phtml, line: 506
@@ -956,7 +960,7 @@ msgid "Please search again with other filters"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 357
-# File: module/Application/view/application/activities/search.phtml, line: 533
+# File: module/Application/view/application/activities/search.phtml, line: 559
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 7
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 22
 # File: module/Application/view/application/hotels/search.phtml, line: 315
@@ -973,7 +977,7 @@ msgid "Previous"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 358
-# File: module/Application/view/application/activities/search.phtml, line: 534
+# File: module/Application/view/application/activities/search.phtml, line: 560
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 8
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 26
 # File: module/Application/view/application/hotels/search.phtml, line: 316
@@ -1050,7 +1054,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/search.phtml, line: 401
 # File: module/Application/view/application/index/index.phtml, line: 1846
 # File: module/Application/view/application/activities/index.phtml, line: 126
-# File: module/Application/view/application/activities/search.phtml, line: 585
+# File: module/Application/view/application/activities/search.phtml, line: 613
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 598
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 409
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 37
@@ -3502,7 +3506,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1855
 # File: module/Application/view/application/activities/index.phtml, line: 135
-# File: module/Application/view/application/activities/search.phtml, line: 594
+# File: module/Application/view/application/activities/search.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 607
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 418
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3540,7 +3544,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1856
 # File: module/Application/view/application/activities/index.phtml, line: 136
-# File: module/Application/view/application/activities/search.phtml, line: 595
+# File: module/Application/view/application/activities/search.phtml, line: 623
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 608
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 419
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3578,7 +3582,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1857
 # File: module/Application/view/application/activities/index.phtml, line: 137
-# File: module/Application/view/application/activities/search.phtml, line: 596
+# File: module/Application/view/application/activities/search.phtml, line: 624
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 609
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 420
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3616,7 +3620,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1858
 # File: module/Application/view/application/activities/index.phtml, line: 138
-# File: module/Application/view/application/activities/search.phtml, line: 597
+# File: module/Application/view/application/activities/search.phtml, line: 625
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 610
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 421
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3654,7 +3658,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1859
 # File: module/Application/view/application/activities/index.phtml, line: 139
-# File: module/Application/view/application/activities/search.phtml, line: 598
+# File: module/Application/view/application/activities/search.phtml, line: 626
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 611
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 422
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3692,7 +3696,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1860
 # File: module/Application/view/application/activities/index.phtml, line: 140
-# File: module/Application/view/application/activities/search.phtml, line: 599
+# File: module/Application/view/application/activities/search.phtml, line: 627
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 612
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 423
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3730,7 +3734,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1861
 # File: module/Application/view/application/activities/index.phtml, line: 141
-# File: module/Application/view/application/activities/search.phtml, line: 600
+# File: module/Application/view/application/activities/search.phtml, line: 628
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 613
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 424
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3768,7 +3772,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1862
 # File: module/Application/view/application/activities/index.phtml, line: 142
-# File: module/Application/view/application/activities/search.phtml, line: 601
+# File: module/Application/view/application/activities/search.phtml, line: 629
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 614
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 425
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3806,7 +3810,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1863
 # File: module/Application/view/application/activities/index.phtml, line: 143
-# File: module/Application/view/application/activities/search.phtml, line: 602
+# File: module/Application/view/application/activities/search.phtml, line: 630
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 615
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 426
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3844,7 +3848,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1864
 # File: module/Application/view/application/activities/index.phtml, line: 144
-# File: module/Application/view/application/activities/search.phtml, line: 603
+# File: module/Application/view/application/activities/search.phtml, line: 631
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 616
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 427
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3882,7 +3886,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1865
 # File: module/Application/view/application/activities/index.phtml, line: 145
-# File: module/Application/view/application/activities/search.phtml, line: 604
+# File: module/Application/view/application/activities/search.phtml, line: 632
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 617
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 428
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -3920,7 +3924,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers.phtml, line: 644
 # File: module/Application/view/application/index/index.phtml, line: 1866
 # File: module/Application/view/application/activities/index.phtml, line: 146
-# File: module/Application/view/application/activities/search.phtml, line: 605
+# File: module/Application/view/application/activities/search.phtml, line: 633
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 618
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 429
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 611
@@ -6034,7 +6038,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1844
 # File: module/Application/view/application/activities/index.phtml, line: 124
-# File: module/Application/view/application/activities/search.phtml, line: 583
+# File: module/Application/view/application/activities/search.phtml, line: 611
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 596
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 407
 # File: module/Application/view/application/air/index.phtml, line: 585
@@ -6066,7 +6070,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1845
 # File: module/Application/view/application/activities/index.phtml, line: 125
-# File: module/Application/view/application/activities/search.phtml, line: 584
+# File: module/Application/view/application/activities/search.phtml, line: 612
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 597
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 408
 # File: module/Application/view/application/air/index.phtml, line: 586
@@ -6098,7 +6102,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1847
 # File: module/Application/view/application/activities/index.phtml, line: 127
-# File: module/Application/view/application/activities/search.phtml, line: 586
+# File: module/Application/view/application/activities/search.phtml, line: 614
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 599
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 410
 # File: module/Application/view/application/air/index.phtml, line: 588
@@ -6143,7 +6147,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1848
 # File: module/Application/view/application/activities/index.phtml, line: 128
-# File: module/Application/view/application/activities/search.phtml, line: 587
+# File: module/Application/view/application/activities/search.phtml, line: 615
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 600
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 411
 # File: module/Application/view/application/air/index.phtml, line: 589
@@ -6175,7 +6179,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1849
 # File: module/Application/view/application/activities/index.phtml, line: 129
-# File: module/Application/view/application/activities/search.phtml, line: 588
+# File: module/Application/view/application/activities/search.phtml, line: 616
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 601
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 412
 # File: module/Application/view/application/air/index.phtml, line: 590
@@ -6207,7 +6211,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1850
 # File: module/Application/view/application/activities/index.phtml, line: 130
-# File: module/Application/view/application/activities/search.phtml, line: 589
+# File: module/Application/view/application/activities/search.phtml, line: 617
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 602
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 413
 # File: module/Application/view/application/air/index.phtml, line: 591
@@ -6239,7 +6243,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1851
 # File: module/Application/view/application/activities/index.phtml, line: 131
-# File: module/Application/view/application/activities/search.phtml, line: 590
+# File: module/Application/view/application/activities/search.phtml, line: 618
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 603
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 414
 # File: module/Application/view/application/air/index.phtml, line: 592
@@ -6271,7 +6275,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1852
 # File: module/Application/view/application/activities/index.phtml, line: 132
-# File: module/Application/view/application/activities/search.phtml, line: 591
+# File: module/Application/view/application/activities/search.phtml, line: 619
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 604
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 415
 # File: module/Application/view/application/air/index.phtml, line: 593
@@ -6303,7 +6307,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1853
 # File: module/Application/view/application/activities/index.phtml, line: 133
-# File: module/Application/view/application/activities/search.phtml, line: 592
+# File: module/Application/view/application/activities/search.phtml, line: 620
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 605
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 416
 # File: module/Application/view/application/air/index.phtml, line: 594
@@ -6335,7 +6339,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1854
 # File: module/Application/view/application/activities/index.phtml, line: 134
-# File: module/Application/view/application/activities/search.phtml, line: 593
+# File: module/Application/view/application/activities/search.phtml, line: 621
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 606
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 417
 # File: module/Application/view/application/air/index.phtml, line: 595
@@ -6489,7 +6493,7 @@ msgid "Date"
 msgstr ""
 #
 # File: module/Application/view/application/activities/index.phtml, line: 121
-# File: module/Application/view/application/activities/search.phtml, line: 580
+# File: module/Application/view/application/activities/search.phtml, line: 608
 # File: module/Application/view/application/air/seating.phtml, line: 733
 # File: module/Application/view/application/air/airline.phtml, line: 770
 # File: module/Application/view/application/hotels/info.phtml, line: 977
@@ -6555,7 +6559,22 @@ msgstr ""
 msgid "New Search"
 msgstr ""
 #
-# File: module/Application/view/application/activities/search.phtml, line: 555
+# File: module/Application/view/application/activities/search.phtml, line: 527
+# File: module/Application/view/application/activities/search.phtml, line: 540
+msgid "We're sorry, but it looks like we couldn't find any activities that match your search criteria. Don't worry, there are still plenty of exciting things to do! Here are a few suggestions to help you find the perfect experience:."
+msgstr ""
+#
+# File: module/Application/view/application/activities/search.phtml, line: 528
+# File: module/Application/view/application/activities/search.phtml, line: 541
+msgid "However, we do not want you to miss the opportunity to book your ideal experience. Therefore, we suggest that you widen your search by adjusting your search filters. You can change the date, location, or type of activity to see more options."
+msgstr ""
+#
+# File: module/Application/view/application/activities/search.phtml, line: 529
+# File: module/Application/view/application/activities/search.phtml, line: 542
+msgid "Check out different categories of activities. Whether you're looking for adventure, relaxation, or cultural experiences, there's something for everyone. Keep exploring and you're sure to find an experience that suits your interests. Happy searching!"
+msgstr ""
+#
+# File: module/Application/view/application/activities/search.phtml, line: 581
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 31
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 64
 # File: module/Application/view/application/hotels/search.phtml, line: 444
@@ -6566,14 +6585,14 @@ msgstr ""
 msgid "VIEW"
 msgstr ""
 #
-# File: module/Application/view/application/activities/search.phtml, line: 556
+# File: module/Application/view/application/activities/search.phtml, line: 582
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 371
 # File: module/Application/view/application/escorted-tours/search-gridview.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 62
 msgid "Share"
 msgstr ""
 #
-# File: module/Application/view/application/activities/search.phtml, line: 558
+# File: module/Application/view/application/activities/search.phtml, line: 584
 msgid "per adult"
 msgstr ""
 #
