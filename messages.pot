@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-05 18:24+0000\n"
+"POT-Creation-Date: 2024-11-05 21:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -920,6 +920,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 51
 # File: module/Application/view/application/air/segment.phtml, line: 169
 # File: module/Application/view/application/air/segment.phtml, line: 170
+# File: module/Application/view/application/air/ancillary.phtml, line: 93
 # File: module/Application/view/application/hotels/search.phtml, line: 286
 # File: module/Application/view/application/hotels/search.phtml, line: 287
 # File: module/Application/view/application/hotels/search.phtml, line: 300
@@ -7962,7 +7963,7 @@ msgstr ""
 # File: module/Application/view/application/air/segment.phtml, line: 384
 # File: module/Application/view/application/air/segment.phtml, line: 386
 # File: module/Application/view/application/air/segment.phtml, line: 545
-# File: module/Application/view/application/air/ancillary.phtml, line: 76
+# File: module/Application/view/application/air/ancillary.phtml, line: 73
 # File: module/Application/view/application/transfers/search.phtml, line: 167
 # File: module/Application/view/application/insurances/search.phtml, line: 219
 # File: module/Application/view/application/insurances/search.phtml, line: 329
@@ -8871,6 +8872,14 @@ msgstr ""
 #
 # File: module/Application/view/application/air/seating.phtml, line: 649
 msgid "Unable to retrieve booking code(s)"
+msgstr ""
+#
+# File: module/Application/view/application/air/ancillary.phtml, line: 94
+msgid "No ancillaries available"
+msgstr ""
+#
+# File: module/Application/view/application/air/ancillary.phtml, line: 95
+msgid "We were unable to fetch ancillary services for your selected airline at this time. This could be due to a variety of reasons. Please try again later or contact our customer support for assistance."
 msgstr ""
 #
 # File: module/Application/view/application/air/airline.phtml, line: 193
