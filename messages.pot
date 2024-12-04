@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-04 13:18+0000\n"
+"POT-Creation-Date: 2024-12-04 16:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -548,6 +548,7 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 84
 # File: module/Application/view/application/activities/search.phtml, line: 92
 # File: module/Application/view/application/activities/info.phtml, line: 146
+# File: module/Application/view/application/activities/confirm.phtml, line: 63
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 157
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 163
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 224
@@ -618,6 +619,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 268
 # File: module/Application/view/application/activities/payment.phtml, line: 141
 # File: module/Application/view/application/activities/payment.phtml, line: 172
+# File: module/Application/view/application/activities/confirm.phtml, line: 43
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 160
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 165
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 625
@@ -2349,6 +2351,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 208
 # File: module/Application/view/application/cruises/confirm.phtml, line: 312
+# File: module/Application/view/application/activities/confirm.phtml, line: 99
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 558
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 217
 # File: module/Application/view/application/air/summary.phtml, line: 390
@@ -5058,6 +5061,7 @@ msgid "Cruise Information"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 297
+# File: module/Application/view/application/activities/confirm.phtml, line: 66
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 147
 # File: module/Application/view/application/air/confirm.phtml, line: 307
 # File: module/Application/view/application/hotels/confirm.phtml, line: 102
@@ -5070,6 +5074,7 @@ msgid "First Name:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 298
+# File: module/Application/view/application/activities/confirm.phtml, line: 70
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 148
 # File: module/Application/view/application/air/confirm.phtml, line: 308
 # File: module/Application/view/application/hotels/confirm.phtml, line: 106
@@ -5887,6 +5892,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 268
 # File: module/Application/view/application/activities/payment.phtml, line: 146
 # File: module/Application/view/application/activities/payment.phtml, line: 172
+# File: module/Application/view/application/activities/confirm.phtml, line: 43
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 221
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 236
@@ -7234,6 +7240,7 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 101
 # File: module/Application/view/application/activities/passengers.phtml, line: 259
 # File: module/Application/view/application/activities/payment.phtml, line: 163
+# File: module/Application/view/application/activities/confirm.phtml, line: 32
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 249
 # File: module/Application/view/application/cart/confirm.phtml, line: 45
 msgid "Cost per adult:"
@@ -7242,12 +7249,14 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 105
 # File: module/Application/view/application/activities/passengers.phtml, line: 263
 # File: module/Application/view/application/activities/payment.phtml, line: 167
+# File: module/Application/view/application/activities/confirm.phtml, line: 36
 msgid "Cost per child:"
 msgstr ""
 #
 # File: module/Application/view/application/activities/summary.phtml, line: 115
 # File: module/Application/view/application/activities/passengers.phtml, line: 273
 # File: module/Application/view/application/activities/payment.phtml, line: 177
+# File: module/Application/view/application/activities/confirm.phtml, line: 49
 # File: module/Application/view/application/air/summary.phtml, line: 469
 # File: module/Application/view/application/air/summary.phtml, line: 556
 # File: module/Application/view/application/air/summary.phtml, line: 566
@@ -7387,6 +7396,41 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 109
 msgid "Please enter any special requests or preferences you may have. While we cannot guarantee all requests, we will do our best to pass them on to our suppliers for consideration."
+msgstr ""
+#
+# File: module/Application/view/application/activities/confirm.phtml, line: 5
+msgid "Travel experience in"
+msgstr ""
+#
+# File: module/Application/view/application/activities/confirm.phtml, line: 54
+# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 86
+# File: module/Application/view/application/air/confirm.phtml, line: 370
+# File: module/Application/view/application/hotels/confirm.phtml, line: 90
+# File: module/Application/view/application/hotels/confirm.phtml, line: 201
+# File: module/Application/view/application/transfers/summary.phtml, line: 357
+# File: module/Application/view/application/transfers/summary.phtml, line: 422
+# File: module/Application/view/application/transfers/passengers.phtml, line: 392
+# File: module/Application/view/application/transfers/passengers.phtml, line: 457
+# File: module/Application/view/application/transfers/payment.phtml, line: 173
+# File: module/Application/view/application/transfers/payment.phtml, line: 238
+# File: module/Application/view/application/transfers/confirm.phtml, line: 111
+# File: module/Application/view/application/transfers/confirm.phtml, line: 229
+# File: module/Application/view/application/cars/confirm.phtml, line: 54
+# File: module/Application/view/application/insurances/confirm.phtml, line: 36
+# File: module/Application/view/application/packages/confirm.phtml, line: 155
+# File: module/Application/view/application/cart/summary.phtml, line: 1237
+# File: module/Application/view/application/cart/passengers.phtml, line: 423
+# File: module/Application/view/application/cart/payment.phtml, line: 397
+# File: module/Application/view/application/cart/confirm.phtml, line: 59
+# File: module/Application/view/application/cart/confirm.phtml, line: 174
+# File: module/Application/view/application/cart/confirm.phtml, line: 402
+# File: module/Application/view/application/cart/confirm.phtml, line: 481
+# File: module/Application/view/application/cart/confirm.phtml, line: 781
+msgid "Subtotal"
+msgstr ""
+#
+# File: module/Application/view/application/activities/confirm.phtml, line: 60
+msgid "Experience Information"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 128
@@ -7810,32 +7854,6 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 80
 msgid "Discounts"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/confirm.phtml, line: 86
-# File: module/Application/view/application/air/confirm.phtml, line: 370
-# File: module/Application/view/application/hotels/confirm.phtml, line: 90
-# File: module/Application/view/application/hotels/confirm.phtml, line: 201
-# File: module/Application/view/application/transfers/summary.phtml, line: 357
-# File: module/Application/view/application/transfers/summary.phtml, line: 422
-# File: module/Application/view/application/transfers/passengers.phtml, line: 392
-# File: module/Application/view/application/transfers/passengers.phtml, line: 457
-# File: module/Application/view/application/transfers/payment.phtml, line: 173
-# File: module/Application/view/application/transfers/payment.phtml, line: 238
-# File: module/Application/view/application/transfers/confirm.phtml, line: 111
-# File: module/Application/view/application/transfers/confirm.phtml, line: 229
-# File: module/Application/view/application/cars/confirm.phtml, line: 54
-# File: module/Application/view/application/insurances/confirm.phtml, line: 36
-# File: module/Application/view/application/packages/confirm.phtml, line: 155
-# File: module/Application/view/application/cart/summary.phtml, line: 1237
-# File: module/Application/view/application/cart/passengers.phtml, line: 423
-# File: module/Application/view/application/cart/payment.phtml, line: 397
-# File: module/Application/view/application/cart/confirm.phtml, line: 59
-# File: module/Application/view/application/cart/confirm.phtml, line: 174
-# File: module/Application/view/application/cart/confirm.phtml, line: 402
-# File: module/Application/view/application/cart/confirm.phtml, line: 481
-# File: module/Application/view/application/cart/confirm.phtml, line: 781
-msgid "Subtotal"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 123
