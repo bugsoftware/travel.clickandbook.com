@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-07 08:09+0000\n"
+"POT-Creation-Date: 2024-12-07 14:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2795
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2705
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2808
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2718
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 734
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 409
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
@@ -29,11 +29,11 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2808
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2718
 msgid "will incur in"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2808
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2718
 msgid "penalty."
 msgstr ""
 #
@@ -443,27 +443,27 @@ msgstr ""
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2368
+# File: module/Application/src/Controller/AgentController.php, line: 2372
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2369
+# File: module/Application/src/Controller/AgentController.php, line: 2373
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2374
+# File: module/Application/src/Controller/AgentController.php, line: 2378
 msgid "Password Reset Instructions for Your Account"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2672
+# File: module/Application/src/Controller/AgentController.php, line: 2676
 msgid "We have generated a temporary password for you to access your account. Your new password is"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2673
+# File: module/Application/src/Controller/AgentController.php, line: 2677
 msgid "We strongly recommend that you change your password immediately after logging in. If you did not request a password reset, please contact our support team immediately."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 2678
+# File: module/Application/src/Controller/AgentController.php, line: 2682
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
@@ -1045,7 +1045,7 @@ msgstr ""
 # File: module/Application/view/application/content/groups.phtml, line: 78
 # File: module/Application/view/application/content/weddings.phtml, line: 79
 # File: module/Application/view/application/content/pricematch.phtml, line: 162
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 85
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 86
 # File: module/Application/view/application/quotes/cruises.phtml, line: 66
 # File: module/Application/view/layout/layout.phtml, line: 268
 # File: module/Application/view/layout/layout.phtml, line: 881
@@ -5589,7 +5589,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/brands.phtml, line: 8
 # File: module/Application/view/application/trip-planner/select.phtml, line: 143
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 6
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 19
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 260
 # File: module/Application/view/layout/layout.phtml, line: 878
 msgid "Hotels"
@@ -5609,7 +5609,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 7
 # File: module/Application/view/application/transfers/return.phtml, line: 7
 # File: module/Application/view/application/trip-planner/select.phtml, line: 146
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 41
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 42
 # File: module/Application/view/layout/layout.phtml, line: 262
 # File: module/Application/view/layout/layout.phtml, line: 882
 # File: module/Application/view/application2/layout/layout.phtml, line: 85
@@ -5620,7 +5620,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 127
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 127
 # File: module/Application/view/application/trip-planner/select.phtml, line: 144
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 74
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 75
 # File: module/Application/view/layout/layout.phtml, line: 261
 # File: module/Application/view/layout/layout.phtml, line: 879
 msgid "Escorted Tours"
@@ -5640,7 +5640,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 366
 # File: module/Application/view/application/cars/search.phtml, line: 15
 # File: module/Application/view/application/trip-planner/select.phtml, line: 155
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 63
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 64
 # File: module/Application/view/layout/layout.phtml, line: 270
 # File: module/Application/view/application2/layout/layout.phtml, line: 73
 msgid "Cars"
@@ -9338,7 +9338,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 478
 # File: module/Application/view/application/cart/payment.phtml, line: 523
 # File: module/Application/view/application/cart/payment.phtml, line: 527
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 319
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 320
 msgid "Service Fee"
 msgstr ""
 #
@@ -9418,11 +9418,11 @@ msgstr ""
 # File: module/Application/view/application/content/pricematch.phtml, line: 199
 # File: module/Application/view/application/content/contactus.phtml, line: 60
 # File: module/Application/view/application/agent/addnew.phtml, line: 66
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 168
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 238
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 308
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 366
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 436
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 169
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 239
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 309
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 367
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 437
 # File: module/Application/view/application/agent/subagent.phtml, line: 63
 msgid "Submit"
 msgstr ""
@@ -11517,8 +11517,8 @@ msgstr ""
 #
 # File: module/Application/view/application/login/profile.phtml, line: 67
 # File: module/Application/view/application/agent/profile.phtml, line: 41
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 335
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 337
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 336
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 338
 msgid "Country"
 msgstr ""
 #
@@ -11806,7 +11806,7 @@ msgid "Travel Insurances"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 156
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 96
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 97
 # File: module/Application/view/layout/layout.phtml, line: 272
 # File: module/Application/view/layout/layout.phtml, line: 886
 # File: module/Application/view/offers/hotels/index.phtml, line: 238
@@ -11915,7 +11915,7 @@ msgid "Transport"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 8
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 30
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 31
 # File: module/Application/view/layout/layout.phtml, line: 883
 # File: translate-dummy.php, line: 7
 msgid "Activities"
@@ -13580,14 +13580,14 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 89
 # File: module/Application/view/application/agent/agents.phtml, line: 112
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 7
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 20
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 31
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 42
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 53
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 64
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 75
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 86
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 97
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 21
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 32
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 43
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 54
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 65
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 76
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 87
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 98
 msgid "Markup Settings"
 msgstr ""
 #
@@ -13663,177 +13663,177 @@ msgid "Use this form to register new sub-agents. Sub-agents will have the abilit
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 137
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 471
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 472
 # File: module/Application/view/application/agent/subagent.phtml, line: 134
 msgid "Please wait"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 52
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 53
 # File: module/Application/view/application2/layout/layout.phtml, line: 70
 msgid "Flights"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 106
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 107
 msgid "Hotel Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 115
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 116
 msgid "If you want to add a percentage of markup to the base price of the hotel reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 130
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 131
 msgid "If you want to add a markup fee to the base price of the hotel reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 145
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 146
 msgid "Hotel Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 152
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 153
 msgid "Include in the price: This option will include the hotel markup in the price of the hotel that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 153
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 154
 msgid "If you choose this option, the customer may compare the price of the hotel with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 159
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 160
 msgid "Show as a service fee: This option will add the hotel markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the hotel and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 160
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 230
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 300
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 358
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 428
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 161
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 231
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 301
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 359
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 429
 msgid "This option may be more transparent, but it may also discourage some customers from completing the booking."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 176
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 177
 msgid "Activities Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 185
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 186
 msgid "If you want to add a percentage of markup to the base price of the activity reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 200
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 201
 msgid "If you want to add a markup fee to the base price of the activity reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 215
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 216
 msgid "Activities Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 222
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 223
 msgid "Include in the price: This option will include the activity markup in the price of the activity that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 223
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 224
 msgid "If you choose this option, the customer may compare the price of the activity with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 229
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 230
 msgid "Show as a service fee: This option will add the activity markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the activity and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 246
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 247
 msgid "Transfers Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 255
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 256
 msgid "If you want to add a percentage of markup to the base price of the transfer reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 270
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 271
 msgid "If you want to add a markup fee to the base price of the transfer reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 285
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 286
 msgid "Transfer Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 292
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 293
 msgid "Include in the price: This option will include the transfer markup in the price of the transfer that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 293
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 294
 msgid "If you choose this option, the customer may compare the price of the transfer with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 299
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 300
 msgid "Show as a service fee: This option will add the transfer markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the transfer and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 316
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 317
 msgid "Flight Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 323
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 324
 msgid "Service Fee Per Passenger"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 327
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 328
 msgid "International Service Fee"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 331
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 332
 msgid "International Service Fee Per Passenger"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 343
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 344
 msgid "Flight Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 350
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 351
 msgid "Include in the price: This option will include the flight markup in the price of the flight that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 351
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 352
 msgid "If you choose this option, the customer may compare the price of the flight with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 357
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 358
 msgid "Show as a service fee: This option will add the flight markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the flight and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 374
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 375
 msgid "Cars Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 383
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 384
 msgid "If you want to add a percentage of markup to the base price of the car reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 398
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 399
 msgid "If you want to add a markup fee to the base price of the car reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 413
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 414
 msgid "Cars Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 420
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 421
 msgid "Include in the price: This option will include the car markup in the price of the car that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 421
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 422
 msgid "If you choose this option, the customer may compare the price of the car with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 427
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 428
 msgid "Show as a service fee: This option will add the car markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the car and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 444
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 445
 msgid "Escorted Tours Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 452
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 453
 msgid "Cruises Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agent/markupsettings.phtml, line: 460
+# File: module/Application/view/application/agent/markupsettings.phtml, line: 461
 msgid "Packages Markup Settings"
 msgstr ""
 #
