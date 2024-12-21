@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-20 12:43+0000\n"
+"POT-Creation-Date: 2024-12-21 13:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2790
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2793
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2803
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2806
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 734
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 409
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 216
@@ -29,11 +29,11 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2803
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2806
 msgid "will incur in"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 2803
+# File: module/Application/src/Controller/ActivitiesController.php, line: 2806
 msgid "penalty."
 msgstr ""
 #
@@ -7677,6 +7677,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 424
 # File: module/Application/view/application/hotels/confirm.phtml, line: 246
 # File: module/Application/view/application/cart/confirm.phtml, line: 835
+# File: translate-dummy.php, line: 60
 msgid "Urgent: Duplicate Booking Alert"
 msgstr ""
 #
@@ -7684,6 +7685,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 424
 # File: module/Application/view/application/hotels/confirm.phtml, line: 246
 # File: module/Application/view/application/cart/confirm.phtml, line: 835
+# File: translate-dummy.php, line: 61
 msgid "Please be advised that the current booking has been identified as a duplicate. Immediate review and action are required."
 msgstr ""
 #
@@ -12150,7 +12152,7 @@ msgstr ""
 msgid "Your shopping cart is empty. You have not added any travel items to your cart yet. You can browse and book hotels, cars, activities, tours, flights, transfers, cruises and packages from our website. Start planning your dream trip today! Once you have added items to your cart, you can proceed to checkout and complete your order. Thank you for choosing us."
 msgstr ""
 #
-# File: module/Application/view/application/cart/index.phtml, line: 170
+# File: module/Application/view/application/cart/index.phtml, line: 169
 # File: module/Application/view/application/cart/index.phtml, line: 193
 msgid "Add Experience"
 msgstr ""
@@ -15052,6 +15054,70 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 52
 msgid "Trial Plan"
+msgstr ""
+#
+# File: translate-dummy.php, line: 53
+msgid "Excludes Resort Fee"
+msgstr ""
+#
+# File: translate-dummy.php, line: 54
+msgid "Includes Resort Fee"
+msgstr ""
+#
+# File: translate-dummy.php, line: 55
+msgid "Bed & Breakfast for 2 Guests"
+msgstr ""
+#
+# File: translate-dummy.php, line: 56
+msgid "Shared"
+msgstr ""
+#
+# File: translate-dummy.php, line: 57
+msgid "Private"
+msgstr ""
+#
+# File: translate-dummy.php, line: 58
+msgid "Beds & Breakfast for Adults"
+msgstr ""
+#
+# File: translate-dummy.php, line: 59
+msgid "Bed & Breakfast for 1 Guest"
+msgstr ""
+#
+# File: translate-dummy.php, line: 62
+msgid "I hope this message finds you well. I am writing to inform you of a duplicate booking in our system that requires immediate attention."
+msgstr ""
+#
+# File: translate-dummy.php, line: 63
+msgid "24-Hour Emergency Assistance Service"
+msgstr ""
+#
+# File: translate-dummy.php, line: 64
+msgid "Concierge Services"
+msgstr ""
+#
+# File: translate-dummy.php, line: 65
+msgid "Trip Interruption"
+msgstr ""
+#
+# File: translate-dummy.php, line: 66
+msgid "Trip Cancellation"
+msgstr ""
+#
+# File: translate-dummy.php, line: 67
+msgid "Travel Delay ($100 max per day, per person)"
+msgstr ""
+#
+# File: translate-dummy.php, line: 68
+msgid "Travel Delay ($100 maximum per day, per person)"
+msgstr ""
+#
+# File: translate-dummy.php, line: 69
+msgid "Medical and Dental coverage"
+msgstr ""
+#
+# File: translate-dummy.php, line: 70
+msgid "Emergency Assistance and Transportation ($10,000 Emergency Companion Hospitality Expenses)"
 msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
