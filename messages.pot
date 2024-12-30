@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-28 14:26+0000\n"
+"POT-Creation-Date: 2024-12-30 07:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,44 +135,44 @@ msgstr ""
 msgid "Triple"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 732
+# File: module/Application/src/Controller/AirController.php, line: 870
 msgid "Book Flights, Hotels, Cars and More"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 733
+# File: module/Application/src/Controller/AirController.php, line: 871
 msgid "is the world's leading airline. Book flights, hotels, cars and more on our site and enjoy our award-winning service and in-flight entertainment."
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 # File: module/Application/view/application/packages/info.phtml, line: 32
 msgid "flights"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 msgid "tickets"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 msgid "travel"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 # File: module/Application/view/application/packages/info.phtml, line: 42
 msgid "hotels"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 # File: module/Application/view/application/packages/info.phtml, line: 57
 msgid "cars"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 # File: module/Application/view/offers/airline/index.phtml, line: 211
 # File: module/Application/view/offers/airline/index.phtml, line: 212
 msgid "deals"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 734
+# File: module/Application/src/Controller/AirController.php, line: 872
 msgid "destinations"
 msgstr ""
 #
@@ -1581,10 +1581,11 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 527
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 583
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 591
-# File: module/Application/view/application/air/summary.phtml, line: 890
-# File: module/Application/view/application/air/summary.phtml, line: 896
-# File: module/Application/view/application/air/summary.phtml, line: 909
-# File: module/Application/view/application/air/summary.phtml, line: 999
+# File: module/Application/view/application/air/summary.phtml, line: 927
+# File: module/Application/view/application/air/summary.phtml, line: 933
+# File: module/Application/view/application/air/summary.phtml, line: 946
+# File: module/Application/view/application/air/summary.phtml, line: 1006
+# File: module/Application/view/application/air/summary.phtml, line: 1100
 # File: module/Application/view/application/air/payment.phtml, line: 696
 # File: module/Application/view/application/air/ticketing.phtml, line: 627
 # File: module/Application/view/application/air/ticketing.phtml, line: 826
@@ -2410,7 +2411,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 807
 # File: module/Application/view/application/air/summary.phtml, line: 409
 # File: module/Application/view/application/air/summary.phtml, line: 639
-# File: module/Application/view/application/air/summary.phtml, line: 821
+# File: module/Application/view/application/air/summary.phtml, line: 824
 # File: module/Application/view/application/air/payment.phtml, line: 164
 # File: module/Application/view/application/air/seating.phtml, line: 144
 # File: module/Application/view/application/air/seating.phtml, line: 282
@@ -2582,9 +2583,11 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 974
 # File: module/Application/view/application/air/return.phtml, line: 482
 # File: module/Application/view/application/air/return.phtml, line: 635
-# File: module/Application/view/application/air/summary.phtml, line: 845
-# File: module/Application/view/application/air/summary.phtml, line: 858
-# File: module/Application/view/application/air/summary.phtml, line: 869
+# File: module/Application/view/application/air/summary.phtml, line: 848
+# File: module/Application/view/application/air/summary.phtml, line: 861
+# File: module/Application/view/application/air/summary.phtml, line: 872
+# File: module/Application/view/application/air/summary.phtml, line: 895
+# File: module/Application/view/application/air/summary.phtml, line: 906
 # File: module/Application/view/application/air/confirm.phtml, line: 396
 # File: module/Application/view/application/air/segment.phtml, line: 332
 # File: module/Application/view/application/air/seating.phtml, line: 91
@@ -8164,7 +8167,7 @@ msgid "Minimum amount to pay is $250 per person"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 289
-# File: module/Application/view/application/air/summary.phtml, line: 859
+# File: module/Application/view/application/air/summary.phtml, line: 862
 # File: module/Application/view/application/hotels/summary.phtml, line: 363
 # File: module/Application/view/application/login/register.phtml, line: 73
 # File: module/Application/view/application/packages/summary.phtml, line: 319
@@ -8330,7 +8333,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 318
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 324
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 325
-# File: module/Application/view/application/air/summary.phtml, line: 873
+# File: module/Application/view/application/air/summary.phtml, line: 910
 # File: module/Application/view/application/air/ticketing.phtml, line: 871
 # File: module/Application/view/application/hotels/info.phtml, line: 68
 # File: module/Application/view/application/cart/summary.phtml, line: 1489
@@ -8370,7 +8373,7 @@ msgid "Do you require a transfer on departure?"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 319
-# File: module/Application/view/application/air/summary.phtml, line: 874
+# File: module/Application/view/application/air/summary.phtml, line: 911
 # File: module/Application/view/application/air/ticketing.phtml, line: 872
 # File: module/Application/view/application/hotels/info.phtml, line: 68
 # File: module/Application/view/application/hotels/info.phtml, line: 69
@@ -9069,8 +9072,8 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 1069
 # File: module/Application/view/application/air/return.phtml, line: 717
 # File: module/Application/view/application/air/return.phtml, line: 720
-# File: module/Application/view/application/air/summary.phtml, line: 665
-# File: module/Application/view/application/air/summary.phtml, line: 834
+# File: module/Application/view/application/air/summary.phtml, line: 668
+# File: module/Application/view/application/air/summary.phtml, line: 837
 # File: module/Application/view/application/air/segment.phtml, line: 393
 # File: module/Application/view/application/air/segment.phtml, line: 396
 # File: module/Application/view/application/air/ticketing.phtml, line: 519
@@ -9663,24 +9666,28 @@ msgstr ""
 msgid "ADD TO CART"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 652
+# File: module/Application/view/application/air/summary.phtml, line: 642
+msgid "SEND QUOTE"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 655
 # File: module/Application/view/application/air/confirm.phtml, line: 83
 # File: module/Application/view/application/air/seating.phtml, line: 90
 msgid "Select Seats"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 658
+# File: module/Application/view/application/air/summary.phtml, line: 661
 # File: module/Application/view/application/booking/paynow.phtml, line: 167
 # File: module/Application/view/application/agent/reservations.phtml, line: 60
 msgid "Traveler"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 828
+# File: module/Application/view/application/air/summary.phtml, line: 831
 msgid "Add Baggage"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 840
-# File: module/Application/view/application/air/summary.phtml, line: 844
+# File: module/Application/view/application/air/summary.phtml, line: 843
+# File: module/Application/view/application/air/summary.phtml, line: 847
 # File: module/Application/view/application/hotels/summary.phtml, line: 344
 # File: module/Application/view/application/hotels/summary.phtml, line: 348
 # File: module/Application/view/application/packages/summary.phtml, line: 302
@@ -9690,19 +9697,19 @@ msgstr ""
 msgid "Add Service Fee"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 849
+# File: module/Application/view/application/air/summary.phtml, line: 852
 # File: module/Application/view/application/hotels/summary.phtml, line: 353
 # File: module/Application/view/application/cart/summary.phtml, line: 1466
 msgid "Notice: The maximum service charge applicable is $200.00. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 850
+# File: module/Application/view/application/air/summary.phtml, line: 853
 # File: module/Application/view/application/hotels/summary.phtml, line: 354
 #, php-format
 msgid "Notice: In accordance with our pricing policy, the service fee for each booking is strictly limited to a maximum of 10% of the total booking value. For example, if the total booking amount is $100, the service fee can't be more than $10."
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 852
+# File: module/Application/view/application/air/summary.phtml, line: 855
 # File: module/Application/view/application/air/confirm.phtml, line: 383
 # File: module/Application/view/application/hotels/confirm.phtml, line: 212
 # File: module/Application/view/application/hotels/summary.phtml, line: 356
@@ -9713,17 +9720,56 @@ msgstr ""
 msgid "Service Fee:"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 864
+# File: module/Application/view/application/air/summary.phtml, line: 867
+# File: module/Application/view/application/air/summary.phtml, line: 871
+msgid "Send Quote"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 876
+msgid "Customer Name Required! Please enter the customer's name before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 877
+msgid "Customer Phone Required! Please enter the customer's phone number before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 878
+msgid "Email Address Required! Please enter the customer's email address before submitting the form. This field is mandatory."
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 879
+msgid "Quote Not Sent! The quote has not been sent to the customer. Please check the details and try again.."
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 881
+msgid "Customer Name:"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 885
+msgid "Phone Number:"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 889
+msgid "Email Address:"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 896
+# File: module/Application/view/application/air/summary.phtml, line: 1019
+# File: module/Application/view/application/air/summary.phtml, line: 1024
+msgid "Send"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 901
 # File: module/Application/view/application/cart/summary.phtml, line: 1480
 msgid "Add Service Fee to Your Reservation Now"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 868
+# File: module/Application/view/application/air/summary.phtml, line: 905
 # File: module/Application/view/application/cart/summary.phtml, line: 1484
 msgid "Add Service Fee to Your Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/air/summary.phtml, line: 871
+# File: module/Application/view/application/air/summary.phtml, line: 908
 # File: module/Application/view/application/cart/summary.phtml, line: 1487
 msgid "We noticed that you did not add any service fee to your current reservation. Do you want to add the service fee to your reservation now?"
 msgstr ""
