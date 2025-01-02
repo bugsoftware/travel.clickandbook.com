@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-01 18:18+0000\n"
+"POT-Creation-Date: 2025-01-02 07:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1172,8 +1172,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 154
 # File: module/Application/view/application/hotels/search.phtml, line: 155
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1652
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 420
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 524
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 440
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 542
 msgid "stars"
 msgstr ""
 #
@@ -1901,6 +1901,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/select.phtml, line: 142
 # File: module/Application/view/application/hotels/info.phtml, line: 606
 # File: module/Application/view/application/hotels/info.phtml, line: 722
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 378
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 473
 msgid "Location"
 msgstr ""
 #
@@ -8851,10 +8853,10 @@ msgstr ""
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 41
 # File: module/Application/view/layout/layout.phtml, line: 307
 # File: module/Application/view/offers/lastminute/index.phtml, line: 349
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 369
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 373
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 466
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 470
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 391
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 393
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 486
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 488
 # File: module/Application/view/offers/cruises/index.phtml, line: 151
 msgid "to"
 msgstr ""
@@ -14680,14 +14682,14 @@ msgstr ""
 #
 # File: module/Application/view/offers/destinations/index.phtml, line: 93
 # File: module/Application/view/offers/lastminute/index.phtml, line: 156
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 175
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 197
 # File: module/Application/view/offers/cb2/index.phtml, line: 59
 msgid "Problems viewing?"
 msgstr ""
 #
 # File: module/Application/view/offers/destinations/index.phtml, line: 93
 # File: module/Application/view/offers/lastminute/index.phtml, line: 156
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 175
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 197
 msgid "Click to view online"
 msgstr ""
 #
@@ -14800,8 +14802,8 @@ msgid "Book now"
 msgstr ""
 #
 # File: module/Application/view/offers/lastminute/index.phtml, line: 1671
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 420
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 524
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 440
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 542
 msgid "details"
 msgstr ""
 #
@@ -14840,29 +14842,29 @@ msgstr ""
 msgid "Schedule"
 msgstr ""
 #
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 369
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 466
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 391
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 486
 msgid "Booking Window:"
 msgstr ""
 #
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 373
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 470
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 393
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 488
 msgid "Travel Window:"
 msgstr ""
 #
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 405
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 502
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 425
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 520
 msgid "discount"
 msgstr ""
 #
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 1086
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 1104
 # File: module/Application/view/offers/cb1/index.phtml, line: 138
 # File: module/Application/view/offers/cb2/index.phtml, line: 174
 # File: module/Application/view/offers/blackfriday/index.phtml, line: 416
 msgid "If you don't want to receive emails, please"
 msgstr ""
 #
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 1086
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 1104
 # File: module/Application/view/offers/cb2/index.phtml, line: 174
 # File: module/Application/view/offers/blackfriday/index.phtml, line: 416
 msgid "Unscubscribe"
@@ -15442,6 +15444,14 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 70
 msgid "Emergency Assistance and Transportation ($10,000 Emergency Companion Hospitality Expenses)"
+msgstr ""
+#
+# File: translate-dummy.php, line: 71
+msgid "Special discount"
+msgstr ""
+#
+# File: translate-dummy.php, line: 72
+msgid "New Year Sales"
 msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
