@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-13 16:56-0400\n"
+"POT-Creation-Date: 2025-03-14 11:49-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -428,19 +428,19 @@ msgstr ""
 msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, hotels, and vacation packages. Limited-time only!"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 240
-# File: module/Application/src/Controller/BookingController.php, line: 241
+# File: module/Application/src/Controller/BookingController.php, line: 335
+# File: module/Application/src/Controller/BookingController.php, line: 336
 # File: module/Application/view/application/booking/details.phtml, line: 239
 msgid "Reservation Details"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 333
-# File: module/Application/src/Controller/BookingController.php, line: 801
+# File: module/Application/src/Controller/BookingController.php, line: 428
+# File: module/Application/src/Controller/BookingController.php, line: 896
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 334
-# File: module/Application/src/Controller/BookingController.php, line: 802
+# File: module/Application/src/Controller/BookingController.php, line: 429
+# File: module/Application/src/Controller/BookingController.php, line: 897
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -2664,6 +2664,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/content/offlinequote.phtml, line: 32
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 79
 # File: module/Application/view/application/agent/profile.phtml, line: 46
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 60
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
@@ -2920,6 +2921,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 52
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/content/offlinequote.phtml, line: 30
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 77
 # File: module/Application/view/application/agent/profile.phtml, line: 39
 # File: module/Application/view/application/agent/addnew.phtml, line: 49
 # File: module/Application/view/application/agent/subagent.phtml, line: 46
@@ -2955,6 +2957,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 52
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/content/offlinequote.phtml, line: 30
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 77
 # File: module/Application/view/application/agent/addnew.phtml, line: 49
 # File: module/Application/view/application/agent/subagent.phtml, line: 46
 # File: module/Application/view/application2/content/registeragent.phtml, line: 78
@@ -2990,6 +2993,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/content/offlinequote.phtml, line: 31
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 78
 # File: module/Application/view/application/agent/profile.phtml, line: 40
 # File: module/Application/view/application/agent/addnew.phtml, line: 50
 # File: module/Application/view/application/agent/subagent.phtml, line: 47
@@ -3025,6 +3029,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/content/offlinequote.phtml, line: 31
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 78
 # File: module/Application/view/application/agent/addnew.phtml, line: 50
 # File: module/Application/view/application/agent/subagent.phtml, line: 47
 # File: module/Application/view/application2/content/registeragent.phtml, line: 79
@@ -3059,6 +3064,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/content/offlinequote.phtml, line: 32
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 79
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
 # File: module/Application/view/application/agent/subagent.phtml, line: 49
 # File: module/Application/view/application2/content/registeragent.phtml, line: 101
@@ -3094,6 +3100,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/content/offlinequote.phtml, line: 33
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 80
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 61
 # File: module/Application/view/application/agent/addnew.phtml, line: 53
 # File: module/Application/view/application/agent/subagent.phtml, line: 50
@@ -3127,6 +3134,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/content/offlinequote.phtml, line: 33
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 80
 # File: module/Application/view/application/agent/addnew.phtml, line: 53
 # File: module/Application/view/application/agent/subagent.phtml, line: 50
 msgid "Please enter your Phone"
@@ -3890,6 +3898,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 89
 # File: module/Application/view/application/content/contactus.phtml, line: 76
 # File: module/Application/view/application/content/offlinequote.phtml, line: 77
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 114
 # File: module/Application/view/application/agent/addnew.phtml, line: 90
 # File: module/Application/view/application/agent/subagent.phtml, line: 87
 # File: module/Application/view/application2/content/registeragent.phtml, line: 182
@@ -3917,6 +3926,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 97
 # File: module/Application/view/application/content/contactus.phtml, line: 84
 # File: module/Application/view/application/content/offlinequote.phtml, line: 85
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 122
 # File: module/Application/view/application/agent/addnew.phtml, line: 98
 # File: module/Application/view/application/agent/subagent.phtml, line: 95
 # File: module/Application/view/application2/content/registeragent.phtml, line: 190
@@ -3944,6 +3954,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 105
 # File: module/Application/view/application/content/contactus.phtml, line: 92
 # File: module/Application/view/application/content/offlinequote.phtml, line: 93
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 130
 # File: module/Application/view/application/agent/addnew.phtml, line: 106
 # File: module/Application/view/application/agent/subagent.phtml, line: 103
 # File: module/Application/view/application2/content/registeragent.phtml, line: 198
@@ -3971,6 +3982,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 113
 # File: module/Application/view/application/content/contactus.phtml, line: 100
 # File: module/Application/view/application/content/offlinequote.phtml, line: 101
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 138
 # File: module/Application/view/application/agent/addnew.phtml, line: 114
 # File: module/Application/view/application/agent/subagent.phtml, line: 111
 # File: module/Application/view/application2/content/registeragent.phtml, line: 206
@@ -12311,6 +12323,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 29
 # File: module/Application/view/application/content/support.phtml, line: 26
 # File: module/Application/view/application/content/contactus.phtml, line: 26
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 26
 # File: module/Application/view/application2/content/registeragent.phtml, line: 27
 msgid "Please retype the characters from the security box. This ensures that a person, not an automated program is submitting this form."
 msgstr ""
@@ -12407,6 +12420,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 62
 # File: module/Application/view/application/content/contactus.phtml, line: 48
 # File: module/Application/view/application/content/offlinequote.phtml, line: 50
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 87
 # File: module/Application/view/application2/content/registeragent.phtml, line: 144
 msgid "Security"
 msgstr ""
@@ -12424,6 +12438,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 121
 # File: module/Application/view/application/content/contactus.phtml, line: 116
 # File: module/Application/view/application/content/offlinequote.phtml, line: 109
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 154
 # File: module/Application/view/application2/content/registeragent.phtml, line: 230
 msgid "Please input the image shown in the security code."
 msgstr ""
@@ -13081,6 +13096,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 62
 # File: module/Application/view/application/content/registerproperty.phtml, line: 78
 # File: module/Application/view/application/content/support.phtml, line: 57
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 82
 # File: module/Application/view/application/agent/addnew.phtml, line: 60
 # File: module/Application/view/application/agent/subagent.phtml, line: 57
 msgid "Memo"
@@ -13092,6 +13108,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 65
 # File: module/Application/view/application/content/contactus.phtml, line: 51
 # File: module/Application/view/application/content/offlinequote.phtml, line: 53
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 90
 # File: module/Application/view/application2/content/registeragent.phtml, line: 147
 msgid "Type the code shown in the image"
 msgstr ""
@@ -13550,14 +13567,17 @@ msgid "Thank you for your question. We are working on finding the best answer fo
 msgstr ""
 #
 # File: module/Application/view/application/content/support.phtml, line: 18
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 18
 msgid "We appreciate your patience and understanding."
 msgstr ""
 #
 # File: module/Application/view/application/content/support.phtml, line: 35
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 35
 msgid "We apologize for the inconvenience. There was an error while submitting the form. Please try again later or contact our support team if the problem persists."
 msgstr ""
 #
 # File: module/Application/view/application/content/support.phtml, line: 36
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 36
 msgid "We value your feedback and we are here to help you."
 msgstr ""
 #
@@ -13928,6 +13948,86 @@ msgstr ""
 # File: module/Application/view/application/booking/details.phtml, line: 325
 # File: module/Application/view/application/agent/reservations.phtml, line: 115
 msgid "Pay Now"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 9
+msgid "Cancel My Trip"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 10
+msgid "Confirmation Request"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 17
+msgid "We have received your cancellation request and acknowledge it. One of our agents will work on it and contact you with further information."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 42
+msgid "Please fill out the information below to request the cancellation of your reservation. Our team will process your request promptly."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 45
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 57
+msgid "Airfare purchased on your behalf by Costamar Travel Cruise & Tours Inc is subject to the airline’s cancellation policies."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 48
+msgid "Standard cancellation fee schedule"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 52
+msgid "The deposit for land services of $150.00 is non-refundable"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 53
+msgid "91 days or more:  Fee is $150 per person"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 54
+#, php-format
+msgid "90 to 61 days prior to departure: 25% of the trip price"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 55
+#, php-format
+msgid "60 to 46 days prior to departure: 50% of the trip price"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 56
+#, php-format
+msgid "45-0 days prior to departure: 100% of the trip price"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 61
+msgid "No refunds will be provided for any unused tour portion once the tour begins, including if you leave a tour for any reason, miss the tour’s departure date, or must be removed from a tour. There are no exceptions to this cancellation and refund policy, including weather, civil strife, personal, family, medical emergencies, or any other circumstances beyond our control. For this reason, we highly recommend that you purchase trip cancellation and interruption insurance."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 64
+msgid "Cruise Cancellation Policy: (Non-Refundable Deposit) If you cancel your reservation after a specific date, you may be subject to cancellation charges. Please see the cancellation policy for the cruise chosen."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 67
+msgid "Flights: Costamar Travel Cruise & Tours Inc, is not responsible for any portion of the trip that is missed due to flight delay or cancellation and/or transfer delay or cancellation."
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 74
+msgid "Reservation Cancellation Request Form"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 81
+msgid "Reservation Number/Record Locator"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 81
+msgid "Please enter the reservation number"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 98
+msgid "Request Cancellation"
+msgstr ""
+#
+# File: module/Application/view/application/booking/cancelmytrip.phtml, line: 146
+msgid "Reservation number is required! Please input reservation number."
 msgstr ""
 #
 # File: module/Application/view/application/destinations/index.phtml, line: 126
