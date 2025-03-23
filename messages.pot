@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-22 09:15-0400\n"
+"POT-Creation-Date: 2025-03-23 15:11-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -619,6 +619,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 74
 # File: module/Application/view/application/agent/reservations.phtml, line: 60
 # File: module/Application/view/application2/index/index.phtml, line: 81
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 67
 msgid "Travelers"
 msgstr ""
 #
@@ -771,7 +772,8 @@ msgstr ""
 # File: module/Application/view/application2/index/index.phtml, line: 77
 # File: module/Application/view/application2/index/index.phtml, line: 83
 # File: module/Application/view/application2/hotels/search.phtml, line: 640
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Adults"
 msgstr ""
@@ -917,7 +919,8 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 459
 # File: module/Application/view/application2/index/index.phtml, line: 87
 # File: module/Application/view/application2/hotels/search.phtml, line: 638
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Children"
 msgstr ""
@@ -1393,8 +1396,10 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 155
 # File: module/Application/view/application/cart/confirm.phtml, line: 162
 # File: module/Application/view/application/quotes/cruises.phtml, line: 20
-# File: module/Application/view/application2/hotels/summary.phtml, line: 116
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 197
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 27
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 63
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Nights"
@@ -1859,7 +1864,6 @@ msgstr ""
 # File: module/Application/view/application/cart/index.phtml, line: 206
 # File: module/Application/view/application/cart/passengers.phtml, line: 864
 # File: module/Application/view/application/booking/paynow.phtml, line: 483
-# File: module/Application/view/application2/hotels/summary.phtml, line: 151
 msgid "CONTINUE"
 msgstr ""
 #
@@ -2302,7 +2306,8 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 620
 # File: module/Application/view/layout/layout.phtml, line: 344
 # File: module/Application/view/application2/hotels/search.phtml, line: 1244
-# File: module/Application/view/application2/hotels/summary.phtml, line: 143
+# File: module/Application/view/application2/hotels/summary.phtml, line: 224
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 56
 # File: module/Application/view/application2/hotels/payment.phtml, line: 90
 msgid "Total"
 msgstr ""
@@ -2842,6 +2847,8 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
+# File: module/Application/view/application2/hotels/summary.phtml, line: 59
+# File: module/Application/view/application2/hotels/summary.phtml, line: 135
 msgid "Title"
 msgstr ""
 #
@@ -2896,6 +2903,8 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
+# File: module/Application/view/application2/hotels/summary.phtml, line: 56
+# File: module/Application/view/application2/hotels/summary.phtml, line: 132
 msgid "Mr"
 msgstr ""
 #
@@ -2923,6 +2932,8 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
+# File: module/Application/view/application2/hotels/summary.phtml, line: 57
+# File: module/Application/view/application2/hotels/summary.phtml, line: 133
 msgid "Ms"
 msgstr ""
 #
@@ -3203,7 +3214,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
 # File: module/Application/view/application/agent/subagent.phtml, line: 51
 # File: module/Application/view/application2/content/registeragent.phtml, line: 87
-# File: module/Application/view/application2/hotels/summary.phtml, line: 75
+# File: module/Application/view/application2/hotels/summary.phtml, line: 108
 msgid "Please select your country"
 msgstr ""
 #
@@ -3235,7 +3246,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
 # File: module/Application/view/application/agent/subagent.phtml, line: 51
 # File: module/Application/view/application2/content/registeragent.phtml, line: 85
-# File: module/Application/view/application2/hotels/summary.phtml, line: 71
+# File: module/Application/view/application2/hotels/summary.phtml, line: 104
 msgid "Select your country"
 msgstr ""
 #
@@ -3703,6 +3714,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 76
 # File: module/Application/view/application/booking/paynow.phtml, line: 125
 # File: module/Application/view/application/booking/paynow.phtml, line: 126
+# File: module/Application/view/application2/hotels/summary.phtml, line: 168
 msgid "Expiration date"
 msgstr ""
 #
@@ -3755,6 +3767,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 133
 # File: module/Application/view/application/cart/index.phtml, line: 201
 # File: module/Application/view/application/cart/passengers.phtml, line: 328
+# File: module/Application/view/application2/hotels/summary.phtml, line: 179
 msgid "Verify code"
 msgstr ""
 #
@@ -4781,6 +4794,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 62
 # File: module/Application/view/application/cart/payment.phtml, line: 72
 # File: module/Application/view/application/booking/paynow.phtml, line: 122
+# File: module/Application/view/application2/hotels/summary.phtml, line: 166
 msgid "Card Number"
 msgstr ""
 #
@@ -4988,6 +5002,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 666
 # File: module/Application/view/application/booking/paynow.phtml, line: 518
 # File: module/Application/view/application/agent/profile.phtml, line: 69
+# File: module/Application/view/application2/hotels/summary.phtml, line: 237
 msgid "Invalid card holder name. You did not enter a valid card holder. Please input credit card holder name."
 msgstr ""
 #
@@ -5005,6 +5020,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 667
 # File: module/Application/view/application/booking/paynow.phtml, line: 519
 # File: module/Application/view/application/agent/profile.phtml, line: 70
+# File: module/Application/view/application2/hotels/summary.phtml, line: 238
 msgid "Invalid credit card number. The credit card number you provided is invalid."
 msgstr ""
 #
@@ -5022,6 +5038,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 668
 # File: module/Application/view/application/booking/paynow.phtml, line: 520
 # File: module/Application/view/application/agent/profile.phtml, line: 71
+# File: module/Application/view/application2/hotels/summary.phtml, line: 239
 msgid "You did not enter a valid security code for the card you provided."
 msgstr ""
 #
@@ -5039,6 +5056,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 669
 # File: module/Application/view/application/booking/paynow.phtml, line: 521
 # File: module/Application/view/application/agent/profile.phtml, line: 72
+# File: module/Application/view/application2/hotels/summary.phtml, line: 240
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
 msgstr ""
 #
@@ -5056,6 +5074,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 670
 # File: module/Application/view/application/booking/paynow.phtml, line: 522
 # File: module/Application/view/application/agent/profile.phtml, line: 73
+# File: module/Application/view/application2/hotels/summary.phtml, line: 241
 msgid "The credit card expiration date you provided is invalid."
 msgstr ""
 #
@@ -5219,6 +5238,7 @@ msgstr ""
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
 # File: module/Application/view/application/agent/addnew.phtml, line: 10
 # File: module/Application/view/application/agent/subagent.phtml, line: 10
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 4
 msgid "Confirmation"
 msgstr ""
 #
@@ -5358,6 +5378,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 203
 # File: module/Application/view/application/cart/confirm.phtml, line: 220
 # File: module/Application/view/application/cart/confirm.phtml, line: 701
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 71
 msgid "First Name:"
 msgstr ""
 #
@@ -5372,6 +5393,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 207
 # File: module/Application/view/application/cart/confirm.phtml, line: 224
 # File: module/Application/view/application/cart/confirm.phtml, line: 702
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 72
 msgid "Last Name:"
 msgstr ""
 #
@@ -6218,7 +6240,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 871
 # File: module/Application/view/application/quotes/air.phtml, line: 451
 # File: module/Application/view/application2/hotels/search.phtml, line: 639
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Adult"
 msgstr ""
@@ -6311,7 +6334,8 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 457
 # File: module/Application/view/application2/hotels/search.phtml, line: 637
 # File: module/Application/view/application2/hotels/info.phtml, line: 613
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Child"
 msgstr ""
@@ -7531,6 +7555,7 @@ msgstr ""
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 44
 # File: module/Application/view/application2/agent/login.phtml, line: 56
 # File: module/Application/view/application2/hotels/info.phtml, line: 632
+# File: module/Application/view/application2/hotels/summary.phtml, line: 347
 msgid "Please wait..."
 msgstr ""
 #
@@ -7774,7 +7799,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 486
 # File: module/Application/view/application/quotes/air.phtml, line: 586
 # File: module/Application/view/application/quotes/air.phtml, line: 596
-# File: module/Application/view/application2/hotels/summary.phtml, line: 128
+# File: module/Application/view/application2/hotels/summary.phtml, line: 209
 # File: module/Application/view/application2/hotels/payment.phtml, line: 75
 msgid "Taxes & Fees"
 msgstr ""
@@ -8517,7 +8542,8 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 147
 # File: module/Application/view/application/hotels/confirm.phtml, line: 74
 # File: module/Application/view/application/cart/confirm.phtml, line: 159
-# File: module/Application/view/application2/hotels/summary.phtml, line: 121
+# File: module/Application/view/application2/hotels/summary.phtml, line: 202
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 31
 # File: module/Application/view/application2/hotels/payment.phtml, line: 68
 msgid "avg./night"
 msgstr ""
@@ -8571,7 +8597,7 @@ msgid "Pay a deposit of your choice (minimum $250 per person) to secure your res
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 146
-# File: module/Application/view/application2/hotels/summary.phtml, line: 120
+# File: module/Application/view/application2/hotels/summary.phtml, line: 201
 # File: module/Application/view/application2/hotels/payment.phtml, line: 67
 msgid "Room Type:"
 msgstr ""
@@ -11451,7 +11477,9 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 148
 # File: module/Application/view/application/cart/confirm.phtml, line: 155
 # File: module/Application/view/application/cart/confirm.phtml, line: 162
-# File: module/Application/view/application2/hotels/summary.phtml, line: 124
+# File: module/Application/view/application2/hotels/summary.phtml, line: 205
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 27
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
 msgid "Night"
 msgstr ""
@@ -11537,7 +11565,7 @@ msgstr ""
 # File: module/Application/view/layout/layout.phtml, line: 297
 # File: module/Application/view/application2/index/index.phtml, line: 36
 # File: module/Application/view/application2/hotels/info.phtml, line: 198
-# File: module/Application/view/application2/hotels/summary.phtml, line: 104
+# File: module/Application/view/application2/hotels/summary.phtml, line: 185
 # File: module/Application/view/application2/hotels/payment.phtml, line: 52
 msgid "Hotel"
 msgstr ""
@@ -11590,14 +11618,14 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 107
 # File: module/Application/view/application/cart/summary.phtml, line: 774
-# File: module/Application/view/application2/hotels/summary.phtml, line: 133
+# File: module/Application/view/application2/hotels/summary.phtml, line: 214
 # File: module/Application/view/application2/hotels/payment.phtml, line: 80
 msgid "Check in:"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 108
 # File: module/Application/view/application/cart/summary.phtml, line: 777
-# File: module/Application/view/application2/hotels/summary.phtml, line: 137
+# File: module/Application/view/application2/hotels/summary.phtml, line: 218
 # File: module/Application/view/application2/hotels/payment.phtml, line: 84
 msgid "Check out:"
 msgstr ""
@@ -16087,6 +16115,117 @@ msgstr ""
 #
 # File: module/Application/view/application2/hotels/info.phtml, line: 333
 msgid "check out date"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 10
+msgid "Review and book"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 28
+msgid "Step 1 - Traveler information"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 54
+# File: module/Application/view/application2/hotels/summary.phtml, line: 55
+# File: module/Application/view/application2/hotels/summary.phtml, line: 130
+# File: module/Application/view/application2/hotels/summary.phtml, line: 131
+msgid "Select title"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 64
+msgid "Please enter Adult's First Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 64
+msgid "Adult's First Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 69
+msgid "Please enter Adult's Last Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 69
+msgid "Adult's Last Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 140
+msgid "Please enter Child's First Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 140
+msgid "Child's First Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 145
+msgid "Please enter Child's Last Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 145
+msgid "Child's Last Name"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 156
+msgid "Step 2 - Payment"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 158
+msgid "Select payment method"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 159
+msgid "Credit Card"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 160
+msgid "Pay with Bitcoin/Cryptocurrencies"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 161
+msgid "Please select payment method"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 164
+msgid "Credit card information"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 167
+msgid "Name on Card"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 168
+msgid "Expires (mm/yy)"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 169
+msgid "Security code (CVV2/CVC2)"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 175
+msgid "Step 3 - Promotional code"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 177
+msgid "Do you have a Promo Code?"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 177
+msgid "Please type your promotional code here"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/summary.phtml, line: 230
+msgid "COMPLETE BOOKING"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 39
+msgid "Taxes & Fees per night"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 45
+msgid "Total due today:"
+msgstr ""
+#
+# File: module/Application/view/application2/hotels/confirm.phtml, line: 50
+msgid "Due at hotel"
 msgstr ""
 #
 # File: module/Application/Templates/resetpassword.phtml, line: 26
