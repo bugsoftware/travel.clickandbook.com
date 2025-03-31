@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-28 15:53-0400\n"
+"POT-Creation-Date: 2025-03-31 08:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -771,6 +771,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 71
 # File: module/Application/view/application/destinations/peru.phtml, line: 76
 # File: module/Application/view/application/quotes/air.phtml, line: 453
+# File: module/Application/view/application/quotes/hotel.phtml, line: 71
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/index/index.phtml, line: 77
 # File: module/Application/view/application2/index/index.phtml, line: 83
 # File: module/Application/view/application2/hotels/search.phtml, line: 640
@@ -925,6 +927,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 872
 # File: module/Application/view/application/destinations/peru.phtml, line: 80
 # File: module/Application/view/application/quotes/air.phtml, line: 459
+# File: module/Application/view/application/quotes/hotel.phtml, line: 71
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/index/index.phtml, line: 87
 # File: module/Application/view/application2/hotels/search.phtml, line: 638
 # File: module/Application/view/application2/hotels/summary.phtml, line: 256
@@ -1408,6 +1412,8 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 155
 # File: module/Application/view/application/cart/confirm.phtml, line: 162
 # File: module/Application/view/application/quotes/cruises.phtml, line: 20
+# File: module/Application/view/application/quotes/hotel.phtml, line: 190
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/hotels/summary.phtml, line: 248
 # File: module/Application/view/application2/hotels/summary.phtml, line: 256
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 27
@@ -1631,6 +1637,8 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 869
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 184
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 209
+# File: module/Application/view/application/quotes/hotel.phtml, line: 36
+# File: module/Application/view/application/quotes/hotel.phtml, line: 41
 msgid "Day"
 msgstr ""
 #
@@ -1692,8 +1700,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 1179
 # File: module/Application/view/application/hotels/info.phtml, line: 1219
 # File: module/Application/view/application/hotels/payment.phtml, line: 538
-# File: module/Application/view/application/hotels/summary.phtml, line: 399
-# File: module/Application/view/application/hotels/summary.phtml, line: 424
+# File: module/Application/view/application/hotels/summary.phtml, line: 441
+# File: module/Application/view/application/hotels/summary.phtml, line: 466
+# File: module/Application/view/application/hotels/summary.phtml, line: 573
 # File: module/Application/view/application/transfers/search.phtml, line: 298
 # File: module/Application/view/application/transfers/search.phtml, line: 310
 # File: module/Application/view/application/transfers/summary.phtml, line: 446
@@ -2318,6 +2327,19 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 538
 # File: module/Application/view/application/quotes/air.phtml, line: 568
 # File: module/Application/view/application/quotes/air.phtml, line: 620
+# File: module/Application/view/application/quotes/hotel.phtml, line: 207
+# File: module/Application/view/application/quotes/hotel.phtml, line: 212
+# File: module/Application/view/application/quotes/hotel.phtml, line: 223
+# File: module/Application/view/application/quotes/hotel.phtml, line: 241
+# File: module/Application/view/application/quotes/hotel.phtml, line: 258
+# File: module/Application/view/application/quotes/hotel.phtml, line: 263
+# File: module/Application/view/application/quotes/hotel.phtml, line: 270
+# File: module/Application/view/application/quotes/hotel.phtml, line: 283
+# File: module/Application/view/application/quotes/hotel.phtml, line: 287
+# File: module/Application/view/application/quotes/hotel.phtml, line: 294
+# File: module/Application/view/application/quotes/hotel.phtml, line: 311
+# File: module/Application/view/application/quotes/hotel.phtml, line: 318
+# File: module/Application/view/application/quotes/hotel.phtml, line: 331
 # File: module/Application/view/layout/layout.phtml, line: 344
 # File: module/Application/view/application2/hotels/search.phtml, line: 1244
 # File: module/Application/view/application2/hotels/summary.phtml, line: 287
@@ -2411,6 +2433,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 7
 # File: module/Application/view/application/booking/paynow.phtml, line: 14
 # File: module/Application/view/application/quotes/air.phtml, line: 39
+# File: module/Application/view/application/quotes/hotel.phtml, line: 6
 msgid "Summary"
 msgstr ""
 #
@@ -2502,6 +2525,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 882
 # File: module/Application/view/application/booking/details.phtml, line: 59
 # File: module/Application/view/application/quotes/air.phtml, line: 98
+# File: module/Application/view/application/quotes/hotel.phtml, line: 69
 msgid "TRAVELERS"
 msgstr ""
 #
@@ -2560,6 +2584,8 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1120
 # File: module/Application/view/application/cart/confirm.phtml, line: 778
 # File: module/Application/view/application/quotes/air.phtml, line: 405
+# File: module/Application/view/application/quotes/hotel.phtml, line: 165
+# File: module/Application/view/application/quotes/hotel.phtml, line: 176
 msgid "Total:"
 msgstr ""
 #
@@ -2763,8 +2789,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 860
 # File: module/Application/view/application/hotels/info.phtml, line: 1042
 # File: module/Application/view/application/hotels/confirm.phtml, line: 223
-# File: module/Application/view/application/hotels/summary.phtml, line: 373
-# File: module/Application/view/application/hotels/summary.phtml, line: 386
+# File: module/Application/view/application/hotels/summary.phtml, line: 376
+# File: module/Application/view/application/hotels/summary.phtml, line: 389
+# File: module/Application/view/application/hotels/summary.phtml, line: 400
+# File: module/Application/view/application/hotels/summary.phtml, line: 428
 # File: module/Application/view/application/hotels/brands.phtml, line: 336
 # File: module/Application/view/application/transfers/confirm.phtml, line: 274
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
@@ -3817,6 +3845,8 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 525
 # File: module/Application/view/application/booking/paynow.phtml, line: 363
 # File: module/Application/view/application/quotes/air.phtml, line: 614
+# File: module/Application/view/application/quotes/hotel.phtml, line: 249
+# File: module/Application/view/application/quotes/hotel.phtml, line: 302
 msgid "Insurance"
 msgstr ""
 #
@@ -6035,6 +6065,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 41
 # File: module/Application/view/application/trip-planner/select.phtml, line: 553
 # File: module/Application/view/application/destinations/index.phtml, line: 866
+# File: module/Application/view/application/quotes/hotel.phtml, line: 193
 # File: module/Application/view/application2/hotels/search.phtml, line: 636
 msgid "Rooms"
 msgstr ""
@@ -6286,6 +6317,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 233
 # File: module/Application/view/application/destinations/index.phtml, line: 871
 # File: module/Application/view/application/quotes/air.phtml, line: 451
+# File: module/Application/view/application/quotes/hotel.phtml, line: 71
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/hotels/search.phtml, line: 639
 # File: module/Application/view/application2/hotels/summary.phtml, line: 256
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 34
@@ -6383,6 +6416,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 71
 # File: module/Application/view/application/destinations/peru.phtml, line: 683
 # File: module/Application/view/application/quotes/air.phtml, line: 457
+# File: module/Application/view/application/quotes/hotel.phtml, line: 71
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/hotels/search.phtml, line: 637
 # File: module/Application/view/application2/hotels/info.phtml, line: 625
 # File: module/Application/view/application2/hotels/summary.phtml, line: 256
@@ -7857,6 +7892,13 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 486
 # File: module/Application/view/application/quotes/air.phtml, line: 586
 # File: module/Application/view/application/quotes/air.phtml, line: 596
+# File: module/Application/view/application/quotes/hotel.phtml, line: 200
+# File: module/Application/view/application/quotes/hotel.phtml, line: 230
+# File: module/Application/view/application/quotes/hotel.phtml, line: 234
+# File: module/Application/view/application/quotes/hotel.phtml, line: 253
+# File: module/Application/view/application/quotes/hotel.phtml, line: 278
+# File: module/Application/view/application/quotes/hotel.phtml, line: 306
+# File: module/Application/view/application/quotes/hotel.phtml, line: 326
 # File: module/Application/view/application2/hotels/summary.phtml, line: 279
 # File: module/Application/view/application2/hotels/payment.phtml, line: 75
 msgid "Taxes & Fees"
@@ -8693,7 +8735,7 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 289
 # File: module/Application/view/application/air/summary.phtml, line: 877
-# File: module/Application/view/application/hotels/summary.phtml, line: 387
+# File: module/Application/view/application/hotels/summary.phtml, line: 390
 # File: module/Application/view/application/login/register.phtml, line: 73
 # File: module/Application/view/application/packages/summary.phtml, line: 319
 # File: module/Application/view/application/cart/summary.phtml, line: 1536
@@ -9962,6 +10004,7 @@ msgstr ""
 # File: module/Application/view/application/packages/summary.phtml, line: 94
 # File: module/Application/view/application/cart/summary.phtml, line: 1087
 # File: module/Application/view/application/quotes/air.phtml, line: 370
+# File: module/Application/view/application/quotes/hotel.phtml, line: 128
 msgid "We've made it easy for you to get insurance coverage!"
 msgstr ""
 #
@@ -9970,12 +10013,14 @@ msgstr ""
 # File: module/Application/view/application/packages/summary.phtml, line: 96
 # File: module/Application/view/application/cart/summary.phtml, line: 1089
 # File: module/Application/view/application/quotes/air.phtml, line: 372
+# File: module/Application/view/application/quotes/hotel.phtml, line: 130
 msgid "coverage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 372
 # File: module/Application/view/application/hotels/summary.phtml, line: 151
 # File: module/Application/view/application/cart/summary.phtml, line: 1091
+# File: module/Application/view/application/quotes/hotel.phtml, line: 133
 msgid "view sample description of coverage"
 msgstr ""
 #
@@ -9984,6 +10029,7 @@ msgstr ""
 # File: module/Application/view/application/packages/summary.phtml, line: 102
 # File: module/Application/view/application/cart/summary.phtml, line: 1096
 # File: module/Application/view/application/quotes/air.phtml, line: 378
+# File: module/Application/view/application/quotes/hotel.phtml, line: 139
 msgid "REMOVE"
 msgstr ""
 #
@@ -9992,30 +10038,35 @@ msgstr ""
 # File: module/Application/view/application/packages/summary.phtml, line: 103
 # File: module/Application/view/application/cart/summary.phtml, line: 1097
 # File: module/Application/view/application/quotes/air.phtml, line: 379
+# File: module/Application/view/application/quotes/hotel.phtml, line: 140
 msgid "ADD"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 388
 # File: module/Application/view/application/hotels/summary.phtml, line: 167
 # File: module/Application/view/application/cart/summary.phtml, line: 1107
+# File: module/Application/view/application/quotes/hotel.phtml, line: 152
 msgid "The Generali Global Assistance plan cost includes the travel insurance premium and assistance service fee. Travel insurance coverages in the Generali Global Assistance plan are underwritten by: Generali U.S. Branch, New York, NY; NAIC # 11231, for the operating name used in certain states, and other important information about the Generali Global Assistance Travel Insurance & Assistance Services Plan,"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 388
 # File: module/Application/view/application/hotels/summary.phtml, line: 167
 # File: module/Application/view/application/cart/summary.phtml, line: 1107
+# File: module/Application/view/application/quotes/hotel.phtml, line: 152
 msgid "please see"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 388
 # File: module/Application/view/application/hotels/summary.phtml, line: 167
 # File: module/Application/view/application/cart/summary.phtml, line: 1107
+# File: module/Application/view/application/quotes/hotel.phtml, line: 152
 msgid "Important Disclosures,"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 388
 # File: module/Application/view/application/hotels/summary.phtml, line: 167
 # File: module/Application/view/application/cart/summary.phtml, line: 1107
+# File: module/Application/view/application/quotes/hotel.phtml, line: 152
 msgid "Terms and Conditions, and Assistance Service pricing."
 msgstr ""
 #
@@ -10182,6 +10233,10 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 479
 # File: module/Application/view/application/quotes/air.phtml, line: 574
 # File: module/Application/view/application/quotes/air.phtml, line: 579
+# File: module/Application/view/application/quotes/hotel.phtml, line: 245
+# File: module/Application/view/application/quotes/hotel.phtml, line: 274
+# File: module/Application/view/application/quotes/hotel.phtml, line: 298
+# File: module/Application/view/application/quotes/hotel.phtml, line: 322
 msgid "Base Price"
 msgstr ""
 #
@@ -10258,6 +10313,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 816
 # File: module/Application/view/application/cart/payment.phtml, line: 488
 # File: module/Application/view/application/quotes/air.phtml, line: 534
+# File: module/Application/view/application/quotes/hotel.phtml, line: 219
 msgid "Insurance travel protection"
 msgstr ""
 #
@@ -10343,6 +10399,7 @@ msgid "ADD SERVICE FEE"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 657
+# File: module/Application/view/application/hotels/summary.phtml, line: 361
 # File: module/Application/view/application/quotes/air.phtml, line: 647
 msgid "SEND QUOTE"
 msgstr ""
@@ -10369,8 +10426,8 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 858
 # File: module/Application/view/application/air/summary.phtml, line: 862
-# File: module/Application/view/application/hotels/summary.phtml, line: 368
-# File: module/Application/view/application/hotels/summary.phtml, line: 372
+# File: module/Application/view/application/hotels/summary.phtml, line: 371
+# File: module/Application/view/application/hotels/summary.phtml, line: 375
 # File: module/Application/view/application/packages/summary.phtml, line: 302
 # File: module/Application/view/application/packages/summary.phtml, line: 306
 # File: module/Application/view/application/cart/summary.phtml, line: 1518
@@ -10381,14 +10438,14 @@ msgid "Add Service Fee"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 867
-# File: module/Application/view/application/hotels/summary.phtml, line: 377
+# File: module/Application/view/application/hotels/summary.phtml, line: 380
 # File: module/Application/view/application/cart/summary.phtml, line: 1527
 # File: module/Application/view/application/quotes/air.phtml, line: 858
 msgid "Notice: The maximum service charge applicable is $200.00. Charges exceeding this amount are not permitted and will not be processed. Please ensure your request complies with this limit."
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 868
-# File: module/Application/view/application/hotels/summary.phtml, line: 378
+# File: module/Application/view/application/hotels/summary.phtml, line: 381
 # File: module/Application/view/application/quotes/air.phtml, line: 859
 #, php-format
 msgid "Notice: In accordance with our pricing policy, the service fee for each booking is strictly limited to a maximum of 10% of the total booking value. For example, if the total booking amount is $100, the service fee can't be more than $10."
@@ -10398,7 +10455,8 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 905
 # File: module/Application/view/application/air/confirm.phtml, line: 389
 # File: module/Application/view/application/hotels/confirm.phtml, line: 212
-# File: module/Application/view/application/hotels/summary.phtml, line: 380
+# File: module/Application/view/application/hotels/summary.phtml, line: 383
+# File: module/Application/view/application/hotels/summary.phtml, line: 418
 # File: module/Application/view/application/packages/summary.phtml, line: 312
 # File: module/Application/view/application/packages/confirm.phtml, line: 166
 # File: module/Application/view/application/cart/summary.phtml, line: 1529
@@ -10409,52 +10467,63 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 882
 # File: module/Application/view/application/air/summary.phtml, line: 886
+# File: module/Application/view/application/hotels/summary.phtml, line: 395
+# File: module/Application/view/application/hotels/summary.phtml, line: 399
 # File: module/Application/view/application/quotes/air.phtml, line: 873
 # File: module/Application/view/application/quotes/air.phtml, line: 877
 msgid "Send Quote"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 891
+# File: module/Application/view/application/hotels/summary.phtml, line: 404
 # File: module/Application/view/application/quotes/air.phtml, line: 882
 msgid "Customer Name Required! Please enter the customer's name before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 892
+# File: module/Application/view/application/hotels/summary.phtml, line: 405
 # File: module/Application/view/application/quotes/air.phtml, line: 883
 msgid "Customer Phone Required! Please enter the customer's phone number before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 893
+# File: module/Application/view/application/hotels/summary.phtml, line: 406
 # File: module/Application/view/application/quotes/air.phtml, line: 884
 msgid "Email Address Required! Please enter the customer's email address before submitting the form. This field is mandatory."
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 894
+# File: module/Application/view/application/hotels/summary.phtml, line: 407
 # File: module/Application/view/application/quotes/air.phtml, line: 885
 msgid "Quote Not Sent! The quote has not been sent to the customer. Please check the details and try again.."
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 896
+# File: module/Application/view/application/hotels/summary.phtml, line: 409
 # File: module/Application/view/application/quotes/air.phtml, line: 887
 msgid "Customer Name:"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 900
+# File: module/Application/view/application/hotels/summary.phtml, line: 413
 # File: module/Application/view/application/quotes/air.phtml, line: 891
 msgid "Phone Number:"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 901
+# File: module/Application/view/application/hotels/summary.phtml, line: 414
 # File: module/Application/view/application/quotes/air.phtml, line: 892
 msgid "Country Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 901
+# File: module/Application/view/application/hotels/summary.phtml, line: 414
 # File: module/Application/view/application/quotes/air.phtml, line: 892
 msgid "Select Country Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 909
+# File: module/Application/view/application/hotels/summary.phtml, line: 422
 # File: module/Application/view/application/quotes/air.phtml, line: 896
 msgid "Email Address:"
 msgstr ""
@@ -10462,6 +10531,9 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 916
 # File: module/Application/view/application/air/summary.phtml, line: 1044
 # File: module/Application/view/application/air/summary.phtml, line: 1049
+# File: module/Application/view/application/hotels/summary.phtml, line: 429
+# File: module/Application/view/application/hotels/summary.phtml, line: 588
+# File: module/Application/view/application/hotels/summary.phtml, line: 593
 # File: module/Application/view/application/quotes/air.phtml, line: 903
 # File: module/Application/view/application/quotes/air.phtml, line: 1027
 # File: module/Application/view/application/quotes/air.phtml, line: 1032
@@ -11427,6 +11499,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 725
 # File: module/Application/view/application/cart/payment.phtml, line: 325
 # File: module/Application/view/application/cart/confirm.phtml, line: 236
+# File: module/Application/view/application/quotes/hotel.phtml, line: 92
 # File: module/Application/view/application2/hotels/info.phtml, line: 442
 msgid "Non Refundable"
 msgstr ""
@@ -11552,6 +11625,8 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 148
 # File: module/Application/view/application/cart/confirm.phtml, line: 155
 # File: module/Application/view/application/cart/confirm.phtml, line: 162
+# File: module/Application/view/application/quotes/hotel.phtml, line: 190
+# File: module/Application/view/application/quotes/hotel.phtml, line: 196
 # File: module/Application/view/application2/hotels/summary.phtml, line: 256
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 27
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 34
@@ -11571,6 +11646,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1283
 # File: module/Application/view/application/cart/passengers.phtml, line: 748
 # File: module/Application/view/application/cart/payment.phtml, line: 420
+# File: module/Application/view/application/quotes/hotel.phtml, line: 193
 msgid "Room:"
 msgstr ""
 #
@@ -11594,6 +11670,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 307
 # File: module/Application/view/application/hotels/summary.phtml, line: 116
 # File: module/Application/view/application/cart/summary.phtml, line: 786
+# File: module/Application/view/application/quotes/hotel.phtml, line: 98
 msgid "You will incur in expenses/charges from"
 msgstr ""
 #
@@ -11684,21 +11761,25 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 92
 # File: module/Application/view/application/cart/summary.phtml, line: 757
+# File: module/Application/view/application/quotes/hotel.phtml, line: 61
 msgid "NIGHTS"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 94
 # File: module/Application/view/application/packages/summary.phtml, line: 57
+# File: module/Application/view/application/quotes/hotel.phtml, line: 65
 msgid "DATES"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 102
 # File: module/Application/view/application/cart/summary.phtml, line: 768
+# File: module/Application/view/application/quotes/hotel.phtml, line: 74
 msgid "ROOM TYPE"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 107
 # File: module/Application/view/application/cart/summary.phtml, line: 774
+# File: module/Application/view/application/quotes/hotel.phtml, line: 81
 # File: module/Application/view/application2/hotels/summary.phtml, line: 260
 # File: module/Application/view/application2/hotels/payment.phtml, line: 80
 msgid "Check in:"
@@ -11706,6 +11787,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 108
 # File: module/Application/view/application/cart/summary.phtml, line: 777
+# File: module/Application/view/application/quotes/hotel.phtml, line: 85
 # File: module/Application/view/application2/hotels/summary.phtml, line: 264
 # File: module/Application/view/application2/hotels/payment.phtml, line: 84
 msgid "Check out:"
