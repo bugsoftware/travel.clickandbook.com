@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-09 07:46-0400\n"
+"POT-Creation-Date: 2025-04-09 09:28-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9791,8 +9791,10 @@ msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1065
 # File: module/Application/view/application/air/search.phtml, line: 1701
+# File: module/Application/view/application/air/search.phtml, line: 1707
 # File: module/Application/view/application/air/return.phtml, line: 727
 # File: module/Application/view/application/air/return.phtml, line: 961
+# File: module/Application/view/application/air/return.phtml, line: 966
 # File: module/Application/view/application/air/summary.phtml, line: 233
 # File: module/Application/view/application/air/confirm.phtml, line: 272
 # File: module/Application/view/application/air/segment.phtml, line: 358
@@ -9805,9 +9807,7 @@ msgid "Checked In Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1068
-# File: module/Application/view/application/air/search.phtml, line: 1707
 # File: module/Application/view/application/air/return.phtml, line: 730
-# File: module/Application/view/application/air/return.phtml, line: 966
 # File: module/Application/view/application/air/segment.phtml, line: 361
 # File: module/Application/view/application/air/segment.phtml, line: 529
 msgid "Checked In Baggage:"
@@ -9937,11 +9937,8 @@ msgid "Baggage fees reflect the airline's standard fees based on the selected fa
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1687
-# File: module/Application/view/application/air/return.phtml, line: 743
 # File: module/Application/view/application/air/return.phtml, line: 951
-# File: module/Application/view/application/air/segment.phtml, line: 374
-# File: module/Application/view/application/air/segment.phtml, line: 517
-msgid "Carry On Baggage:"
+msgid "Carry On Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1815
@@ -9981,6 +9978,12 @@ msgstr ""
 #
 # File: module/Application/view/application/air/return.phtml, line: 613
 msgid "return price"
+msgstr ""
+#
+# File: module/Application/view/application/air/return.phtml, line: 743
+# File: module/Application/view/application/air/segment.phtml, line: 374
+# File: module/Application/view/application/air/segment.phtml, line: 517
+msgid "Carry On Baggage:"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 80
