@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-10 06:54-0400\n"
+"POT-Creation-Date: 2025-04-10 08:44-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9795,6 +9795,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 1703
 # File: module/Application/view/application/air/search.phtml, line: 1709
 # File: module/Application/view/application/air/return.phtml, line: 727
+# File: module/Application/view/application/air/return.phtml, line: 730
 # File: module/Application/view/application/air/return.phtml, line: 963
 # File: module/Application/view/application/air/return.phtml, line: 968
 # File: module/Application/view/application/air/summary.phtml, line: 233
@@ -9809,7 +9810,6 @@ msgid "Checked In Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1068
-# File: module/Application/view/application/air/return.phtml, line: 730
 # File: module/Application/view/application/air/segment.phtml, line: 361
 # File: module/Application/view/application/air/segment.phtml, line: 529
 msgid "Checked In Baggage:"
@@ -9843,7 +9843,9 @@ msgid "Aprox."
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1072
+# File: module/Application/view/application/air/search.phtml, line: 1075
 # File: module/Application/view/application/air/return.phtml, line: 734
+# File: module/Application/view/application/air/return.phtml, line: 737
 # File: module/Application/view/application/air/summary.phtml, line: 241
 # File: module/Application/view/application/air/confirm.phtml, line: 280
 # File: module/Application/view/application/air/segment.phtml, line: 365
@@ -9854,15 +9856,12 @@ msgstr ""
 msgid "Second Checked In Baggage"
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 1075
-# File: module/Application/view/application/air/return.phtml, line: 737
-# File: module/Application/view/application/air/segment.phtml, line: 368
-msgid "Second Checked In Baggage:"
-msgstr ""
-#
 # File: module/Application/view/application/air/search.phtml, line: 1079
+# File: module/Application/view/application/air/search.phtml, line: 1082
 # File: module/Application/view/application/air/search.phtml, line: 1684
+# File: module/Application/view/application/air/search.phtml, line: 1689
 # File: module/Application/view/application/air/return.phtml, line: 741
+# File: module/Application/view/application/air/return.phtml, line: 743
 # File: module/Application/view/application/air/return.phtml, line: 948
 # File: module/Application/view/application/air/summary.phtml, line: 225
 # File: module/Application/view/application/air/confirm.phtml, line: 264
@@ -9873,10 +9872,6 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1000
 # File: module/Application/view/application/quotes/air.phtml, line: 217
 msgid "Carry on Baggage"
-msgstr ""
-#
-# File: module/Application/view/application/air/search.phtml, line: 1082
-msgid "Carry on Baggage:"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 1087
@@ -9938,11 +9933,6 @@ msgstr ""
 msgid "Baggage fees reflect the airline's standard fees based on the selected fare class. Fees may vary based on size and weight restrictions as well as loyalty programs and other promotions."
 msgstr ""
 #
-# File: module/Application/view/application/air/search.phtml, line: 1689
-# File: module/Application/view/application/air/return.phtml, line: 953
-msgid "Carry On Baggage"
-msgstr ""
-#
 # File: module/Application/view/application/air/search.phtml, line: 1817
 # File: module/Application/view/application/air/return.phtml, line: 1368
 # File: module/Application/view/application/air/ancillary.phtml, line: 108
@@ -9982,10 +9972,8 @@ msgstr ""
 msgid "return price"
 msgstr ""
 #
-# File: module/Application/view/application/air/return.phtml, line: 743
-# File: module/Application/view/application/air/segment.phtml, line: 374
-# File: module/Application/view/application/air/segment.phtml, line: 517
-msgid "Carry On Baggage:"
+# File: module/Application/view/application/air/return.phtml, line: 953
+msgid "Carry On Baggage"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 80
@@ -10871,6 +10859,15 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 490
 # File: module/Application/view/application/air/confirm.phtml, line: 504
 msgid "Ticket :"
+msgstr ""
+#
+# File: module/Application/view/application/air/segment.phtml, line: 368
+msgid "Second Checked In Baggage:"
+msgstr ""
+#
+# File: module/Application/view/application/air/segment.phtml, line: 374
+# File: module/Application/view/application/air/segment.phtml, line: 517
+msgid "Carry On Baggage:"
 msgstr ""
 #
 # File: module/Application/view/application/air/seating.phtml, line: 40
