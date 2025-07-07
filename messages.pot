@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-06 13:31-0400\n"
+"POT-Creation-Date: 2025-07-07 11:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -436,19 +436,19 @@ msgstr ""
 msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, hotels, and vacation packages. Limited-time only!"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 409
-# File: module/Application/src/Controller/BookingController.php, line: 410
+# File: module/Application/src/Controller/BookingController.php, line: 516
+# File: module/Application/src/Controller/BookingController.php, line: 517
 # File: module/Application/view/application/booking/details.phtml, line: 289
 msgid "Reservation Details"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 502
-# File: module/Application/src/Controller/BookingController.php, line: 977
+# File: module/Application/src/Controller/BookingController.php, line: 609
+# File: module/Application/src/Controller/BookingController.php, line: 1084
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 503
-# File: module/Application/src/Controller/BookingController.php, line: 978
+# File: module/Application/src/Controller/BookingController.php, line: 610
+# File: module/Application/src/Controller/BookingController.php, line: 1085
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -5383,6 +5383,7 @@ msgstr ""
 # File: module/Application/view/application/content/support.phtml, line: 10
 # File: module/Application/view/application/content/contactus.phtml, line: 10
 # File: module/Application/view/application/content/offlinequote.phtml, line: 10
+# File: module/Application/view/application/booking/managereservation.phtml, line: 7
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
 # File: module/Application/view/application/agent/addnew.phtml, line: 10
 # File: module/Application/view/application/agent/subagent.phtml, line: 10
@@ -7743,6 +7744,7 @@ msgstr ""
 # File: module/Application/view/application/booking/pay.phtml, line: 269
 # File: module/Application/view/application/booking/index.phtml, line: 269
 # File: module/Application/view/application/booking/info.phtml, line: 269
+# File: module/Application/view/application/booking/managereservation.phtml, line: 99
 # File: module/Application/view/application/destinations/peru.phtml, line: 586
 # File: module/Application/view/application/agent/login.phtml, line: 102
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 101
@@ -12911,6 +12913,7 @@ msgstr ""
 #
 # File: module/Application/view/application/login/index.phtml, line: 28
 # File: module/Application/view/application/login/signout.phtml, line: 25
+# File: module/Application/view/application/booking/managereservation.phtml, line: 64
 # File: module/Application/view/application/agent/index.phtml, line: 126
 # File: module/Application/view/application/agent/login.phtml, line: 27
 # File: module/Application/view/application/agent/addnew.phtml, line: 20
@@ -12943,6 +12946,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 90
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 66
 # File: module/Application/view/application/login/signout.phtml, line: 87
+# File: module/Application/view/application/booking/managereservation.phtml, line: 84
 # File: module/Application/view/application/agent/login.phtml, line: 89
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 86
 msgid "Email is required! Please input your email address."
@@ -12951,6 +12955,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 97
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 73
 # File: module/Application/view/application/login/signout.phtml, line: 94
+# File: module/Application/view/application/booking/managereservation.phtml, line: 91
 # File: module/Application/view/application/agent/login.phtml, line: 96
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 93
 msgid "Password is required! Please input your password."
@@ -12999,16 +13004,19 @@ msgid "Forgot Password"
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 15
+# File: module/Application/view/application/booking/managereservation.phtml, line: 28
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 28
 msgid "We will email you a link and instructions for updating your password. Please check your email and click the link in the message. It should be there momentarily. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 21
+# File: module/Application/view/application/booking/managereservation.phtml, line: 40
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 40
 msgid "There was a problem processing your request. Please Try again."
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 27
+# File: module/Application/view/application/booking/managereservation.phtml, line: 46
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 46
 msgid "A temporary password will be sent to the email address you have provided. Please log in with the temporary password and change it to a password of your choice as soon as possible. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
 msgstr ""
@@ -14955,6 +14963,50 @@ msgstr ""
 msgid "Reservation number is required! Please input reservation number."
 msgstr ""
 #
+# File: module/Application/view/application/booking/managereservation.phtml, line: 6
+msgid "Validate Your Identity"
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 15
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 15
+msgid "We're sorry, but you cannot reset your password because your account is currently disabled. Please contact our customer support team or your account executive for assistance."
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 21
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 21
+msgid "We're sorry, but you cannot reset your password because your account is currently under review. An account executive will get back to you with further details once the review is complete."
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 31
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 31
+msgid "If you haven't received the email in your inbox, we kindly ask you to check your spam or junk mail folder. It's possible that the email we sent has been mistakenly filtered there."
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 34
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 34
+msgid "To ensure future emails from us arrive in your inbox, please add our email address to your contacts or safe sender list."
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 51
+msgid "We've sent a 6-digit validation code to your mobile number ending in"
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 52
+msgid "Please enter the code below to continue managing your reservation."
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 55
+msgid "Verify Your Booking"
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 59
+msgid "Validation Code"
+msgstr ""
+#
+# File: module/Application/view/application/booking/managereservation.phtml, line: 59
+msgid "Enter code"
+msgstr ""
+#
 # File: module/Application/view/application/destinations/index.phtml, line: 126
 # File: module/Application/view/offers/lastminute/index.phtml, line: 8095
 # File: translate-dummy.php, line: 10
@@ -15506,22 +15558,6 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 113
 # File: module/Application/view/layout/layout.phtml, line: 369
 msgid "Log off"
-msgstr ""
-#
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 15
-msgid "We're sorry, but you cannot reset your password because your account is currently disabled. Please contact our customer support team or your account executive for assistance."
-msgstr ""
-#
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 21
-msgid "We're sorry, but you cannot reset your password because your account is currently under review. An account executive will get back to you with further details once the review is complete."
-msgstr ""
-#
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 31
-msgid "If you haven't received the email in your inbox, we kindly ask you to check your spam or junk mail folder. It's possible that the email we sent has been mistakenly filtered there."
-msgstr ""
-#
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 34
-msgid "To ensure future emails from us arrive in your inbox, please add our email address to your contacts or safe sender list."
 msgstr ""
 #
 # File: module/Application/view/application/agent/agents.phtml, line: 26
