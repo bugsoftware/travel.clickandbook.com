@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-08 12:34-0400\n"
+"POT-Creation-Date: 2025-07-08 15:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3410
-# File: module/Application/src/Controller/CartController.php, line: 2300
+# File: module/Application/src/Controller/CartController.php, line: 2302
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2313
+# File: module/Application/src/Controller/CartController.php, line: 2315
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 741
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 409
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 259
@@ -32,12 +32,12 @@ msgid "Cancel on or after"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2313
+# File: module/Application/src/Controller/CartController.php, line: 2315
 msgid "will incur in"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2313
+# File: module/Application/src/Controller/CartController.php, line: 2315
 msgid "penalty."
 msgstr ""
 #
@@ -436,19 +436,19 @@ msgstr ""
 msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, hotels, and vacation packages. Limited-time only!"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 764
-# File: module/Application/src/Controller/BookingController.php, line: 765
+# File: module/Application/src/Controller/BookingController.php, line: 776
+# File: module/Application/src/Controller/BookingController.php, line: 777
 # File: module/Application/view/application/booking/details.phtml, line: 296
 msgid "Reservation Details"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 857
-# File: module/Application/src/Controller/BookingController.php, line: 1332
+# File: module/Application/src/Controller/BookingController.php, line: 869
+# File: module/Application/src/Controller/BookingController.php, line: 1344
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 858
-# File: module/Application/src/Controller/BookingController.php, line: 1333
+# File: module/Application/src/Controller/BookingController.php, line: 870
+# File: module/Application/src/Controller/BookingController.php, line: 1345
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
@@ -498,7 +498,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 115
 # File: module/Application/view/application/insurances/search.phtml, line: 97
 # File: module/Application/view/application/packages/index.phtml, line: 71
-# File: module/Application/view/application/cart/summary.phtml, line: 191
+# File: module/Application/view/application/cart/summary.phtml, line: 187
 # File: module/Application/view/application/cart/summary.phtml, line: 450
 # File: module/Application/view/application/cart/summary.phtml, line: 1000
 # File: module/Application/view/application/content/groups.phtml, line: 60
@@ -750,7 +750,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
 # File: module/Application/view/application/trip-planner/select.phtml, line: 549
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 30
-# File: module/Application/view/application/cart/summary.phtml, line: 81
+# File: module/Application/view/application/cart/summary.phtml, line: 77
 # File: module/Application/view/application/cart/summary.phtml, line: 305
 # File: module/Application/view/application/cart/summary.phtml, line: 690
 # File: module/Application/view/application/cart/summary.phtml, line: 772
@@ -910,7 +910,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 37
 # File: module/Application/view/application/trip-planner/select.phtml, line: 551
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 35
-# File: module/Application/view/application/cart/summary.phtml, line: 81
+# File: module/Application/view/application/cart/summary.phtml, line: 77
 # File: module/Application/view/application/cart/summary.phtml, line: 305
 # File: module/Application/view/application/cart/summary.phtml, line: 690
 # File: module/Application/view/application/cart/summary.phtml, line: 772
@@ -1600,7 +1600,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 159
 # File: module/Application/view/application/air/seating.phtml, line: 364
 # File: module/Application/view/application/cart/summary.phtml, line: 74
-# File: module/Application/view/application/cart/summary.phtml, line: 292
+# File: module/Application/view/application/cart/summary.phtml, line: 288
 # File: module/Application/view/application/cart/summary.phtml, line: 891
 # File: module/Application/view/application/quotes/air.phtml, line: 94
 msgid "FROM"
@@ -1655,8 +1655,8 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 222
 # File: module/Application/view/application/cart/summary.phtml, line: 59
 # File: module/Application/view/application/cart/summary.phtml, line: 64
-# File: module/Application/view/application/cart/summary.phtml, line: 274
-# File: module/Application/view/application/cart/summary.phtml, line: 279
+# File: module/Application/view/application/cart/summary.phtml, line: 270
+# File: module/Application/view/application/cart/summary.phtml, line: 275
 # File: module/Application/view/application/cart/summary.phtml, line: 733
 # File: module/Application/view/application/cart/summary.phtml, line: 741
 # File: module/Application/view/application/cart/summary.phtml, line: 876
@@ -1741,9 +1741,9 @@ msgstr ""
 # File: module/Application/view/application/packages/summary.phtml, line: 331
 # File: module/Application/view/application/packages/summary.phtml, line: 356
 # File: module/Application/view/application/packages/payment.phtml, line: 438
-# File: module/Application/view/application/cart/summary.phtml, line: 1581
-# File: module/Application/view/application/cart/summary.phtml, line: 1595
-# File: module/Application/view/application/cart/summary.phtml, line: 1605
+# File: module/Application/view/application/cart/summary.phtml, line: 1582
+# File: module/Application/view/application/cart/summary.phtml, line: 1596
+# File: module/Application/view/application/cart/summary.phtml, line: 1606
 # File: module/Application/view/application/cart/payment.phtml, line: 856
 # File: module/Application/view/application/booking/paynow.phtml, line: 712
 # File: module/Application/view/application/destinations/index.phtml, line: 901
@@ -2543,8 +2543,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary.phtml, line: 236
 # File: module/Application/view/application/insurances/summary.phtml, line: 62
 # File: module/Application/view/application/packages/summary.phtml, line: 61
-# File: module/Application/view/application/cart/summary.phtml, line: 81
-# File: module/Application/view/application/cart/summary.phtml, line: 304
+# File: module/Application/view/application/cart/summary.phtml, line: 77
+# File: module/Application/view/application/cart/summary.phtml, line: 300
 # File: module/Application/view/application/cart/summary.phtml, line: 690
 # File: module/Application/view/application/cart/summary.phtml, line: 765
 # File: module/Application/view/application/cart/summary.phtml, line: 844
@@ -2564,7 +2564,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 118
 # File: module/Application/view/application/air/confirm.phtml, line: 175
 # File: module/Application/view/application/air/seating.phtml, line: 384
-# File: module/Application/view/application/cart/summary.phtml, line: 87
+# File: module/Application/view/application/cart/summary.phtml, line: 83
 # File: module/Application/view/application/cart/summary.phtml, line: 324
 # File: module/Application/view/application/cart/summary.phtml, line: 900
 # File: module/Application/view/application/quotes/air.phtml, line: 110
@@ -2577,7 +2577,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 119
 # File: module/Application/view/application/air/confirm.phtml, line: 176
 # File: module/Application/view/application/air/seating.phtml, line: 385
-# File: module/Application/view/application/cart/summary.phtml, line: 88
+# File: module/Application/view/application/cart/summary.phtml, line: 84
 # File: module/Application/view/application/cart/summary.phtml, line: 327
 # File: module/Application/view/application/cart/summary.phtml, line: 901
 # File: module/Application/view/application/quotes/air.phtml, line: 111
@@ -6399,7 +6399,7 @@ msgstr ""
 # File: module/Application/view/application/packages/confirm.phtml, line: 148
 # File: module/Application/view/application/packages/passengers.phtml, line: 222
 # File: module/Application/view/application/packages/payment.phtml, line: 110
-# File: module/Application/view/application/cart/summary.phtml, line: 81
+# File: module/Application/view/application/cart/summary.phtml, line: 77
 # File: module/Application/view/application/cart/summary.phtml, line: 305
 # File: module/Application/view/application/cart/summary.phtml, line: 772
 # File: module/Application/view/application/cart/summary.phtml, line: 894
@@ -6499,7 +6499,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 222
 # File: module/Application/view/application/packages/payment.phtml, line: 110
 # File: module/Application/view/application/trip-planner/select.phtml, line: 854
-# File: module/Application/view/application/cart/summary.phtml, line: 81
+# File: module/Application/view/application/cart/summary.phtml, line: 77
 # File: module/Application/view/application/cart/summary.phtml, line: 305
 # File: module/Application/view/application/cart/summary.phtml, line: 772
 # File: module/Application/view/application/cart/summary.phtml, line: 894
@@ -6848,7 +6848,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1033
 # File: module/Application/view/application/insurances/index.phtml, line: 114
 # File: module/Application/view/application/insurances/search.phtml, line: 95
-# File: module/Application/view/application/cart/summary.phtml, line: 190
+# File: module/Application/view/application/cart/summary.phtml, line: 186
 # File: module/Application/view/application/cart/summary.phtml, line: 449
 # File: module/Application/view/application/cart/summary.phtml, line: 999
 # File: module/Application/view/offers/cb2/index.phtml, line: 146
@@ -7955,7 +7955,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 764
 # File: module/Application/view/application/air/summary.phtml, line: 159
 # File: module/Application/view/application/hotels/info.phtml, line: 244
-# File: module/Application/view/application/cart/summary.phtml, line: 124
+# File: module/Application/view/application/cart/summary.phtml, line: 120
 # File: module/Application/view/application/cart/summary.phtml, line: 380
 # File: module/Application/view/application/cart/summary.phtml, line: 937
 # File: module/Application/view/application/quotes/air.phtml, line: 151
@@ -8738,8 +8738,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 275
 # File: module/Application/view/application/insurances/summary.phtml, line: 61
 # File: module/Application/view/application/packages/info.phtml, line: 37
-# File: module/Application/view/application/cart/summary.phtml, line: 122
-# File: module/Application/view/application/cart/summary.phtml, line: 168
+# File: module/Application/view/application/cart/summary.phtml, line: 118
+# File: module/Application/view/application/cart/summary.phtml, line: 164
 # File: module/Application/view/application/cart/summary.phtml, line: 364
 # File: module/Application/view/application/cart/summary.phtml, line: 428
 # File: module/Application/view/application/cart/summary.phtml, line: 935
@@ -9350,7 +9350,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 403
 # File: module/Application/view/application/air/return.phtml, line: 748
 # File: module/Application/view/application/hotels/info.phtml, line: 224
-# File: module/Application/view/application/cart/summary.phtml, line: 84
+# File: module/Application/view/application/cart/summary.phtml, line: 80
 # File: module/Application/view/application/cart/summary.phtml, line: 317
 # File: module/Application/view/application/cart/summary.phtml, line: 897
 # File: module/Application/view/application/cart/summary.phtml, line: 1158
@@ -9388,7 +9388,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 219
 # File: module/Application/view/application/air/confirm.phtml, line: 256
 # File: module/Application/view/application/login/reservations.phtml, line: 95
-# File: module/Application/view/application/cart/summary.phtml, line: 192
+# File: module/Application/view/application/cart/summary.phtml, line: 188
 # File: module/Application/view/application/cart/summary.phtml, line: 451
 # File: module/Application/view/application/cart/summary.phtml, line: 1001
 # File: module/Application/view/application/booking/details.phtml, line: 165
@@ -9512,7 +9512,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 170
 # File: module/Application/view/application/air/segment.phtml, line: 226
 # File: module/Application/view/application/air/segment.phtml, line: 302
-# File: module/Application/view/application/cart/summary.phtml, line: 84
+# File: module/Application/view/application/cart/summary.phtml, line: 80
 # File: module/Application/view/application/cart/summary.phtml, line: 311
 # File: module/Application/view/application/cart/summary.phtml, line: 897
 # File: module/Application/view/application/quotes/air.phtml, line: 105
@@ -9565,8 +9565,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 228
 # File: module/Application/view/application/air/segment.phtml, line: 231
 # File: module/Application/view/application/air/segment.phtml, line: 307
-# File: module/Application/view/application/cart/summary.phtml, line: 96
-# File: module/Application/view/application/cart/summary.phtml, line: 159
+# File: module/Application/view/application/cart/summary.phtml, line: 92
+# File: module/Application/view/application/cart/summary.phtml, line: 155
 # File: module/Application/view/application/cart/summary.phtml, line: 336
 # File: module/Application/view/application/cart/summary.phtml, line: 421
 # File: module/Application/view/application/cart/summary.phtml, line: 909
@@ -9586,8 +9586,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 228
 # File: module/Application/view/application/air/segment.phtml, line: 231
 # File: module/Application/view/application/air/segment.phtml, line: 307
-# File: module/Application/view/application/cart/summary.phtml, line: 96
-# File: module/Application/view/application/cart/summary.phtml, line: 159
+# File: module/Application/view/application/cart/summary.phtml, line: 92
+# File: module/Application/view/application/cart/summary.phtml, line: 155
 # File: module/Application/view/application/cart/summary.phtml, line: 336
 # File: module/Application/view/application/cart/summary.phtml, line: 421
 # File: module/Application/view/application/cart/summary.phtml, line: 909
@@ -9607,8 +9607,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 231
 # File: module/Application/view/application/air/segment.phtml, line: 234
 # File: module/Application/view/application/air/segment.phtml, line: 310
-# File: module/Application/view/application/cart/summary.phtml, line: 99
-# File: module/Application/view/application/cart/summary.phtml, line: 162
+# File: module/Application/view/application/cart/summary.phtml, line: 95
+# File: module/Application/view/application/cart/summary.phtml, line: 158
 # File: module/Application/view/application/cart/summary.phtml, line: 337
 # File: module/Application/view/application/cart/summary.phtml, line: 424
 # File: module/Application/view/application/cart/summary.phtml, line: 912
@@ -9628,8 +9628,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 231
 # File: module/Application/view/application/air/segment.phtml, line: 234
 # File: module/Application/view/application/air/segment.phtml, line: 310
-# File: module/Application/view/application/cart/summary.phtml, line: 99
-# File: module/Application/view/application/cart/summary.phtml, line: 162
+# File: module/Application/view/application/cart/summary.phtml, line: 95
+# File: module/Application/view/application/cart/summary.phtml, line: 158
 # File: module/Application/view/application/cart/summary.phtml, line: 337
 # File: module/Application/view/application/cart/summary.phtml, line: 424
 # File: module/Application/view/application/cart/summary.phtml, line: 912
@@ -9649,8 +9649,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 234
 # File: module/Application/view/application/air/segment.phtml, line: 237
 # File: module/Application/view/application/air/segment.phtml, line: 313
-# File: module/Application/view/application/cart/summary.phtml, line: 102
-# File: module/Application/view/application/cart/summary.phtml, line: 165
+# File: module/Application/view/application/cart/summary.phtml, line: 98
+# File: module/Application/view/application/cart/summary.phtml, line: 161
 # File: module/Application/view/application/cart/summary.phtml, line: 338
 # File: module/Application/view/application/cart/summary.phtml, line: 427
 # File: module/Application/view/application/cart/summary.phtml, line: 915
@@ -9670,8 +9670,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 234
 # File: module/Application/view/application/air/segment.phtml, line: 237
 # File: module/Application/view/application/air/segment.phtml, line: 313
-# File: module/Application/view/application/cart/summary.phtml, line: 102
-# File: module/Application/view/application/cart/summary.phtml, line: 165
+# File: module/Application/view/application/cart/summary.phtml, line: 98
+# File: module/Application/view/application/cart/summary.phtml, line: 161
 # File: module/Application/view/application/cart/summary.phtml, line: 338
 # File: module/Application/view/application/cart/summary.phtml, line: 427
 # File: module/Application/view/application/cart/summary.phtml, line: 915
@@ -9695,7 +9695,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 734
 # File: module/Application/view/application/air/summary.phtml, line: 137
 # File: module/Application/view/application/air/confirm.phtml, line: 194
-# File: module/Application/view/application/cart/summary.phtml, line: 108
+# File: module/Application/view/application/cart/summary.phtml, line: 104
 # File: module/Application/view/application/cart/summary.phtml, line: 341
 # File: module/Application/view/application/cart/summary.phtml, line: 921
 # File: module/Application/view/application/quotes/air.phtml, line: 129
@@ -9769,7 +9769,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 1137
 # File: module/Application/view/application/air/return.phtml, line: 748
 # File: module/Application/view/application/hotels/info.phtml, line: 224
-# File: module/Application/view/application/cart/summary.phtml, line: 84
+# File: module/Application/view/application/cart/summary.phtml, line: 80
 # File: module/Application/view/application/cart/summary.phtml, line: 315
 # File: module/Application/view/application/cart/summary.phtml, line: 897
 # File: module/Application/view/application/cart/summary.phtml, line: 1158
@@ -9791,7 +9791,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 761
 # File: module/Application/view/application/air/summary.phtml, line: 154
 # File: module/Application/view/application/hotels/info.phtml, line: 240
-# File: module/Application/view/application/cart/summary.phtml, line: 120
+# File: module/Application/view/application/cart/summary.phtml, line: 116
 # File: module/Application/view/application/cart/summary.phtml, line: 355
 # File: module/Application/view/application/cart/summary.phtml, line: 933
 # File: module/Application/view/application/quotes/air.phtml, line: 146
@@ -9803,7 +9803,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 764
 # File: module/Application/view/application/air/summary.phtml, line: 158
 # File: module/Application/view/application/hotels/info.phtml, line: 243
-# File: module/Application/view/application/cart/summary.phtml, line: 123
+# File: module/Application/view/application/cart/summary.phtml, line: 119
 # File: module/Application/view/application/cart/summary.phtml, line: 370
 # File: module/Application/view/application/cart/summary.phtml, line: 936
 # File: module/Application/view/application/quotes/air.phtml, line: 150
@@ -9815,7 +9815,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 764
 # File: module/Application/view/application/air/summary.phtml, line: 158
 # File: module/Application/view/application/hotels/info.phtml, line: 243
-# File: module/Application/view/application/cart/summary.phtml, line: 123
+# File: module/Application/view/application/cart/summary.phtml, line: 119
 # File: module/Application/view/application/cart/summary.phtml, line: 372
 # File: module/Application/view/application/cart/summary.phtml, line: 936
 # File: module/Application/view/application/quotes/air.phtml, line: 150
@@ -9928,9 +9928,9 @@ msgstr ""
 # File: module/Application/view/application/cars/search.phtml, line: 99
 # File: module/Application/view/application/cars/summary.phtml, line: 110
 # File: module/Application/view/application/cars/summary.phtml, line: 111
-# File: module/Application/view/application/cart/summary.phtml, line: 205
-# File: module/Application/view/application/cart/summary.phtml, line: 213
-# File: module/Application/view/application/cart/summary.phtml, line: 221
+# File: module/Application/view/application/cart/summary.phtml, line: 201
+# File: module/Application/view/application/cart/summary.phtml, line: 209
+# File: module/Application/view/application/cart/summary.phtml, line: 217
 # File: module/Application/view/application/cart/summary.phtml, line: 467
 # File: module/Application/view/application/cart/summary.phtml, line: 476
 # File: module/Application/view/application/cart/summary.phtml, line: 486
@@ -9958,7 +9958,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 274
 # File: module/Application/view/application/air/segment.phtml, line: 379
 # File: module/Application/view/application/air/segment.phtml, line: 547
-# File: module/Application/view/application/cart/summary.phtml, line: 211
+# File: module/Application/view/application/cart/summary.phtml, line: 207
 # File: module/Application/view/application/cart/summary.phtml, line: 473
 # File: module/Application/view/application/cart/summary.phtml, line: 1020
 # File: module/Application/view/application/quotes/air.phtml, line: 225
@@ -9983,9 +9983,9 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 283
 # File: module/Application/view/application/air/segment.phtml, line: 382
 # File: module/Application/view/application/air/segment.phtml, line: 389
-# File: module/Application/view/application/cart/summary.phtml, line: 204
-# File: module/Application/view/application/cart/summary.phtml, line: 212
-# File: module/Application/view/application/cart/summary.phtml, line: 220
+# File: module/Application/view/application/cart/summary.phtml, line: 200
+# File: module/Application/view/application/cart/summary.phtml, line: 208
+# File: module/Application/view/application/cart/summary.phtml, line: 216
 # File: module/Application/view/application/cart/summary.phtml, line: 464
 # File: module/Application/view/application/cart/summary.phtml, line: 475
 # File: module/Application/view/application/cart/summary.phtml, line: 484
@@ -10005,7 +10005,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 241
 # File: module/Application/view/application/air/confirm.phtml, line: 282
 # File: module/Application/view/application/air/segment.phtml, line: 386
-# File: module/Application/view/application/cart/summary.phtml, line: 219
+# File: module/Application/view/application/cart/summary.phtml, line: 215
 # File: module/Application/view/application/cart/summary.phtml, line: 482
 # File: module/Application/view/application/cart/summary.phtml, line: 1028
 # File: module/Application/view/application/quotes/air.phtml, line: 233
@@ -10025,7 +10025,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 266
 # File: module/Application/view/application/air/segment.phtml, line: 393
 # File: module/Application/view/application/air/segment.phtml, line: 535
-# File: module/Application/view/application/cart/summary.phtml, line: 203
+# File: module/Application/view/application/cart/summary.phtml, line: 199
 # File: module/Application/view/application/cart/summary.phtml, line: 462
 # File: module/Application/view/application/cart/summary.phtml, line: 1012
 # File: module/Application/view/application/quotes/air.phtml, line: 217
@@ -10086,7 +10086,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 250
 # File: module/Application/view/application/air/confirm.phtml, line: 290
 # File: module/Application/view/application/air/segment.phtml, line: 420
-# File: module/Application/view/application/cart/summary.phtml, line: 226
+# File: module/Application/view/application/cart/summary.phtml, line: 222
 # File: module/Application/view/application/cart/summary.phtml, line: 492
 # File: module/Application/view/application/cart/summary.phtml, line: 1035
 # File: module/Application/view/application/quotes/air.phtml, line: 242
@@ -10154,7 +10154,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 155
 # File: module/Application/view/application/air/seating.phtml, line: 359
 # File: module/Application/view/application/cart/summary.phtml, line: 71
-# File: module/Application/view/application/cart/summary.phtml, line: 288
+# File: module/Application/view/application/cart/summary.phtml, line: 284
 # File: module/Application/view/application/cart/summary.phtml, line: 888
 # File: module/Application/view/application/quotes/air.phtml, line: 90
 msgid "Operated by:"
@@ -10164,7 +10164,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 160
 # File: module/Application/view/application/air/seating.phtml, line: 368
 # File: module/Application/view/application/cart/summary.phtml, line: 75
-# File: module/Application/view/application/cart/summary.phtml, line: 296
+# File: module/Application/view/application/cart/summary.phtml, line: 292
 # File: module/Application/view/application/cart/summary.phtml, line: 892
 # File: module/Application/view/application/quotes/air.phtml, line: 95
 msgid "TO"
@@ -10175,7 +10175,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating.phtml, line: 372
 # File: module/Application/view/application/hotels/info.phtml, line: 216
 # File: module/Application/view/application/cart/summary.phtml, line: 76
-# File: module/Application/view/application/cart/summary.phtml, line: 300
+# File: module/Application/view/application/cart/summary.phtml, line: 296
 # File: module/Application/view/application/cart/summary.phtml, line: 893
 # File: module/Application/view/application/quotes/air.phtml, line: 96
 msgid "TIME"
@@ -10194,7 +10194,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 137
 # File: module/Application/view/application/air/confirm.phtml, line: 194
-# File: module/Application/view/application/cart/summary.phtml, line: 107
+# File: module/Application/view/application/cart/summary.phtml, line: 103
 # File: module/Application/view/application/cart/summary.phtml, line: 341
 # File: module/Application/view/application/cart/summary.phtml, line: 920
 # File: module/Application/view/application/quotes/air.phtml, line: 129
@@ -10204,7 +10204,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 147
 # File: module/Application/view/application/air/confirm.phtml, line: 199
 # File: module/Application/view/application/hotels/info.phtml, line: 234
-# File: module/Application/view/application/cart/summary.phtml, line: 114
+# File: module/Application/view/application/cart/summary.phtml, line: 110
 # File: module/Application/view/application/cart/summary.phtml, line: 347
 # File: module/Application/view/application/cart/summary.phtml, line: 927
 # File: module/Application/view/application/booking/details.phtml, line: 95
@@ -10218,8 +10218,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 242
 # File: module/Application/view/application/hotels/info.phtml, line: 275
 # File: module/Application/view/application/packages/info.phtml, line: 102
-# File: module/Application/view/application/cart/summary.phtml, line: 122
-# File: module/Application/view/application/cart/summary.phtml, line: 168
+# File: module/Application/view/application/cart/summary.phtml, line: 118
+# File: module/Application/view/application/cart/summary.phtml, line: 164
 # File: module/Application/view/application/cart/summary.phtml, line: 362
 # File: module/Application/view/application/cart/summary.phtml, line: 428
 # File: module/Application/view/application/cart/summary.phtml, line: 935
@@ -10231,7 +10231,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 159
 # File: module/Application/view/application/hotels/info.phtml, line: 244
-# File: module/Application/view/application/cart/summary.phtml, line: 124
+# File: module/Application/view/application/cart/summary.phtml, line: 120
 # File: module/Application/view/application/cart/summary.phtml, line: 378
 # File: module/Application/view/application/cart/summary.phtml, line: 937
 # File: module/Application/view/application/quotes/air.phtml, line: 151
@@ -10240,7 +10240,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 215
 # File: module/Application/view/application/air/confirm.phtml, line: 250
-# File: module/Application/view/application/cart/summary.phtml, line: 184
+# File: module/Application/view/application/cart/summary.phtml, line: 180
 # File: module/Application/view/application/cart/summary.phtml, line: 443
 # File: module/Application/view/application/cart/summary.phtml, line: 993
 # File: module/Application/view/application/quotes/air.phtml, line: 207
@@ -10249,7 +10249,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 219
 # File: module/Application/view/application/air/confirm.phtml, line: 257
-# File: module/Application/view/application/cart/summary.phtml, line: 193
+# File: module/Application/view/application/cart/summary.phtml, line: 189
 # File: module/Application/view/application/cart/summary.phtml, line: 452
 # File: module/Application/view/application/cart/summary.phtml, line: 1002
 # File: module/Application/view/application/quotes/air.phtml, line: 211
@@ -10260,7 +10260,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 219
 # File: module/Application/view/application/air/confirm.phtml, line: 258
-# File: module/Application/view/application/cart/summary.phtml, line: 194
+# File: module/Application/view/application/cart/summary.phtml, line: 190
 # File: module/Application/view/application/cart/summary.phtml, line: 453
 # File: module/Application/view/application/cart/summary.phtml, line: 1003
 # File: module/Application/view/application/quotes/air.phtml, line: 211
@@ -10273,9 +10273,9 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 267
 # File: module/Application/view/application/air/confirm.phtml, line: 275
 # File: module/Application/view/application/air/confirm.phtml, line: 283
-# File: module/Application/view/application/cart/summary.phtml, line: 204
-# File: module/Application/view/application/cart/summary.phtml, line: 212
-# File: module/Application/view/application/cart/summary.phtml, line: 220
+# File: module/Application/view/application/cart/summary.phtml, line: 200
+# File: module/Application/view/application/cart/summary.phtml, line: 208
+# File: module/Application/view/application/cart/summary.phtml, line: 216
 # File: module/Application/view/application/cart/summary.phtml, line: 465
 # File: module/Application/view/application/cart/summary.phtml, line: 475
 # File: module/Application/view/application/cart/summary.phtml, line: 485
@@ -10294,9 +10294,9 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 267
 # File: module/Application/view/application/air/confirm.phtml, line: 275
 # File: module/Application/view/application/air/confirm.phtml, line: 283
-# File: module/Application/view/application/cart/summary.phtml, line: 204
-# File: module/Application/view/application/cart/summary.phtml, line: 212
-# File: module/Application/view/application/cart/summary.phtml, line: 220
+# File: module/Application/view/application/cart/summary.phtml, line: 200
+# File: module/Application/view/application/cart/summary.phtml, line: 208
+# File: module/Application/view/application/cart/summary.phtml, line: 216
 # File: module/Application/view/application/cart/summary.phtml, line: 465
 # File: module/Application/view/application/cart/summary.phtml, line: 475
 # File: module/Application/view/application/cart/summary.phtml, line: 485
@@ -10315,9 +10315,9 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 268
 # File: module/Application/view/application/air/confirm.phtml, line: 276
 # File: module/Application/view/application/air/confirm.phtml, line: 284
-# File: module/Application/view/application/cart/summary.phtml, line: 205
-# File: module/Application/view/application/cart/summary.phtml, line: 213
-# File: module/Application/view/application/cart/summary.phtml, line: 221
+# File: module/Application/view/application/cart/summary.phtml, line: 201
+# File: module/Application/view/application/cart/summary.phtml, line: 209
+# File: module/Application/view/application/cart/summary.phtml, line: 217
 # File: module/Application/view/application/cart/summary.phtml, line: 467
 # File: module/Application/view/application/cart/summary.phtml, line: 476
 # File: module/Application/view/application/cart/summary.phtml, line: 486
@@ -13765,7 +13765,7 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 4
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 21
-# File: module/Application/view/application/cart/summary.phtml, line: 189
+# File: module/Application/view/application/cart/summary.phtml, line: 185
 # File: module/Application/view/application/cart/summary.phtml, line: 448
 # File: module/Application/view/application/cart/summary.phtml, line: 998
 msgid "Transport"
@@ -13792,7 +13792,7 @@ msgstr ""
 msgid "It seems that your travel shopping cart is empty. You need to search for and add some items to your cart before you can proceed to checkout. You can search for hotels, cars, activities, transfers, flights or cruises using the search area in each of the pages. Once you find something that suits your needs, you can click on the \"Add to cart\" button to add it to your cart. You can review your cart at any time by clicking on the \"Cart\" icon at the top right corner of the page. When you are ready to complete your booking, you can click on the \"Checkout\" button and follow the instructions. Thank you for choosing us for your travel needs."
 msgstr ""
 #
-# File: module/Application/view/application/cart/summary.phtml, line: 227
+# File: module/Application/view/application/cart/summary.phtml, line: 223
 # File: module/Application/view/application/cart/summary.phtml, line: 495
 # File: module/Application/view/application/cart/summary.phtml, line: 1036
 msgid "If you need to add any baggage to your booking, you can do so at a later stage through our online portal or by contacting our customer service."
