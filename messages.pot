@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-09 16:53-0400\n"
+"POT-Creation-Date: 2025-07-10 02:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3410
-# File: module/Application/src/Controller/CartController.php, line: 2312
+# File: module/Application/src/Controller/CartController.php, line: 2393
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2325
+# File: module/Application/src/Controller/CartController.php, line: 2406
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 741
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 409
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 259
@@ -32,12 +32,12 @@ msgid "Cancel on or after"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2325
+# File: module/Application/src/Controller/CartController.php, line: 2406
 msgid "will incur in"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 3423
-# File: module/Application/src/Controller/CartController.php, line: 2325
+# File: module/Application/src/Controller/CartController.php, line: 2406
 msgid "penalty."
 msgstr ""
 #
@@ -476,7 +476,7 @@ msgstr ""
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 5635
+# File: module/Application/src/Controller/HotelsController.php, line: 5815
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
@@ -707,8 +707,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 388
 # File: module/Application/view/application/hotels/info.phtml, line: 395
 # File: module/Application/view/application/hotels/info.phtml, line: 408
-# File: module/Application/view/application/hotels/info.phtml, line: 1133
-# File: module/Application/view/application/hotels/info.phtml, line: 1334
+# File: module/Application/view/application/hotels/info.phtml, line: 1137
+# File: module/Application/view/application/hotels/info.phtml, line: 1342
 # File: module/Application/view/application/hotels/passengers.phtml, line: 289
 # File: module/Application/view/application/hotels/payment.phtml, line: 208
 # File: module/Application/view/application/hotels/confirm.phtml, line: 80
@@ -868,8 +868,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 388
 # File: module/Application/view/application/hotels/info.phtml, line: 397
 # File: module/Application/view/application/hotels/info.phtml, line: 408
-# File: module/Application/view/application/hotels/info.phtml, line: 1135
-# File: module/Application/view/application/hotels/info.phtml, line: 1335
+# File: module/Application/view/application/hotels/info.phtml, line: 1139
+# File: module/Application/view/application/hotels/info.phtml, line: 1343
 # File: module/Application/view/application/hotels/passengers.phtml, line: 289
 # File: module/Application/view/application/hotels/payment.phtml, line: 208
 # File: module/Application/view/application/hotels/confirm.phtml, line: 80
@@ -1325,7 +1325,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 315
 # File: module/Application/view/application/hotels/search.phtml, line: 329
 # File: module/Application/view/application/hotels/search.phtml, line: 330
-# File: module/Application/view/application/hotels/info.phtml, line: 588
+# File: module/Application/view/application/hotels/info.phtml, line: 592
 # File: module/Application/view/application/hotels/passengers.phtml, line: 18
 # File: module/Application/view/application/hotels/payment.phtml, line: 17
 # File: module/Application/view/application/hotels/confirm.phtml, line: 13
@@ -1498,7 +1498,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 742
 # File: module/Application/view/application/hotels/index.phtml, line: 1222
 # File: module/Application/view/application/hotels/search.phtml, line: 599
-# File: module/Application/view/application/hotels/info.phtml, line: 1105
+# File: module/Application/view/application/hotels/info.phtml, line: 1109
 # File: module/Application/view/application/hotels/passengers.phtml, line: 741
 # File: module/Application/view/application/hotels/list.phtml, line: 583
 # File: module/Application/view/application/hotels/brands.phtml, line: 359
@@ -1723,8 +1723,8 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 706
 # File: module/Application/view/application/air/ticketing.phtml, line: 627
 # File: module/Application/view/application/air/ticketing.phtml, line: 826
-# File: module/Application/view/application/hotels/info.phtml, line: 1218
-# File: module/Application/view/application/hotels/info.phtml, line: 1258
+# File: module/Application/view/application/hotels/info.phtml, line: 1222
+# File: module/Application/view/application/hotels/info.phtml, line: 1262
 # File: module/Application/view/application/hotels/payment.phtml, line: 586
 # File: module/Application/view/application/hotels/summary.phtml, line: 490
 # File: module/Application/view/application/hotels/summary.phtml, line: 515
@@ -2032,8 +2032,8 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/select.phtml, line: 140
 # File: module/Application/view/application/cruises/select.phtml, line: 142
-# File: module/Application/view/application/hotels/info.phtml, line: 694
-# File: module/Application/view/application/hotels/info.phtml, line: 810
+# File: module/Application/view/application/hotels/info.phtml, line: 698
+# File: module/Application/view/application/hotels/info.phtml, line: 814
 # File: module/Application/view/offers/travelers-choice/index.phtml, line: 498
 # File: module/Application/view/offers/travelers-choice/index.phtml, line: 623
 # File: module/Application/view/application2/hotels/info.phtml, line: 259
@@ -2086,8 +2086,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 118
 # File: module/Application/view/application/hotels/info.phtml, line: 388
 # File: module/Application/view/application/hotels/info.phtml, line: 408
-# File: module/Application/view/application/hotels/info.phtml, line: 1128
-# File: module/Application/view/application/hotels/info.phtml, line: 1333
+# File: module/Application/view/application/hotels/info.phtml, line: 1132
+# File: module/Application/view/application/hotels/info.phtml, line: 1341
 # File: module/Application/view/application/hotels/list.phtml, line: 606
 # File: module/Application/view/application/hotels/brands.phtml, line: 381
 # File: module/Application/view/application/transfers/index.phtml, line: 216
@@ -2235,7 +2235,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 424
 # File: module/Application/view/application/hotels/search.phtml, line: 882
 # File: module/Application/view/application/hotels/search.phtml, line: 1368
-# File: module/Application/view/application/hotels/info.phtml, line: 551
+# File: module/Application/view/application/hotels/info.phtml, line: 555
 # File: module/Application/view/application/hotels/passengers.phtml, line: 305
 # File: module/Application/view/application/hotels/passengers.phtml, line: 341
 # File: module/Application/view/application/hotels/passengers.phtml, line: 359
@@ -2815,8 +2815,8 @@ msgstr ""
 # File: module/Application/view/application/air/seating.phtml, line: 91
 # File: module/Application/view/application/hotels/search.phtml, line: 531
 # File: module/Application/view/application/hotels/search.phtml, line: 546
-# File: module/Application/view/application/hotels/info.phtml, line: 899
-# File: module/Application/view/application/hotels/info.phtml, line: 1081
+# File: module/Application/view/application/hotels/info.phtml, line: 903
+# File: module/Application/view/application/hotels/info.phtml, line: 1085
 # File: module/Application/view/application/hotels/confirm.phtml, line: 238
 # File: module/Application/view/application/hotels/summary.phtml, line: 424
 # File: module/Application/view/application/hotels/summary.phtml, line: 438
@@ -4320,7 +4320,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 751
 # File: module/Application/view/application/hotels/index.phtml, line: 1231
 # File: module/Application/view/application/hotels/search.phtml, line: 608
-# File: module/Application/view/application/hotels/info.phtml, line: 1114
+# File: module/Application/view/application/hotels/info.phtml, line: 1118
 # File: module/Application/view/application/hotels/passengers.phtml, line: 750
 # File: module/Application/view/application/hotels/list.phtml, line: 592
 # File: module/Application/view/application/hotels/brands.phtml, line: 368
@@ -4362,7 +4362,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 752
 # File: module/Application/view/application/hotels/index.phtml, line: 1232
 # File: module/Application/view/application/hotels/search.phtml, line: 609
-# File: module/Application/view/application/hotels/info.phtml, line: 1115
+# File: module/Application/view/application/hotels/info.phtml, line: 1119
 # File: module/Application/view/application/hotels/passengers.phtml, line: 751
 # File: module/Application/view/application/hotels/list.phtml, line: 593
 # File: module/Application/view/application/hotels/brands.phtml, line: 369
@@ -4404,7 +4404,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 753
 # File: module/Application/view/application/hotels/index.phtml, line: 1233
 # File: module/Application/view/application/hotels/search.phtml, line: 610
-# File: module/Application/view/application/hotels/info.phtml, line: 1116
+# File: module/Application/view/application/hotels/info.phtml, line: 1120
 # File: module/Application/view/application/hotels/passengers.phtml, line: 752
 # File: module/Application/view/application/hotels/list.phtml, line: 594
 # File: module/Application/view/application/hotels/brands.phtml, line: 370
@@ -4446,7 +4446,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 754
 # File: module/Application/view/application/hotels/index.phtml, line: 1234
 # File: module/Application/view/application/hotels/search.phtml, line: 611
-# File: module/Application/view/application/hotels/info.phtml, line: 1117
+# File: module/Application/view/application/hotels/info.phtml, line: 1121
 # File: module/Application/view/application/hotels/passengers.phtml, line: 753
 # File: module/Application/view/application/hotels/list.phtml, line: 595
 # File: module/Application/view/application/hotels/brands.phtml, line: 371
@@ -4488,7 +4488,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 755
 # File: module/Application/view/application/hotels/index.phtml, line: 1235
 # File: module/Application/view/application/hotels/search.phtml, line: 612
-# File: module/Application/view/application/hotels/info.phtml, line: 1118
+# File: module/Application/view/application/hotels/info.phtml, line: 1122
 # File: module/Application/view/application/hotels/passengers.phtml, line: 754
 # File: module/Application/view/application/hotels/list.phtml, line: 596
 # File: module/Application/view/application/hotels/brands.phtml, line: 372
@@ -4530,7 +4530,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 756
 # File: module/Application/view/application/hotels/index.phtml, line: 1236
 # File: module/Application/view/application/hotels/search.phtml, line: 613
-# File: module/Application/view/application/hotels/info.phtml, line: 1119
+# File: module/Application/view/application/hotels/info.phtml, line: 1123
 # File: module/Application/view/application/hotels/passengers.phtml, line: 755
 # File: module/Application/view/application/hotels/list.phtml, line: 597
 # File: module/Application/view/application/hotels/brands.phtml, line: 373
@@ -4572,7 +4572,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 757
 # File: module/Application/view/application/hotels/index.phtml, line: 1237
 # File: module/Application/view/application/hotels/search.phtml, line: 614
-# File: module/Application/view/application/hotels/info.phtml, line: 1120
+# File: module/Application/view/application/hotels/info.phtml, line: 1124
 # File: module/Application/view/application/hotels/passengers.phtml, line: 756
 # File: module/Application/view/application/hotels/list.phtml, line: 598
 # File: module/Application/view/application/hotels/brands.phtml, line: 374
@@ -4614,7 +4614,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 758
 # File: module/Application/view/application/hotels/index.phtml, line: 1238
 # File: module/Application/view/application/hotels/search.phtml, line: 615
-# File: module/Application/view/application/hotels/info.phtml, line: 1121
+# File: module/Application/view/application/hotels/info.phtml, line: 1125
 # File: module/Application/view/application/hotels/passengers.phtml, line: 757
 # File: module/Application/view/application/hotels/list.phtml, line: 599
 # File: module/Application/view/application/hotels/brands.phtml, line: 375
@@ -4656,7 +4656,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 759
 # File: module/Application/view/application/hotels/index.phtml, line: 1239
 # File: module/Application/view/application/hotels/search.phtml, line: 616
-# File: module/Application/view/application/hotels/info.phtml, line: 1122
+# File: module/Application/view/application/hotels/info.phtml, line: 1126
 # File: module/Application/view/application/hotels/passengers.phtml, line: 758
 # File: module/Application/view/application/hotels/list.phtml, line: 600
 # File: module/Application/view/application/hotels/brands.phtml, line: 376
@@ -4698,7 +4698,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 760
 # File: module/Application/view/application/hotels/index.phtml, line: 1240
 # File: module/Application/view/application/hotels/search.phtml, line: 617
-# File: module/Application/view/application/hotels/info.phtml, line: 1123
+# File: module/Application/view/application/hotels/info.phtml, line: 1127
 # File: module/Application/view/application/hotels/passengers.phtml, line: 759
 # File: module/Application/view/application/hotels/list.phtml, line: 601
 # File: module/Application/view/application/hotels/brands.phtml, line: 377
@@ -4740,7 +4740,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 761
 # File: module/Application/view/application/hotels/index.phtml, line: 1241
 # File: module/Application/view/application/hotels/search.phtml, line: 618
-# File: module/Application/view/application/hotels/info.phtml, line: 1124
+# File: module/Application/view/application/hotels/info.phtml, line: 1128
 # File: module/Application/view/application/hotels/passengers.phtml, line: 760
 # File: module/Application/view/application/hotels/list.phtml, line: 602
 # File: module/Application/view/application/hotels/brands.phtml, line: 378
@@ -4782,7 +4782,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 762
 # File: module/Application/view/application/hotels/index.phtml, line: 1242
 # File: module/Application/view/application/hotels/search.phtml, line: 619
-# File: module/Application/view/application/hotels/info.phtml, line: 1125
+# File: module/Application/view/application/hotels/info.phtml, line: 1129
 # File: module/Application/view/application/hotels/passengers.phtml, line: 761
 # File: module/Application/view/application/hotels/list.phtml, line: 603
 # File: module/Application/view/application/hotels/brands.phtml, line: 379
@@ -6143,7 +6143,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 623
 # File: module/Application/view/application/hotels/info.phtml, line: 118
 # File: module/Application/view/application/hotels/info.phtml, line: 388
-# File: module/Application/view/application/hotels/info.phtml, line: 1129
+# File: module/Application/view/application/hotels/info.phtml, line: 1133
 # File: module/Application/view/application/hotels/confirm.phtml, line: 73
 # File: module/Application/view/application/hotels/summary.phtml, line: 220
 # File: module/Application/view/application/hotels/list.phtml, line: 607
@@ -6380,7 +6380,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 88
 # File: module/Application/view/application/hotels/search.phtml, line: 626
 # File: module/Application/view/application/hotels/info.phtml, line: 217
-# File: module/Application/view/application/hotels/info.phtml, line: 1134
+# File: module/Application/view/application/hotels/info.phtml, line: 1138
 # File: module/Application/view/application/hotels/passengers.phtml, line: 289
 # File: module/Application/view/application/hotels/payment.phtml, line: 208
 # File: module/Application/view/application/hotels/confirm.phtml, line: 80
@@ -6473,9 +6473,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 1500
 # File: module/Application/view/application/hotels/info.phtml, line: 388
 # File: module/Application/view/application/hotels/info.phtml, line: 403
-# File: module/Application/view/application/hotels/info.phtml, line: 1130
-# File: module/Application/view/application/hotels/info.phtml, line: 1360
-# File: module/Application/view/application/hotels/info.phtml, line: 1431
+# File: module/Application/view/application/hotels/info.phtml, line: 1134
+# File: module/Application/view/application/hotels/info.phtml, line: 1368
+# File: module/Application/view/application/hotels/info.phtml, line: 1439
 # File: module/Application/view/application/hotels/passengers.phtml, line: 154
 # File: module/Application/view/application/hotels/passengers.phtml, line: 289
 # File: module/Application/view/application/hotels/payment.phtml, line: 208
@@ -7217,7 +7217,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 740
 # File: module/Application/view/application/hotels/index.phtml, line: 1220
 # File: module/Application/view/application/hotels/search.phtml, line: 597
-# File: module/Application/view/application/hotels/info.phtml, line: 1103
+# File: module/Application/view/application/hotels/info.phtml, line: 1107
 # File: module/Application/view/application/hotels/passengers.phtml, line: 739
 # File: module/Application/view/application/hotels/list.phtml, line: 581
 # File: module/Application/view/application/hotels/brands.phtml, line: 357
@@ -7253,7 +7253,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 741
 # File: module/Application/view/application/hotels/index.phtml, line: 1221
 # File: module/Application/view/application/hotels/search.phtml, line: 598
-# File: module/Application/view/application/hotels/info.phtml, line: 1104
+# File: module/Application/view/application/hotels/info.phtml, line: 1108
 # File: module/Application/view/application/hotels/passengers.phtml, line: 740
 # File: module/Application/view/application/hotels/list.phtml, line: 582
 # File: module/Application/view/application/hotels/brands.phtml, line: 358
@@ -7289,7 +7289,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 743
 # File: module/Application/view/application/hotels/index.phtml, line: 1223
 # File: module/Application/view/application/hotels/search.phtml, line: 600
-# File: module/Application/view/application/hotels/info.phtml, line: 1106
+# File: module/Application/view/application/hotels/info.phtml, line: 1110
 # File: module/Application/view/application/hotels/passengers.phtml, line: 742
 # File: module/Application/view/application/hotels/list.phtml, line: 584
 # File: module/Application/view/application/hotels/brands.phtml, line: 360
@@ -7338,7 +7338,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 744
 # File: module/Application/view/application/hotels/index.phtml, line: 1224
 # File: module/Application/view/application/hotels/search.phtml, line: 601
-# File: module/Application/view/application/hotels/info.phtml, line: 1107
+# File: module/Application/view/application/hotels/info.phtml, line: 1111
 # File: module/Application/view/application/hotels/passengers.phtml, line: 743
 # File: module/Application/view/application/hotels/list.phtml, line: 585
 # File: module/Application/view/application/hotels/brands.phtml, line: 361
@@ -7374,7 +7374,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 745
 # File: module/Application/view/application/hotels/index.phtml, line: 1225
 # File: module/Application/view/application/hotels/search.phtml, line: 602
-# File: module/Application/view/application/hotels/info.phtml, line: 1108
+# File: module/Application/view/application/hotels/info.phtml, line: 1112
 # File: module/Application/view/application/hotels/passengers.phtml, line: 744
 # File: module/Application/view/application/hotels/list.phtml, line: 586
 # File: module/Application/view/application/hotels/brands.phtml, line: 362
@@ -7410,7 +7410,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 746
 # File: module/Application/view/application/hotels/index.phtml, line: 1226
 # File: module/Application/view/application/hotels/search.phtml, line: 603
-# File: module/Application/view/application/hotels/info.phtml, line: 1109
+# File: module/Application/view/application/hotels/info.phtml, line: 1113
 # File: module/Application/view/application/hotels/passengers.phtml, line: 745
 # File: module/Application/view/application/hotels/list.phtml, line: 587
 # File: module/Application/view/application/hotels/brands.phtml, line: 363
@@ -7446,7 +7446,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 747
 # File: module/Application/view/application/hotels/index.phtml, line: 1227
 # File: module/Application/view/application/hotels/search.phtml, line: 604
-# File: module/Application/view/application/hotels/info.phtml, line: 1110
+# File: module/Application/view/application/hotels/info.phtml, line: 1114
 # File: module/Application/view/application/hotels/passengers.phtml, line: 746
 # File: module/Application/view/application/hotels/list.phtml, line: 588
 # File: module/Application/view/application/hotels/brands.phtml, line: 364
@@ -7482,7 +7482,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 748
 # File: module/Application/view/application/hotels/index.phtml, line: 1228
 # File: module/Application/view/application/hotels/search.phtml, line: 605
-# File: module/Application/view/application/hotels/info.phtml, line: 1111
+# File: module/Application/view/application/hotels/info.phtml, line: 1115
 # File: module/Application/view/application/hotels/passengers.phtml, line: 747
 # File: module/Application/view/application/hotels/list.phtml, line: 589
 # File: module/Application/view/application/hotels/brands.phtml, line: 365
@@ -7518,7 +7518,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 749
 # File: module/Application/view/application/hotels/index.phtml, line: 1229
 # File: module/Application/view/application/hotels/search.phtml, line: 606
-# File: module/Application/view/application/hotels/info.phtml, line: 1112
+# File: module/Application/view/application/hotels/info.phtml, line: 1116
 # File: module/Application/view/application/hotels/passengers.phtml, line: 748
 # File: module/Application/view/application/hotels/list.phtml, line: 590
 # File: module/Application/view/application/hotels/brands.phtml, line: 366
@@ -7554,7 +7554,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline.phtml, line: 750
 # File: module/Application/view/application/hotels/index.phtml, line: 1230
 # File: module/Application/view/application/hotels/search.phtml, line: 607
-# File: module/Application/view/application/hotels/info.phtml, line: 1113
+# File: module/Application/view/application/hotels/info.phtml, line: 1117
 # File: module/Application/view/application/hotels/passengers.phtml, line: 749
 # File: module/Application/view/application/hotels/list.phtml, line: 591
 # File: module/Application/view/application/hotels/brands.phtml, line: 367
@@ -7599,7 +7599,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 620
 # File: module/Application/view/application/hotels/info.phtml, line: 403
 # File: module/Application/view/application/hotels/info.phtml, line: 412
-# File: module/Application/view/application/hotels/info.phtml, line: 1126
+# File: module/Application/view/application/hotels/info.phtml, line: 1130
 # File: module/Application/view/application/hotels/list.phtml, line: 604
 # File: module/Application/view/application/hotels/brands.phtml, line: 380
 # File: module/Application/view/application/transfers/index.phtml, line: 214
@@ -7637,9 +7637,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 1431
 # File: module/Application/view/application/hotels/search.phtml, line: 1500
 # File: module/Application/view/application/hotels/info.phtml, line: 412
-# File: module/Application/view/application/hotels/info.phtml, line: 1127
-# File: module/Application/view/application/hotels/info.phtml, line: 1360
-# File: module/Application/view/application/hotels/info.phtml, line: 1431
+# File: module/Application/view/application/hotels/info.phtml, line: 1131
+# File: module/Application/view/application/hotels/info.phtml, line: 1368
+# File: module/Application/view/application/hotels/info.phtml, line: 1439
 # File: module/Application/view/application/hotels/list.phtml, line: 605
 # File: module/Application/view/application/transfers/index.phtml, line: 215
 # File: module/Application/view/application/cars/index.phtml, line: 753
@@ -7673,7 +7673,7 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 186
 # File: module/Application/view/application/air/ticketing.phtml, line: 299
 # File: module/Application/view/application/hotels/index.phtml, line: 1248
-# File: module/Application/view/application/hotels/info.phtml, line: 1131
+# File: module/Application/view/application/hotels/info.phtml, line: 1135
 # File: module/Application/view/application/transfers/index.phtml, line: 219
 # File: module/Application/view/application/packages/info.phtml, line: 493
 # File: module/Application/view/application/trip-planner/select.phtml, line: 855
@@ -7705,7 +7705,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 1034
 # File: module/Application/view/application/air/airline.phtml, line: 766
 # File: module/Application/view/application/hotels/index.phtml, line: 1249
-# File: module/Application/view/application/hotels/info.phtml, line: 1132
+# File: module/Application/view/application/hotels/info.phtml, line: 1136
 # File: module/Application/view/application/transfers/index.phtml, line: 220
 # File: module/Application/view/application/packages/info.phtml, line: 494
 # File: module/Application/view/application/trip-planner/select.phtml, line: 856
@@ -7727,7 +7727,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 492
 # File: module/Application/view/application/air/seating.phtml, line: 733
 # File: module/Application/view/application/air/airline.phtml, line: 770
-# File: module/Application/view/application/hotels/info.phtml, line: 1152
+# File: module/Application/view/application/hotels/info.phtml, line: 1156
 # File: module/Application/view/application/hotels/passengers.phtml, line: 729
 # File: module/Application/view/application/hotels/goinfo.phtml, line: 32
 # File: module/Application/view/application/transfers/passengers.phtml, line: 781
@@ -7990,7 +7990,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 202
 # File: module/Application/view/application/hotels/search.phtml, line: 370
 # File: module/Application/view/application/hotels/search.phtml, line: 1348
-# File: module/Application/view/application/hotels/info.phtml, line: 603
+# File: module/Application/view/application/hotels/info.phtml, line: 607
 # File: module/Application/view/application/catalog/destination.phtml, line: 61
 # File: module/Application/view/application2/hotels/search.phtml, line: 451
 # File: module/Application/view/application2/hotels/search.phtml, line: 1224
@@ -8002,7 +8002,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 203
 # File: module/Application/view/application/hotels/search.phtml, line: 372
 # File: module/Application/view/application/hotels/search.phtml, line: 1350
-# File: module/Application/view/application/hotels/info.phtml, line: 605
+# File: module/Application/view/application/hotels/info.phtml, line: 609
 # File: module/Application/view/application/catalog/destination.phtml, line: 63
 # File: module/Application/view/application2/hotels/search.phtml, line: 453
 # File: module/Application/view/application2/hotels/search.phtml, line: 1226
@@ -8014,7 +8014,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 204
 # File: module/Application/view/application/hotels/search.phtml, line: 374
 # File: module/Application/view/application/hotels/search.phtml, line: 1352
-# File: module/Application/view/application/hotels/info.phtml, line: 607
+# File: module/Application/view/application/hotels/info.phtml, line: 611
 # File: module/Application/view/application/catalog/destination.phtml, line: 65
 # File: module/Application/view/application2/hotels/search.phtml, line: 455
 # File: module/Application/view/application2/hotels/search.phtml, line: 1228
@@ -8026,7 +8026,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 205
 # File: module/Application/view/application/hotels/search.phtml, line: 376
 # File: module/Application/view/application/hotels/search.phtml, line: 1354
-# File: module/Application/view/application/hotels/info.phtml, line: 609
+# File: module/Application/view/application/hotels/info.phtml, line: 613
 # File: module/Application/view/application/catalog/destination.phtml, line: 67
 # File: module/Application/view/application2/hotels/search.phtml, line: 457
 # File: module/Application/view/application2/hotels/search.phtml, line: 1230
@@ -8038,7 +8038,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 206
 # File: module/Application/view/application/hotels/search.phtml, line: 378
 # File: module/Application/view/application/hotels/search.phtml, line: 1356
-# File: module/Application/view/application/hotels/info.phtml, line: 611
+# File: module/Application/view/application/hotels/info.phtml, line: 615
 # File: module/Application/view/application/catalog/destination.phtml, line: 69
 # File: module/Application/view/application2/hotels/search.phtml, line: 459
 # File: module/Application/view/application2/hotels/search.phtml, line: 1232
@@ -8050,7 +8050,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 208
 # File: module/Application/view/application/hotels/search.phtml, line: 380
 # File: module/Application/view/application/hotels/search.phtml, line: 1358
-# File: module/Application/view/application/hotels/info.phtml, line: 613
+# File: module/Application/view/application/hotels/info.phtml, line: 617
 # File: module/Application/view/application/catalog/destination.phtml, line: 71
 # File: module/Application/view/application2/hotels/search.phtml, line: 461
 # File: module/Application/view/application2/hotels/search.phtml, line: 1234
@@ -8062,7 +8062,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 209
 # File: module/Application/view/application/hotels/search.phtml, line: 382
 # File: module/Application/view/application/hotels/search.phtml, line: 1360
-# File: module/Application/view/application/hotels/info.phtml, line: 615
+# File: module/Application/view/application/hotels/info.phtml, line: 619
 # File: module/Application/view/application/catalog/destination.phtml, line: 73
 # File: module/Application/view/application2/hotels/search.phtml, line: 463
 # File: module/Application/view/application2/hotels/search.phtml, line: 1236
@@ -8073,7 +8073,7 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 390
 # File: module/Application/view/application/hotels/search.phtml, line: 387
 # File: module/Application/view/application/hotels/search.phtml, line: 1362
-# File: module/Application/view/application/hotels/info.phtml, line: 634
+# File: module/Application/view/application/hotels/info.phtml, line: 638
 # File: module/Application/view/application/catalog/destination.phtml, line: 77
 # File: module/Application/view/application2/hotels/search.phtml, line: 467
 # File: module/Application/view/application2/hotels/search.phtml, line: 1238
@@ -9462,25 +9462,25 @@ msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 771
 # File: module/Application/view/application/hotels/search.phtml, line: 307
-# File: module/Application/view/application/hotels/info.phtml, line: 589
+# File: module/Application/view/application/hotels/info.phtml, line: 593
 msgid "Important Notice: Advance Booking Required"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 772
 # File: module/Application/view/application/hotels/search.phtml, line: 308
-# File: module/Application/view/application/hotels/info.phtml, line: 590
+# File: module/Application/view/application/hotels/info.phtml, line: 594
 msgid "To ensure the best experience for all travelers, last-minute hotel bookings are not permitted. Searching for accommodations within a short number of days goes against our guidelines."
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 773
 # File: module/Application/view/application/hotels/search.phtml, line: 309
-# File: module/Application/view/application/hotels/info.phtml, line: 591
+# File: module/Application/view/application/hotels/info.phtml, line: 595
 msgid "For a smooth and hassle-free stay, please select future dates for your reservation. Planning ahead helps us provide you with the best options and guarantees availability at your preferred destination."
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 774
 # File: module/Application/view/application/hotels/search.phtml, line: 310
-# File: module/Application/view/application/hotels/info.phtml, line: 592
+# File: module/Application/view/application/hotels/info.phtml, line: 596
 msgid "Thank you for your understanding and cooperation."
 msgstr ""
 #
@@ -11760,6 +11760,10 @@ msgid "Package Rate"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/info.phtml, line: 185
+msgid "Airfare, hotel and transfers included"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 185
 msgid "Airfare and hotel included"
 msgstr ""
 #
@@ -11775,6 +11779,10 @@ msgstr ""
 # File: module/Application/view/application/content/blackfriday.phtml, line: 47
 # File: module/Application/view/application/content/blackfriday.phtml, line: 49
 msgid "Blackfriday"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 187
+msgid "Enjoy the convenience and savings of our exclusive package rate, which includes airfare, hotel accommodations, and roundtrip airport transfers. This all-in-one offer makes your travel planning completely hassle-free—from landing to check-in and back again. Book now to take full advantage and travel with total peace of mind!"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/info.phtml, line: 187
@@ -11853,99 +11861,103 @@ msgstr ""
 msgid "Cancel free of charge before"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 549
+# File: module/Application/view/application/hotels/info.phtml, line: 550
+msgid "Flight + Hotel + Transfers"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/info.phtml, line: 552
 msgid "Flight + Hotel"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 571
-# File: module/Application/view/application/hotels/info.phtml, line: 573
+# File: module/Application/view/application/hotels/info.phtml, line: 575
+# File: module/Application/view/application/hotels/info.phtml, line: 577
 # File: module/Application/view/application2/hotels/info.phtml, line: 466
 # File: module/Application/view/application2/hotels/info.phtml, line: 468
 msgid "RESERVE"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 583
+# File: module/Application/view/application/hotels/info.phtml, line: 587
 msgid "Disclaimer: The image shown is for illustrative purposes only and may not represent the actual hotel room. The room layout, furniture, amenities, and view may vary depending on the availability and location of the hotel."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 595
+# File: module/Application/view/application/hotels/info.phtml, line: 599
 msgid "We are sorry to inform you that there are no rooms available for the selected dates at this hotel. This may be due to high demand, limited availability, or special events but don't worry, we have some other hotels that you might like. You can also modify your search parameters and try other dates or hotels that suit your needs and preferences."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 624
-# File: module/Application/view/application/hotels/info.phtml, line: 799
+# File: module/Application/view/application/hotels/info.phtml, line: 628
+# File: module/Application/view/application/hotels/info.phtml, line: 803
 msgid "Overall"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 675
+# File: module/Application/view/application/hotels/info.phtml, line: 679
 msgid "Customers Review"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 688
-# File: module/Application/view/application/hotels/info.phtml, line: 804
+# File: module/Application/view/application/hotels/info.phtml, line: 692
+# File: module/Application/view/application/hotels/info.phtml, line: 808
 # File: module/Application/view/application/insurances/search.phtml, line: 259
 # File: module/Application/view/application/insurances/search.phtml, line: 370
 # File: module/Application/view/application2/hotels/info.phtml, line: 253
 msgid "Value"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 700
-# File: module/Application/view/application/hotels/info.phtml, line: 816
+# File: module/Application/view/application/hotels/info.phtml, line: 704
+# File: module/Application/view/application/hotels/info.phtml, line: 820
 # File: module/Application/view/application2/hotels/info.phtml, line: 265
 msgid "Cleanliness"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 706
-# File: module/Application/view/application/hotels/info.phtml, line: 822
+# File: module/Application/view/application/hotels/info.phtml, line: 710
+# File: module/Application/view/application/hotels/info.phtml, line: 826
 # File: module/Application/view/application2/hotels/info.phtml, line: 271
 msgid "Comfort"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 712
-# File: module/Application/view/application/hotels/info.phtml, line: 828
+# File: module/Application/view/application/hotels/info.phtml, line: 716
+# File: module/Application/view/application/hotels/info.phtml, line: 832
 # File: module/Application/view/application2/hotels/info.phtml, line: 277
 msgid "Neighborhood"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 718
-# File: module/Application/view/application/hotels/info.phtml, line: 834
+# File: module/Application/view/application/hotels/info.phtml, line: 722
+# File: module/Application/view/application/hotels/info.phtml, line: 838
 # File: module/Application/view/application2/hotels/info.phtml, line: 283
 msgid "Amenities"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 724
-# File: module/Application/view/application/hotels/info.phtml, line: 840
+# File: module/Application/view/application/hotels/info.phtml, line: 728
+# File: module/Application/view/application/hotels/info.phtml, line: 844
 # File: module/Application/view/application2/hotels/info.phtml, line: 289
 msgid "Condition"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 730
-# File: module/Application/view/application/hotels/info.phtml, line: 846
+# File: module/Application/view/application/hotels/info.phtml, line: 734
+# File: module/Application/view/application/hotels/info.phtml, line: 850
 # File: module/Application/view/application2/hotels/info.phtml, line: 295
 msgid "Service"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 736
-# File: module/Application/view/application/hotels/info.phtml, line: 852
+# File: module/Application/view/application/hotels/info.phtml, line: 740
+# File: module/Application/view/application/hotels/info.phtml, line: 856
 # File: module/Application/view/application2/hotels/info.phtml, line: 301
 msgid "Quality"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 742
-# File: module/Application/view/application/hotels/info.phtml, line: 858
+# File: module/Application/view/application/hotels/info.phtml, line: 746
+# File: module/Application/view/application/hotels/info.phtml, line: 862
 # File: module/Application/view/application2/hotels/info.phtml, line: 307
 msgid "Recomendation"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 793
+# File: module/Application/view/application/hotels/info.phtml, line: 797
 msgid "Customers review"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 997
+# File: module/Application/view/application/hotels/info.phtml, line: 1001
 msgid "Similar Hotels you may also like"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/info.phtml, line: 998
+# File: module/Application/view/application/hotels/info.phtml, line: 1002
 msgid "Popular properties similar to"
 msgstr ""
 #
