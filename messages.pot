@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-18 08:55-0400\n"
+"POT-Creation-Date: 2025-07-18 14:35-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2839,7 +2839,7 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 742
 # File: module/Application/view/application/booking/paynow.phtml, line: 745
 # File: module/Application/view/application/booking/details.phtml, line: 392
-# File: module/Application/view/application/agent/reservations.phtml, line: 205
+# File: module/Application/view/application/agent/reservations.phtml, line: 209
 # File: module/Application/view/application/quotes/air.phtml, line: 854
 # File: module/Application/view/application/quotes/air.phtml, line: 867
 # File: module/Application/view/application/quotes/air.phtml, line: 878
@@ -2854,12 +2854,13 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 377
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 827
+# File: module/Application/view/application/agent/reservations.phtml, line: 199
 msgid "Name:"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 381
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 831
-# File: module/Application/view/application/agent/reservations.phtml, line: 199
+# File: module/Application/view/application/agent/reservations.phtml, line: 203
 # File: module/Application/view/application2/agent/reservations.phtml, line: 344
 msgid "Email:"
 msgstr ""
@@ -7755,6 +7756,7 @@ msgstr ""
 # File: module/Application/view/application/booking/info.phtml, line: 269
 # File: module/Application/view/application/booking/managereservation.phtml, line: 77
 # File: module/Application/view/application/destinations/peru.phtml, line: 586
+# File: module/Application/view/application/agent/reservations.phtml, line: 255
 # File: module/Application/view/application/agent/login.phtml, line: 106
 # File: module/Application/view/application/agent/forgotpassword.phtml, line: 102
 # File: module/Application/view/application/agent/commissions.phtml, line: 177
@@ -9176,7 +9178,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 127
 # File: module/Application/view/application/cart/summary.phtml, line: 1573
 # File: module/Application/view/application/booking/details.phtml, line: 416
-# File: module/Application/view/application/agent/reservations.phtml, line: 226
+# File: module/Application/view/application/agent/reservations.phtml, line: 230
 # File: module/Application/view/application/quotes/air.phtml, line: 917
 # File: module/Application/view/application2/agent/reservations.phtml, line: 371
 msgid "No"
@@ -14907,19 +14909,19 @@ msgid "Confirmation Voucher"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 402
-# File: module/Application/view/application/agent/reservations.phtml, line: 215
+# File: module/Application/view/application/agent/reservations.phtml, line: 219
 # File: module/Application/view/application2/agent/reservations.phtml, line: 360
 msgid "Cancel reservation"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 408
-# File: module/Application/view/application/agent/reservations.phtml, line: 221
+# File: module/Application/view/application/agent/reservations.phtml, line: 225
 # File: module/Application/view/application2/agent/reservations.phtml, line: 366
 msgid "Are you sure you want to cancel this reservation?"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 417
-# File: module/Application/view/application/agent/reservations.phtml, line: 227
+# File: module/Application/view/application/agent/reservations.phtml, line: 231
 # File: module/Application/view/application2/agent/reservations.phtml, line: 372
 msgid "Yes, Cancel reservation"
 msgstr ""
@@ -15556,7 +15558,7 @@ msgid "Execution time :"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 193
-# File: module/Application/view/application/agent/reservations.phtml, line: 206
+# File: module/Application/view/application/agent/reservations.phtml, line: 210
 # File: module/Application/view/application2/agent/reservations.phtml, line: 338
 # File: module/Application/view/application2/agent/reservations.phtml, line: 351
 msgid "Send voucher"
