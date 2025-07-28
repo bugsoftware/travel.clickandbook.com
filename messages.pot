@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-28 05:30-0400\n"
+"POT-Creation-Date: 2025-07-28 16:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -484,7 +484,7 @@ msgstr ""
 msgid "Your Customized Hotel Quote – Ready for Your Review!"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 6083
+# File: module/Application/src/Controller/HotelsController.php, line: 6082
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
@@ -1475,6 +1475,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 433
 # File: module/Application/view/application/content/blackfriday.phtml, line: 39
 # File: module/Application/view/application/content/cyberweek.phtml, line: 39
+# File: module/Application/view/application/content/pages.phtml, line: 122
 # File: module/Application/view/application/destinations/index.phtml, line: 277
 # File: module/Application/view/offers/lastminute/index.phtml, line: 293
 # File: module/Application/view/offers/lastminute/index.phtml, line: 627
@@ -1626,7 +1627,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 181
 # File: module/Application/view/application/packages/info.phtml, line: 85
 # File: module/Application/view/application/destinations/peru.phtml, line: 93
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 46
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 45
 # File: module/Application/view/application2/hotels/info.phtml, line: 143
 msgid "BOOK NOW"
 msgstr ""
@@ -7155,8 +7156,8 @@ msgstr ""
 # File: module/Application/view/application/packages/info.phtml, line: 433
 # File: module/Application/view/application/content/destinations.phtml, line: 131
 # File: module/Application/view/application/destinations/peru.phtml, line: 375
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 866
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 980
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 863
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 977
 # File: module/Application/view/offers/lastminute/index.phtml, line: 642
 msgid "Book Now"
 msgstr ""
@@ -7781,7 +7782,7 @@ msgstr ""
 # File: module/Application/view/application/activities/search.phtml, line: 57
 # File: module/Application/view/application/destinations/index.phtml, line: 358
 # File: module/Application/view/application/destinations/peru.phtml, line: 182
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 81
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 78
 msgid "Things to do in"
 msgstr ""
 #
@@ -7832,6 +7833,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/brands.phtml, line: 584
 # File: module/Application/view/application/content/blackfriday.phtml, line: 101
 # File: module/Application/view/application/content/cyberweek.phtml, line: 100
+# File: module/Application/view/application/content/pages.phtml, line: 117
 # File: module/Application/view/application/catalog/destination.phtml, line: 81
 # File: module/Application/view/application2/hotels/search.phtml, line: 496
 # File: module/Application/view/application2/hotels/search.phtml, line: 1252
@@ -7844,6 +7846,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/search-listview.phtml, line: 62
 # File: module/Application/view/application/content/blackfriday.phtml, line: 90
 # File: module/Application/view/application/content/cyberweek.phtml, line: 89
+# File: module/Application/view/application/content/pages.phtml, line: 120
 msgid "Share"
 msgstr ""
 #
@@ -11191,7 +11194,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/airline.phtml, line: 513
 # File: module/Application/view/application/air/airline.phtml, line: 679
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 756
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 753
 msgid "MORE FLIGHTS"
 msgstr ""
 #
@@ -14728,6 +14731,10 @@ msgstr ""
 msgid "What city do you reside in?"
 msgstr ""
 #
+# File: module/Application/view/application/content/pages.phtml, line: 77
+msgid "Special Offer!"
+msgstr ""
+#
 # File: module/Application/view/application/booking/paynow.phtml, line: 25
 # File: module/Application/view/application/booking/paynow.phtml, line: 501
 msgid "Thank you for updating your credit card information."
@@ -15223,7 +15230,7 @@ msgstr ""
 #
 # File: module/Application/view/application/destinations/index.phtml, line: 428
 # File: module/Application/view/application/destinations/peru.phtml, line: 381
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 762
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 759
 msgid "Top attractions in"
 msgstr ""
 #
@@ -15248,7 +15255,7 @@ msgid "Embark on a journey to Peru, a land where the echoes of ancient civilizat
 msgstr ""
 #
 # File: module/Application/view/application/destinations/peru.phtml, line: 103
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 57
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 56
 msgid "WELCOME TO"
 msgstr ""
 #
@@ -15267,7 +15274,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 117
 # File: module/Application/view/application/destinations/peru.phtml, line: 296
 # File: module/Application/view/application/destinations/peru.phtml, line: 347
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 73
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 70
 msgid "Reserve"
 msgstr ""
 #
@@ -15294,13 +15301,13 @@ msgstr ""
 # File: module/Application/view/application/destinations/peru.phtml, line: 244
 # File: module/Application/view/application/destinations/peru.phtml, line: 256
 # File: module/Application/view/application/destinations/peru.phtml, line: 268
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 91
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 103
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 115
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 129
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 141
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 153
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 165
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 88
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 100
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 112
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 126
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 138
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 150
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 162
 msgid "See more"
 msgstr ""
 #
@@ -15358,7 +15365,7 @@ msgid "Located on top of a mountain in the middle of a tropical forest, it is co
 msgstr ""
 #
 # File: module/Application/view/application/destinations/peru.phtml, line: 355
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 872
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 869
 msgid "Best lodging options in"
 msgstr ""
 #
@@ -15427,83 +15434,83 @@ msgstr ""
 msgid "Luxurious overwater bungalows extending into the calm sea at a secluded resort in the Bahamas, epitomizing paradise"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 32
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 31
 msgid "The Islands of The Bahamas"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 33
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 32
 msgid "Embark on a journey to the heart of paradise with a visit to the sun-kissed shores of the Bahamas. This archipelago, a tapestry of over 700 islands and cays, offers an escape unlike any other, where the sands are as white as the smiles of the locals and the sea a mesmerizing shade of turquoise."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 59
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 58
 msgid "The best kept secret of The Bahamas is the country's sheer size and diversity. With 16 major islands, The Bahamas is an unmatched destination, a heart-pounding adventure across 100,000 square miles of the world's clearest ocean"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 71
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 68
 msgid "Discover the unparalleled beauty and vibrant culture of the Bahamas"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 72
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 69
 msgid "Bahamas is a tropical paradise that promises an unforgettable escape. With its pristine white-sand beaches, crystal-clear turquoise waters, and luxurious resorts, the Bahamas is the perfect destination for relaxation and adventure. Explore the rich history and traditions of the islands, indulge in world-class dining and unique Bahamian cuisine, and experience thrilling activities like boating, diving, and swimming with the famous Exuma pigs. Whether you're seeking a romantic getaway, a family vacation, or an adventure-filled holiday, the Bahamas offers something for everyone. Come and create memories that will last a lifetime in this stunning archipelago."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 88
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 85
 msgid "Boating"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 89
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 86
 msgid "Sail through the crystal-clear waters of the Bahamas and discover hidden gems on your boating adventure."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 100
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 97
 msgid "Romance"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 101
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 98
 msgid "Experience a romantic getaway on the pristine beaches of the Bahamas, where every sunset feels like a private show."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 112
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 109
 msgid "Culture"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 113
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 110
 msgid "Immerse yourself in the vibrant Bahamian culture with lively Junkanoo parades and rich historical traditions."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 126
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 123
 msgid "Landmarks"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 127
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 124
 msgid "Explore iconic landmarks like the majestic Atlantis Paradise Island Resort, where luxury meets breathtaking beauty."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 138
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 135
 msgid "Fishing"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 139
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 136
 msgid "Cast your line in the bountiful waters of the Bahamas, a paradise for fishing enthusiasts of all levels."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 150
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 147
 msgid "Diving"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 151
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 148
 msgid "Dive into the Bahama's underwater world, teeming with colorful coral reefs and diverse marine life."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 162
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 159
 msgid "Swimming with the Pigs"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 163
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 160
 msgid "Enjoy a unique experience swimming with the friendly pigs in the Bahama's crystal-clear shallows."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/bahamas.phtml, line: 259
+# File: module/Application/view/application/destinations/bahamas.phtml, line: 256
 msgid "Best Flights To"
 msgstr ""
 #
