@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-30 12:13-0400\n"
+"POT-Creation-Date: 2025-07-31 12:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -480,11 +480,47 @@ msgstr ""
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 209
+# File: module/Application/src/Controller/HotelsController.php, line: 212
+# File: module/Application/view/application/hotels/summary.phtml, line: 505
 msgid "Your Customized Hotel Quote – Ready for Your Review!"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 6082
+# File: module/Application/src/Controller/HotelsController.php, line: 214
+# File: module/Application/view/application/hotels/summary.phtml, line: 506
+msgid "Hotel Quote for You – Finalized and Ready!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 216
+# File: module/Application/view/application/hotels/summary.phtml, line: 507
+msgid "We have the perfect package for your next adventure – Click to discover it!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 218
+# File: module/Application/view/application/hotels/summary.phtml, line: 508
+msgid "Your dream trip to"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 218
+# File: module/Application/view/application/hotels/summary.phtml, line: 508
+msgid "is waiting for you!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 220
+# File: module/Application/view/application/hotels/summary.phtml, line: 509
+msgid "Check your quote for"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 220
+# File: module/Application/view/application/hotels/summary.phtml, line: 509
+msgid "and book today!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 222
+# File: module/Application/view/application/hotels/summary.phtml, line: 510
+msgid "Your Hotel Quote Is Ready – Review & Confirm Now!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 6097
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
@@ -1735,9 +1771,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 1238
 # File: module/Application/view/application/hotels/info.phtml, line: 1278
 # File: module/Application/view/application/hotels/payment.phtml, line: 586
-# File: module/Application/view/application/hotels/summary.phtml, line: 504
-# File: module/Application/view/application/hotels/summary.phtml, line: 529
-# File: module/Application/view/application/hotels/summary.phtml, line: 643
+# File: module/Application/view/application/hotels/summary.phtml, line: 533
+# File: module/Application/view/application/hotels/summary.phtml, line: 558
+# File: module/Application/view/application/hotels/summary.phtml, line: 683
 # File: module/Application/view/application/transfers/search.phtml, line: 298
 # File: module/Application/view/application/transfers/search.phtml, line: 310
 # File: module/Application/view/application/transfers/summary.phtml, line: 446
@@ -2831,7 +2867,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 424
 # File: module/Application/view/application/hotels/summary.phtml, line: 438
 # File: module/Application/view/application/hotels/summary.phtml, line: 449
-# File: module/Application/view/application/hotels/summary.phtml, line: 491
+# File: module/Application/view/application/hotels/summary.phtml, line: 520
 # File: module/Application/view/application/hotels/brands.phtml, line: 336
 # File: module/Application/view/application/transfers/confirm.phtml, line: 274
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
@@ -2876,6 +2912,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/summary.phtml, line: 385
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 835
+# File: module/Application/view/application/hotels/summary.phtml, line: 503
 msgid "Subject:"
 msgstr ""
 #
@@ -8374,31 +8411,37 @@ msgid "Select Language"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 171
+# File: module/Application/view/application/hotels/summary.phtml, line: 491
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "English"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 174
+# File: module/Application/view/application/hotels/summary.phtml, line: 492
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "Spanish"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 177
+# File: module/Application/view/application/hotels/summary.phtml, line: 494
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "French"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 180
+# File: module/Application/view/application/hotels/summary.phtml, line: 497
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "Italian"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 183
+# File: module/Application/view/application/hotels/summary.phtml, line: 493
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "Portuguese"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 186
+# File: module/Application/view/application/hotels/summary.phtml, line: 495
 # File: module/Application/view/application/login/profile.phtml, line: 77
 msgid "German"
 msgstr ""
@@ -8412,6 +8455,7 @@ msgid "Korean"
 msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 195
+# File: module/Application/view/application/hotels/summary.phtml, line: 498
 msgid "Russian"
 msgstr ""
 #
@@ -10947,9 +10991,9 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 939
 # File: module/Application/view/application/air/summary.phtml, line: 1072
 # File: module/Application/view/application/air/summary.phtml, line: 1077
-# File: module/Application/view/application/hotels/summary.phtml, line: 492
-# File: module/Application/view/application/hotels/summary.phtml, line: 658
-# File: module/Application/view/application/hotels/summary.phtml, line: 663
+# File: module/Application/view/application/hotels/summary.phtml, line: 521
+# File: module/Application/view/application/hotels/summary.phtml, line: 702
+# File: module/Application/view/application/hotels/summary.phtml, line: 707
 # File: module/Application/view/application/quotes/air.phtml, line: 905
 # File: module/Application/view/application/quotes/air.phtml, line: 1029
 # File: module/Application/view/application/quotes/air.phtml, line: 1034
@@ -12232,6 +12276,26 @@ msgstr ""
 # File: module/Application/view/application2/hotels/summary.phtml, line: 264
 # File: module/Application/view/application2/hotels/payment.phtml, line: 84
 msgid "Check out:"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/summary.phtml, line: 489
+msgid "Language:"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/summary.phtml, line: 496
+msgid "Armenian"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/summary.phtml, line: 499
+msgid "Greek"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/summary.phtml, line: 511
+msgid "Custom subject line. Write your own subject!"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/summary.phtml, line: 515
+msgid "Write your own subject here!"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/list.phtml, line: 11
