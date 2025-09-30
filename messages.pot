@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-30 02:04-0400\n"
+"POT-Creation-Date: 2025-09-30 08:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18043,4 +18043,272 @@ msgstr ""
 #
 # File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 41
 msgid "test"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 63
+msgid "messengers.telegram.config.api_key"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 80
+msgid "messengers.telegram.config.channel"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 121
+msgid "messengers.line_notify.config.access_token"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 163
+msgid "messengers.slack.config.bot_token"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 180
+msgid "messengers.slack.config.channel"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 221
+msgid "messengers.slack_webhook.config.webhook_url"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 261
+msgid "messengers.rocket_chat.config.server_url"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 278
+msgid "messengers.rocket_chat.config.user_id"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 295
+msgid "messengers.rocket_chat.config.access_token"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 312
+msgid "messengers.rocket_chat.config.channel"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 353
+msgid "messengers.smtp.config.host"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 370
+msgid "messengers.smtp.config.port"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 431
+msgid "messengers.smtp.config.user"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 448
+msgid "messengers.smtp.config.pass"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 465
+msgid "messengers.smtp.config.sender"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 482
+msgid "messengers.smtp.config.recipients"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 524
+msgid "messengers.native_php_mail.config.sender"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 541
+msgid "messengers.native_php_mail.config.recipients"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 583
+msgid "messengers.sendgrid.config.api_key"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 600
+msgid "messengers.sendgrid.config.sender"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 617
+msgid "messengers.sendgrid.config.recipients"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 659
+msgid "messengers.mailgun.config.api_key"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 676
+msgid "messengers.mailgun.config.domain_name"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 693
+msgid "messengers.mailgun.config.sender"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/messenger/modules.php, line: 710
+msgid "messengers.mailgun.config.recipients"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/admin_login.php, line: 39
+msgid "admin.user"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/admin_login.php, line: 53
+msgid "admin.pass"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/admin_login.php, line: 64
+msgid "admin.last_modified"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/captchas.php, line: 54
+msgid "captcha_modules.recaptcha.config.site_key"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/captchas.php, line: 79
+msgid "captcha_modules.recaptcha.config.secret_key"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/captchas.php, line: 142
+msgid "captcha_modules.recaptcha.config.lang"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/captchas.php, line: 236
+msgid "captcha_modules.image.config.length"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 123
+msgid "drivers.file.directory_path"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 163
+msgid "drivers.mysql.host"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 173
+msgid "drivers.mysql.dbname"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 183
+msgid "drivers.mysql.user"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 193
+msgid "drivers.mysql.pass"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 203
+msgid "drivers.mysql.charset"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 224
+msgid "drivers.redis.host"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 234
+msgid "drivers.redis.port"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 244
+msgid "drivers.redis.auth"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 274
+msgid "drivers.sqlite.directory_path"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 467
+msgid "online_session_limit.config.count"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 493
+msgid "online_session_limit.config.period"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 577
+msgid "loggers.action.config.directory_path"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 641
+msgid "iptables.config.watching_folder"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 721
+msgid "record_attempt.detection_period"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 743
+msgid "record_attempt.time_to_reset"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 790
+msgid "events.failed_attempts_in_a_row.data_circle.buffer"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/daemon.php, line: 852
+msgid "events.failed_attempts_in_a_row.system_firewall.buffer"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/dialog_ui.php, line: 83
+msgid "dialog_ui.background_image"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/dialog_ui.php, line: 109
+msgid "dialog_ui.bg_color"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/dialog_ui.php, line: 145
+msgid "dialog_ui.header_bg_color"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/dialog_ui.php, line: 167
+msgid "dialog_ui.header_color"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/dialog_ui.php, line: 186
+msgid "dialog_ui.shadow_opacity"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 78
+msgid "filters.frequency.config.quota_s"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 94
+msgid "filters.frequency.config.quota_m"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 116
+msgid "filters.frequency.config.quota_h"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 132
+msgid "filters.frequency.config.quota_d"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 184
+msgid "filters.cookie.config.quota"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 210
+msgid "filters.cookie.config.cookie_name"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 230
+msgid "filters.cookie.config.cookie_value"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 250
+msgid "filters.cookie.config.cookie_domain"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 303
+msgid "filters.session.config.quota"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 329
+msgid "filters.session.config.time_buffer"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 383
+msgid "filters.referer.config.quota"
+msgstr ""
+#
+# File: vendor/shieldon/shieldon/templates/panel/setting/filters.php, line: 409
+msgid "filters.referer.config.time_buffer"
 msgstr ""
