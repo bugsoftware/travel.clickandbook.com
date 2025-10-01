@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-01 01:52-0400\n"
+"POT-Creation-Date: 2025-10-01 15:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2066,7 +2066,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 249
 # File: module/Application/view/application/insurances/search.phtml, line: 325
 # File: module/Application/view/application/insurances/search.phtml, line: 360
-# File: module/Application/view/application/login/rewards.phtml, line: 59
+# File: module/Application/view/application/login/rewards.phtml, line: 62
 # File: module/Application/view/application/login/coupons.phtml, line: 39
 # File: module/Application/view/application/agent/reservations.phtml, line: 136
 # File: module/Application/view/application/agent/agents.phtml, line: 73
@@ -9936,7 +9936,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 314
 # File: module/Application/view/application/transfers/search.phtml, line: 9
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
-# File: module/Application/view/application/login/rewards.phtml, line: 59
+# File: module/Application/view/application/login/rewards.phtml, line: 62
 # File: module/Application/view/application/login/coupons.phtml, line: 39
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 200
 # File: module/Application/view/application/cart/confirm.phtml, line: 19
@@ -11603,7 +11603,7 @@ msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 513
-# File: module/Application/view/application/login/rewards.phtml, line: 90
+# File: module/Application/view/application/login/rewards.phtml, line: 93
 # File: module/Application/view/application/login/coupons.phtml, line: 55
 # File: module/Application/view/application/agent/reservations.phtml, line: 168
 # File: module/Application/view/application/agent/agents.phtml, line: 106
@@ -11620,7 +11620,7 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 517
 # File: module/Application/view/application/login/index.phtml, line: 127
 # File: module/Application/view/application/login/signout.phtml, line: 124
-# File: module/Application/view/application/login/rewards.phtml, line: 95
+# File: module/Application/view/application/login/rewards.phtml, line: 98
 # File: module/Application/view/application/login/coupons.phtml, line: 60
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
@@ -11636,7 +11636,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 519
 # File: module/Application/view/application/login/signout.phtml, line: 16
-# File: module/Application/view/application/login/rewards.phtml, line: 98
+# File: module/Application/view/application/login/rewards.phtml, line: 101
 # File: module/Application/view/application/login/coupons.phtml, line: 63
 # File: module/Application/view/application/agent/reservations.phtml, line: 180
 # File: module/Application/view/application/agent/agents.phtml, line: 114
@@ -13481,7 +13481,7 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 127
 # File: module/Application/view/application/login/settings.phtml, line: 8
 # File: module/Application/view/application/login/signout.phtml, line: 124
-# File: module/Application/view/application/login/rewards.phtml, line: 96
+# File: module/Application/view/application/login/rewards.phtml, line: 99
 # File: module/Application/view/application/login/coupons.phtml, line: 61
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
@@ -14067,20 +14067,28 @@ msgstr ""
 msgid "Car"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 51
+# File: module/Application/view/application/login/rewards.phtml, line: 44
+# File: module/Application/view/application/booking/details.phtml, line: 83
+# File: module/Application/view/application/booking/details.phtml, line: 215
+# File: module/Application/view/application/agent/reservations.phtml, line: 23
+# File: module/Application/view/application/agent/commissions.phtml, line: 121
+msgid "Cancelled"
+msgstr ""
+#
+# File: module/Application/view/application/login/rewards.phtml, line: 54
 # File: module/Application/view/application/login/coupons.phtml, line: 31
 msgid "Points"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 51
+# File: module/Application/view/application/login/rewards.phtml, line: 54
 msgid "points"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 51
+# File: module/Application/view/application/login/rewards.phtml, line: 54
 msgid "available on"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 59
+# File: module/Application/view/application/login/rewards.phtml, line: 62
 # File: module/Application/view/application/login/coupons.phtml, line: 39
 # File: module/Application/view/application/agent/reservations.phtml, line: 136
 # File: module/Application/view/application/agent/agents.phtml, line: 73
@@ -14090,21 +14098,21 @@ msgstr ""
 msgid "Showing"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 76
+# File: module/Application/view/application/login/rewards.phtml, line: 79
 # File: module/Application/view/application2/agent/reservations.phtml, line: 308
 msgid "POINTS"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 78
+# File: module/Application/view/application/login/rewards.phtml, line: 81
 msgid "Available On"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 93
+# File: module/Application/view/application/login/rewards.phtml, line: 96
 # File: module/Application/view/application/login/coupons.phtml, line: 58
 msgid "My Trips"
 msgstr ""
 #
-# File: module/Application/view/application/login/rewards.phtml, line: 94
+# File: module/Application/view/application/login/rewards.phtml, line: 97
 # File: module/Application/view/application/login/coupons.phtml, line: 10
 # File: module/Application/view/layout/layout.phtml, line: 376
 msgid "Coupons"
@@ -15354,13 +15362,6 @@ msgstr ""
 # File: module/Application/view/application/booking/details.phtml, line: 211
 # File: module/Application/view/application/agent/reservations.phtml, line: 22
 msgid "Confirmed"
-msgstr ""
-#
-# File: module/Application/view/application/booking/details.phtml, line: 83
-# File: module/Application/view/application/booking/details.phtml, line: 215
-# File: module/Application/view/application/agent/reservations.phtml, line: 23
-# File: module/Application/view/application/agent/commissions.phtml, line: 121
-msgid "Cancelled"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 164
