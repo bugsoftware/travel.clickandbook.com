@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-15 11:10-0400\n"
+"POT-Creation-Date: 2025-10-15 11:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 3620
+# File: module/Application/src/Controller/ActivitiesController.php, line: 3632
 # File: module/Application/src/Controller/CartController.php, line: 2508
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 3633
+# File: module/Application/src/Controller/ActivitiesController.php, line: 3645
 # File: module/Application/src/Controller/CartController.php, line: 2521
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 741
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 409
@@ -31,12 +31,12 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 3633
+# File: module/Application/src/Controller/ActivitiesController.php, line: 3645
 # File: module/Application/src/Controller/CartController.php, line: 2521
 msgid "will incur in"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 3633
+# File: module/Application/src/Controller/ActivitiesController.php, line: 3645
 # File: module/Application/src/Controller/CartController.php, line: 2521
 msgid "penalty."
 msgstr ""
@@ -499,7 +499,7 @@ msgstr ""
 msgid "Your Hotel Quote Is Ready – Review & Confirm Now!"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 6480
+# File: module/Application/src/Controller/HotelsController.php, line: 6481
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
@@ -11496,12 +11496,33 @@ msgid "Leave empty if you don't have frequent flyer number for this airline"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 272
+# File: module/Application/view/application/air/passengers.phtml, line: 275
 # File: module/Application/view/application/air/passengers.phtml, line: 911
 # File: module/Application/view/application/hotels/passengers.phtml, line: 207
+# File: module/Application/view/application/hotels/passengers.phtml, line: 210
 # File: module/Application/view/application/hotels/passengers.phtml, line: 649
 # File: module/Application/view/application/cart/passengers.phtml, line: 417
+# File: module/Application/view/application/cart/passengers.phtml, line: 420
 # File: module/Application/view/application/cart/passengers.phtml, line: 1115
 msgid "Would you like to use your points?"
+msgstr ""
+#
+# File: module/Application/view/application/air/passengers.phtml, line: 275
+# File: module/Application/view/application/air/passengers.phtml, line: 911
+# File: module/Application/view/application/hotels/passengers.phtml, line: 210
+# File: module/Application/view/application/hotels/passengers.phtml, line: 649
+# File: module/Application/view/application/cart/passengers.phtml, line: 420
+# File: module/Application/view/application/cart/passengers.phtml, line: 1115
+msgid "You currently have"
+msgstr ""
+#
+# File: module/Application/view/application/air/passengers.phtml, line: 275
+# File: module/Application/view/application/air/passengers.phtml, line: 911
+# File: module/Application/view/application/hotels/passengers.phtml, line: 210
+# File: module/Application/view/application/hotels/passengers.phtml, line: 649
+# File: module/Application/view/application/cart/passengers.phtml, line: 420
+# File: module/Application/view/application/cart/passengers.phtml, line: 1115
+msgid "points available"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 279
@@ -11530,18 +11551,6 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 159
 # File: module/Application/view/application/cart/payment.phtml, line: 141
 msgid "Please be aware that airline tickets will not be issued until the Terms and Conditions have been signed. This step is crucial to ensure all parties are in agreement and to avoid any potential issues with your booking."
-msgstr ""
-#
-# File: module/Application/view/application/air/passengers.phtml, line: 911
-# File: module/Application/view/application/hotels/passengers.phtml, line: 649
-# File: module/Application/view/application/cart/passengers.phtml, line: 1115
-msgid "You currently have"
-msgstr ""
-#
-# File: module/Application/view/application/air/passengers.phtml, line: 911
-# File: module/Application/view/application/hotels/passengers.phtml, line: 649
-# File: module/Application/view/application/cart/passengers.phtml, line: 1115
-msgid "points available"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 47
