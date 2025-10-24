@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 09:11-0400\n"
+"POT-Creation-Date: 2025-10-24 12:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 250
-# File: module/Application/src/Controller/JSONController.php, line: 2361
+# File: module/Application/src/Controller/JSONController.php, line: 2434
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/search.phtml, line: 80
 # File: module/Application/view/application/index/index.phtml, line: 27
@@ -29,7 +29,7 @@ msgid "Asia"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 253
-# File: module/Application/src/Controller/JSONController.php, line: 2364
+# File: module/Application/src/Controller/JSONController.php, line: 2437
 # File: module/Application/view/application/index/index.phtml, line: 35
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 358
@@ -38,7 +38,7 @@ msgid "Africa"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 256
-# File: module/Application/src/Controller/JSONController.php, line: 2367
+# File: module/Application/src/Controller/JSONController.php, line: 2440
 # File: module/Application/view/application/cruises/index.phtml, line: 50
 # File: module/Application/view/application/cruises/search.phtml, line: 77
 # File: module/Application/view/application/index/index.phtml, line: 179
@@ -55,7 +55,7 @@ msgid "North America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 259
-# File: module/Application/src/Controller/JSONController.php, line: 2370
+# File: module/Application/src/Controller/JSONController.php, line: 2443
 # File: module/Application/view/application/index/index.phtml, line: 179
 # File: module/Application/view/application/index/index.phtml, line: 181
 # File: module/Application/view/application/index/index.phtml, line: 187
@@ -71,7 +71,7 @@ msgid "South America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 262
-# File: module/Application/src/Controller/JSONController.php, line: 2373
+# File: module/Application/src/Controller/JSONController.php, line: 2446
 # File: module/Application/view/application/cruises/index.phtml, line: 52
 # File: module/Application/view/application/cruises/search.phtml, line: 79
 # File: module/Application/view/application/index/index.phtml, line: 15
@@ -93,8 +93,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 265
 # File: module/Application/src/Controller/EscortedToursController.php, line: 268
-# File: module/Application/src/Controller/JSONController.php, line: 2376
-# File: module/Application/src/Controller/JSONController.php, line: 2379
+# File: module/Application/src/Controller/JSONController.php, line: 2449
+# File: module/Application/src/Controller/JSONController.php, line: 2452
 # File: module/Application/view/application/cruises/index.phtml, line: 54
 # File: module/Application/view/application/cruises/search.phtml, line: 81
 # File: module/Application/view/application/index/index.phtml, line: 783
@@ -507,8 +507,8 @@ msgstr ""
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 2212
-# File: module/Application/src/Controller/JSONController.php, line: 3064
+# File: module/Application/src/Controller/JSONController.php, line: 2285
+# File: module/Application/src/Controller/JSONController.php, line: 3137
 # File: module/Application/view/application/index/index.phtml, line: 2125
 # File: module/Application/view/application/index/index.phtml, line: 2196
 # File: module/Application/view/application/index/index.phtml, line: 2342
@@ -2935,6 +2935,8 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 1000
 # File: module/Application/view/application/cart/passengers.phtml, line: 1041
 # File: module/Application/view/application/cart/confirm.phtml, line: 808
+# File: module/Application/view/application/content/cms_content.phtml, line: 32
+# File: module/Application/view/application/content/cms_content.phtml, line: 36
 # File: module/Application/view/application/booking/paynow.phtml, line: 742
 # File: module/Application/view/application/booking/paynow.phtml, line: 745
 # File: module/Application/view/application/booking/details.phtml, line: 392
@@ -12946,6 +12948,7 @@ msgid "Check out:"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/summary.phtml, line: 531
+# File: module/Application/view/application/content/cms_content.phtml, line: 31
 # File: module/Application/view/application/destinations/index.phtml, line: 113
 # File: module/Application/view/application/destinations/index.phtml, line: 391
 # File: module/Application/view/application/destinations/index.phtml, line: 557
@@ -15699,6 +15702,51 @@ msgstr ""
 msgid "Special Offer!"
 msgstr ""
 #
+# File: module/Application/view/application/content/cms_content.phtml, line: 20
+msgid "Edit"
+msgstr ""
+#
+# File: module/Application/view/application/content/cms_content.phtml, line: 20
+msgid "Column"
+msgstr ""
+#
+# File: module/Application/view/application/content/cms_content.phtml, line: 20
+msgid "Row"
+msgstr ""
+#
+# File: module/Application/view/application/content/cms_content.phtml, line: 31
+# File: module/Application/view/application/destinations/index.phtml, line: 98
+# File: module/Application/view/application/destinations/index.phtml, line: 113
+# File: module/Application/view/application/destinations/index.phtml, line: 386
+# File: module/Application/view/application/destinations/index.phtml, line: 391
+# File: module/Application/view/application/destinations/index.phtml, line: 536
+# File: module/Application/view/application/destinations/index.phtml, line: 547
+# File: module/Application/view/application/destinations/index.phtml, line: 557
+msgid "Edit Content"
+msgstr ""
+#
+# File: module/Application/view/application/content/cms_content.phtml, line: 37
+# File: module/Application/view/application/content/cms_content.phtml, line: 91
+# File: module/Application/view/application/content/cms_content.phtml, line: 99
+# File: module/Application/view/application/destinations/index.phtml, line: 121
+# File: module/Application/view/application/destinations/index.phtml, line: 146
+# File: module/Application/view/application/destinations/index.phtml, line: 151
+# File: module/Application/view/application/destinations/index.phtml, line: 399
+# File: module/Application/view/application/destinations/index.phtml, line: 428
+# File: module/Application/view/application/destinations/index.phtml, line: 433
+# File: module/Application/view/application/destinations/index.phtml, line: 565
+# File: module/Application/view/application/destinations/index.phtml, line: 590
+# File: module/Application/view/application/destinations/index.phtml, line: 595
+msgid "Save changes"
+msgstr ""
+#
+# File: module/Application/view/application/content/cms_content.phtml, line: 80
+# File: module/Application/view/application/destinations/index.phtml, line: 139
+# File: module/Application/view/application/destinations/index.phtml, line: 421
+# File: module/Application/view/application/destinations/index.phtml, line: 583
+msgid "Please wait...."
+msgstr ""
+#
 # File: module/Application/view/application/booking/paynow.phtml, line: 25
 # File: module/Application/view/application/booking/paynow.phtml, line: 501
 msgid "Thank you for updating your credit card information."
@@ -16034,36 +16082,8 @@ msgstr ""
 msgid "Validation code is required! Please input your validation code."
 msgstr ""
 #
-# File: module/Application/view/application/destinations/index.phtml, line: 98
-# File: module/Application/view/application/destinations/index.phtml, line: 113
-# File: module/Application/view/application/destinations/index.phtml, line: 386
-# File: module/Application/view/application/destinations/index.phtml, line: 391
-# File: module/Application/view/application/destinations/index.phtml, line: 536
-# File: module/Application/view/application/destinations/index.phtml, line: 547
-# File: module/Application/view/application/destinations/index.phtml, line: 557
-msgid "Edit Content"
-msgstr ""
-#
 # File: module/Application/view/application/destinations/index.phtml, line: 100
 msgid "Best Months to Travel to"
-msgstr ""
-#
-# File: module/Application/view/application/destinations/index.phtml, line: 121
-# File: module/Application/view/application/destinations/index.phtml, line: 146
-# File: module/Application/view/application/destinations/index.phtml, line: 151
-# File: module/Application/view/application/destinations/index.phtml, line: 399
-# File: module/Application/view/application/destinations/index.phtml, line: 428
-# File: module/Application/view/application/destinations/index.phtml, line: 433
-# File: module/Application/view/application/destinations/index.phtml, line: 565
-# File: module/Application/view/application/destinations/index.phtml, line: 590
-# File: module/Application/view/application/destinations/index.phtml, line: 595
-msgid "Save changes"
-msgstr ""
-#
-# File: module/Application/view/application/destinations/index.phtml, line: 139
-# File: module/Application/view/application/destinations/index.phtml, line: 421
-# File: module/Application/view/application/destinations/index.phtml, line: 583
-msgid "Please wait...."
 msgstr ""
 #
 # File: module/Application/view/application/destinations/index.phtml, line: 199
