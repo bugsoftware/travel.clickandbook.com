@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 12:43-0400\n"
+"POT-Creation-Date: 2025-10-27 09:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,48 +115,48 @@ msgstr ""
 msgid "Triple"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 271
+# File: module/Application/src/Controller/AirController.php, line: 338
 msgid "Your Personalized Flight Quote – Ready for Review!"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1212
+# File: module/Application/src/Controller/AirController.php, line: 1279
 msgid "Book Flights, Hotels, Cars and More"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1213
+# File: module/Application/src/Controller/AirController.php, line: 1280
 msgid "is the world's leading airline. Book flights, hotels, cars and more on our site and enjoy our award-winning service and in-flight entertainment."
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 # File: module/Application/view/application/packages/info.phtml, line: 32
 msgid "flights"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 msgid "tickets"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 msgid "travel"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 # File: module/Application/view/application/packages/info.phtml, line: 42
 msgid "hotels"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 # File: module/Application/view/application/packages/info.phtml, line: 57
 msgid "cars"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 # File: module/Application/view/offers/airline/index.phtml, line: 211
 # File: module/Application/view/offers/airline/index.phtml, line: 212
 msgid "deals"
 msgstr ""
 #
-# File: module/Application/src/Controller/AirController.php, line: 1214
+# File: module/Application/src/Controller/AirController.php, line: 1281
 msgid "destinations"
 msgstr ""
 #
@@ -1605,6 +1605,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/search.phtml, line: 403
 # File: module/Application/view/application/cruises/passengers.phtml, line: 132
 # File: module/Application/view/application/air/summary.phtml, line: 516
+# File: module/Application/view/application/air/charters.phtml, line: 85
 # File: module/Application/view/application/transfers/search.phtml, line: 253
 # File: module/Application/view/application/transfers/search.phtml, line: 341
 # File: module/Application/view/application/content/blackfriday.phtml, line: 71
@@ -6255,6 +6256,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 256
 # File: module/Application/view/application/air/return.phtml, line: 284
 # File: module/Application/view/application/air/segment.phtml, line: 69
+# File: module/Application/view/application/air/charters.phtml, line: 8
 # File: module/Application/view/application/trip-planner/select.phtml, line: 151
 # File: module/Application/view/application/agent/subagent.phtml, line: 70
 # File: module/Application/view/layout/layout.phtml, line: 265
@@ -12048,6 +12050,18 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 883
 msgid "Are you sure you want to issue tickets for this reservation using cash as a form of payment?"
+msgstr ""
+#
+# File: module/Application/view/application/air/charters.phtml, line: 70
+msgid "spaces"
+msgstr ""
+#
+# File: module/Application/view/application/air/charters.phtml, line: 85
+msgid "round trip"
+msgstr ""
+#
+# File: module/Application/view/application/air/charters.phtml, line: 85
+msgid "one way"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/index.phtml, line: 47
