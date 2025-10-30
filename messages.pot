@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 13:22-0400\n"
+"POT-Creation-Date: 2025-10-30 17:32-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -785,6 +785,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm.phtml, line: 94
 # File: module/Application/view/application/transfers/confirm.phtml, line: 212
 # File: module/Application/view/application/cars/index.phtml, line: 759
+# File: module/Application/view/application/insurances/search.phtml, line: 108
 # File: module/Application/view/application/insurances/summary.phtml, line: 140
 # File: module/Application/view/application/insurances/passengers.phtml, line: 240
 # File: module/Application/view/application/insurances/payment.phtml, line: 115
@@ -949,6 +950,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm.phtml, line: 100
 # File: module/Application/view/application/transfers/confirm.phtml, line: 218
 # File: module/Application/view/application/cars/index.phtml, line: 757
+# File: module/Application/view/application/insurances/search.phtml, line: 108
 # File: module/Application/view/application/insurances/summary.phtml, line: 141
 # File: module/Application/view/application/insurances/passengers.phtml, line: 59
 # File: module/Application/view/application/insurances/passengers.phtml, line: 241
@@ -1409,8 +1411,8 @@ msgstr ""
 # File: module/Application/view/application/cars/summary.phtml, line: 15
 # File: module/Application/view/application/cars/passengers.phtml, line: 18
 # File: module/Application/view/application/cars/payment.phtml, line: 17
-# File: module/Application/view/application/insurances/search.phtml, line: 159
-# File: module/Application/view/application/insurances/search.phtml, line: 160
+# File: module/Application/view/application/insurances/search.phtml, line: 165
+# File: module/Application/view/application/insurances/search.phtml, line: 166
 # File: module/Application/view/application/insurances/payment.phtml, line: 17
 # File: module/Application/view/application/login/profile.phtml, line: 23
 # File: module/Application/view/application/packages/confirm.phtml, line: 18
@@ -1440,8 +1442,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 1461
 # File: module/Application/view/application/hotels/list.phtml, line: 527
 # File: module/Application/view/application/hotels/brands.phtml, line: 255
-# File: module/Application/view/application/insurances/search.phtml, line: 196
-# File: module/Application/view/application/insurances/search.phtml, line: 303
+# File: module/Application/view/application/insurances/search.phtml, line: 202
+# File: module/Application/view/application/insurances/search.phtml, line: 309
 # File: module/Application/view/application/trip-planner/select.phtml, line: 719
 # File: module/Application/view/application/content/blackfriday.phtml, line: 24
 # File: module/Application/view/application/content/cyberweek.phtml, line: 24
@@ -1461,8 +1463,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 1461
 # File: module/Application/view/application/hotels/list.phtml, line: 531
 # File: module/Application/view/application/hotels/brands.phtml, line: 256
-# File: module/Application/view/application/insurances/search.phtml, line: 197
-# File: module/Application/view/application/insurances/search.phtml, line: 304
+# File: module/Application/view/application/insurances/search.phtml, line: 203
+# File: module/Application/view/application/insurances/search.phtml, line: 310
 # File: module/Application/view/application/trip-planner/select.phtml, line: 723
 # File: module/Application/view/application/content/blackfriday.phtml, line: 28
 # File: module/Application/view/application/content/cyberweek.phtml, line: 28
@@ -1581,7 +1583,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 731
 # File: module/Application/view/application/cars/passengers.phtml, line: 388
 # File: module/Application/view/application/insurances/index.phtml, line: 482
-# File: module/Application/view/application/insurances/search.phtml, line: 414
+# File: module/Application/view/application/insurances/search.phtml, line: 420
 # File: module/Application/view/application/insurances/summary.phtml, line: 23
 # File: module/Application/view/application/insurances/passengers.phtml, line: 401
 # File: module/Application/view/application/login/profile.phtml, line: 382
@@ -2078,10 +2080,10 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 834
 # File: module/Application/view/application/air/segment.phtml, line: 273
 # File: module/Application/view/application/air/segment.phtml, line: 424
-# File: module/Application/view/application/insurances/search.phtml, line: 216
-# File: module/Application/view/application/insurances/search.phtml, line: 249
-# File: module/Application/view/application/insurances/search.phtml, line: 325
-# File: module/Application/view/application/insurances/search.phtml, line: 360
+# File: module/Application/view/application/insurances/search.phtml, line: 222
+# File: module/Application/view/application/insurances/search.phtml, line: 255
+# File: module/Application/view/application/insurances/search.phtml, line: 331
+# File: module/Application/view/application/insurances/search.phtml, line: 366
 # File: module/Application/view/application/login/rewards.phtml, line: 66
 # File: module/Application/view/application/login/coupons.phtml, line: 39
 # File: module/Application/view/application/agent/reservations.phtml, line: 136
@@ -2169,7 +2171,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 493
 # File: module/Application/view/application/cars/index.phtml, line: 754
 # File: module/Application/view/application/insurances/index.phtml, line: 505
-# File: module/Application/view/application/insurances/search.phtml, line: 437
+# File: module/Application/view/application/insurances/search.phtml, line: 443
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
 # File: module/Application/view/application/cart/confirm.phtml, line: 162
@@ -4495,7 +4497,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 740
 # File: module/Application/view/application/cars/passengers.phtml, line: 397
 # File: module/Application/view/application/insurances/index.phtml, line: 491
-# File: module/Application/view/application/insurances/search.phtml, line: 423
+# File: module/Application/view/application/insurances/search.phtml, line: 429
 # File: module/Application/view/application/insurances/passengers.phtml, line: 410
 # File: module/Application/view/application/login/profile.phtml, line: 391
 # File: module/Application/view/application/packages/info.phtml, line: 479
@@ -4540,7 +4542,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 741
 # File: module/Application/view/application/cars/passengers.phtml, line: 398
 # File: module/Application/view/application/insurances/index.phtml, line: 492
-# File: module/Application/view/application/insurances/search.phtml, line: 424
+# File: module/Application/view/application/insurances/search.phtml, line: 430
 # File: module/Application/view/application/insurances/passengers.phtml, line: 411
 # File: module/Application/view/application/login/profile.phtml, line: 392
 # File: module/Application/view/application/packages/info.phtml, line: 480
@@ -4585,7 +4587,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 742
 # File: module/Application/view/application/cars/passengers.phtml, line: 399
 # File: module/Application/view/application/insurances/index.phtml, line: 493
-# File: module/Application/view/application/insurances/search.phtml, line: 425
+# File: module/Application/view/application/insurances/search.phtml, line: 431
 # File: module/Application/view/application/insurances/passengers.phtml, line: 412
 # File: module/Application/view/application/login/profile.phtml, line: 393
 # File: module/Application/view/application/packages/info.phtml, line: 481
@@ -4630,7 +4632,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 743
 # File: module/Application/view/application/cars/passengers.phtml, line: 400
 # File: module/Application/view/application/insurances/index.phtml, line: 494
-# File: module/Application/view/application/insurances/search.phtml, line: 426
+# File: module/Application/view/application/insurances/search.phtml, line: 432
 # File: module/Application/view/application/insurances/passengers.phtml, line: 413
 # File: module/Application/view/application/login/profile.phtml, line: 394
 # File: module/Application/view/application/packages/info.phtml, line: 482
@@ -4675,7 +4677,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 744
 # File: module/Application/view/application/cars/passengers.phtml, line: 401
 # File: module/Application/view/application/insurances/index.phtml, line: 495
-# File: module/Application/view/application/insurances/search.phtml, line: 427
+# File: module/Application/view/application/insurances/search.phtml, line: 433
 # File: module/Application/view/application/insurances/passengers.phtml, line: 414
 # File: module/Application/view/application/login/profile.phtml, line: 395
 # File: module/Application/view/application/packages/info.phtml, line: 483
@@ -4720,7 +4722,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 745
 # File: module/Application/view/application/cars/passengers.phtml, line: 402
 # File: module/Application/view/application/insurances/index.phtml, line: 496
-# File: module/Application/view/application/insurances/search.phtml, line: 428
+# File: module/Application/view/application/insurances/search.phtml, line: 434
 # File: module/Application/view/application/insurances/passengers.phtml, line: 415
 # File: module/Application/view/application/login/profile.phtml, line: 396
 # File: module/Application/view/application/packages/info.phtml, line: 484
@@ -4765,7 +4767,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 746
 # File: module/Application/view/application/cars/passengers.phtml, line: 403
 # File: module/Application/view/application/insurances/index.phtml, line: 497
-# File: module/Application/view/application/insurances/search.phtml, line: 429
+# File: module/Application/view/application/insurances/search.phtml, line: 435
 # File: module/Application/view/application/insurances/passengers.phtml, line: 416
 # File: module/Application/view/application/login/profile.phtml, line: 397
 # File: module/Application/view/application/packages/info.phtml, line: 485
@@ -4810,7 +4812,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 747
 # File: module/Application/view/application/cars/passengers.phtml, line: 404
 # File: module/Application/view/application/insurances/index.phtml, line: 498
-# File: module/Application/view/application/insurances/search.phtml, line: 430
+# File: module/Application/view/application/insurances/search.phtml, line: 436
 # File: module/Application/view/application/insurances/passengers.phtml, line: 417
 # File: module/Application/view/application/login/profile.phtml, line: 398
 # File: module/Application/view/application/packages/info.phtml, line: 486
@@ -4855,7 +4857,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 748
 # File: module/Application/view/application/cars/passengers.phtml, line: 405
 # File: module/Application/view/application/insurances/index.phtml, line: 499
-# File: module/Application/view/application/insurances/search.phtml, line: 431
+# File: module/Application/view/application/insurances/search.phtml, line: 437
 # File: module/Application/view/application/insurances/passengers.phtml, line: 418
 # File: module/Application/view/application/login/profile.phtml, line: 399
 # File: module/Application/view/application/packages/info.phtml, line: 487
@@ -4900,7 +4902,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 749
 # File: module/Application/view/application/cars/passengers.phtml, line: 406
 # File: module/Application/view/application/insurances/index.phtml, line: 500
-# File: module/Application/view/application/insurances/search.phtml, line: 432
+# File: module/Application/view/application/insurances/search.phtml, line: 438
 # File: module/Application/view/application/insurances/passengers.phtml, line: 419
 # File: module/Application/view/application/login/profile.phtml, line: 400
 # File: module/Application/view/application/packages/info.phtml, line: 488
@@ -4945,7 +4947,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 750
 # File: module/Application/view/application/cars/passengers.phtml, line: 407
 # File: module/Application/view/application/insurances/index.phtml, line: 501
-# File: module/Application/view/application/insurances/search.phtml, line: 433
+# File: module/Application/view/application/insurances/search.phtml, line: 439
 # File: module/Application/view/application/insurances/passengers.phtml, line: 420
 # File: module/Application/view/application/login/profile.phtml, line: 401
 # File: module/Application/view/application/packages/info.phtml, line: 489
@@ -4990,7 +4992,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 751
 # File: module/Application/view/application/cars/passengers.phtml, line: 408
 # File: module/Application/view/application/insurances/index.phtml, line: 502
-# File: module/Application/view/application/insurances/search.phtml, line: 434
+# File: module/Application/view/application/insurances/search.phtml, line: 440
 # File: module/Application/view/application/insurances/passengers.phtml, line: 421
 # File: module/Application/view/application/login/profile.phtml, line: 402
 # File: module/Application/view/application/packages/info.phtml, line: 490
@@ -6356,7 +6358,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 494
 # File: module/Application/view/application/cars/index.phtml, line: 755
 # File: module/Application/view/application/insurances/index.phtml, line: 506
-# File: module/Application/view/application/insurances/search.phtml, line: 438
+# File: module/Application/view/application/insurances/search.phtml, line: 444
 # File: module/Application/view/application/trip-planner/index.phtml, line: 41
 # File: module/Application/view/application/trip-planner/select.phtml, line: 553
 # File: module/Application/view/application/destinations/index.phtml, line: 1071
@@ -6602,6 +6604,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 192
 # File: module/Application/view/application/transfers/search.phtml, line: 467
 # File: module/Application/view/application/cars/index.phtml, line: 758
+# File: module/Application/view/application/insurances/search.phtml, line: 108
 # File: module/Application/view/application/insurances/summary.phtml, line: 140
 # File: module/Application/view/application/insurances/passengers.phtml, line: 240
 # File: module/Application/view/application/insurances/payment.phtml, line: 115
@@ -6702,6 +6705,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 128
 # File: module/Application/view/application/transfers/search.phtml, line: 495
 # File: module/Application/view/application/cars/index.phtml, line: 756
+# File: module/Application/view/application/insurances/search.phtml, line: 108
 # File: module/Application/view/application/insurances/summary.phtml, line: 141
 # File: module/Application/view/application/insurances/passengers.phtml, line: 241
 # File: module/Application/view/application/insurances/payment.phtml, line: 116
@@ -7445,7 +7449,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 729
 # File: module/Application/view/application/cars/passengers.phtml, line: 386
 # File: module/Application/view/application/insurances/index.phtml, line: 480
-# File: module/Application/view/application/insurances/search.phtml, line: 412
+# File: module/Application/view/application/insurances/search.phtml, line: 418
 # File: module/Application/view/application/insurances/passengers.phtml, line: 399
 # File: module/Application/view/application/login/profile.phtml, line: 380
 # File: module/Application/view/application/packages/info.phtml, line: 468
@@ -7483,7 +7487,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 730
 # File: module/Application/view/application/cars/passengers.phtml, line: 387
 # File: module/Application/view/application/insurances/index.phtml, line: 481
-# File: module/Application/view/application/insurances/search.phtml, line: 413
+# File: module/Application/view/application/insurances/search.phtml, line: 419
 # File: module/Application/view/application/insurances/passengers.phtml, line: 400
 # File: module/Application/view/application/login/profile.phtml, line: 381
 # File: module/Application/view/application/packages/info.phtml, line: 469
@@ -7529,7 +7533,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 732
 # File: module/Application/view/application/cars/passengers.phtml, line: 389
 # File: module/Application/view/application/insurances/index.phtml, line: 483
-# File: module/Application/view/application/insurances/search.phtml, line: 415
+# File: module/Application/view/application/insurances/search.phtml, line: 421
 # File: module/Application/view/application/insurances/summary.phtml, line: 99
 # File: module/Application/view/application/insurances/passengers.phtml, line: 402
 # File: module/Application/view/application/login/profile.phtml, line: 383
@@ -7572,7 +7576,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 733
 # File: module/Application/view/application/cars/passengers.phtml, line: 390
 # File: module/Application/view/application/insurances/index.phtml, line: 484
-# File: module/Application/view/application/insurances/search.phtml, line: 416
+# File: module/Application/view/application/insurances/search.phtml, line: 422
 # File: module/Application/view/application/insurances/passengers.phtml, line: 403
 # File: module/Application/view/application/login/profile.phtml, line: 384
 # File: module/Application/view/application/packages/info.phtml, line: 472
@@ -7610,7 +7614,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 734
 # File: module/Application/view/application/cars/passengers.phtml, line: 391
 # File: module/Application/view/application/insurances/index.phtml, line: 485
-# File: module/Application/view/application/insurances/search.phtml, line: 417
+# File: module/Application/view/application/insurances/search.phtml, line: 423
 # File: module/Application/view/application/insurances/passengers.phtml, line: 404
 # File: module/Application/view/application/login/profile.phtml, line: 385
 # File: module/Application/view/application/packages/info.phtml, line: 473
@@ -7648,7 +7652,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 735
 # File: module/Application/view/application/cars/passengers.phtml, line: 392
 # File: module/Application/view/application/insurances/index.phtml, line: 486
-# File: module/Application/view/application/insurances/search.phtml, line: 418
+# File: module/Application/view/application/insurances/search.phtml, line: 424
 # File: module/Application/view/application/insurances/passengers.phtml, line: 405
 # File: module/Application/view/application/login/profile.phtml, line: 386
 # File: module/Application/view/application/packages/info.phtml, line: 474
@@ -7686,7 +7690,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 736
 # File: module/Application/view/application/cars/passengers.phtml, line: 393
 # File: module/Application/view/application/insurances/index.phtml, line: 487
-# File: module/Application/view/application/insurances/search.phtml, line: 419
+# File: module/Application/view/application/insurances/search.phtml, line: 425
 # File: module/Application/view/application/insurances/passengers.phtml, line: 406
 # File: module/Application/view/application/login/profile.phtml, line: 387
 # File: module/Application/view/application/packages/info.phtml, line: 475
@@ -7724,7 +7728,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 737
 # File: module/Application/view/application/cars/passengers.phtml, line: 394
 # File: module/Application/view/application/insurances/index.phtml, line: 488
-# File: module/Application/view/application/insurances/search.phtml, line: 420
+# File: module/Application/view/application/insurances/search.phtml, line: 426
 # File: module/Application/view/application/insurances/passengers.phtml, line: 407
 # File: module/Application/view/application/login/profile.phtml, line: 388
 # File: module/Application/view/application/packages/info.phtml, line: 476
@@ -7762,7 +7766,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 738
 # File: module/Application/view/application/cars/passengers.phtml, line: 395
 # File: module/Application/view/application/insurances/index.phtml, line: 489
-# File: module/Application/view/application/insurances/search.phtml, line: 421
+# File: module/Application/view/application/insurances/search.phtml, line: 427
 # File: module/Application/view/application/insurances/passengers.phtml, line: 408
 # File: module/Application/view/application/login/profile.phtml, line: 389
 # File: module/Application/view/application/packages/info.phtml, line: 477
@@ -7800,7 +7804,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 739
 # File: module/Application/view/application/cars/passengers.phtml, line: 396
 # File: module/Application/view/application/insurances/index.phtml, line: 490
-# File: module/Application/view/application/insurances/search.phtml, line: 422
+# File: module/Application/view/application/insurances/search.phtml, line: 428
 # File: module/Application/view/application/insurances/passengers.phtml, line: 409
 # File: module/Application/view/application/login/profile.phtml, line: 390
 # File: module/Application/view/application/packages/info.phtml, line: 478
@@ -7846,7 +7850,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 491
 # File: module/Application/view/application/cars/index.phtml, line: 752
 # File: module/Application/view/application/insurances/index.phtml, line: 503
-# File: module/Application/view/application/insurances/search.phtml, line: 435
+# File: module/Application/view/application/insurances/search.phtml, line: 441
 # File: module/Application/view/application/packages/info.phtml, line: 491
 # File: module/Application/view/application/trip-planner/select.phtml, line: 853
 # File: module/Application/view/application/destinations/index.phtml, line: 1068
@@ -7888,7 +7892,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 492
 # File: module/Application/view/application/cars/index.phtml, line: 753
 # File: module/Application/view/application/insurances/index.phtml, line: 504
-# File: module/Application/view/application/insurances/search.phtml, line: 436
+# File: module/Application/view/application/insurances/search.phtml, line: 442
 # File: module/Application/view/application/destinations/index.phtml, line: 1069
 msgid "Age of child"
 msgstr ""
@@ -9337,7 +9341,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 793
 # File: module/Application/view/application/air/return.phtml, line: 531
 # File: module/Application/view/application/air/segment.phtml, line: 193
-# File: module/Application/view/application/insurances/search.phtml, line: 161
+# File: module/Application/view/application/insurances/search.phtml, line: 167
 msgid "We're sorry, but no results match the criteria you selected. Please broaden your selections and search again."
 msgstr ""
 #
@@ -9346,7 +9350,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 793
 # File: module/Application/view/application/air/return.phtml, line: 531
 # File: module/Application/view/application/air/segment.phtml, line: 193
-# File: module/Application/view/application/insurances/search.phtml, line: 161
+# File: module/Application/view/application/insurances/search.phtml, line: 167
 msgid "No air fares shown, try clearing some filters to see more availability."
 msgstr ""
 #
@@ -9355,7 +9359,7 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 794
 # File: module/Application/view/application/air/return.phtml, line: 532
 # File: module/Application/view/application/air/segment.phtml, line: 194
-# File: module/Application/view/application/insurances/search.phtml, line: 162
+# File: module/Application/view/application/insurances/search.phtml, line: 168
 msgid "Modify your search, remove your filters or try different dates."
 msgstr ""
 #
@@ -10690,8 +10694,8 @@ msgstr ""
 # File: module/Application/view/application/air/segment.phtml, line: 672
 # File: module/Application/view/application/air/ancillary.phtml, line: 73
 # File: module/Application/view/application/transfers/search.phtml, line: 259
-# File: module/Application/view/application/insurances/search.phtml, line: 219
-# File: module/Application/view/application/insurances/search.phtml, line: 329
+# File: module/Application/view/application/insurances/search.phtml, line: 225
+# File: module/Application/view/application/insurances/search.phtml, line: 335
 msgid "SELECT"
 msgstr ""
 #
@@ -12689,8 +12693,8 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/info.phtml, line: 763
 # File: module/Application/view/application/hotels/info.phtml, line: 879
-# File: module/Application/view/application/insurances/search.phtml, line: 259
-# File: module/Application/view/application/insurances/search.phtml, line: 370
+# File: module/Application/view/application/insurances/search.phtml, line: 265
+# File: module/Application/view/application/insurances/search.phtml, line: 376
 # File: module/Application/view/application2/hotels/info.phtml, line: 253
 msgid "Value"
 msgstr ""
@@ -13638,7 +13642,7 @@ msgid "Plan"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/search.phtml, line: 64
-# File: module/Application/view/application/insurances/search.phtml, line: 178
+# File: module/Application/view/application/insurances/search.phtml, line: 184
 msgid "Plans"
 msgstr ""
 #
@@ -13646,47 +13650,51 @@ msgstr ""
 msgid "New Insurance Search"
 msgstr ""
 #
-# File: module/Application/view/application/insurances/search.phtml, line: 178
+# File: module/Application/view/application/insurances/search.phtml, line: 108
+msgid "years old"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/search.phtml, line: 184
 msgid "Daily Plans"
 msgstr ""
 #
-# File: module/Application/view/application/insurances/search.phtml, line: 209
-# File: module/Application/view/application/insurances/search.phtml, line: 261
-# File: module/Application/view/application/insurances/search.phtml, line: 316
-# File: module/Application/view/application/insurances/search.phtml, line: 372
+# File: module/Application/view/application/insurances/search.phtml, line: 215
+# File: module/Application/view/application/insurances/search.phtml, line: 267
+# File: module/Application/view/application/insurances/search.phtml, line: 322
+# File: module/Application/view/application/insurances/search.phtml, line: 378
 msgid "Included"
 msgstr ""
 #
-# File: module/Application/view/application/insurances/search.phtml, line: 218
-# File: module/Application/view/application/insurances/search.phtml, line: 328
+# File: module/Application/view/application/insurances/search.phtml, line: 224
+# File: module/Application/view/application/insurances/search.phtml, line: 334
 msgid "INFO"
-msgstr ""
-#
-# File: module/Application/view/application/insurances/search.phtml, line: 258
-# File: module/Application/view/application/insurances/search.phtml, line: 369
-msgid "Coverage"
-msgstr ""
-#
-# File: module/Application/view/application/insurances/search.phtml, line: 261
-# File: module/Application/view/application/insurances/search.phtml, line: 372
-msgid "Policy Limit"
-msgstr ""
-#
-# File: module/Application/view/application/insurances/search.phtml, line: 261
-# File: module/Application/view/application/insurances/search.phtml, line: 372
-msgid "Individual Limit"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/search.phtml, line: 264
 # File: module/Application/view/application/insurances/search.phtml, line: 375
+msgid "Coverage"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/search.phtml, line: 267
+# File: module/Application/view/application/insurances/search.phtml, line: 378
+msgid "Policy Limit"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/search.phtml, line: 267
+# File: module/Application/view/application/insurances/search.phtml, line: 378
+msgid "Individual Limit"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/search.phtml, line: 270
+# File: module/Application/view/application/insurances/search.phtml, line: 381
 msgid "SELECT PLAN"
 msgstr ""
 #
-# File: module/Application/view/application/insurances/search.phtml, line: 286
+# File: module/Application/view/application/insurances/search.phtml, line: 292
 msgid "Anual Plans"
 msgstr ""
 #
-# File: module/Application/view/application/insurances/search.phtml, line: 442
+# File: module/Application/view/application/insurances/search.phtml, line: 448
 msgid "WAIT..."
 msgstr ""
 #
