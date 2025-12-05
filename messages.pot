@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-04 06:48-0500\n"
+"POT-Creation-Date: 2025-12-05 03:39-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -661,7 +661,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 222
 # File: module/Application/view/application/transfers/search.phtml, line: 497
 # File: module/Application/view/application/login/rewards.phtml, line: 36
-# File: module/Application/view/application/packages/index.phtml, line: 665
+# File: module/Application/view/application/packages/index.phtml, line: 663
 # File: module/Application/view/application/packages/info.phtml, line: 557
 # File: module/Application/view/application/trip-planner/select.phtml, line: 855
 # File: module/Application/view/application/cart/summary.phtml, line: 1161
@@ -969,7 +969,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm.phtml, line: 28
 # File: module/Application/view/application/packages/index.phtml, line: 104
 # File: module/Application/view/application/packages/index.phtml, line: 111
-# File: module/Application/view/application/packages/index.phtml, line: 667
+# File: module/Application/view/application/packages/index.phtml, line: 665
 # File: module/Application/view/application/packages/info.phtml, line: 154
 # File: module/Application/view/application/packages/info.phtml, line: 159
 # File: module/Application/view/application/packages/summary.phtml, line: 52
@@ -1146,7 +1146,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 116
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
 # File: module/Application/view/application/packages/index.phtml, line: 115
-# File: module/Application/view/application/packages/index.phtml, line: 669
+# File: module/Application/view/application/packages/index.phtml, line: 667
 # File: module/Application/view/application/packages/info.phtml, line: 161
 # File: module/Application/view/application/packages/summary.phtml, line: 52
 # File: module/Application/view/application/packages/summary.phtml, line: 146
@@ -1797,7 +1797,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/summary.phtml, line: 23
 # File: module/Application/view/application/insurances/passengers.phtml, line: 401
 # File: module/Application/view/application/login/profile.phtml, line: 382
-# File: module/Application/view/application/packages/index.phtml, line: 639
+# File: module/Application/view/application/packages/index.phtml, line: 637
 # File: module/Application/view/application/packages/info.phtml, line: 534
 # File: module/Application/view/application/packages/passengers.phtml, line: 492
 # File: module/Application/view/application/trip-planner/select.phtml, line: 832
@@ -2050,6 +2050,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 955
 # File: module/Application/view/application/quotes/air.phtml, line: 1015
 # File: module/Application/view/application/quotes/air.phtml, line: 1110
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 117
 # File: module/Application/view/application2/hotels/info.phtml, line: 681
 # File: module/Application/view/application2/hotels/info.phtml, line: 721
 msgid "PLEASE WAIT"
@@ -2406,7 +2407,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 754
 # File: module/Application/view/application/insurances/index.phtml, line: 505
 # File: module/Application/view/application/insurances/search.phtml, line: 443
-# File: module/Application/view/application/packages/index.phtml, line: 662
+# File: module/Application/view/application/packages/index.phtml, line: 660
 # File: module/Application/view/application/trip-planner/index.phtml, line: 28
 # File: module/Application/view/application/trip-planner/select.phtml, line: 544
 # File: module/Application/view/application/cart/confirm.phtml, line: 166
@@ -3174,6 +3175,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
 # File: module/Application/view/application/agent/subagent.phtml, line: 49
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 92
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 61
 # File: module/Application/view/application2/content/registeragent.phtml, line: 101
 msgid "Email"
 msgstr ""
@@ -3352,6 +3354,8 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 44
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 11
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 12
 # File: module/Application/view/application2/hotels/summary.phtml, line: 94
 # File: module/Application/view/application2/hotels/summary.phtml, line: 170
 msgid "Title"
@@ -3411,6 +3415,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 46
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 14
 # File: module/Application/view/application2/hotels/summary.phtml, line: 91
 # File: module/Application/view/application2/hotels/summary.phtml, line: 167
 msgid "Mr"
@@ -3443,6 +3448,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 48
 # File: module/Application/view/application/agent/subagent.phtml, line: 45
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 47
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 15
 # File: module/Application/view/application2/hotels/summary.phtml, line: 92
 # File: module/Application/view/application2/hotels/summary.phtml, line: 168
 msgid "Ms"
@@ -3485,6 +3491,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 49
 # File: module/Application/view/application/agent/subagent.phtml, line: 46
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 51
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 19
 # File: module/Application/view/application2/content/registeragent.phtml, line: 78
 msgid "First Name"
 msgstr ""
@@ -3562,6 +3569,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 50
 # File: module/Application/view/application/agent/subagent.phtml, line: 47
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 54
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 23
 # File: module/Application/view/application2/content/registeragent.phtml, line: 79
 msgid "Last Name"
 msgstr ""
@@ -4798,7 +4806,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 429
 # File: module/Application/view/application/insurances/passengers.phtml, line: 410
 # File: module/Application/view/application/login/profile.phtml, line: 391
-# File: module/Application/view/application/packages/index.phtml, line: 648
+# File: module/Application/view/application/packages/index.phtml, line: 646
 # File: module/Application/view/application/packages/info.phtml, line: 543
 # File: module/Application/view/application/packages/passengers.phtml, line: 501
 # File: module/Application/view/application/trip-planner/select.phtml, line: 841
@@ -4844,7 +4852,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 430
 # File: module/Application/view/application/insurances/passengers.phtml, line: 411
 # File: module/Application/view/application/login/profile.phtml, line: 392
-# File: module/Application/view/application/packages/index.phtml, line: 649
+# File: module/Application/view/application/packages/index.phtml, line: 647
 # File: module/Application/view/application/packages/info.phtml, line: 544
 # File: module/Application/view/application/packages/passengers.phtml, line: 502
 # File: module/Application/view/application/trip-planner/select.phtml, line: 842
@@ -4890,7 +4898,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 431
 # File: module/Application/view/application/insurances/passengers.phtml, line: 412
 # File: module/Application/view/application/login/profile.phtml, line: 393
-# File: module/Application/view/application/packages/index.phtml, line: 650
+# File: module/Application/view/application/packages/index.phtml, line: 648
 # File: module/Application/view/application/packages/info.phtml, line: 545
 # File: module/Application/view/application/packages/passengers.phtml, line: 503
 # File: module/Application/view/application/trip-planner/select.phtml, line: 843
@@ -4936,7 +4944,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 432
 # File: module/Application/view/application/insurances/passengers.phtml, line: 413
 # File: module/Application/view/application/login/profile.phtml, line: 394
-# File: module/Application/view/application/packages/index.phtml, line: 651
+# File: module/Application/view/application/packages/index.phtml, line: 649
 # File: module/Application/view/application/packages/info.phtml, line: 546
 # File: module/Application/view/application/packages/passengers.phtml, line: 504
 # File: module/Application/view/application/trip-planner/select.phtml, line: 844
@@ -4982,7 +4990,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 433
 # File: module/Application/view/application/insurances/passengers.phtml, line: 414
 # File: module/Application/view/application/login/profile.phtml, line: 395
-# File: module/Application/view/application/packages/index.phtml, line: 652
+# File: module/Application/view/application/packages/index.phtml, line: 650
 # File: module/Application/view/application/packages/info.phtml, line: 547
 # File: module/Application/view/application/packages/passengers.phtml, line: 505
 # File: module/Application/view/application/trip-planner/select.phtml, line: 845
@@ -5028,7 +5036,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 434
 # File: module/Application/view/application/insurances/passengers.phtml, line: 415
 # File: module/Application/view/application/login/profile.phtml, line: 396
-# File: module/Application/view/application/packages/index.phtml, line: 653
+# File: module/Application/view/application/packages/index.phtml, line: 651
 # File: module/Application/view/application/packages/info.phtml, line: 548
 # File: module/Application/view/application/packages/passengers.phtml, line: 506
 # File: module/Application/view/application/trip-planner/select.phtml, line: 846
@@ -5074,7 +5082,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 435
 # File: module/Application/view/application/insurances/passengers.phtml, line: 416
 # File: module/Application/view/application/login/profile.phtml, line: 397
-# File: module/Application/view/application/packages/index.phtml, line: 654
+# File: module/Application/view/application/packages/index.phtml, line: 652
 # File: module/Application/view/application/packages/info.phtml, line: 549
 # File: module/Application/view/application/packages/passengers.phtml, line: 507
 # File: module/Application/view/application/trip-planner/select.phtml, line: 847
@@ -5120,7 +5128,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 436
 # File: module/Application/view/application/insurances/passengers.phtml, line: 417
 # File: module/Application/view/application/login/profile.phtml, line: 398
-# File: module/Application/view/application/packages/index.phtml, line: 655
+# File: module/Application/view/application/packages/index.phtml, line: 653
 # File: module/Application/view/application/packages/info.phtml, line: 550
 # File: module/Application/view/application/packages/passengers.phtml, line: 508
 # File: module/Application/view/application/trip-planner/select.phtml, line: 848
@@ -5166,7 +5174,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 437
 # File: module/Application/view/application/insurances/passengers.phtml, line: 418
 # File: module/Application/view/application/login/profile.phtml, line: 399
-# File: module/Application/view/application/packages/index.phtml, line: 656
+# File: module/Application/view/application/packages/index.phtml, line: 654
 # File: module/Application/view/application/packages/info.phtml, line: 551
 # File: module/Application/view/application/packages/passengers.phtml, line: 509
 # File: module/Application/view/application/trip-planner/select.phtml, line: 849
@@ -5212,7 +5220,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 438
 # File: module/Application/view/application/insurances/passengers.phtml, line: 419
 # File: module/Application/view/application/login/profile.phtml, line: 400
-# File: module/Application/view/application/packages/index.phtml, line: 657
+# File: module/Application/view/application/packages/index.phtml, line: 655
 # File: module/Application/view/application/packages/info.phtml, line: 552
 # File: module/Application/view/application/packages/passengers.phtml, line: 510
 # File: module/Application/view/application/trip-planner/select.phtml, line: 850
@@ -5258,7 +5266,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 439
 # File: module/Application/view/application/insurances/passengers.phtml, line: 420
 # File: module/Application/view/application/login/profile.phtml, line: 401
-# File: module/Application/view/application/packages/index.phtml, line: 658
+# File: module/Application/view/application/packages/index.phtml, line: 656
 # File: module/Application/view/application/packages/info.phtml, line: 553
 # File: module/Application/view/application/packages/passengers.phtml, line: 511
 # File: module/Application/view/application/trip-planner/select.phtml, line: 851
@@ -5304,7 +5312,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 440
 # File: module/Application/view/application/insurances/passengers.phtml, line: 421
 # File: module/Application/view/application/login/profile.phtml, line: 402
-# File: module/Application/view/application/packages/index.phtml, line: 659
+# File: module/Application/view/application/packages/index.phtml, line: 657
 # File: module/Application/view/application/packages/info.phtml, line: 554
 # File: module/Application/view/application/packages/passengers.phtml, line: 512
 # File: module/Application/view/application/trip-planner/select.phtml, line: 852
@@ -6672,7 +6680,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 755
 # File: module/Application/view/application/insurances/index.phtml, line: 506
 # File: module/Application/view/application/insurances/search.phtml, line: 444
-# File: module/Application/view/application/packages/index.phtml, line: 663
+# File: module/Application/view/application/packages/index.phtml, line: 661
 # File: module/Application/view/application/trip-planner/index.phtml, line: 41
 # File: module/Application/view/application/trip-planner/select.phtml, line: 553
 # File: module/Application/view/application/destinations/index.phtml, line: 1071
@@ -6926,7 +6934,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 240
 # File: module/Application/view/application/insurances/payment.phtml, line: 115
 # File: module/Application/view/application/insurances/confirm.phtml, line: 28
-# File: module/Application/view/application/packages/index.phtml, line: 668
+# File: module/Application/view/application/packages/index.phtml, line: 666
 # File: module/Application/view/application/packages/summary.phtml, line: 52
 # File: module/Application/view/application/packages/summary.phtml, line: 146
 # File: module/Application/view/application/packages/confirm.phtml, line: 148
@@ -7035,8 +7043,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 241
 # File: module/Application/view/application/insurances/payment.phtml, line: 116
 # File: module/Application/view/application/insurances/confirm.phtml, line: 31
-# File: module/Application/view/application/packages/index.phtml, line: 664
-# File: module/Application/view/application/packages/index.phtml, line: 670
+# File: module/Application/view/application/packages/index.phtml, line: 662
+# File: module/Application/view/application/packages/index.phtml, line: 668
 # File: module/Application/view/application/packages/info.phtml, line: 556
 # File: module/Application/view/application/packages/summary.phtml, line: 52
 # File: module/Application/view/application/packages/summary.phtml, line: 146
@@ -7844,7 +7852,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 418
 # File: module/Application/view/application/insurances/passengers.phtml, line: 399
 # File: module/Application/view/application/login/profile.phtml, line: 380
-# File: module/Application/view/application/packages/index.phtml, line: 637
+# File: module/Application/view/application/packages/index.phtml, line: 635
 # File: module/Application/view/application/packages/info.phtml, line: 532
 # File: module/Application/view/application/packages/passengers.phtml, line: 490
 # File: module/Application/view/application/trip-planner/select.phtml, line: 830
@@ -7883,7 +7891,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 419
 # File: module/Application/view/application/insurances/passengers.phtml, line: 400
 # File: module/Application/view/application/login/profile.phtml, line: 381
-# File: module/Application/view/application/packages/index.phtml, line: 638
+# File: module/Application/view/application/packages/index.phtml, line: 636
 # File: module/Application/view/application/packages/info.phtml, line: 533
 # File: module/Application/view/application/packages/passengers.phtml, line: 491
 # File: module/Application/view/application/trip-planner/select.phtml, line: 831
@@ -7931,7 +7939,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/summary.phtml, line: 99
 # File: module/Application/view/application/insurances/passengers.phtml, line: 402
 # File: module/Application/view/application/login/profile.phtml, line: 383
-# File: module/Application/view/application/packages/index.phtml, line: 640
+# File: module/Application/view/application/packages/index.phtml, line: 638
 # File: module/Application/view/application/packages/info.phtml, line: 535
 # File: module/Application/view/application/packages/passengers.phtml, line: 493
 # File: module/Application/view/application/trip-planner/select.phtml, line: 833
@@ -7977,7 +7985,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 422
 # File: module/Application/view/application/insurances/passengers.phtml, line: 403
 # File: module/Application/view/application/login/profile.phtml, line: 384
-# File: module/Application/view/application/packages/index.phtml, line: 641
+# File: module/Application/view/application/packages/index.phtml, line: 639
 # File: module/Application/view/application/packages/info.phtml, line: 536
 # File: module/Application/view/application/packages/passengers.phtml, line: 494
 # File: module/Application/view/application/trip-planner/select.phtml, line: 834
@@ -8016,7 +8024,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 423
 # File: module/Application/view/application/insurances/passengers.phtml, line: 404
 # File: module/Application/view/application/login/profile.phtml, line: 385
-# File: module/Application/view/application/packages/index.phtml, line: 642
+# File: module/Application/view/application/packages/index.phtml, line: 640
 # File: module/Application/view/application/packages/info.phtml, line: 537
 # File: module/Application/view/application/packages/passengers.phtml, line: 495
 # File: module/Application/view/application/trip-planner/select.phtml, line: 835
@@ -8055,7 +8063,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 424
 # File: module/Application/view/application/insurances/passengers.phtml, line: 405
 # File: module/Application/view/application/login/profile.phtml, line: 386
-# File: module/Application/view/application/packages/index.phtml, line: 643
+# File: module/Application/view/application/packages/index.phtml, line: 641
 # File: module/Application/view/application/packages/info.phtml, line: 538
 # File: module/Application/view/application/packages/passengers.phtml, line: 496
 # File: module/Application/view/application/trip-planner/select.phtml, line: 836
@@ -8094,7 +8102,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 425
 # File: module/Application/view/application/insurances/passengers.phtml, line: 406
 # File: module/Application/view/application/login/profile.phtml, line: 387
-# File: module/Application/view/application/packages/index.phtml, line: 644
+# File: module/Application/view/application/packages/index.phtml, line: 642
 # File: module/Application/view/application/packages/info.phtml, line: 539
 # File: module/Application/view/application/packages/passengers.phtml, line: 497
 # File: module/Application/view/application/trip-planner/select.phtml, line: 837
@@ -8133,7 +8141,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 426
 # File: module/Application/view/application/insurances/passengers.phtml, line: 407
 # File: module/Application/view/application/login/profile.phtml, line: 388
-# File: module/Application/view/application/packages/index.phtml, line: 645
+# File: module/Application/view/application/packages/index.phtml, line: 643
 # File: module/Application/view/application/packages/info.phtml, line: 540
 # File: module/Application/view/application/packages/passengers.phtml, line: 498
 # File: module/Application/view/application/trip-planner/select.phtml, line: 838
@@ -8172,7 +8180,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 427
 # File: module/Application/view/application/insurances/passengers.phtml, line: 408
 # File: module/Application/view/application/login/profile.phtml, line: 389
-# File: module/Application/view/application/packages/index.phtml, line: 646
+# File: module/Application/view/application/packages/index.phtml, line: 644
 # File: module/Application/view/application/packages/info.phtml, line: 541
 # File: module/Application/view/application/packages/passengers.phtml, line: 499
 # File: module/Application/view/application/trip-planner/select.phtml, line: 839
@@ -8211,7 +8219,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search.phtml, line: 428
 # File: module/Application/view/application/insurances/passengers.phtml, line: 409
 # File: module/Application/view/application/login/profile.phtml, line: 390
-# File: module/Application/view/application/packages/index.phtml, line: 647
+# File: module/Application/view/application/packages/index.phtml, line: 645
 # File: module/Application/view/application/packages/info.phtml, line: 542
 # File: module/Application/view/application/packages/passengers.phtml, line: 500
 # File: module/Application/view/application/trip-planner/select.phtml, line: 840
@@ -8256,7 +8264,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 752
 # File: module/Application/view/application/insurances/index.phtml, line: 503
 # File: module/Application/view/application/insurances/search.phtml, line: 441
-# File: module/Application/view/application/packages/index.phtml, line: 660
+# File: module/Application/view/application/packages/index.phtml, line: 658
 # File: module/Application/view/application/packages/info.phtml, line: 555
 # File: module/Application/view/application/trip-planner/select.phtml, line: 853
 # File: module/Application/view/application/destinations/index.phtml, line: 1068
@@ -8299,7 +8307,7 @@ msgstr ""
 # File: module/Application/view/application/cars/index.phtml, line: 753
 # File: module/Application/view/application/insurances/index.phtml, line: 504
 # File: module/Application/view/application/insurances/search.phtml, line: 442
-# File: module/Application/view/application/packages/index.phtml, line: 661
+# File: module/Application/view/application/packages/index.phtml, line: 659
 # File: module/Application/view/application/destinations/index.phtml, line: 1069
 msgid "Age of child"
 msgstr ""
@@ -8337,7 +8345,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 1240
 # File: module/Application/view/application/transfers/index.phtml, line: 223
 # File: module/Application/view/application/transfers/search.phtml, line: 498
-# File: module/Application/view/application/packages/index.phtml, line: 666
+# File: module/Application/view/application/packages/index.phtml, line: 664
 # File: module/Application/view/application/packages/info.phtml, line: 558
 # File: module/Application/view/application/trip-planner/select.phtml, line: 856
 # File: module/Application/view/application/destinations/index.phtml, line: 1074
@@ -8383,8 +8391,8 @@ msgstr ""
 # File: module/Application/view/application/login/signout.phtml, line: 100
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 50
 # File: module/Application/view/application/login/changepassword.phtml, line: 45
-# File: module/Application/view/application/packages/index.phtml, line: 620
-# File: module/Application/view/application/packages/index.phtml, line: 694
+# File: module/Application/view/application/packages/index.phtml, line: 618
+# File: module/Application/view/application/packages/index.phtml, line: 688
 # File: module/Application/view/application/packages/info.phtml, line: 563
 # File: module/Application/view/application/packages/passengers.phtml, line: 480
 # File: module/Application/view/application/trip-planner/select.phtml, line: 661
@@ -9262,6 +9270,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1633
 # File: module/Application/view/application/cart/payment.phtml, line: 205
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 101
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 72
 msgid "English"
 msgstr ""
 #
@@ -9272,6 +9281,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1634
 # File: module/Application/view/application/cart/payment.phtml, line: 208
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 102
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 73
 msgid "Spanish"
 msgstr ""
 #
@@ -9282,6 +9292,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1635
 # File: module/Application/view/application/cart/payment.phtml, line: 217
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 103
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 74
 msgid "Portuguese"
 msgstr ""
 #
@@ -9292,6 +9303,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1636
 # File: module/Application/view/application/cart/payment.phtml, line: 211
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 104
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 75
 msgid "French"
 msgstr ""
 #
@@ -9302,6 +9314,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1637
 # File: module/Application/view/application/cart/payment.phtml, line: 220
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 105
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 76
 msgid "German"
 msgstr ""
 #
@@ -9309,6 +9322,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 538
 # File: module/Application/view/application/cart/summary.phtml, line: 1638
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 107
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 78
 msgid "Armenian"
 msgstr ""
 #
@@ -9319,6 +9333,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1639
 # File: module/Application/view/application/cart/payment.phtml, line: 214
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 106
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 77
 msgid "Italian"
 msgstr ""
 #
@@ -14817,6 +14832,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
 # File: module/Application/view/application/agent/changepassword.phtml, line: 30
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 95
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 65
 # File: module/Application/view/layout/layout.phtml, line: 393
 # File: module/Application/view/application2/agent/login.phtml, line: 13
 # File: module/Application/view/application2/content/registeragent.phtml, line: 102
@@ -15661,7 +15677,7 @@ msgstr ""
 msgid "Where do you want to go?"
 msgstr ""
 #
-# File: module/Application/view/application/packages/index.phtml, line: 619
+# File: module/Application/view/application/packages/index.phtml, line: 617
 msgid "Searching Packages"
 msgstr ""
 #
@@ -17639,6 +17655,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/profile.phtml, line: 47
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 89
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 57
 # File: module/Application/view/application2/content/registeragent.phtml, line: 100
 msgid "Phone number"
 msgstr ""
@@ -18353,6 +18370,7 @@ msgid "off to use on a future reservation."
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 45
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 13
 # File: module/Application/view/application2/hotels/summary.phtml, line: 89
 # File: module/Application/view/application2/hotels/summary.phtml, line: 90
 # File: module/Application/view/application2/hotels/summary.phtml, line: 165
@@ -18361,36 +18379,61 @@ msgid "Select title"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 51
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 20
 msgid "Please enter your first name"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 54
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 24
 msgid "Please enter your last name"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 89
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 58
 msgid "Please enter your phone number"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 92
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 62
 msgid "Please enter your email"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 95
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 66
 msgid "Enter your desired password"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 98
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 99
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 69
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 70
 msgid "Preferred Language"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 100
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 71
 msgid "Select language"
 msgstr ""
 #
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 124
 msgid "Update Profile"
+msgstr ""
+#
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 95
+msgid "Update Profile and Activate Account"
+msgstr ""
+#
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 104
+msgid "Your browser does not support the video tag."
+msgstr ""
+#
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 106
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 136
+msgid "Unmute"
+msgstr ""
+#
+# File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 133
+msgid "Mute"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 271
