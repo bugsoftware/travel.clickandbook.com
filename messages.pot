@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-12 08:26-0500\n"
+"POT-Creation-Date: 2025-12-12 08:38-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -398,20 +398,20 @@ msgstr ""
 msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, hotels, and vacation packages. Limited-time only!"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 743
-# File: module/Application/src/Controller/BookingController.php, line: 1684
-# File: module/Application/src/Controller/BookingController.php, line: 2159
+# File: module/Application/src/Controller/BookingController.php, line: 844
+# File: module/Application/src/Controller/BookingController.php, line: 1785
+# File: module/Application/src/Controller/BookingController.php, line: 2260
 msgid "Pay Your Reservation Online"
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 744
-# File: module/Application/src/Controller/BookingController.php, line: 1685
-# File: module/Application/src/Controller/BookingController.php, line: 2160
+# File: module/Application/src/Controller/BookingController.php, line: 845
+# File: module/Application/src/Controller/BookingController.php, line: 1786
+# File: module/Application/src/Controller/BookingController.php, line: 2261
 msgid "Securely pay your travel reservations online."
 msgstr ""
 #
-# File: module/Application/src/Controller/BookingController.php, line: 1591
-# File: module/Application/src/Controller/BookingController.php, line: 1592
+# File: module/Application/src/Controller/BookingController.php, line: 1692
+# File: module/Application/src/Controller/BookingController.php, line: 1693
 # File: module/Application/view/application/booking/details.phtml, line: 296
 msgid "Reservation Details"
 msgstr ""
@@ -625,7 +625,7 @@ msgstr ""
 # File: module/Application/src/Controller/CartController.php, line: 331
 # File: module/Application/view/application/login/rewards.phtml, line: 38
 # File: module/Application/view/application/cart/index.phtml, line: 143
-# File: module/Application/view/application/booking/paynow.phtml, line: 289
+# File: module/Application/view/application/booking/paynow.phtml, line: 291
 # File: module/Application/view/layout/layout.phtml, line: 323
 # File: module/Application/view/application2/index/index.phtml, line: 45
 msgid "Activity"
@@ -2040,9 +2040,9 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1705
 # File: module/Application/view/application/cart/summary.phtml, line: 1832
 # File: module/Application/view/application/cart/payment.phtml, line: 1009
-# File: module/Application/view/application/booking/paynow.phtml, line: 734
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 134
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 313
+# File: module/Application/view/application/booking/paynow.phtml, line: 737
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 142
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 321
 # File: module/Application/view/application/destinations/index.phtml, line: 1106
 # File: module/Application/view/application/agent/profile.phtml, line: 160
 # File: module/Application/view/application/quotes/air.phtml, line: 936
@@ -2217,8 +2217,9 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 518
 # File: module/Application/view/application/cart/index.phtml, line: 228
 # File: module/Application/view/application/cart/passengers.phtml, line: 1134
-# File: module/Application/view/application/booking/paynow.phtml, line: 518
+# File: module/Application/view/application/booking/paynow.phtml, line: 521
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 43
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 51
 msgid "CONTINUE"
 msgstr ""
 #
@@ -2667,7 +2668,7 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 712
 # File: module/Application/view/application/cart/payment.phtml, line: 732
 # File: module/Application/view/application/cart/payment.phtml, line: 741
-# File: module/Application/view/application/booking/paynow.phtml, line: 435
+# File: module/Application/view/application/booking/paynow.phtml, line: 438
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 141
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 483
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 508
@@ -2867,7 +2868,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 547
 # File: module/Application/view/application/cart/payment.phtml, line: 9
 # File: module/Application/view/application/booking/paynow.phtml, line: 15
-# File: module/Application/view/application/booking/paynow.phtml, line: 465
+# File: module/Application/view/application/booking/paynow.phtml, line: 468
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 15
 # File: module/Application/view/application/quotes/air.phtml, line: 41
 # File: module/Application/view/application/quotes/transfers.phtml, line: 8
@@ -3032,7 +3033,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1536
 # File: module/Application/view/application/cart/payment.phtml, line: 291
 # File: module/Application/view/application/booking/paynow.phtml, line: 151
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 98
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 106
 # File: module/Application/view/application/quotes/air.phtml, line: 412
 # File: module/Application/view/application/quotes/air.phtml, line: 646
 # File: module/Application/view/application/quotes/air.phtml, line: 832
@@ -3258,8 +3259,8 @@ msgstr ""
 # File: module/Application/view/application/content/aboutus.phtml, line: 41
 # File: module/Application/view/application/content/cms_content.phtml, line: 32
 # File: module/Application/view/application/content/cms_content.phtml, line: 36
-# File: module/Application/view/application/booking/paynow.phtml, line: 764
 # File: module/Application/view/application/booking/paynow.phtml, line: 767
+# File: module/Application/view/application/booking/paynow.phtml, line: 770
 # File: module/Application/view/application/booking/details.phtml, line: 392
 # File: module/Application/view/application/destinations/index.phtml, line: 114
 # File: module/Application/view/application/destinations/index.phtml, line: 120
@@ -4272,8 +4273,8 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 72
 # File: module/Application/view/application/booking/paynow.phtml, line: 125
 # File: module/Application/view/application/booking/paynow.phtml, line: 126
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 72
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 73
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 80
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 81
 # File: module/Application/view/application2/hotels/summary.phtml, line: 203
 msgid "Expiration date"
 msgstr ""
@@ -4360,7 +4361,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1479
 # File: module/Application/view/application/cart/passengers.phtml, line: 1043
 # File: module/Application/view/application/cart/payment.phtml, line: 678
-# File: module/Application/view/application/booking/paynow.phtml, line: 376
+# File: module/Application/view/application/booking/paynow.phtml, line: 379
 # File: module/Application/view/application/agent/subagent.phtml, line: 74
 # File: module/Application/view/application/quotes/air.phtml, line: 616
 # File: module/Application/view/application/quotes/hotel.phtml, line: 249
@@ -4410,7 +4411,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 149
 # File: module/Application/view/application/packages/passengers.phtml, line: 140
 # File: module/Application/view/application/cart/passengers.phtml, line: 550
-# File: module/Application/view/application/booking/paynow.phtml, line: 468
+# File: module/Application/view/application/booking/paynow.phtml, line: 471
 msgid "Select payment options:"
 msgstr ""
 #
@@ -4429,7 +4430,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 154
 # File: module/Application/view/application/packages/passengers.phtml, line: 145
 # File: module/Application/view/application/cart/passengers.phtml, line: 555
-# File: module/Application/view/application/booking/paynow.phtml, line: 472
+# File: module/Application/view/application/booking/paynow.phtml, line: 475
 msgid "Credit Card/Debit"
 msgstr ""
 #
@@ -4477,8 +4478,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 90
 # File: module/Application/view/application/packages/payment.phtml, line: 232
 # File: module/Application/view/application/cart/payment.phtml, line: 766
-# File: module/Application/view/application/booking/paynow.phtml, line: 540
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 110
+# File: module/Application/view/application/booking/paynow.phtml, line: 543
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 118
 # File: module/Application/view/application/agent/profile.phtml, line: 61
 msgid "Incorrect information"
 msgstr ""
@@ -5411,7 +5412,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 54
 # File: module/Application/view/application/cart/payment.phtml, line: 60
 # File: module/Application/view/application/booking/paynow.phtml, line: 114
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 61
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 69
 msgid "NAME ON CARD"
 msgstr ""
 #
@@ -5430,7 +5431,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 61
 # File: module/Application/view/application/cart/payment.phtml, line: 67
 # File: module/Application/view/application/booking/paynow.phtml, line: 121
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 68
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 76
 msgid "Name on card"
 msgstr ""
 #
@@ -5449,7 +5450,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 62
 # File: module/Application/view/application/cart/payment.phtml, line: 68
 # File: module/Application/view/application/booking/paynow.phtml, line: 122
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 69
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 77
 # File: module/Application/view/application2/hotels/summary.phtml, line: 201
 msgid "Card Number"
 msgstr ""
@@ -5469,7 +5470,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 69
 # File: module/Application/view/application/cart/payment.phtml, line: 75
 # File: module/Application/view/application/booking/paynow.phtml, line: 129
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 76
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 84
 msgid "Security code"
 msgstr ""
 #
@@ -5486,7 +5487,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 86
 # File: module/Application/view/application/cart/payment.phtml, line: 92
 # File: module/Application/view/application/booking/paynow.phtml, line: 136
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 83
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 91
 msgid "Billing information"
 msgstr ""
 #
@@ -5503,7 +5504,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 89
 # File: module/Application/view/application/cart/payment.phtml, line: 95
 # File: module/Application/view/application/booking/paynow.phtml, line: 139
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 86
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 94
 msgid "Billing First Name"
 msgstr ""
 #
@@ -5520,7 +5521,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 90
 # File: module/Application/view/application/cart/payment.phtml, line: 96
 # File: module/Application/view/application/booking/paynow.phtml, line: 140
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 87
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 95
 msgid "Billing Last Name"
 msgstr ""
 #
@@ -5537,7 +5538,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 91
 # File: module/Application/view/application/cart/payment.phtml, line: 97
 # File: module/Application/view/application/booking/paynow.phtml, line: 141
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 88
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 96
 msgid "Billing Country"
 msgstr ""
 #
@@ -5554,7 +5555,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 91
 # File: module/Application/view/application/cart/payment.phtml, line: 97
 # File: module/Application/view/application/booking/paynow.phtml, line: 141
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 88
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 96
 msgid "Select billing country"
 msgstr ""
 #
@@ -5571,7 +5572,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 92
 # File: module/Application/view/application/cart/payment.phtml, line: 98
 # File: module/Application/view/application/booking/paynow.phtml, line: 142
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 89
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 97
 msgid "Billing Address"
 msgstr ""
 #
@@ -5593,7 +5594,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 93
 # File: module/Application/view/application/cart/payment.phtml, line: 99
 # File: module/Application/view/application/booking/paynow.phtml, line: 143
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 90
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 98
 # File: module/Application/view/application/agent/profile.phtml, line: 44
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 55
 msgid "City"
@@ -5614,7 +5615,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 94
 # File: module/Application/view/application/cart/payment.phtml, line: 100
 # File: module/Application/view/application/booking/paynow.phtml, line: 144
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 91
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 99
 # File: module/Application/view/application/agent/profile.phtml, line: 43
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 54
 msgid "State"
@@ -5633,7 +5634,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 95
 # File: module/Application/view/application/cart/payment.phtml, line: 101
 # File: module/Application/view/application/booking/paynow.phtml, line: 145
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 92
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 100
 msgid "ZIP Code/Postal Code"
 msgstr ""
 #
@@ -5650,7 +5651,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 96
 # File: module/Application/view/application/cart/payment.phtml, line: 102
 # File: module/Application/view/application/booking/paynow.phtml, line: 146
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 93
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 101
 msgid "Billing Email"
 msgstr ""
 #
@@ -5667,7 +5668,7 @@ msgstr ""
 # File: module/Application/view/application/packages/payment.phtml, line: 97
 # File: module/Application/view/application/cart/payment.phtml, line: 103
 # File: module/Application/view/application/booking/paynow.phtml, line: 147
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 94
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 102
 msgid "Billing Phone"
 msgstr ""
 #
@@ -5684,8 +5685,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 98
 # File: module/Application/view/application/packages/payment.phtml, line: 240
 # File: module/Application/view/application/cart/payment.phtml, line: 814
-# File: module/Application/view/application/booking/paynow.phtml, line: 553
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 122
+# File: module/Application/view/application/booking/paynow.phtml, line: 556
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 130
 # File: module/Application/view/application/agent/profile.phtml, line: 69
 # File: module/Application/view/application2/hotels/summary.phtml, line: 306
 msgid "Invalid card holder name. You did not enter a valid card holder. Please input credit card holder name."
@@ -5704,8 +5705,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 99
 # File: module/Application/view/application/packages/payment.phtml, line: 241
 # File: module/Application/view/application/cart/payment.phtml, line: 815
-# File: module/Application/view/application/booking/paynow.phtml, line: 554
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 123
+# File: module/Application/view/application/booking/paynow.phtml, line: 557
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 131
 # File: module/Application/view/application/agent/profile.phtml, line: 70
 # File: module/Application/view/application2/hotels/summary.phtml, line: 307
 msgid "Invalid credit card number. The credit card number you provided is invalid."
@@ -5724,8 +5725,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 100
 # File: module/Application/view/application/packages/payment.phtml, line: 242
 # File: module/Application/view/application/cart/payment.phtml, line: 816
-# File: module/Application/view/application/booking/paynow.phtml, line: 555
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 124
+# File: module/Application/view/application/booking/paynow.phtml, line: 558
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 132
 # File: module/Application/view/application/agent/profile.phtml, line: 71
 # File: module/Application/view/application2/hotels/summary.phtml, line: 308
 msgid "You did not enter a valid security code for the card you provided."
@@ -5744,8 +5745,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 101
 # File: module/Application/view/application/packages/payment.phtml, line: 243
 # File: module/Application/view/application/cart/payment.phtml, line: 817
-# File: module/Application/view/application/booking/paynow.phtml, line: 556
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 125
+# File: module/Application/view/application/booking/paynow.phtml, line: 559
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 133
 # File: module/Application/view/application/agent/profile.phtml, line: 72
 # File: module/Application/view/application2/hotels/summary.phtml, line: 309
 msgid "The security code is a 3 or 4 digit number found on the back of the credit card."
@@ -5764,8 +5765,8 @@ msgstr ""
 # File: module/Application/view/application/login/profile.phtml, line: 102
 # File: module/Application/view/application/packages/payment.phtml, line: 244
 # File: module/Application/view/application/cart/payment.phtml, line: 818
-# File: module/Application/view/application/booking/paynow.phtml, line: 557
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 126
+# File: module/Application/view/application/booking/paynow.phtml, line: 560
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 134
 # File: module/Application/view/application/agent/profile.phtml, line: 73
 # File: module/Application/view/application2/hotels/summary.phtml, line: 310
 msgid "The credit card expiration date you provided is invalid."
@@ -5783,8 +5784,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 263
 # File: module/Application/view/application/packages/payment.phtml, line: 353
 # File: module/Application/view/application/cart/payment.phtml, line: 927
-# File: module/Application/view/application/booking/paynow.phtml, line: 659
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 238
+# File: module/Application/view/application/booking/paynow.phtml, line: 662
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 246
 msgid "Billing first name is required! Please input billing first name."
 msgstr ""
 #
@@ -5800,8 +5801,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 271
 # File: module/Application/view/application/packages/payment.phtml, line: 361
 # File: module/Application/view/application/cart/payment.phtml, line: 935
-# File: module/Application/view/application/booking/paynow.phtml, line: 667
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 246
+# File: module/Application/view/application/booking/paynow.phtml, line: 670
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 254
 msgid "Billing last name is required! Please input billing last name."
 msgstr ""
 #
@@ -5817,8 +5818,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 279
 # File: module/Application/view/application/packages/payment.phtml, line: 369
 # File: module/Application/view/application/cart/payment.phtml, line: 943
-# File: module/Application/view/application/booking/paynow.phtml, line: 675
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 254
+# File: module/Application/view/application/booking/paynow.phtml, line: 678
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 262
 msgid "Billing country is required! Please select billing country."
 msgstr ""
 #
@@ -5834,8 +5835,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 287
 # File: module/Application/view/application/packages/payment.phtml, line: 377
 # File: module/Application/view/application/cart/payment.phtml, line: 951
-# File: module/Application/view/application/booking/paynow.phtml, line: 683
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 262
+# File: module/Application/view/application/booking/paynow.phtml, line: 686
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 270
 msgid "Billing address is required! Please input billing address."
 msgstr ""
 #
@@ -5851,8 +5852,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 295
 # File: module/Application/view/application/packages/payment.phtml, line: 385
 # File: module/Application/view/application/cart/payment.phtml, line: 959
-# File: module/Application/view/application/booking/paynow.phtml, line: 691
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 270
+# File: module/Application/view/application/booking/paynow.phtml, line: 694
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 278
 msgid "Billing city is required! Please input billing city."
 msgstr ""
 #
@@ -5868,8 +5869,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 303
 # File: module/Application/view/application/packages/payment.phtml, line: 393
 # File: module/Application/view/application/cart/payment.phtml, line: 967
-# File: module/Application/view/application/booking/paynow.phtml, line: 699
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 278
+# File: module/Application/view/application/booking/paynow.phtml, line: 702
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 286
 msgid "Billing state is required! Please input billing state."
 msgstr ""
 #
@@ -5885,8 +5886,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 311
 # File: module/Application/view/application/packages/payment.phtml, line: 401
 # File: module/Application/view/application/cart/payment.phtml, line: 975
-# File: module/Application/view/application/booking/paynow.phtml, line: 707
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 286
+# File: module/Application/view/application/booking/paynow.phtml, line: 710
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 294
 msgid "Billing zip/postal code is required! Please input billing zip/postal code."
 msgstr ""
 #
@@ -5902,8 +5903,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 319
 # File: module/Application/view/application/packages/payment.phtml, line: 409
 # File: module/Application/view/application/cart/payment.phtml, line: 983
-# File: module/Application/view/application/booking/paynow.phtml, line: 715
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 294
+# File: module/Application/view/application/booking/paynow.phtml, line: 718
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 302
 msgid "Billing email is required! Please input billing email."
 msgstr ""
 #
@@ -5919,8 +5920,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment.phtml, line: 327
 # File: module/Application/view/application/packages/payment.phtml, line: 417
 # File: module/Application/view/application/cart/payment.phtml, line: 991
-# File: module/Application/view/application/booking/paynow.phtml, line: 723
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 302
+# File: module/Application/view/application/booking/paynow.phtml, line: 726
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 310
 msgid "Billing phone is required! Please input billing phone."
 msgstr ""
 #
@@ -5958,7 +5959,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/confirm.phtml, line: 16
 # File: module/Application/view/application/login/rewards.phtml, line: 42
-# File: module/Application/view/application/booking/paynow.phtml, line: 320
+# File: module/Application/view/application/booking/paynow.phtml, line: 323
 # File: module/Application/view/offers/cruises/index.phtml, line: 212
 msgid "Cruise"
 msgstr ""
@@ -6121,7 +6122,7 @@ msgstr ""
 # File: module/Application/view/application/cars/confirm.phtml, line: 130
 # File: module/Application/view/application/packages/confirm.phtml, line: 177
 # File: module/Application/view/application/cart/confirm.phtml, line: 842
-# File: module/Application/view/application/booking/paynow.phtml, line: 763
+# File: module/Application/view/application/booking/paynow.phtml, line: 766
 msgid "Moneygram Agent Locations"
 msgstr ""
 #
@@ -8944,8 +8945,8 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 569
 # File: module/Application/view/application/cart/confirm.phtml, line: 175
 # File: module/Application/view/application/cart/confirm.phtml, line: 700
-# File: module/Application/view/application/booking/paynow.phtml, line: 416
-# File: module/Application/view/application/booking/paynow.phtml, line: 422
+# File: module/Application/view/application/booking/paynow.phtml, line: 419
+# File: module/Application/view/application/booking/paynow.phtml, line: 425
 # File: module/Application/view/application/quotes/air.phtml, line: 486
 # File: module/Application/view/application/quotes/air.phtml, line: 588
 # File: module/Application/view/application/quotes/air.phtml, line: 598
@@ -10340,7 +10341,7 @@ msgid "Minimum amount to pay is $250 per person"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 8
-# File: module/Application/view/application/booking/paynow.phtml, line: 348
+# File: module/Application/view/application/booking/paynow.phtml, line: 351
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 62
 msgid "Escorted Tour"
 msgstr ""
@@ -12879,7 +12880,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 390
 # File: module/Application/view/application/air/ticketing.phtml, line: 393
-# File: module/Application/view/application/booking/paynow.phtml, line: 421
+# File: module/Application/view/application/booking/paynow.phtml, line: 424
 msgid "Service Charge"
 msgstr ""
 #
@@ -12893,12 +12894,12 @@ msgid "Form of Payment"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 443
-# File: module/Application/view/application/booking/paynow.phtml, line: 493
+# File: module/Application/view/application/booking/paynow.phtml, line: 496
 msgid "Split Your Payment with Credit Card/Debit"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 444
-# File: module/Application/view/application/booking/paynow.phtml, line: 494
+# File: module/Application/view/application/booking/paynow.phtml, line: 497
 msgid "Choose this option if you'd like to divide your payment across multiple credit cards."
 msgstr ""
 #
@@ -14339,7 +14340,7 @@ msgstr ""
 # File: module/Application/view/application/cart/index.phtml, line: 45
 # File: module/Application/view/application/cart/confirm.phtml, line: 447
 # File: module/Application/view/application/cart/confirm.phtml, line: 449
-# File: module/Application/view/application/booking/paynow.phtml, line: 258
+# File: module/Application/view/application/booking/paynow.phtml, line: 259
 # File: module/Application/view/application/booking/details.phtml, line: 183
 # File: module/Application/view/application/booking/details.phtml, line: 186
 # File: module/Application/view/application/quotes/cart.phtml, line: 736
@@ -15401,8 +15402,11 @@ msgstr ""
 #
 # File: module/Application/view/application/login/reservations.phtml, line: 81
 # File: module/Application/view/application/booking/paynow.phtml, line: 245
-# File: module/Application/view/application/booking/paynow.phtml, line: 276
-# File: module/Application/view/application/booking/paynow.phtml, line: 306
+# File: module/Application/view/application/booking/paynow.phtml, line: 246
+# File: module/Application/view/application/booking/paynow.phtml, line: 277
+# File: module/Application/view/application/booking/paynow.phtml, line: 278
+# File: module/Application/view/application/booking/paynow.phtml, line: 308
+# File: module/Application/view/application/booking/paynow.phtml, line: 309
 # File: module/Application/view/application/agent/reservations.phtml, line: 95
 # File: module/Application/view/application2/agent/reservations.phtml, line: 250
 msgid "Payment Received"
@@ -15431,8 +15435,8 @@ msgstr ""
 # File: module/Application/view/application/login/reservations.phtml, line: 101
 # File: module/Application/view/application/login/reservations.phtml, line: 103
 # File: module/Application/view/application/booking/paynow.phtml, line: 243
-# File: module/Application/view/application/booking/paynow.phtml, line: 274
-# File: module/Application/view/application/booking/paynow.phtml, line: 304
+# File: module/Application/view/application/booking/paynow.phtml, line: 275
+# File: module/Application/view/application/booking/paynow.phtml, line: 306
 # File: module/Application/view/application/booking/details.phtml, line: 161
 # File: module/Application/view/application/booking/details.phtml, line: 382
 # File: module/Application/view/application/agent/reservations.phtml, line: 115
@@ -16901,19 +16905,19 @@ msgid "Edit Content"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 25
-# File: module/Application/view/application/booking/paynow.phtml, line: 523
+# File: module/Application/view/application/booking/paynow.phtml, line: 526
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 24
 msgid "Thank you for updating your credit card information."
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 27
-# File: module/Application/view/application/booking/paynow.phtml, line: 525
+# File: module/Application/view/application/booking/paynow.phtml, line: 528
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 26
 msgid "Thank you for updating your payment information."
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 29
-# File: module/Application/view/application/booking/paynow.phtml, line: 527
+# File: module/Application/view/application/booking/paynow.phtml, line: 530
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 28
 msgid "Your reservation is now being processed and you will receive an email confirmation shortly."
 msgstr ""
@@ -16926,27 +16930,33 @@ msgstr ""
 msgid "Use this field to specify the amount you wish to pay with this credit card. You can split your total reservation cost across multiple credit cards by entering different amounts for each card."
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynow.phtml, line: 437
+# File: module/Application/view/application/booking/paynow.phtml, line: 246
+# File: module/Application/view/application/booking/paynow.phtml, line: 278
+# File: module/Application/view/application/booking/paynow.phtml, line: 309
+msgid "Pending Received"
+msgstr ""
+#
+# File: module/Application/view/application/booking/paynow.phtml, line: 440
 msgid "Paid"
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynow.phtml, line: 441
+# File: module/Application/view/application/booking/paynow.phtml, line: 444
 # File: module/Application/view/application/agent/reservations.phtml, line: 21
 # File: module/Application/view/application/agent/agents.phtml, line: 25
 # File: module/Application/view/application/quotes/cruises.phtml, line: 150
 msgid "Pending"
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynow.phtml, line: 450
+# File: module/Application/view/application/booking/paynow.phtml, line: 453
 msgid "We regret to inform you that your reservation has been cancelled. We apologize for any inconvenience this may have caused you."
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynow.phtml, line: 451
-# File: module/Application/view/application/booking/paynow.phtml, line: 458
+# File: module/Application/view/application/booking/paynow.phtml, line: 454
+# File: module/Application/view/application/booking/paynow.phtml, line: 461
 msgid "Unfortunately, we are unable to process your payment for the cancelled reservation. If you still wish, you will need to make a new reservation through our website or by calling our customer service."
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynow.phtml, line: 457
+# File: module/Application/view/application/booking/paynow.phtml, line: 460
 msgid "We regret to inform you that your reservation has been scheduled for cancellation. We apologize for any inconvenience this may have caused you."
 msgstr ""
 #
@@ -17248,10 +17258,15 @@ msgid "Your credit card has been successfully charged."
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 41
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 49
 msgid "Approval Code:"
 msgstr ""
 #
-# File: module/Application/view/application/booking/paynowitem.phtml, line: 48
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 47
+msgid "Your credit card has been successfully charged and your reservation is under review."
+msgstr ""
+#
+# File: module/Application/view/application/booking/paynowitem.phtml, line: 56
 msgid "For this reservation, you’re about to be charged:"
 msgstr ""
 #
