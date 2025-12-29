@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-29 10:01-0500\n"
+"POT-Creation-Date: 2025-12-29 11:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2025,7 +2025,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 725
 # File: module/Application/view/application/transfers/search.phtml, line: 390
 # File: module/Application/view/application/transfers/search.phtml, line: 402
-# File: module/Application/view/application/transfers/summary.phtml, line: 446
+# File: module/Application/view/application/transfers/summary.phtml, line: 448
 # File: module/Application/view/application/transfers/payment.phtml, line: 556
 # File: module/Application/view/application/cars/summary.phtml, line: 294
 # File: module/Application/view/application/cars/payment.phtml, line: 433
@@ -2209,7 +2209,6 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 220
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 234
 # File: module/Application/view/application/air/ticketing.phtml, line: 482
-# File: module/Application/view/application/hotels/passengers.phtml, line: 556
 # File: module/Application/view/application/transfers/passengers.phtml, line: 676
 # File: module/Application/view/application/cars/passengers.phtml, line: 288
 # File: module/Application/view/application/insurances/passengers.phtml, line: 223
@@ -3002,7 +3001,6 @@ msgstr ""
 # File: module/Application/view/application/cruises/summary.phtml, line: 211
 # File: module/Application/view/application/cruises/summary.phtml, line: 361
 # File: module/Application/view/application/activities/summary.phtml, line: 155
-# File: module/Application/view/application/activities/payment.phtml, line: 259
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 562
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 813
 # File: module/Application/view/application/air/summary.phtml, line: 610
@@ -3018,20 +3016,17 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary.phtml, line: 209
 # File: module/Application/view/application/hotels/summary.phtml, line: 447
 # File: module/Application/view/application/transfers/summary.phtml, line: 302
-# File: module/Application/view/application/transfers/summary.phtml, line: 438
-# File: module/Application/view/application/transfers/payment.phtml, line: 108
+# File: module/Application/view/application/transfers/summary.phtml, line: 439
 # File: module/Application/view/application/cars/summary.phtml, line: 196
 # File: module/Application/view/application/cars/summary.phtml, line: 284
 # File: module/Application/view/application/cars/payment.phtml, line: 94
 # File: module/Application/view/application/insurances/summary.phtml, line: 120
-# File: module/Application/view/application/insurances/summary.phtml, line: 170
-# File: module/Application/view/application/insurances/payment.phtml, line: 98
+# File: module/Application/view/application/insurances/summary.phtml, line: 171
 # File: module/Application/view/application/packages/summary.phtml, line: 123
 # File: module/Application/view/application/packages/summary.phtml, line: 284
 # File: module/Application/view/application/packages/payment.phtml, line: 101
 # File: module/Application/view/application/cart/summary.phtml, line: 1150
-# File: module/Application/view/application/cart/summary.phtml, line: 1536
-# File: module/Application/view/application/cart/payment.phtml, line: 291
+# File: module/Application/view/application/cart/summary.phtml, line: 1537
 # File: module/Application/view/application/booking/paynow.phtml, line: 151
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 106
 # File: module/Application/view/application/quotes/air.phtml, line: 412
@@ -9752,6 +9747,15 @@ msgstr ""
 msgid "Please enter any special requests or preferences you may have. While we cannot guarantee all requests, we will do our best to pass them on to our suppliers for consideration."
 msgstr ""
 #
+# File: module/Application/view/application/activities/payment.phtml, line: 259
+# File: module/Application/view/application/air/passengers.phtml, line: 772
+# File: module/Application/view/application/hotels/passengers.phtml, line: 556
+# File: module/Application/view/application/transfers/payment.phtml, line: 108
+# File: module/Application/view/application/insurances/payment.phtml, line: 98
+# File: module/Application/view/application/cart/payment.phtml, line: 291
+msgid "BUY NOW"
+msgstr ""
+#
 # File: module/Application/view/application/activities/confirm.phtml, line: 9
 msgid "Travel experience in"
 msgstr ""
@@ -11523,7 +11527,7 @@ msgstr ""
 # File: module/Application/view/application/air/return.phtml, line: 1685
 # File: module/Application/view/application/air/ancillary.phtml, line: 108
 # File: module/Application/view/application/cars/search.phtml, line: 163
-# File: module/Application/view/application/insurances/summary.phtml, line: 180
+# File: module/Application/view/application/insurances/summary.phtml, line: 182
 # File: module/Application/view/application/cart/index.phtml, line: 335
 # File: module/Application/view/application/cart/index.phtml, line: 341
 msgid "PLEASE WAIT..."
@@ -12444,10 +12448,6 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 440
 msgid "PLEASE CHECK YOUR EMAIL for a message from DOCUSIGN and review and SIGN the Terms and Conditions as soon as possible. Airline tickets will be issued after this document has been signed. This step ensures that all details of your booking are properly confirmed and that both parties fully agree to the travel terms, helping prevent any potential issues or delays with your reservation."
-msgstr ""
-#
-# File: module/Application/view/application/air/passengers.phtml, line: 772
-msgid "BUY NOW"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1372
