@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-18 09:33-0400\n"
+"POT-Creation-Date: 2026-03-18 11:08-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,8 +123,8 @@ msgid "Reset Password"
 msgstr ""
 #
 # File: module/Application/Templates/resetpasswordconfirm.phtml, line: 258
-# File: module/Application/view/application/agent/login.phtml, line: 15
-# File: module/Application/view/application/login/index.phtml, line: 24
+# File: module/Application/view/application/agent/login.phtml, line: 16
+# File: module/Application/view/application/login/index.phtml, line: 25
 # File: module/Application/view/layout/layout.phtml, line: 378
 msgid "Login"
 msgstr ""
@@ -197,27 +197,27 @@ msgstr ""
 msgid "penalty."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3613
+# File: module/Application/src/Controller/AgentController.php, line: 3628
 msgid "You recently requested to reset your password for your account. Click the button bellow to reset it."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3614
+# File: module/Application/src/Controller/AgentController.php, line: 3629
 msgid "If you did not request a password reset then you can safely ignore this email."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3619
+# File: module/Application/src/Controller/AgentController.php, line: 3634
 msgid "Password Reset Instructions for Your Account"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3917
+# File: module/Application/src/Controller/AgentController.php, line: 3936
 msgid "We have generated a temporary password for you to access your account. Your new password is"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3918
+# File: module/Application/src/Controller/AgentController.php, line: 3937
 msgid "We strongly recommend that you change your password immediately after logging in. If you did not request a password reset, please contact our support team immediately."
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentController.php, line: 3923
+# File: module/Application/src/Controller/AgentController.php, line: 3942
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
@@ -667,7 +667,7 @@ msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, ho
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 251
-# File: module/Application/src/Controller/JSONController.php, line: 4301
+# File: module/Application/src/Controller/JSONController.php, line: 4341
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/search.phtml, line: 80
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 25
@@ -678,7 +678,7 @@ msgid "Asia"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 254
-# File: module/Application/src/Controller/JSONController.php, line: 4304
+# File: module/Application/src/Controller/JSONController.php, line: 4344
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 358
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 29
@@ -687,7 +687,7 @@ msgid "Africa"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 257
-# File: module/Application/src/Controller/JSONController.php, line: 4307
+# File: module/Application/src/Controller/JSONController.php, line: 4347
 # File: module/Application/view/application/cruises/index.phtml, line: 50
 # File: module/Application/view/application/cruises/search.phtml, line: 77
 # File: module/Application/view/application/index/index.phtml, line: 179
@@ -705,7 +705,7 @@ msgid "North America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 260
-# File: module/Application/src/Controller/JSONController.php, line: 4310
+# File: module/Application/src/Controller/JSONController.php, line: 4350
 # File: module/Application/view/application/destinations/peru.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 384
 # File: module/Application/view/application/index/index.phtml, line: 179
@@ -722,7 +722,7 @@ msgid "South America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 263
-# File: module/Application/src/Controller/JSONController.php, line: 4313
+# File: module/Application/src/Controller/JSONController.php, line: 4353
 # File: module/Application/view/application/cruises/index.phtml, line: 52
 # File: module/Application/view/application/cruises/search.phtml, line: 79
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 13
@@ -744,8 +744,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 266
 # File: module/Application/src/Controller/EscortedToursController.php, line: 269
-# File: module/Application/src/Controller/JSONController.php, line: 4316
-# File: module/Application/src/Controller/JSONController.php, line: 4319
+# File: module/Application/src/Controller/JSONController.php, line: 4356
+# File: module/Application/src/Controller/JSONController.php, line: 4359
 # File: module/Application/view/application/cruises/index.phtml, line: 54
 # File: module/Application/view/application/cruises/search.phtml, line: 81
 # File: module/Application/view/application/index/index.phtml, line: 814
@@ -798,8 +798,8 @@ msgstr ""
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 4152
-# File: module/Application/src/Controller/JSONController.php, line: 5059
+# File: module/Application/src/Controller/JSONController.php, line: 4192
+# File: module/Application/src/Controller/JSONController.php, line: 5099
 # File: module/Application/view/application/activities/index.phtml, line: 164
 # File: module/Application/view/application/activities/search.phtml, line: 375
 # File: module/Application/view/application/destinations/index.phtml, line: 1086
@@ -825,18 +825,18 @@ msgstr ""
 # File: module/Application/view/application/activities/confirm.phtml, line: 7
 # File: module/Application/view/application/agent/addnew.phtml, line: 10
 # File: module/Application/view/application/agent/changepassword.phtml, line: 7
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 8
 # File: module/Application/view/application/agent/subagent.phtml, line: 10
 # File: module/Application/view/application/air/confirm.phtml, line: 6
 # File: module/Application/view/application/booking/managereservation.phtml, line: 7
 # File: module/Application/view/application/cars/confirm.phtml, line: 6
 # File: module/Application/view/application/cart/confirm.phtml, line: 16
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 10
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 9
 # File: module/Application/view/application/content/contactus.phtml, line: 10
 # File: module/Application/view/application/content/groups.phtml, line: 10
 # File: module/Application/view/application/content/offlinequote.phtml, line: 10
 # File: module/Application/view/application/content/pricematch.phtml, line: 10
-# File: module/Application/view/application/content/registeragent.phtml, line: 10
+# File: module/Application/view/application/content/registeragent.phtml, line: 9
 # File: module/Application/view/application/content/registerproperty.phtml, line: 9
 # File: module/Application/view/application/content/support.phtml, line: 10
 # File: module/Application/view/application/content/weddings.phtml, line: 10
@@ -845,7 +845,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/confirm.phtml, line: 21
 # File: module/Application/view/application/insurances/confirm.phtml, line: 3
 # File: module/Application/view/application/login/changepassword.phtml, line: 7
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 7
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 8
 # File: module/Application/view/application/login/register.phtml, line: 7
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 7
 # File: module/Application/view/application/packages/confirm.phtml, line: 26
@@ -2937,9 +2937,9 @@ msgstr ""
 # File: module/Application/view/application/agent/changepassword.phtml, line: 12
 # File: module/Application/view/application/agent/changepassword.phtml, line: 54
 # File: module/Application/view/application/agent/commissions.phtml, line: 177
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 102
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 104
 # File: module/Application/view/application/agent/index.phtml, line: 11
-# File: module/Application/view/application/agent/login.phtml, line: 98
+# File: module/Application/view/application/agent/login.phtml, line: 100
 # File: module/Application/view/application/agent/profile.phtml, line: 13
 # File: module/Application/view/application/agent/reservations.phtml, line: 16
 # File: module/Application/view/application/agent/reservations.phtml, line: 272
@@ -2962,6 +2962,8 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 849
 # File: module/Application/view/application/cart/confirm.phtml, line: 874
 # File: module/Application/view/application/cart/passengers.phtml, line: 1603
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 183
+# File: module/Application/view/application/content/registeragent.phtml, line: 157
 # File: module/Application/view/application/content/registerproperty.phtml, line: 177
 # File: module/Application/view/application/destinations/peru.phtml, line: 586
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 660
@@ -2977,13 +2979,13 @@ msgstr ""
 # File: module/Application/view/application/login/addtravelcompanion.phtml, line: 55
 # File: module/Application/view/application/login/changepassword.phtml, line: 45
 # File: module/Application/view/application/login/edittravelcompanion.phtml, line: 55
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 79
-# File: module/Application/view/application/login/index.phtml, line: 115
-# File: module/Application/view/application/login/register.phtml, line: 114
-# File: module/Application/view/application/login/register.phtml, line: 142
-# File: module/Application/view/application/login/register.phtml, line: 261
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 81
+# File: module/Application/view/application/login/index.phtml, line: 117
+# File: module/Application/view/application/login/register.phtml, line: 118
+# File: module/Application/view/application/login/register.phtml, line: 146
+# File: module/Application/view/application/login/register.phtml, line: 265
 # File: module/Application/view/application/login/settings.phtml, line: 43
-# File: module/Application/view/application/login/signout.phtml, line: 100
+# File: module/Application/view/application/login/signout.phtml, line: 102
 # File: module/Application/view/application/login/travelcompanions.phtml, line: 52
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 50
 # File: module/Application/view/application/login/frequentlyflyernumbers.phtml, line: 84
@@ -5000,8 +5002,8 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 44
 # File: module/Application/view/application/cart/passengers.phtml, line: 154
 # File: module/Application/view/application/cart/passengers.phtml, line: 301
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
-# File: module/Application/view/application/content/registeragent.phtml, line: 50
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 75
+# File: module/Application/view/application/content/registeragent.phtml, line: 49
 # File: module/Application/view/application/cruises/passengers.phtml, line: 47
 # File: module/Application/view/application/cruises/passengers.phtml, line: 85
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 44
@@ -5036,8 +5038,8 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 44
 # File: module/Application/view/application/cart/passengers.phtml, line: 154
 # File: module/Application/view/application/cart/passengers.phtml, line: 301
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
-# File: module/Application/view/application/content/registeragent.phtml, line: 50
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 75
+# File: module/Application/view/application/content/registeragent.phtml, line: 49
 # File: module/Application/view/application/cruises/passengers.phtml, line: 47
 # File: module/Application/view/application/cruises/passengers.phtml, line: 85
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 61
@@ -5065,8 +5067,8 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 44
 # File: module/Application/view/application/cart/passengers.phtml, line: 154
 # File: module/Application/view/application/cart/passengers.phtml, line: 301
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
-# File: module/Application/view/application/content/registeragent.phtml, line: 50
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 75
+# File: module/Application/view/application/content/registeragent.phtml, line: 49
 # File: module/Application/view/application/cruises/passengers.phtml, line: 47
 # File: module/Application/view/application/cruises/passengers.phtml, line: 85
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 47
@@ -5100,8 +5102,8 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 44
 # File: module/Application/view/application/cart/passengers.phtml, line: 154
 # File: module/Application/view/application/cart/passengers.phtml, line: 301
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
-# File: module/Application/view/application/content/registeragent.phtml, line: 50
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 75
+# File: module/Application/view/application/content/registeragent.phtml, line: 49
 # File: module/Application/view/application/cruises/passengers.phtml, line: 47
 # File: module/Application/view/application/cruises/passengers.phtml, line: 85
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 48
@@ -5137,12 +5139,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 45
 # File: module/Application/view/application/cart/passengers.phtml, line: 155
 # File: module/Application/view/application/cart/passengers.phtml, line: 302
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 77
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/content/groups.phtml, line: 30
 # File: module/Application/view/application/content/offlinequote.phtml, line: 30
 # File: module/Application/view/application/content/pricematch.phtml, line: 104
-# File: module/Application/view/application/content/registeragent.phtml, line: 51
+# File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/content/registerproperty.phtml, line: 70
 # File: module/Application/view/application/content/support.phtml, line: 52
 # File: module/Application/view/application/content/weddings.phtml, line: 30
@@ -5180,12 +5182,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 45
 # File: module/Application/view/application/cart/passengers.phtml, line: 155
 # File: module/Application/view/application/cart/passengers.phtml, line: 302
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 77
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 76
 # File: module/Application/view/application/content/contactus.phtml, line: 39
 # File: module/Application/view/application/content/groups.phtml, line: 30
 # File: module/Application/view/application/content/offlinequote.phtml, line: 30
 # File: module/Application/view/application/content/pricematch.phtml, line: 104
-# File: module/Application/view/application/content/registeragent.phtml, line: 51
+# File: module/Application/view/application/content/registeragent.phtml, line: 50
 # File: module/Application/view/application/content/registerproperty.phtml, line: 70
 # File: module/Application/view/application/content/support.phtml, line: 52
 # File: module/Application/view/application/content/weddings.phtml, line: 30
@@ -5217,12 +5219,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 46
 # File: module/Application/view/application/cart/passengers.phtml, line: 156
 # File: module/Application/view/application/cart/passengers.phtml, line: 303
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 78
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 77
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/content/groups.phtml, line: 31
 # File: module/Application/view/application/content/offlinequote.phtml, line: 31
 # File: module/Application/view/application/content/pricematch.phtml, line: 105
-# File: module/Application/view/application/content/registeragent.phtml, line: 52
+# File: module/Application/view/application/content/registeragent.phtml, line: 51
 # File: module/Application/view/application/content/registerproperty.phtml, line: 71
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/weddings.phtml, line: 31
@@ -5260,12 +5262,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 46
 # File: module/Application/view/application/cart/passengers.phtml, line: 156
 # File: module/Application/view/application/cart/passengers.phtml, line: 303
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 78
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 77
 # File: module/Application/view/application/content/contactus.phtml, line: 40
 # File: module/Application/view/application/content/groups.phtml, line: 31
 # File: module/Application/view/application/content/offlinequote.phtml, line: 31
 # File: module/Application/view/application/content/pricematch.phtml, line: 105
-# File: module/Application/view/application/content/registeragent.phtml, line: 52
+# File: module/Application/view/application/content/registeragent.phtml, line: 51
 # File: module/Application/view/application/content/registerproperty.phtml, line: 71
 # File: module/Application/view/application/content/support.phtml, line: 53
 # File: module/Application/view/application/content/weddings.phtml, line: 31
@@ -5290,7 +5292,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 225
 # File: module/Application/view/application/activities/passengers.phtml, line: 482
 # File: module/Application/view/application/agent/addnew.phtml, line: 52
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 61
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 62
 # File: module/Application/view/application/agent/profile.phtml, line: 54
 # File: module/Application/view/application/agent/subagent.phtml, line: 49
 # File: module/Application/view/application/air/passengers.phtml, line: 89
@@ -5302,12 +5304,12 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 158
 # File: module/Application/view/application/cart/passengers.phtml, line: 305
 # File: module/Application/view/application/cart/passengers.phtml, line: 1162
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/content/groups.phtml, line: 32
 # File: module/Application/view/application/content/offlinequote.phtml, line: 32
 # File: module/Application/view/application/content/pricematch.phtml, line: 106
-# File: module/Application/view/application/content/registeragent.phtml, line: 54
+# File: module/Application/view/application/content/registeragent.phtml, line: 53
 # File: module/Application/view/application/content/registerproperty.phtml, line: 72
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/weddings.phtml, line: 32
@@ -5325,7 +5327,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/passengers.phtml, line: 68
 # File: module/Application/view/application/login/addtravelcompanion.phtml, line: 22
 # File: module/Application/view/application/login/edittravelcompanion.phtml, line: 22
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 41
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 42
 # File: module/Application/view/application/login/profile.phtml, line: 72
 # File: module/Application/view/application/login/register.phtml, line: 60
 # File: module/Application/view/application/login/unsubscribe.phtml, line: 30
@@ -5350,12 +5352,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 47
 # File: module/Application/view/application/cart/passengers.phtml, line: 158
 # File: module/Application/view/application/cart/passengers.phtml, line: 305
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
 # File: module/Application/view/application/content/contactus.phtml, line: 41
 # File: module/Application/view/application/content/groups.phtml, line: 32
 # File: module/Application/view/application/content/offlinequote.phtml, line: 32
 # File: module/Application/view/application/content/pricematch.phtml, line: 106
-# File: module/Application/view/application/content/registeragent.phtml, line: 54
+# File: module/Application/view/application/content/registeragent.phtml, line: 53
 # File: module/Application/view/application/content/registerproperty.phtml, line: 72
 # File: module/Application/view/application/content/support.phtml, line: 54
 # File: module/Application/view/application/content/weddings.phtml, line: 32
@@ -5379,7 +5381,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 226
 # File: module/Application/view/application/activities/passengers.phtml, line: 483
 # File: module/Application/view/application/agent/addnew.phtml, line: 53
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 62
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 63
 # File: module/Application/view/application/agent/subagent.phtml, line: 50
 # File: module/Application/view/application/air/passengers.phtml, line: 90
 # File: module/Application/view/application/air/passengers.phtml, line: 161
@@ -5390,12 +5392,12 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 159
 # File: module/Application/view/application/cart/passengers.phtml, line: 306
 # File: module/Application/view/application/cart/passengers.phtml, line: 1163
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/content/groups.phtml, line: 33
 # File: module/Application/view/application/content/offlinequote.phtml, line: 33
 # File: module/Application/view/application/content/pricematch.phtml, line: 107
-# File: module/Application/view/application/content/registeragent.phtml, line: 55
+# File: module/Application/view/application/content/registeragent.phtml, line: 54
 # File: module/Application/view/application/content/registerproperty.phtml, line: 73
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/weddings.phtml, line: 33
@@ -5407,7 +5409,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 620
 # File: module/Application/view/application/insurances/passengers.phtml, line: 32
 # File: module/Application/view/application/insurances/passengers.phtml, line: 69
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 42
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 43
 # File: module/Application/view/application/login/register.phtml, line: 59
 # File: module/Application/view/application/packages/passengers.phtml, line: 41
 # File: module/Application/view/application/packages/passengers.phtml, line: 104
@@ -5429,12 +5431,12 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 48
 # File: module/Application/view/application/cart/passengers.phtml, line: 159
 # File: module/Application/view/application/cart/passengers.phtml, line: 306
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 80
 # File: module/Application/view/application/content/contactus.phtml, line: 42
 # File: module/Application/view/application/content/groups.phtml, line: 33
 # File: module/Application/view/application/content/offlinequote.phtml, line: 33
 # File: module/Application/view/application/content/pricematch.phtml, line: 107
-# File: module/Application/view/application/content/registeragent.phtml, line: 55
+# File: module/Application/view/application/content/registeragent.phtml, line: 54
 # File: module/Application/view/application/content/registerproperty.phtml, line: 73
 # File: module/Application/view/application/content/support.phtml, line: 55
 # File: module/Application/view/application/content/weddings.phtml, line: 33
@@ -5462,10 +5464,10 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 49
 # File: module/Application/view/application/cart/passengers.phtml, line: 163
 # File: module/Application/view/application/cart/passengers.phtml, line: 307
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
 # File: module/Application/view/application/content/groups.phtml, line: 58
 # File: module/Application/view/application/content/pricematch.phtml, line: 133
-# File: module/Application/view/application/content/registeragent.phtml, line: 56
+# File: module/Application/view/application/content/registeragent.phtml, line: 55
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/content/weddings.phtml, line: 60
 # File: module/Application/view/application/cruises/passengers.phtml, line: 52
@@ -5494,10 +5496,10 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers.phtml, line: 49
 # File: module/Application/view/application/cart/passengers.phtml, line: 163
 # File: module/Application/view/application/cart/passengers.phtml, line: 307
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
 # File: module/Application/view/application/content/groups.phtml, line: 58
 # File: module/Application/view/application/content/pricematch.phtml, line: 133
-# File: module/Application/view/application/content/registeragent.phtml, line: 56
+# File: module/Application/view/application/content/registeragent.phtml, line: 55
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/content/weddings.phtml, line: 60
 # File: module/Application/view/application/cruises/passengers.phtml, line: 52
@@ -5523,8 +5525,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 95
 # File: module/Application/view/application/cars/passengers.phtml, line: 51
 # File: module/Application/view/application/cart/passengers.phtml, line: 164
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
-# File: module/Application/view/application/content/registeragent.phtml, line: 57
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/registeragent.phtml, line: 56
 # File: module/Application/view/application/content/registerproperty.phtml, line: 75
 # File: module/Application/view/application/cruises/passengers.phtml, line: 54
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 68
@@ -5542,8 +5544,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 95
 # File: module/Application/view/application/cars/passengers.phtml, line: 51
 # File: module/Application/view/application/cart/passengers.phtml, line: 164
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
-# File: module/Application/view/application/content/registeragent.phtml, line: 57
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/registeragent.phtml, line: 56
 # File: module/Application/view/application/content/registerproperty.phtml, line: 75
 # File: module/Application/view/application/cruises/passengers.phtml, line: 54
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 68
@@ -5563,8 +5565,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 96
 # File: module/Application/view/application/cars/passengers.phtml, line: 52
 # File: module/Application/view/application/cart/passengers.phtml, line: 165
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
-# File: module/Application/view/application/content/registeragent.phtml, line: 58
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
+# File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 76
 # File: module/Application/view/application/cruises/passengers.phtml, line: 55
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 69
@@ -5583,8 +5585,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 96
 # File: module/Application/view/application/cars/passengers.phtml, line: 52
 # File: module/Application/view/application/cart/passengers.phtml, line: 165
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
-# File: module/Application/view/application/content/registeragent.phtml, line: 58
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
+# File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 76
 # File: module/Application/view/application/cruises/passengers.phtml, line: 55
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 55
@@ -5605,8 +5607,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 97
 # File: module/Application/view/application/cars/passengers.phtml, line: 53
 # File: module/Application/view/application/cart/passengers.phtml, line: 166
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 85
-# File: module/Application/view/application/content/registeragent.phtml, line: 59
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
+# File: module/Application/view/application/content/registeragent.phtml, line: 58
 # File: module/Application/view/application/content/registerproperty.phtml, line: 77
 # File: module/Application/view/application/cruises/passengers.phtml, line: 56
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 57
@@ -5627,8 +5629,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 97
 # File: module/Application/view/application/cars/passengers.phtml, line: 53
 # File: module/Application/view/application/cart/passengers.phtml, line: 166
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 85
-# File: module/Application/view/application/content/registeragent.phtml, line: 59
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
+# File: module/Application/view/application/content/registeragent.phtml, line: 58
 # File: module/Application/view/application/content/registerproperty.phtml, line: 77
 # File: module/Application/view/application/cruises/passengers.phtml, line: 56
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 70
@@ -5646,8 +5648,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 98
 # File: module/Application/view/application/cars/passengers.phtml, line: 54
 # File: module/Application/view/application/cart/passengers.phtml, line: 167
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 86
-# File: module/Application/view/application/content/registeragent.phtml, line: 60
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 85
+# File: module/Application/view/application/content/registeragent.phtml, line: 59
 # File: module/Application/view/application/content/registerproperty.phtml, line: 78
 # File: module/Application/view/application/cruises/passengers.phtml, line: 57
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 71
@@ -6307,7 +6309,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 749
 # File: module/Application/view/application/hotels/passengers.phtml, line: 875
 # File: module/Application/view/application/insurances/passengers.phtml, line: 277
-# File: module/Application/view/application/login/register.phtml, line: 174
+# File: module/Application/view/application/login/register.phtml, line: 178
 # File: module/Application/view/application/packages/passengers.phtml, line: 362
 # File: module/Application/view/application/transfers/passengers.phtml, line: 860
 # File: module/Application/view/application2/content/registeragent.phtml, line: 174
@@ -6338,7 +6340,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 757
 # File: module/Application/view/application/hotels/passengers.phtml, line: 883
 # File: module/Application/view/application/insurances/passengers.phtml, line: 285
-# File: module/Application/view/application/login/register.phtml, line: 182
+# File: module/Application/view/application/login/register.phtml, line: 186
 # File: module/Application/view/application/packages/passengers.phtml, line: 370
 # File: module/Application/view/application/transfers/passengers.phtml, line: 867
 # File: module/Application/view/application2/content/registeragent.phtml, line: 182
@@ -6369,7 +6371,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 765
 # File: module/Application/view/application/hotels/passengers.phtml, line: 891
 # File: module/Application/view/application/insurances/passengers.phtml, line: 293
-# File: module/Application/view/application/login/register.phtml, line: 190
+# File: module/Application/view/application/login/register.phtml, line: 194
 # File: module/Application/view/application/packages/passengers.phtml, line: 378
 # File: module/Application/view/application/transfers/passengers.phtml, line: 875
 # File: module/Application/view/application2/content/registeragent.phtml, line: 190
@@ -6399,7 +6401,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 774
 # File: module/Application/view/application/hotels/passengers.phtml, line: 900
 # File: module/Application/view/application/insurances/passengers.phtml, line: 301
-# File: module/Application/view/application/login/register.phtml, line: 222
+# File: module/Application/view/application/login/register.phtml, line: 226
 # File: module/Application/view/application/packages/passengers.phtml, line: 386
 # File: module/Application/view/application/transfers/passengers.phtml, line: 883
 # File: module/Application/view/application2/content/registeragent.phtml, line: 198
@@ -6429,7 +6431,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 784
 # File: module/Application/view/application/hotels/passengers.phtml, line: 910
 # File: module/Application/view/application/insurances/passengers.phtml, line: 309
-# File: module/Application/view/application/login/register.phtml, line: 214
+# File: module/Application/view/application/login/register.phtml, line: 218
 # File: module/Application/view/application/packages/passengers.phtml, line: 394
 # File: module/Application/view/application/transfers/passengers.phtml, line: 891
 # File: module/Application/view/application2/content/registeragent.phtml, line: 206
@@ -6493,8 +6495,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers.phtml, line: 940
 # File: module/Application/view/application/insurances/passengers.phtml, line: 327
 # File: module/Application/view/application/insurances/passengers.phtml, line: 335
-# File: module/Application/view/application/login/register.phtml, line: 198
-# File: module/Application/view/application/login/register.phtml, line: 206
+# File: module/Application/view/application/login/register.phtml, line: 202
+# File: module/Application/view/application/login/register.phtml, line: 210
 # File: module/Application/view/application/packages/passengers.phtml, line: 412
 # File: module/Application/view/application/packages/passengers.phtml, line: 420
 # File: module/Application/view/application/transfers/passengers.phtml, line: 899
@@ -7801,21 +7803,21 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 145
 # File: module/Application/view/application/air/summary.phtml, line: 1170
 # File: module/Application/view/application/cart/summary.phtml, line: 1566
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 104
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 105
 # File: module/Application/view/application/content/contactus.phtml, line: 60
 # File: module/Application/view/application/content/groups.phtml, line: 129
 # File: module/Application/view/application/content/offlinequote.phtml, line: 69
 # File: module/Application/view/application/content/pricematch.phtml, line: 189
-# File: module/Application/view/application/content/registeragent.phtml, line: 78
+# File: module/Application/view/application/content/registeragent.phtml, line: 79
 # File: module/Application/view/application/content/registerproperty.phtml, line: 98
 # File: module/Application/view/application/content/weddings.phtml, line: 140
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 295
 # File: module/Application/view/application/hotels/summary.phtml, line: 516
 # File: module/Application/view/application/login/addtravelcompanion.phtml, line: 29
 # File: module/Application/view/application/login/edittravelcompanion.phtml, line: 29
-# File: module/Application/view/application/login/register.phtml, line: 77
-# File: module/Application/view/application/login/register.phtml, line: 288
-# File: module/Application/view/application/login/register.phtml, line: 295
+# File: module/Application/view/application/login/register.phtml, line: 80
+# File: module/Application/view/application/login/register.phtml, line: 294
+# File: module/Application/view/application/login/register.phtml, line: 301
 # File: module/Application/view/application/packages/summary.phtml, line: 309
 # File: module/Application/view/application/quotes/air.phtml, line: 870
 msgid "Submit"
@@ -8001,11 +8003,11 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 20
 # File: module/Application/view/application/agent/index.phtml, line: 134
-# File: module/Application/view/application/agent/login.phtml, line: 31
+# File: module/Application/view/application/agent/login.phtml, line: 33
 # File: module/Application/view/application/agent/subagent.phtml, line: 20
 # File: module/Application/view/application/booking/managereservation.phtml, line: 57
-# File: module/Application/view/application/login/index.phtml, line: 40
-# File: module/Application/view/application/login/signout.phtml, line: 25
+# File: module/Application/view/application/login/index.phtml, line: 42
+# File: module/Application/view/application/login/signout.phtml, line: 27
 # File: module/Application/view/application2/agent/login.phtml, line: 22
 # File: module/Application/view/application2/content/registeragent.phtml, line: 155
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 15
@@ -8021,8 +8023,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 35
 # File: module/Application/view/application/agent/subagent.phtml, line: 32
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 63
-# File: module/Application/view/application/content/registeragent.phtml, line: 37
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 62
+# File: module/Application/view/application/content/registeragent.phtml, line: 36
 # File: module/Application/view/application/login/register.phtml, line: 34
 # File: module/Application/view/application2/content/registeragent.phtml, line: 35
 msgid "The email address you have entered is already registered."
@@ -8030,8 +8032,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 35
 # File: module/Application/view/application/agent/subagent.phtml, line: 32
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 63
-# File: module/Application/view/application/content/registeragent.phtml, line: 37
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 62
+# File: module/Application/view/application/content/registeragent.phtml, line: 36
 # File: module/Application/view/application/content/registerproperty.phtml, line: 55
 # File: module/Application/view/application/login/register.phtml, line: 34
 # File: module/Application/view/application2/content/registeragent.phtml, line: 35
@@ -8044,25 +8046,25 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 51
 # File: module/Application/view/application/agent/subagent.phtml, line: 48
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
-# File: module/Application/view/application/content/registeragent.phtml, line: 53
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 78
+# File: module/Application/view/application/content/registeragent.phtml, line: 52
 # File: module/Application/view/layout/layout.phtml, line: 967
 msgid "Company"
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 51
 # File: module/Application/view/application/agent/subagent.phtml, line: 48
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 79
-# File: module/Application/view/application/content/registeragent.phtml, line: 53
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 78
+# File: module/Application/view/application/content/registeragent.phtml, line: 52
 msgid "Please enter Company"
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 54
 # File: module/Application/view/application/agent/subagent.phtml, line: 51
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 81
 # File: module/Application/view/application/content/groups.phtml, line: 58
 # File: module/Application/view/application/content/pricematch.phtml, line: 133
-# File: module/Application/view/application/content/registeragent.phtml, line: 56
+# File: module/Application/view/application/content/registeragent.phtml, line: 55
 # File: module/Application/view/application/content/registerproperty.phtml, line: 74
 # File: module/Application/view/application/content/weddings.phtml, line: 60
 # File: module/Application/view/application2/content/registeragent.phtml, line: 84
@@ -8071,8 +8073,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 55
 # File: module/Application/view/application/agent/subagent.phtml, line: 52
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
-# File: module/Application/view/application/content/registeragent.phtml, line: 57
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 82
+# File: module/Application/view/application/content/registeragent.phtml, line: 56
 # File: module/Application/view/application/content/registerproperty.phtml, line: 75
 # File: module/Application/view/application/login/register.phtml, line: 56
 # File: module/Application/view/application2/content/registeragent.phtml, line: 90
@@ -8081,8 +8083,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 56
 # File: module/Application/view/application/agent/subagent.phtml, line: 53
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 84
-# File: module/Application/view/application/content/registeragent.phtml, line: 58
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 83
+# File: module/Application/view/application/content/registeragent.phtml, line: 57
 # File: module/Application/view/application/content/registerproperty.phtml, line: 76
 # File: module/Application/view/application/login/register.phtml, line: 57
 msgid "Please enter your City"
@@ -8090,8 +8092,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 58
 # File: module/Application/view/application/agent/subagent.phtml, line: 55
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 86
-# File: module/Application/view/application/content/registeragent.phtml, line: 60
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 85
+# File: module/Application/view/application/content/registeragent.phtml, line: 59
 # File: module/Application/view/application/content/registerproperty.phtml, line: 78
 # File: module/Application/view/application/login/register.phtml, line: 58
 msgid "Please enter your Zip/Postal Code"
@@ -8099,16 +8101,16 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
 # File: module/Application/view/application/agent/changepassword.phtml, line: 38
-# File: module/Application/view/application/agent/login.phtml, line: 28
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 87
-# File: module/Application/view/application/content/registeragent.phtml, line: 61
+# File: module/Application/view/application/agent/login.phtml, line: 29
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 86
+# File: module/Application/view/application/content/registeragent.phtml, line: 60
 # File: module/Application/view/application/content/registerproperty.phtml, line: 79
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 76
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 95
 # File: module/Application/view/application/login/changepassword.phtml, line: 30
-# File: module/Application/view/application/login/index.phtml, line: 37
+# File: module/Application/view/application/login/index.phtml, line: 38
 # File: module/Application/view/application/login/register.phtml, line: 61
-# File: module/Application/view/application/login/signout.phtml, line: 22
+# File: module/Application/view/application/login/signout.phtml, line: 23
 # File: module/Application/view/application2/agent/login.phtml, line: 13
 # File: module/Application/view/application2/content/registeragent.phtml, line: 102
 # File: module/Application/view/layout/layout.phtml, line: 415
@@ -8116,8 +8118,8 @@ msgid "Password"
 msgstr ""
 #
 # File: module/Application/view/application/agent/addnew.phtml, line: 59
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 87
-# File: module/Application/view/application/content/registeragent.phtml, line: 61
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 86
+# File: module/Application/view/application/content/registeragent.phtml, line: 60
 # File: module/Application/view/application/content/registerproperty.phtml, line: 79
 # File: module/Application/view/application/login/register.phtml, line: 61
 # File: module/Application/view/application2/content/registeragent.phtml, line: 102
@@ -8127,8 +8129,8 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 60
 # File: module/Application/view/application/agent/subagent.phtml, line: 57
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 82
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 88
-# File: module/Application/view/application/content/registeragent.phtml, line: 62
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 87
+# File: module/Application/view/application/content/registeragent.phtml, line: 61
 # File: module/Application/view/application/content/registerproperty.phtml, line: 80
 # File: module/Application/view/application/content/support.phtml, line: 57
 msgid "Memo"
@@ -8317,7 +8319,7 @@ msgstr ""
 # File: module/Application/view/application/login/coupons.phtml, line: 65
 # File: module/Application/view/application/login/pointscalculator.phtml, line: 94
 # File: module/Application/view/application/login/rewards.phtml, line: 111
-# File: module/Application/view/application/login/signout.phtml, line: 16
+# File: module/Application/view/application/login/signout.phtml, line: 17
 # File: module/Application/view/application/login/termsandconditions.phtml, line: 53
 # File: module/Application/view/application2/agent/reservations.phtml, line: 326
 msgid "Logout"
@@ -8437,6 +8439,7 @@ msgid "Apply Changes"
 msgstr ""
 #
 # File: module/Application/view/application/agent/commissions.phtml, line: 107
+# File: module/Application/view/application/content/registeragent.phtml, line: 52
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 124
 msgid "Agent"
 msgstr ""
@@ -8497,73 +8500,73 @@ msgstr ""
 msgid "Exchange"
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 6
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 6
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 7
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 7
 msgid "Forgot Password"
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 15
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 16
 # File: module/Application/view/application/booking/managereservation.phtml, line: 15
 msgid "We're sorry, but you cannot reset your password because your account is currently disabled. Please contact our customer support team or your account executive for assistance."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 21
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 22
 # File: module/Application/view/application/booking/managereservation.phtml, line: 21
 msgid "We're sorry, but you cannot reset your password because your account is currently under review. An account executive will get back to you with further details once the review is complete."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 28
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 15
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 29
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 16
 msgid "We will email you a link and instructions for updating your password. Please check your email and click the link in the message. It should be there momentarily. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 31
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 32
 msgid "If you haven't received the email in your inbox, we kindly ask you to check your spam or junk mail folder. It's possible that the email we sent has been mistakenly filtered there."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 34
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 35
 msgid "To ensure future emails from us arrive in your inbox, please add our email address to your contacts or safe sender list."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 40
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 41
 # File: module/Application/view/application/booking/managereservation.phtml, line: 37
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 21
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 22
 msgid "There was a problem processing your request. Please Try again."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 46
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 27
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 47
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 28
 msgid "A temporary password will be sent to the email address you have provided. Please log in with the temporary password and change it to a password of your choice as soon as possible. If you do not receive the confirmation email within the 5 minutes please contact our customer support."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 52
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 33
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 53
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 34
 msgid "If you have forgotten your password, please fill out the form below and we will send you a link to create a new one:"
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 56
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 37
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 57
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 38
 msgid "Forgot Password - Reset Your Account"
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 67
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 47
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 69
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 49
 msgid "Reset password"
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 87
-# File: module/Application/view/application/agent/login.phtml, line: 85
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 66
-# File: module/Application/view/application/login/index.phtml, line: 102
-# File: module/Application/view/application/login/signout.phtml, line: 87
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 89
+# File: module/Application/view/application/agent/login.phtml, line: 87
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 68
+# File: module/Application/view/application/login/index.phtml, line: 104
+# File: module/Application/view/application/login/signout.phtml, line: 89
 msgid "Email is required! Please input your email address."
 msgstr ""
 #
-# File: module/Application/view/application/agent/forgotpassword.phtml, line: 94
-# File: module/Application/view/application/agent/login.phtml, line: 92
-# File: module/Application/view/application/login/forgotpassword.phtml, line: 73
-# File: module/Application/view/application/login/index.phtml, line: 109
-# File: module/Application/view/application/login/signout.phtml, line: 94
+# File: module/Application/view/application/agent/forgotpassword.phtml, line: 96
+# File: module/Application/view/application/agent/login.phtml, line: 94
+# File: module/Application/view/application/login/forgotpassword.phtml, line: 75
+# File: module/Application/view/application/login/index.phtml, line: 111
+# File: module/Application/view/application/login/signout.phtml, line: 96
 msgid "Password is required! Please input your password."
 msgstr ""
 #
@@ -8578,10 +8581,10 @@ msgstr ""
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
 # File: module/Application/view/application/login/coupons.phtml, line: 59
-# File: module/Application/view/application/login/index.phtml, line: 139
+# File: module/Application/view/application/login/index.phtml, line: 146
 # File: module/Application/view/application/login/pointscalculator.phtml, line: 81
 # File: module/Application/view/application/login/rewards.phtml, line: 101
-# File: module/Application/view/application/login/signout.phtml, line: 124
+# File: module/Application/view/application/login/signout.phtml, line: 131
 # File: module/Application/view/application/login/termsandconditions.phtml, line: 43
 # File: module/Application/view/application2/agent/reservations.phtml, line: 324
 # File: module/Application/view/application2/layout/layout.phtml, line: 109
@@ -8601,10 +8604,10 @@ msgstr ""
 # File: module/Application/view/application/agent/reservations.phtml, line: 30
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
-# File: module/Application/view/application/login/index.phtml, line: 139
+# File: module/Application/view/application/login/index.phtml, line: 146
 # File: module/Application/view/application/login/reservations.phtml, line: 8
 # File: module/Application/view/application/login/reservations.phtml, line: 19
-# File: module/Application/view/application/login/signout.phtml, line: 124
+# File: module/Application/view/application/login/signout.phtml, line: 131
 # File: module/Application/view/application2/agent/reservations.phtml, line: 183
 # File: module/Application/view/layout/layout.phtml, line: 391
 # File: module/Application/view/layout/layout.phtml, line: 399
@@ -8626,24 +8629,24 @@ msgstr ""
 msgid "Log off"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 16
-# File: module/Application/view/application/login/index.phtml, line: 25
+# File: module/Application/view/application/agent/login.phtml, line: 17
+# File: module/Application/view/application/login/index.phtml, line: 26
 msgid "Don't have an account yet?"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 16
-# File: module/Application/view/application/login/index.phtml, line: 25
+# File: module/Application/view/application/agent/login.phtml, line: 17
+# File: module/Application/view/application/login/index.phtml, line: 26
 msgid "Create it from here"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 19
-# File: module/Application/view/application/login/index.phtml, line: 28
+# File: module/Application/view/application/agent/login.phtml, line: 20
+# File: module/Application/view/application/login/index.phtml, line: 29
 msgid "Invalid login or password."
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 27
-# File: module/Application/view/application/login/index.phtml, line: 36
-# File: module/Application/view/application/login/signout.phtml, line: 21
+# File: module/Application/view/application/agent/login.phtml, line: 28
+# File: module/Application/view/application/login/index.phtml, line: 37
+# File: module/Application/view/application/login/signout.phtml, line: 22
 # File: module/Application/view/application2/agent/login.phtml, line: 9
 # File: module/Application/view/application2/agent/login.phtml, line: 10
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 12
@@ -8652,21 +8655,21 @@ msgstr ""
 msgid "Email address"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 32
-# File: module/Application/view/application/login/index.phtml, line: 41
-# File: module/Application/view/application/login/signout.phtml, line: 26
+# File: module/Application/view/application/agent/login.phtml, line: 34
+# File: module/Application/view/application/login/index.phtml, line: 43
+# File: module/Application/view/application/login/signout.phtml, line: 28
 msgid "forgot your password?"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 38
-# File: module/Application/view/application/login/index.phtml, line: 46
-# File: module/Application/view/application/login/signout.phtml, line: 31
+# File: module/Application/view/application/agent/login.phtml, line: 40
+# File: module/Application/view/application/login/index.phtml, line: 48
+# File: module/Application/view/application/login/signout.phtml, line: 33
 msgid "Login with Google"
 msgstr ""
 #
-# File: module/Application/view/application/agent/login.phtml, line: 46
-# File: module/Application/view/application/login/index.phtml, line: 53
-# File: module/Application/view/application/login/signout.phtml, line: 38
+# File: module/Application/view/application/agent/login.phtml, line: 48
+# File: module/Application/view/application/login/index.phtml, line: 55
+# File: module/Application/view/application/login/signout.phtml, line: 40
 msgid "Login with Facebook"
 msgstr ""
 #
@@ -10685,77 +10688,77 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 432
 # File: module/Application/view/application/cart/confirm.phtml, line: 815
 # File: module/Application/view/application/hotels/confirm.phtml, line: 271
-# File: module/Application/view/application/login/register.phtml, line: 87
+# File: module/Application/view/application/login/register.phtml, line: 90
 msgid "Verify Your Phone Number"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 436
 # File: module/Application/view/application/cart/confirm.phtml, line: 819
 # File: module/Application/view/application/hotels/confirm.phtml, line: 275
-# File: module/Application/view/application/login/register.phtml, line: 91
+# File: module/Application/view/application/login/register.phtml, line: 94
 msgid "Invalid Verification Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 436
 # File: module/Application/view/application/cart/confirm.phtml, line: 819
 # File: module/Application/view/application/hotels/confirm.phtml, line: 275
-# File: module/Application/view/application/login/register.phtml, line: 91
+# File: module/Application/view/application/login/register.phtml, line: 94
 msgid "The code you entered is not valid. Please check the code and try again. If you haven’t received a new code, request another one to continue with the verification process."
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 437
 # File: module/Application/view/application/cart/confirm.phtml, line: 820
 # File: module/Application/view/application/hotels/confirm.phtml, line: 276
-# File: module/Application/view/application/login/register.phtml, line: 92
+# File: module/Application/view/application/login/register.phtml, line: 95
 msgid "We just sent you a text message with a"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 437
 # File: module/Application/view/application/cart/confirm.phtml, line: 820
 # File: module/Application/view/application/hotels/confirm.phtml, line: 276
-# File: module/Application/view/application/login/register.phtml, line: 92
+# File: module/Application/view/application/login/register.phtml, line: 95
 msgid "verification code"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 439
 # File: module/Application/view/application/cart/confirm.phtml, line: 822
 # File: module/Application/view/application/hotels/confirm.phtml, line: 278
-# File: module/Application/view/application/login/register.phtml, line: 94
+# File: module/Application/view/application/login/register.phtml, line: 97
 msgid "Open the text message on your phone."
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 440
 # File: module/Application/view/application/cart/confirm.phtml, line: 823
 # File: module/Application/view/application/hotels/confirm.phtml, line: 279
-# File: module/Application/view/application/login/register.phtml, line: 95
+# File: module/Application/view/application/login/register.phtml, line: 98
 msgid "Find the 6-digit code inside the message."
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 441
 # File: module/Application/view/application/cart/confirm.phtml, line: 824
 # File: module/Application/view/application/hotels/confirm.phtml, line: 280
-# File: module/Application/view/application/login/register.phtml, line: 96
+# File: module/Application/view/application/login/register.phtml, line: 99
 msgid "Type that code in the box below."
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 444
 # File: module/Application/view/application/cart/confirm.phtml, line: 827
 # File: module/Application/view/application/hotels/confirm.phtml, line: 283
-# File: module/Application/view/application/login/register.phtml, line: 99
+# File: module/Application/view/application/login/register.phtml, line: 102
 msgid "Enter the code here:"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 445
 # File: module/Application/view/application/cart/confirm.phtml, line: 828
 # File: module/Application/view/application/hotels/confirm.phtml, line: 284
-# File: module/Application/view/application/login/register.phtml, line: 100
+# File: module/Application/view/application/login/register.phtml, line: 103
 msgid "e.g."
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 447
 # File: module/Application/view/application/cart/confirm.phtml, line: 830
 # File: module/Application/view/application/hotels/confirm.phtml, line: 286
-# File: module/Application/view/application/login/register.phtml, line: 102
+# File: module/Application/view/application/login/register.phtml, line: 105
 msgid "Tip: If you didn’t get the message, wait a few seconds or click \"Resend Code\"."
 msgstr ""
 #
@@ -10768,9 +10771,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/confirm.phtml, line: 289
 # File: module/Application/view/application/hotels/confirm.phtml, line: 340
 # File: module/Application/view/application/hotels/confirm.phtml, line: 345
-# File: module/Application/view/application/login/register.phtml, line: 105
-# File: module/Application/view/application/login/register.phtml, line: 152
-# File: module/Application/view/application/login/register.phtml, line: 157
+# File: module/Application/view/application/login/register.phtml, line: 108
+# File: module/Application/view/application/login/register.phtml, line: 156
+# File: module/Application/view/application/login/register.phtml, line: 161
 msgid "Resend Code"
 msgstr ""
 #
@@ -10783,9 +10786,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/confirm.phtml, line: 290
 # File: module/Application/view/application/hotels/confirm.phtml, line: 318
 # File: module/Application/view/application/hotels/confirm.phtml, line: 323
-# File: module/Application/view/application/login/register.phtml, line: 106
-# File: module/Application/view/application/login/register.phtml, line: 130
-# File: module/Application/view/application/login/register.phtml, line: 135
+# File: module/Application/view/application/login/register.phtml, line: 109
+# File: module/Application/view/application/login/register.phtml, line: 134
+# File: module/Application/view/application/login/register.phtml, line: 139
 msgid "Submit Code"
 msgstr ""
 #
@@ -12581,9 +12584,9 @@ msgid "We appreciate your patience and understanding."
 msgstr ""
 #
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 26
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 55
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 54
 # File: module/Application/view/application/content/contactus.phtml, line: 26
-# File: module/Application/view/application/content/registeragent.phtml, line: 29
+# File: module/Application/view/application/content/registeragent.phtml, line: 28
 # File: module/Application/view/application/content/support.phtml, line: 26
 # File: module/Application/view/application/login/register.phtml, line: 26
 # File: module/Application/view/application2/content/registeragent.phtml, line: 27
@@ -12667,7 +12670,7 @@ msgstr ""
 # File: module/Application/view/application/content/registeragent.phtml, line: 66
 # File: module/Application/view/application/content/registerproperty.phtml, line: 87
 # File: module/Application/view/application/content/support.phtml, line: 62
-# File: module/Application/view/application/login/register.phtml, line: 66
+# File: module/Application/view/application/login/register.phtml, line: 67
 # File: module/Application/view/application2/content/registeragent.phtml, line: 144
 msgid "Security"
 msgstr ""
@@ -12700,7 +12703,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 170
 # File: module/Application/view/application/content/support.phtml, line: 121
 # File: module/Application/view/application/content/weddings.phtml, line: 196
-# File: module/Application/view/application/login/register.phtml, line: 254
+# File: module/Application/view/application/login/register.phtml, line: 258
 # File: module/Application/view/application2/content/registeragent.phtml, line: 230
 msgid "Please input the image shown in the security code."
 msgstr ""
@@ -14216,62 +14219,62 @@ msgstr ""
 msgid "Please wait...."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 9
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 8
 msgid "Affiliate Partner Program"
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 17
-# File: module/Application/view/application/content/registeragent.phtml, line: 17
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 16
+# File: module/Application/view/application/content/registeragent.phtml, line: 16
 # File: module/Application/view/application/content/registerproperty.phtml, line: 16
 # File: module/Application/view/application2/content/registeragent.phtml, line: 12
 msgid "Thank you for creating your account with us. Your account is currently under review by our support team."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 18
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 17
 # File: module/Application/view/application/content/contactus.phtml, line: 18
-# File: module/Application/view/application/content/registeragent.phtml, line: 18
+# File: module/Application/view/application/content/registeragent.phtml, line: 17
 # File: module/Application/view/application2/content/registeragent.phtml, line: 14
 msgid "We will get back to you within one business day with the next steps. We appreciate your patience and cooperation.."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 27
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 26
 msgid "Big earnings"
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 28
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 27
 msgid "A ready-built solution built for travel agents, tour operators, destination management companies, travel companies and freelancers. A tool that empowers you to deliver a better booking experience."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 29
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 28
 msgid "For each booking that is made through your site, you will earn a commission. The more you book, the more you make."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 35
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 34
 msgid "+400 bookable airlines"
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 36
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 35
 msgid "Our Affiliate Partner Program gives you the unique opportunity to connect your business to our online accommodation booking platform."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 37
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 36
 msgid "We negotiate directly with suppliers to secure access to superior inventory, including dynamic packages, private fares and exclusive rates..."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 43
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 42
 msgid "Largest Inventory Supply. Over 1 million properties"
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 44
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 43
 msgid "Join Our Affiliate Partner Program and begin earning commission on bookings made through your website. Signing up is free and easy."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 45
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 44
 msgid "Extensive selection of hotels, resorts, apartments and holiday homes with, exclusive discounts and more..."
 msgstr ""
 #
-# File: module/Application/view/application/content/affiliateprogram.phtml, line: 73
-# File: module/Application/view/application/content/registeragent.phtml, line: 47
+# File: module/Application/view/application/content/affiliateprogram.phtml, line: 72
+# File: module/Application/view/application/content/registeragent.phtml, line: 46
 # File: module/Application/view/application/content/registerproperty.phtml, line: 66
 msgid "Travel Agent? Register your travel agency today to receive commission for bookings made with us!"
 msgstr ""
@@ -14886,14 +14889,18 @@ msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 #
-# File: module/Application/view/application/content/registeragent.phtml, line: 9
+# File: module/Application/view/application/content/registeragent.phtml, line: 8
 msgid "Register Agent"
 msgstr ""
 #
-# File: module/Application/view/application/content/registeragent.phtml, line: 20
+# File: module/Application/view/application/content/registeragent.phtml, line: 19
 # File: module/Application/view/application/login/register.phtml, line: 17
 # File: module/Application/view/application2/content/registeragent.phtml, line: 17
 msgid "Begin your search here."
+msgstr ""
+#
+# File: module/Application/view/application/content/registeragent.phtml, line: 52
+msgid "Agency"
 msgstr ""
 #
 # File: module/Application/view/application/content/registerproperty.phtml, line: 8
@@ -16302,11 +16309,11 @@ msgstr ""
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
 # File: module/Application/view/application/login/coupons.phtml, line: 63
-# File: module/Application/view/application/login/index.phtml, line: 139
+# File: module/Application/view/application/login/index.phtml, line: 146
 # File: module/Application/view/application/login/pointscalculator.phtml, line: 89
 # File: module/Application/view/application/login/rewards.phtml, line: 109
 # File: module/Application/view/application/login/settings.phtml, line: 8
-# File: module/Application/view/application/login/signout.phtml, line: 124
+# File: module/Application/view/application/login/signout.phtml, line: 131
 # File: module/Application/view/application/login/termsandconditions.phtml, line: 51
 # File: module/Application/view/application2/layout/layout.phtml, line: 108
 # File: module/Application/view/layout/layout.phtml, line: 396
@@ -16317,8 +16324,8 @@ msgstr ""
 #
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 857
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
-# File: module/Application/view/application/login/index.phtml, line: 139
-# File: module/Application/view/application/login/signout.phtml, line: 124
+# File: module/Application/view/application/login/index.phtml, line: 146
+# File: module/Application/view/application/login/signout.phtml, line: 131
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
 # File: module/Application/view/application2/layout/layout.phtml, line: 111
 # File: module/Application/view/layout/layout.phtml, line: 405
@@ -18771,23 +18778,23 @@ msgstr ""
 msgid "Please retype your Password"
 msgstr ""
 #
-# File: module/Application/view/application/login/register.phtml, line: 70
+# File: module/Application/view/application/login/register.phtml, line: 71
 msgid "Please retype the characters from the picture bellow. This ensures that a person, not an automated program is submitting this form."
 msgstr ""
 #
-# File: module/Application/view/application/login/register.phtml, line: 230
+# File: module/Application/view/application/login/register.phtml, line: 234
 msgid "Password is required! Please input password."
 msgstr ""
 #
-# File: module/Application/view/application/login/register.phtml, line: 238
+# File: module/Application/view/application/login/register.phtml, line: 242
 msgid "Retype Password is required! Please input password."
 msgstr ""
 #
-# File: module/Application/view/application/login/register.phtml, line: 246
+# File: module/Application/view/application/login/register.phtml, line: 250
 msgid "The confirmation password is incorrect. Please retype it to match your original password."
 msgstr ""
 #
-# File: module/Application/view/application/login/register.phtml, line: 284
+# File: module/Application/view/application/login/register.phtml, line: 290
 msgid "The security code you entered doesn’t match. Please re‑enter the characters shown in the image."
 msgstr ""
 #
@@ -18836,11 +18843,11 @@ msgstr ""
 msgid "Update settings"
 msgstr ""
 #
-# File: module/Application/view/application/login/signout.phtml, line: 17
+# File: module/Application/view/application/login/signout.phtml, line: 18
 msgid "You have successfully logged out of your account. Thank you for using our service. We hope to see you again soon."
 msgstr ""
 #
-# File: module/Application/view/application/login/signout.phtml, line: 17
+# File: module/Application/view/application/login/signout.phtml, line: 18
 msgid "To log back in, please click here or use the form below."
 msgstr ""
 #
