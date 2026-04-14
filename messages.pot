@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-14 08:21-0400\n"
+"POT-Creation-Date: 2026-04-14 17:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -668,7 +668,7 @@ msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, ho
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 252
-# File: module/Application/src/Controller/JSONController.php, line: 4516
+# File: module/Application/src/Controller/JSONController.php, line: 4589
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/search.phtml, line: 80
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 25
@@ -679,7 +679,7 @@ msgid "Asia"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 255
-# File: module/Application/src/Controller/JSONController.php, line: 4519
+# File: module/Application/src/Controller/JSONController.php, line: 4592
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 368
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 29
@@ -688,7 +688,7 @@ msgid "Africa"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 258
-# File: module/Application/src/Controller/JSONController.php, line: 4522
+# File: module/Application/src/Controller/JSONController.php, line: 4595
 # File: module/Application/view/application/cruises/index.phtml, line: 50
 # File: module/Application/view/application/cruises/search.phtml, line: 77
 # File: module/Application/view/application/index/index.phtml, line: 179
@@ -706,7 +706,7 @@ msgid "North America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 261
-# File: module/Application/src/Controller/JSONController.php, line: 4525
+# File: module/Application/src/Controller/JSONController.php, line: 4598
 # File: module/Application/view/application/destinations/peru.phtml, line: 622
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 394
 # File: module/Application/view/application/index/index.phtml, line: 179
@@ -723,7 +723,7 @@ msgid "South America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 264
-# File: module/Application/src/Controller/JSONController.php, line: 4528
+# File: module/Application/src/Controller/JSONController.php, line: 4601
 # File: module/Application/view/application/cruises/index.phtml, line: 52
 # File: module/Application/view/application/cruises/search.phtml, line: 79
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 13
@@ -745,8 +745,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 267
 # File: module/Application/src/Controller/EscortedToursController.php, line: 270
-# File: module/Application/src/Controller/JSONController.php, line: 4531
-# File: module/Application/src/Controller/JSONController.php, line: 4534
+# File: module/Application/src/Controller/JSONController.php, line: 4604
+# File: module/Application/src/Controller/JSONController.php, line: 4607
 # File: module/Application/view/application/cruises/index.phtml, line: 54
 # File: module/Application/view/application/cruises/search.phtml, line: 81
 # File: module/Application/view/application/index/index.phtml, line: 838
@@ -799,8 +799,8 @@ msgstr ""
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 4327
-# File: module/Application/src/Controller/JSONController.php, line: 5310
+# File: module/Application/src/Controller/JSONController.php, line: 4400
+# File: module/Application/src/Controller/JSONController.php, line: 5383
 # File: module/Application/view/application/activities/index.phtml, line: 164
 # File: module/Application/view/application/activities/search.phtml, line: 375
 # File: module/Application/view/application/destinations/index.phtml, line: 1086
@@ -3101,6 +3101,7 @@ msgstr ""
 # File: module/Application/view/application/packages/index.phtml, line: 635
 # File: module/Application/view/application/packages/info.phtml, line: 532
 # File: module/Application/view/application/packages/passengers.phtml, line: 490
+# File: module/Application/view/application/quotes/docusign.phtml, line: 25
 # File: module/Application/view/application/transfers/index.phtml, line: 193
 # File: module/Application/view/application/transfers/passengers.phtml, line: 1042
 # File: module/Application/view/application/transfers/search.phtml, line: 468
@@ -20087,6 +20088,27 @@ msgstr ""
 #
 # File: module/Application/view/application/quotes/escortedtours.phtml, line: 226
 msgid "Itinerary may change without notice as conditions warrant."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/docusign.phtml, line: 7
+# File: module/Application/view/application/quotes/docusign.phtml, line: 11
+msgid "Review & Sign Terms and Conditions"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/docusign.phtml, line: 21
+msgid "Sign Below"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/docusign.phtml, line: 26
+msgid "Sign PDF"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/docusign.phtml, line: 90
+msgid "Your document has been successfully signed."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/docusign.phtml, line: 94
+msgid "Download Signed PDF"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/confirm.phtml, line: 158
