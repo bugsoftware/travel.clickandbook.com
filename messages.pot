@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-08 11:49-0400\n"
+"POT-Creation-Date: 2026-05-14 12:37-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4694,11 +4694,11 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 422
 # File: module/Application/view/application/agent/profile.phtml, line: 169
 # File: module/Application/view/application/air/payment.phtml, line: 707
-# File: module/Application/view/application/air/summary.phtml, line: 1270
-# File: module/Application/view/application/air/summary.phtml, line: 1276
-# File: module/Application/view/application/air/summary.phtml, line: 1289
-# File: module/Application/view/application/air/summary.phtml, line: 1360
-# File: module/Application/view/application/air/summary.phtml, line: 1477
+# File: module/Application/view/application/air/summary.phtml, line: 1274
+# File: module/Application/view/application/air/summary.phtml, line: 1280
+# File: module/Application/view/application/air/summary.phtml, line: 1293
+# File: module/Application/view/application/air/summary.phtml, line: 1379
+# File: module/Application/view/application/air/summary.phtml, line: 1496
 # File: module/Application/view/application/air/ticketing.phtml, line: 641
 # File: module/Application/view/application/air/ticketing.phtml, line: 840
 # File: module/Application/view/application/booking/paynow.phtml, line: 840
@@ -8099,8 +8099,8 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 441
 # File: module/Application/view/application/activities/summary.phtml, line: 446
 # File: module/Application/view/application/air/summary.phtml, line: 1239
-# File: module/Application/view/application/air/summary.phtml, line: 1375
-# File: module/Application/view/application/air/summary.phtml, line: 1384
+# File: module/Application/view/application/air/summary.phtml, line: 1394
+# File: module/Application/view/application/air/summary.phtml, line: 1403
 # File: module/Application/view/application/cart/summary.phtml, line: 1664
 # File: module/Application/view/application/cart/summary.phtml, line: 1855
 # File: module/Application/view/application/cart/summary.phtml, line: 1864
@@ -12643,6 +12643,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 151
 # File: module/Application/view/application/quotes/air.phtml, line: 920
 msgid "Yes"
+msgstr ""
+#
+# File: module/Application/view/application/air/summary.phtml, line: 1370
+msgid "Invalid email format. Please enter a valid email address."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 13
