@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-25 09:01-0400\n"
+"POT-Creation-Date: 2026-06-25 12:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9126,6 +9126,7 @@ msgstr ""
 # File: module/Application/view/application/agent/profile.phtml, line: 55
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 59
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 89
+# File: module/Application/view/application/quotes/points.phtml, line: 25
 # File: module/Application/view/application2/content/registeragent.phtml, line: 100
 msgid "Phone number"
 msgstr ""
@@ -19826,6 +19827,7 @@ msgstr ""
 # File: module/Application/view/application/login/addtravelcompanion.phtml, line: 23
 # File: module/Application/view/application/login/edittravelcompanion.phtml, line: 23
 # File: module/Application/view/application/login/profile.phtml, line: 73
+# File: module/Application/view/application/quotes/points.phtml, line: 5
 # File: module/Application/view/application/trip-planner/select.phtml, line: 118
 # File: module/Application/view/layout/layout.phtml, line: 252
 msgid "Phone Number"
@@ -20581,6 +20583,46 @@ msgstr ""
 #
 # File: module/Application/view/application/quotes/verify.phtml, line: 39
 msgid "User Agent:"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 8
+msgid "OTP Verification"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 11
+msgid "Points Report"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 21
+msgid "Points Audit"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 22
+msgid "Enter your phone number to check how many points you have."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 26
+msgid "Invalid phone number. Please check and try again."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 28
+msgid "Send OTP"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 33
+msgid "OTP Code"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 33
+msgid "Enter the code you received"
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 34
+msgid "Invalid OTP code."
+msgstr ""
+#
+# File: module/Application/view/application/quotes/points.phtml, line: 36
+msgid "View Points Report"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/confirm.phtml, line: 158
