@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-07 08:51-0400\n"
+"POT-Creation-Date: 2026-09-07 12:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -877,11 +877,11 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 992
 # File: module/Application/view/application/cart/payment.phtml, line: 623
 # File: module/Application/view/application/cart/summary.phtml, line: 1363
-# File: module/Application/view/application/cruises/confirm.phtml, line: 243
-# File: module/Application/view/application/cruises/confirm.phtml, line: 256
-# File: module/Application/view/application/cruises/select.phtml, line: 117
-# File: module/Application/view/application/cruises/summary.phtml, line: 153
-# File: module/Application/view/application/cruises/summary.phtml, line: 166
+# File: module/Application/view/application/cruises/summary.phtml, line: 185
+# File: module/Application/view/application/cruises/summary.phtml, line: 198
+# File: module/Application/view/application/cruises/confirm.phtml, line: 253
+# File: module/Application/view/application/cruises/confirm.phtml, line: 266
+# File: module/Application/view/application/cruises/select.phtml, line: 116
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 125
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 308
 # File: module/Application/view/application/hotels/confirm.phtml, line: 248
@@ -1086,9 +1086,9 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1266
 # File: module/Application/view/application/cart/summary.phtml, line: 1311
 # File: module/Application/view/application/cart/summary.phtml, line: 1359
+# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/cruises/select.phtml, line: 17
 # File: module/Application/view/application/cruises/select.phtml, line: 49
-# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/destinations/disney.phtml, line: 537
 # File: module/Application/view/application/destinations/disney.phtml, line: 542
 # File: module/Application/view/application/destinations/disney.phtml, line: 728
@@ -1415,9 +1415,9 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1272
 # File: module/Application/view/application/cart/summary.phtml, line: 1311
 # File: module/Application/view/application/cart/summary.phtml, line: 1359
+# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/cruises/select.phtml, line: 28
 # File: module/Application/view/application/cruises/select.phtml, line: 50
-# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/destinations/disney.phtml, line: 537
 # File: module/Application/view/application/destinations/disney.phtml, line: 544
 # File: module/Application/view/application/destinations/disney.phtml, line: 728
@@ -1849,12 +1849,12 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1517
 # File: module/Application/view/application/cart/summary.phtml, line: 1519
 # File: module/Application/view/application/cruises/passengers.phtml, line: 387
-# File: module/Application/view/application/cruises/confirm.phtml, line: 131
+# File: module/Application/view/application/cruises/summary.phtml, line: 405
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 182
-# File: module/Application/view/application/cruises/select.phtml, line: 341
-# File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 24
-# File: module/Application/view/application/cruises/summary.phtml, line: 373
 # File: module/Application/view/application/cruises/payment.phtml, line: 205
+# File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 24
+# File: module/Application/view/application/cruises/confirm.phtml, line: 131
+# File: module/Application/view/application/cruises/select.phtml, line: 375
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 539
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 1030
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 294
@@ -2133,8 +2133,8 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 232
 # File: module/Application/view/application/cart/confirm.phtml, line: 721
 # File: module/Application/view/application/cart/index.phtml, line: 51
-# File: module/Application/view/application/cruises/confirm.phtml, line: 295
 # File: module/Application/view/application/cruises/index.phtml, line: 47
+# File: module/Application/view/application/cruises/confirm.phtml, line: 305
 # File: module/Application/view/application/destinations/disney.phtml, line: 534
 # File: module/Application/view/application/destinations/disney.phtml, line: 540
 # File: module/Application/view/application/destinations/disney.phtml, line: 725
@@ -2199,7 +2199,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 219
 # File: module/Application/view/application/cart/confirm.phtml, line: 236
 # File: module/Application/view/application/cart/confirm.phtml, line: 724
-# File: module/Application/view/application/cruises/confirm.phtml, line: 298
+# File: module/Application/view/application/cruises/confirm.phtml, line: 308
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 153
 # File: module/Application/view/application/hotels/confirm.phtml, line: 130
 # File: module/Application/view/application/insurances/confirm.phtml, line: 68
@@ -2214,7 +2214,7 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 223
 # File: module/Application/view/application/cart/confirm.phtml, line: 240
 # File: module/Application/view/application/cart/confirm.phtml, line: 725
-# File: module/Application/view/application/cruises/confirm.phtml, line: 299
+# File: module/Application/view/application/cruises/confirm.phtml, line: 309
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 154
 # File: module/Application/view/application/hotels/confirm.phtml, line: 134
 # File: module/Application/view/application/insurances/confirm.phtml, line: 72
@@ -2257,8 +2257,8 @@ msgstr ""
 # File: module/Application/view/application/cars/summary.phtml, line: 193
 # File: module/Application/view/application/cart/confirm.phtml, line: 801
 # File: module/Application/view/application/cart/summary.phtml, line: 1146
-# File: module/Application/view/application/cruises/confirm.phtml, line: 313
-# File: module/Application/view/application/cruises/summary.phtml, line: 209
+# File: module/Application/view/application/cruises/summary.phtml, line: 241
+# File: module/Application/view/application/cruises/confirm.phtml, line: 323
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 223
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 568
 # File: module/Application/view/application/hotels/confirm.phtml, line: 97
@@ -2288,7 +2288,7 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 891
 # File: module/Application/view/application/cars/confirm.phtml, line: 153
 # File: module/Application/view/application/cart/confirm.phtml, line: 849
-# File: module/Application/view/application/cruises/confirm.phtml, line: 321
+# File: module/Application/view/application/cruises/confirm.phtml, line: 331
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 228
 # File: module/Application/view/application/hotels/confirm.phtml, line: 321
 # File: module/Application/view/application/packages/confirm.phtml, line: 226
@@ -2338,9 +2338,9 @@ msgstr ""
 # File: module/Application/view/application/content/aboutus.phtml, line: 41
 # File: module/Application/view/application/content/cms_content.phtml, line: 36
 # File: module/Application/view/application/content/cms_content.phtml, line: 40
-# File: module/Application/view/application/cruises/confirm.phtml, line: 321
-# File: module/Application/view/application/cruises/summary.phtml, line: 395
-# File: module/Application/view/application/cruises/summary.phtml, line: 418
+# File: module/Application/view/application/cruises/summary.phtml, line: 427
+# File: module/Application/view/application/cruises/summary.phtml, line: 450
+# File: module/Application/view/application/cruises/confirm.phtml, line: 331
 # File: module/Application/view/application/destinations/index.phtml, line: 114
 # File: module/Application/view/application/destinations/index.phtml, line: 120
 # File: module/Application/view/application/destinations/index.phtml, line: 392
@@ -2443,7 +2443,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 690
 # File: module/Application/view/application/cars/confirm.phtml, line: 179
 # File: module/Application/view/application/cart/confirm.phtml, line: 957
-# File: module/Application/view/application/cruises/confirm.phtml, line: 348
+# File: module/Application/view/application/cruises/confirm.phtml, line: 358
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 255
 # File: module/Application/view/application/hotels/confirm.phtml, line: 461
 # File: module/Application/view/application/transfers/confirm.phtml, line: 301
@@ -2454,7 +2454,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 690
 # File: module/Application/view/application/cars/confirm.phtml, line: 179
 # File: module/Application/view/application/cart/confirm.phtml, line: 957
-# File: module/Application/view/application/cruises/confirm.phtml, line: 348
+# File: module/Application/view/application/cruises/confirm.phtml, line: 358
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 255
 # File: module/Application/view/application/hotels/confirm.phtml, line: 461
 # File: module/Application/view/application/transfers/confirm.phtml, line: 301
@@ -2483,10 +2483,10 @@ msgstr ""
 # File: module/Application/view/application/cart/confirm.phtml, line: 972
 # File: module/Application/view/application/cart/confirm.phtml, line: 973
 # File: module/Application/view/application/cart/confirm.phtml, line: 983
-# File: module/Application/view/application/cruises/confirm.phtml, line: 362
-# File: module/Application/view/application/cruises/confirm.phtml, line: 363
-# File: module/Application/view/application/cruises/confirm.phtml, line: 364
+# File: module/Application/view/application/cruises/confirm.phtml, line: 372
+# File: module/Application/view/application/cruises/confirm.phtml, line: 373
 # File: module/Application/view/application/cruises/confirm.phtml, line: 374
+# File: module/Application/view/application/cruises/confirm.phtml, line: 384
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 269
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 270
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 271
@@ -4262,7 +4262,7 @@ msgstr ""
 # File: module/Application/view/application/air/index.phtml, line: 702
 # File: module/Application/view/application/cars/index.phtml, line: 754
 # File: module/Application/view/application/cart/confirm.phtml, line: 166
-# File: module/Application/view/application/cruises/select.phtml, line: 196
+# File: module/Application/view/application/cruises/select.phtml, line: 230
 # File: module/Application/view/application/destinations/index.phtml, line: 1052
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 166
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 195
@@ -4347,9 +4347,9 @@ msgid "Rooms"
 msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 53
-# File: module/Application/view/application/cruises/confirm.phtml, line: 233
 # File: module/Application/view/application/cruises/summary.phtml, line: 77
-# File: module/Application/view/application/cruises/summary.phtml, line: 143
+# File: module/Application/view/application/cruises/summary.phtml, line: 159
+# File: module/Application/view/application/cruises/confirm.phtml, line: 233
 msgid "DAYS"
 msgstr ""
 #
@@ -4800,11 +4800,11 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1706
 # File: module/Application/view/application/cart/summary.phtml, line: 1836
 # File: module/Application/view/application/cruises/passengers.phtml, line: 687
+# File: module/Application/view/application/cruises/summary.phtml, line: 468
 # File: module/Application/view/application/cruises/offer.phtml, line: 432
 # File: module/Application/view/application/cruises/offer.phtml, line: 453
-# File: module/Application/view/application/cruises/select.phtml, line: 1018
-# File: module/Application/view/application/cruises/summary.phtml, line: 436
 # File: module/Application/view/application/cruises/payment.phtml, line: 425
+# File: module/Application/view/application/cruises/select.phtml, line: 1146
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 190
 # File: module/Application/view/application/destinations/index.phtml, line: 1088
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 605
@@ -4858,9 +4858,9 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 7
 # File: module/Application/view/application/cart/summary.phtml, line: 6
 # File: module/Application/view/application/cruises/passengers.phtml, line: 33
+# File: module/Application/view/application/cruises/summary.phtml, line: 14
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 6
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 20
-# File: module/Application/view/application/cruises/summary.phtml, line: 14
 # File: module/Application/view/application/cruises/payment.phtml, line: 8
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 32
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 7
@@ -4910,14 +4910,14 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 683
 # File: module/Application/view/application/cart/summary.phtml, line: 1239
 # File: module/Application/view/application/cruises/passengers.phtml, line: 34
-# File: module/Application/view/application/cruises/confirm.phtml, line: 238
+# File: module/Application/view/application/cruises/summary.phtml, line: 15
+# File: module/Application/view/application/cruises/summary.phtml, line: 98
+# File: module/Application/view/application/cruises/summary.phtml, line: 180
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 7
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 21
-# File: module/Application/view/application/cruises/select.phtml, line: 11
-# File: module/Application/view/application/cruises/summary.phtml, line: 15
-# File: module/Application/view/application/cruises/summary.phtml, line: 82
-# File: module/Application/view/application/cruises/summary.phtml, line: 148
 # File: module/Application/view/application/cruises/payment.phtml, line: 9
+# File: module/Application/view/application/cruises/confirm.phtml, line: 248
+# File: module/Application/view/application/cruises/select.phtml, line: 11
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 33
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 274
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 362
@@ -5002,10 +5002,10 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 8
 # File: module/Application/view/application/cruises/passengers.phtml, line: 35
 # File: module/Application/view/application/cruises/passengers.phtml, line: 167
+# File: module/Application/view/application/cruises/summary.phtml, line: 16
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 8
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 22
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 59
-# File: module/Application/view/application/cruises/summary.phtml, line: 16
 # File: module/Application/view/application/cruises/payment.phtml, line: 10
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 34
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 185
@@ -5194,12 +5194,12 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 151
 # File: module/Application/view/application/cart/passengers.phtml, line: 302
 # File: module/Application/view/application/cruises/passengers.phtml, line: 267
-# File: module/Application/view/application/cruises/confirm.phtml, line: 61
+# File: module/Application/view/application/cruises/summary.phtml, line: 277
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 37
-# File: module/Application/view/application/cruises/select.phtml, line: 42
-# File: module/Application/view/application/cruises/select.phtml, line: 1044
-# File: module/Application/view/application/cruises/summary.phtml, line: 245
 # File: module/Application/view/application/cruises/payment.phtml, line: 108
+# File: module/Application/view/application/cruises/confirm.phtml, line: 61
+# File: module/Application/view/application/cruises/select.phtml, line: 42
+# File: module/Application/view/application/cruises/select.phtml, line: 1172
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 498
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 562
 # File: module/Application/view/application/hotels/passengers.phtml, line: 94
@@ -5564,8 +5564,8 @@ msgstr ""
 # File: module/Application/view/application/content/weddings.phtml, line: 32
 # File: module/Application/view/application/cruises/passengers.phtml, line: 62
 # File: module/Application/view/application/cruises/passengers.phtml, line: 109
+# File: module/Application/view/application/cruises/summary.phtml, line: 414
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 50
-# File: module/Application/view/application/cruises/summary.phtml, line: 382
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 73
 # File: module/Application/view/application/customers/profileupdate.phtml, line: 92
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 65
@@ -6535,14 +6535,14 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 1138
 # File: module/Application/view/application/cruises/passengers.phtml, line: 393
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 100
+# File: module/Application/view/application/cruises/payment.phtml, line: 78
 # File: module/Application/view/application/cruises/select.phtml, line: 45
 # File: module/Application/view/application/cruises/select.phtml, line: 112
-# File: module/Application/view/application/cruises/select.phtml, line: 151
-# File: module/Application/view/application/cruises/select.phtml, line: 226
-# File: module/Application/view/application/cruises/select.phtml, line: 241
-# File: module/Application/view/application/cruises/select.phtml, line: 271
-# File: module/Application/view/application/cruises/select.phtml, line: 287
-# File: module/Application/view/application/cruises/payment.phtml, line: 78
+# File: module/Application/view/application/cruises/select.phtml, line: 185
+# File: module/Application/view/application/cruises/select.phtml, line: 260
+# File: module/Application/view/application/cruises/select.phtml, line: 275
+# File: module/Application/view/application/cruises/select.phtml, line: 305
+# File: module/Application/view/application/cruises/select.phtml, line: 321
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 423
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 137
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 121
@@ -8048,9 +8048,9 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 778
 # File: module/Application/view/application/cart/summary.phtml, line: 857
 # File: module/Application/view/application/cart/summary.phtml, line: 907
-# File: module/Application/view/application/cruises/confirm.phtml, line: 238
-# File: module/Application/view/application/cruises/summary.phtml, line: 82
-# File: module/Application/view/application/cruises/summary.phtml, line: 148
+# File: module/Application/view/application/cruises/summary.phtml, line: 98
+# File: module/Application/view/application/cruises/summary.phtml, line: 180
+# File: module/Application/view/application/cruises/confirm.phtml, line: 248
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 299
 # File: module/Application/view/application/hotels/info.phtml, line: 257
 # File: module/Application/view/application/hotels/summary.phtml, line: 151
@@ -8081,7 +8081,7 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 105
 # File: module/Application/view/application/activities/summary.phtml, line: 130
 # File: module/Application/view/application/cruises/passengers.phtml, line: 366
-# File: module/Application/view/application/cruises/summary.phtml, line: 349
+# File: module/Application/view/application/cruises/summary.phtml, line: 381
 # File: module/Application/view/application/cruises/payment.phtml, line: 186
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 629
 # File: module/Application/view/application/hotels/summary.phtml, line: 365
@@ -8106,7 +8106,7 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 110
 # File: module/Application/view/application/activities/summary.phtml, line: 151
 # File: module/Application/view/application/cruises/passengers.phtml, line: 371
-# File: module/Application/view/application/cruises/summary.phtml, line: 354
+# File: module/Application/view/application/cruises/summary.phtml, line: 386
 # File: module/Application/view/application/cruises/payment.phtml, line: 191
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 637
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 671
@@ -8132,7 +8132,7 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 106
 # File: module/Application/view/application/activities/summary.phtml, line: 131
 # File: module/Application/view/application/cruises/passengers.phtml, line: 367
-# File: module/Application/view/application/cruises/summary.phtml, line: 350
+# File: module/Application/view/application/cruises/summary.phtml, line: 382
 # File: module/Application/view/application/cruises/payment.phtml, line: 187
 # File: module/Application/view/application/hotels/summary.phtml, line: 383
 # File: module/Application/view/application/hotels/summary.phtml, line: 402
@@ -8155,7 +8155,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 656
 # File: module/Application/view/application/air/summary.phtml, line: 928
 # File: module/Application/view/application/cruises/passengers.phtml, line: 374
-# File: module/Application/view/application/cruises/summary.phtml, line: 357
+# File: module/Application/view/application/cruises/summary.phtml, line: 389
 # File: module/Application/view/application/cruises/payment.phtml, line: 194
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 691
 # File: module/Application/view/application/hotels/summary.phtml, line: 391
@@ -8213,9 +8213,9 @@ msgstr ""
 # File: module/Application/view/application/cars/summary.phtml, line: 284
 # File: module/Application/view/application/cart/summary.phtml, line: 1150
 # File: module/Application/view/application/cart/summary.phtml, line: 1537
+# File: module/Application/view/application/cruises/summary.phtml, line: 244
+# File: module/Application/view/application/cruises/summary.phtml, line: 416
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 164
-# File: module/Application/view/application/cruises/summary.phtml, line: 212
-# File: module/Application/view/application/cruises/summary.phtml, line: 384
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 571
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 937
 # File: module/Application/view/application/hotels/passengers.phtml, line: 631
@@ -8479,7 +8479,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/summary.phtml, line: 363
 # File: module/Application/view/application/cart/summary.phtml, line: 1646
-# File: module/Application/view/application/cruises/summary.phtml, line: 408
+# File: module/Application/view/application/cruises/summary.phtml, line: 440
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 962
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 532
 # File: module/Application/view/application/hotels/summary.phtml, line: 788
@@ -8805,8 +8805,8 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 1307
 # File: module/Application/view/application/air/segment.phtml, line: 274
 # File: module/Application/view/application/air/segment.phtml, line: 428
-# File: module/Application/view/application/cruises/select.phtml, line: 158
-# File: module/Application/view/application/cruises/select.phtml, line: 670
+# File: module/Application/view/application/cruises/select.phtml, line: 192
+# File: module/Application/view/application/cruises/select.phtml, line: 780
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 154
 # File: module/Application/view/application/insurances/search.phtml, line: 230
 # File: module/Application/view/application/insurances/search.phtml, line: 279
@@ -8992,7 +8992,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 814
 # File: module/Application/view/application/air/summary.phtml, line: 904
 # File: module/Application/view/application/cruises/passengers.phtml, line: 346
-# File: module/Application/view/application/cruises/summary.phtml, line: 317
+# File: module/Application/view/application/cruises/summary.phtml, line: 349
 # File: module/Application/view/application/cruises/payment.phtml, line: 174
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 369
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 237
@@ -9856,7 +9856,7 @@ msgid "Send voucher"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 216
-# File: module/Application/view/application/cruises/summary.phtml, line: 400
+# File: module/Application/view/application/cruises/summary.phtml, line: 432
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 954
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 524
 # File: module/Application/view/application/quotes/verify.phtml, line: 30
@@ -9864,7 +9864,7 @@ msgid "Name:"
 msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 220
-# File: module/Application/view/application/cruises/summary.phtml, line: 404
+# File: module/Application/view/application/cruises/summary.phtml, line: 436
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 958
 # File: module/Application/view/application/escorted-tours/info.phtml, line: 528
 # File: module/Application/view/application/quotes/verify.phtml, line: 31
@@ -10412,10 +10412,10 @@ msgstr ""
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 198
 # File: module/Application/view/application/cart/confirm.phtml, line: 24
 # File: module/Application/view/application/cruises/passengers.phtml, line: 247
-# File: module/Application/view/application/cruises/confirm.phtml, line: 41
-# File: module/Application/view/application/cruises/select.phtml, line: 304
-# File: module/Application/view/application/cruises/summary.phtml, line: 224
+# File: module/Application/view/application/cruises/summary.phtml, line: 256
 # File: module/Application/view/application/cruises/payment.phtml, line: 88
+# File: module/Application/view/application/cruises/confirm.phtml, line: 41
+# File: module/Application/view/application/cruises/select.phtml, line: 338
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 167
 # File: module/Application/view/application/destinations/sales.phtml, line: 295
 # File: module/Application/view/application/packages/view.phtml, line: 84
@@ -10530,9 +10530,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 207
 # File: module/Application/view/application/cart/confirm.phtml, line: 45
 # File: module/Application/view/application/cruises/passengers.phtml, line: 251
-# File: module/Application/view/application/cruises/confirm.phtml, line: 45
-# File: module/Application/view/application/cruises/summary.phtml, line: 228
+# File: module/Application/view/application/cruises/summary.phtml, line: 260
 # File: module/Application/view/application/cruises/payment.phtml, line: 92
+# File: module/Application/view/application/cruises/confirm.phtml, line: 45
 # File: module/Application/view/application/packages/view.phtml, line: 88
 # File: module/Application/view/application/packages/view.phtml, line: 130
 # File: module/Application/view/application/bus/search.phtml, line: 120
@@ -10670,10 +10670,10 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 74
 # File: module/Application/view/application/cart/summary.phtml, line: 288
 # File: module/Application/view/application/cart/summary.phtml, line: 904
-# File: module/Application/view/application/cruises/confirm.phtml, line: 229
-# File: module/Application/view/application/cruises/offer.phtml, line: 40
 # File: module/Application/view/application/cruises/summary.phtml, line: 73
-# File: module/Application/view/application/cruises/summary.phtml, line: 139
+# File: module/Application/view/application/cruises/summary.phtml, line: 155
+# File: module/Application/view/application/cruises/offer.phtml, line: 40
+# File: module/Application/view/application/cruises/confirm.phtml, line: 229
 # File: module/Application/view/application/quotes/air.phtml, line: 94
 # File: module/Application/view/application/quotes/cart.phtml, line: 189
 msgid "FROM"
@@ -10727,11 +10727,11 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 83
 # File: module/Application/view/application/cart/summary.phtml, line: 324
 # File: module/Application/view/application/cart/summary.phtml, line: 913
-# File: module/Application/view/application/cruises/confirm.phtml, line: 243
-# File: module/Application/view/application/cruises/confirm.phtml, line: 256
-# File: module/Application/view/application/cruises/summary.phtml, line: 86
-# File: module/Application/view/application/cruises/summary.phtml, line: 153
-# File: module/Application/view/application/cruises/summary.phtml, line: 166
+# File: module/Application/view/application/cruises/summary.phtml, line: 102
+# File: module/Application/view/application/cruises/summary.phtml, line: 185
+# File: module/Application/view/application/cruises/summary.phtml, line: 198
+# File: module/Application/view/application/cruises/confirm.phtml, line: 253
+# File: module/Application/view/application/cruises/confirm.phtml, line: 266
 # File: module/Application/view/application/quotes/air.phtml, line: 110
 # File: module/Application/view/application/quotes/cart.phtml, line: 205
 msgid "Departure:"
@@ -10744,9 +10744,9 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 84
 # File: module/Application/view/application/cart/summary.phtml, line: 327
 # File: module/Application/view/application/cart/summary.phtml, line: 914
-# File: module/Application/view/application/cruises/confirm.phtml, line: 250
-# File: module/Application/view/application/cruises/summary.phtml, line: 90
-# File: module/Application/view/application/cruises/summary.phtml, line: 160
+# File: module/Application/view/application/cruises/summary.phtml, line: 106
+# File: module/Application/view/application/cruises/summary.phtml, line: 192
+# File: module/Application/view/application/cruises/confirm.phtml, line: 260
 # File: module/Application/view/application/quotes/air.phtml, line: 111
 # File: module/Application/view/application/quotes/cart.phtml, line: 206
 msgid "Arrival:"
@@ -14260,9 +14260,9 @@ msgid "Pending Received"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow.phtml, line: 417
-# File: module/Application/view/application/cruises/confirm.phtml, line: 17
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 107
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 170
+# File: module/Application/view/application/cruises/confirm.phtml, line: 17
 # File: module/Application/view/application/login/rewards.phtml, line: 42
 # File: module/Application/view/offers/cruises/index.phtml, line: 212
 msgid "Cruise"
@@ -14795,20 +14795,20 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 754
 # File: module/Application/view/application/cart/summary.phtml, line: 889
 # File: module/Application/view/application/cart/summary.phtml, line: 894
-# File: module/Application/view/application/cruises/confirm.phtml, line: 180
-# File: module/Application/view/application/cruises/confirm.phtml, line: 198
-# File: module/Application/view/application/cruises/confirm.phtml, line: 199
-# File: module/Application/view/application/cruises/confirm.phtml, line: 276
+# File: module/Application/view/application/cruises/summary.phtml, line: 34
+# File: module/Application/view/application/cruises/summary.phtml, line: 51
+# File: module/Application/view/application/cruises/summary.phtml, line: 52
+# File: module/Application/view/application/cruises/summary.phtml, line: 123
+# File: module/Application/view/application/cruises/summary.phtml, line: 124
+# File: module/Application/view/application/cruises/summary.phtml, line: 218
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 59
 # File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 82
 # File: module/Application/view/application/cruises/offer.phtml, line: 87
 # File: module/Application/view/application/cruises/offer.phtml, line: 118
-# File: module/Application/view/application/cruises/summary.phtml, line: 34
-# File: module/Application/view/application/cruises/summary.phtml, line: 51
-# File: module/Application/view/application/cruises/summary.phtml, line: 52
-# File: module/Application/view/application/cruises/summary.phtml, line: 107
-# File: module/Application/view/application/cruises/summary.phtml, line: 108
-# File: module/Application/view/application/cruises/summary.phtml, line: 186
+# File: module/Application/view/application/cruises/confirm.phtml, line: 180
+# File: module/Application/view/application/cruises/confirm.phtml, line: 198
+# File: module/Application/view/application/cruises/confirm.phtml, line: 199
+# File: module/Application/view/application/cruises/confirm.phtml, line: 286
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 134
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 237
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 261
@@ -14908,10 +14908,10 @@ msgstr ""
 # File: module/Application/view/application/cart/payment.phtml, line: 565
 # File: module/Application/view/application/cart/summary.phtml, line: 1307
 # File: module/Application/view/application/cart/summary.phtml, line: 1311
-# File: module/Application/view/application/cruises/confirm.phtml, line: 5
-# File: module/Application/view/application/cruises/offer.phtml, line: 15
 # File: module/Application/view/application/cruises/summary.phtml, line: 5
+# File: module/Application/view/application/cruises/offer.phtml, line: 15
 # File: module/Application/view/application/cruises/search.phtml, line: 283
+# File: module/Application/view/application/cruises/confirm.phtml, line: 5
 # File: module/Application/view/application/hotels/confirm.phtml, line: 61
 # File: module/Application/view/application/hotels/confirm.phtml, line: 82
 # File: module/Application/view/application/hotels/confirm.phtml, line: 92
@@ -15294,7 +15294,7 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 986
 # File: module/Application/view/application/cart/payment.phtml, line: 617
 # File: module/Application/view/application/cart/summary.phtml, line: 1357
-# File: module/Application/view/application/cruises/select.phtml, line: 229
+# File: module/Application/view/application/cruises/select.phtml, line: 263
 msgid "Location:"
 msgstr ""
 #
@@ -16333,38 +16333,38 @@ msgid "Don't protect your trip"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 306
-# File: module/Application/view/application/cruises/confirm.phtml, line: 99
-# File: module/Application/view/application/cruises/summary.phtml, line: 290
+# File: module/Application/view/application/cruises/summary.phtml, line: 322
 # File: module/Application/view/application/cruises/payment.phtml, line: 148
+# File: module/Application/view/application/cruises/confirm.phtml, line: 99
 msgid "Payment Schedule"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 331
-# File: module/Application/view/application/cruises/summary.phtml, line: 325
+# File: module/Application/view/application/cruises/summary.phtml, line: 357
 msgid "Gross Commissionable Total"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 335
-# File: module/Application/view/application/cruises/summary.phtml, line: 329
+# File: module/Application/view/application/cruises/summary.phtml, line: 361
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 605
 msgid "CTM Commission"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 339
-# File: module/Application/view/application/cruises/summary.phtml, line: 333
+# File: module/Application/view/application/cruises/summary.phtml, line: 365
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 610
 msgid "Linea Fina"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 350
-# File: module/Application/view/application/cruises/summary.phtml, line: 321
+# File: module/Application/view/application/cruises/summary.phtml, line: 353
 msgid "Total Commission"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/passengers.phtml, line: 356
-# File: module/Application/view/application/cruises/confirm.phtml, line: 125
-# File: module/Application/view/application/cruises/summary.phtml, line: 340
+# File: module/Application/view/application/cruises/summary.phtml, line: 372
 # File: module/Application/view/application/cruises/payment.phtml, line: 176
+# File: module/Application/view/application/cruises/confirm.phtml, line: 125
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 388
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 394
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 242
@@ -16445,36 +16445,81 @@ msgstr ""
 msgid "Saturday"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 30
-msgid "Sailing date:"
+# File: module/Application/view/application/cruises/summary.phtml, line: 80
+# File: module/Application/view/application/cruises/summary.phtml, line: 162
+# File: module/Application/view/application/cruises/confirm.phtml, line: 236
+msgid "CABIN"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 31
-msgid "Sailing port:"
+# File: module/Application/view/application/cruises/summary.phtml, line: 81
+# File: module/Application/view/application/cruises/summary.phtml, line: 163
+# File: module/Application/view/application/cruises/confirm.phtml, line: 237
+msgid "ROOM"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 218
+# File: module/Application/view/application/cruises/summary.phtml, line: 91
+# File: module/Application/view/application/cruises/summary.phtml, line: 173
+# File: module/Application/view/application/cruises/confirm.phtml, line: 241
+# File: module/Application/view/application/cruises/select.phtml, line: 173
+# File: module/Application/view/application/cruises/select.phtml, line: 481
+# File: module/Application/view/application/cruises/select.phtml, line: 770
+msgid "Guarantee"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 93
+# File: module/Application/view/application/cruises/summary.phtml, line: 175
+# File: module/Application/view/application/cruises/confirm.phtml, line: 243
+# File: module/Application/view/application/cruises/select.phtml, line: 179
+# File: module/Application/view/application/cruises/select.phtml, line: 483
+# File: module/Application/view/application/cruises/select.phtml, line: 767
+msgid "Waitlist"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 144
 # File: module/Application/view/application/cruises/offer.phtml, line: 88
 # File: module/Application/view/application/cruises/offer.phtml, line: 118
-# File: module/Application/view/application/cruises/summary.phtml, line: 128
+# File: module/Application/view/application/cruises/confirm.phtml, line: 218
 # File: module/Application/view/application/quotes/cruises.phtml, line: 231
 msgid "Cruising"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 236
-# File: module/Application/view/application/cruises/summary.phtml, line: 80
-# File: module/Application/view/application/cruises/summary.phtml, line: 146
-msgid "CABIN"
+# File: module/Application/view/application/cruises/summary.phtml, line: 270
+msgid "View Cabin Location"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 237
-# File: module/Application/view/application/cruises/summary.phtml, line: 81
-# File: module/Application/view/application/cruises/summary.phtml, line: 147
-msgid "ROOM"
+# File: module/Application/view/application/cruises/summary.phtml, line: 316
+# File: module/Application/view/application/quotes/cruises.phtml, line: 355
+#, php-format
+msgid "BOGO60 is a promotional offer by Royal Caribbean Cruise that gives you 60% off the cruise fare of the second guest booked in the same stateroom as the first full fare paying guest. It also gives you 30% off any additional guests booked in the same stateroom as the first and second guest."
 msgstr ""
 #
-# File: module/Application/view/application/cruises/confirm.phtml, line: 292
-msgid "Cruise Information"
+# File: module/Application/view/application/cruises/summary.phtml, line: 412
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 933
+msgid "PDF"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 413
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 934
+msgid "We are pleased to inform you that we have successfully sent the quote for the requested trip to the customer. The quote includes the details of the itinerary, the price and the payment options. The customer can review the quote and confirm their booking online."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 426
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 948
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 518
+msgid "Send quote by email"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 444
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 966
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 536
+# File: module/Application/view/application/quotes/verify.phtml, line: 32
+msgid "Message:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/summary.phtml, line: 451
+# File: module/Application/view/application/escorted-tours/summary.phtml, line: 973
+# File: module/Application/view/application/escorted-tours/info.phtml, line: 543
+msgid "Send quote"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 24
@@ -16561,9 +16606,9 @@ msgid "Day at sea"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 147
-# File: module/Application/view/application/cruises/select.phtml, line: 64
-# File: module/Application/view/application/cruises/select.phtml, line: 197
 # File: module/Application/view/application/cruises/search.phtml, line: 373
+# File: module/Application/view/application/cruises/select.phtml, line: 64
+# File: module/Application/view/application/cruises/select.phtml, line: 231
 # File: module/Application/view/application/quotes/cruises.phtml, line: 134
 # File: module/Application/view/application/river-cruises/summary.phtml, line: 72
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 118
@@ -16575,20 +16620,20 @@ msgid "Cabin"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 148
-# File: module/Application/view/application/cruises/select.phtml, line: 65
 # File: module/Application/view/application/cruises/search.phtml, line: 374
+# File: module/Application/view/application/cruises/select.phtml, line: 65
 msgid "Interior"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 149
-# File: module/Application/view/application/cruises/select.phtml, line: 66
 # File: module/Application/view/application/cruises/search.phtml, line: 375
+# File: module/Application/view/application/cruises/select.phtml, line: 66
 msgid "Ocean view"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/offer.phtml, line: 150
-# File: module/Application/view/application/cruises/select.phtml, line: 67
 # File: module/Application/view/application/cruises/search.phtml, line: 376
+# File: module/Application/view/application/cruises/select.phtml, line: 67
 msgid "Balcony"
 msgstr ""
 #
@@ -16609,318 +16654,12 @@ msgstr ""
 msgid "Please select cruise fare"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/select.phtml, line: 12
-msgid "Select number of passengers"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 13
-msgid "Most rooms accommodate up to 4 guests"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 29
-msgid "Ages"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 42
-# File: module/Application/view/application/cruises/select.phtml, line: 1044
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 498
-msgid "Input age for guest"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 56
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 14
-msgid "Date & price"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 57
-msgid "Select date & price"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 58
-# File: module/Application/view/application/cruises/select.phtml, line: 367
-msgid "Click on the most convenient price / date"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 68
-msgid "Premium Suite"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 125
-msgid "Cabin category"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 126
-msgid "Select cabin category"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 127
-msgid "Select the best cabin rate for your stay"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 127
-msgid "Stateroom images and features are samples only. Actual furniture, fixtures, colors and configurations may vary"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 128
-msgid "Cabins filter"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 128
-msgid "All Cabins"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 134
-msgid "The category has cabins for guests with special needs."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 139
-# File: module/Application/view/application/cruises/select.phtml, line: 660
-msgid "Guarantee"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 139
-msgid "Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 145
-# File: module/Application/view/application/cruises/select.phtml, line: 657
-msgid "Waitlist"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 145
-msgid "Cabins on the waiting list are cabins that are not available but can be \"RESERVED\" when making a deposit. In case someone cancels or has not made final payment you will receive a call or an email from the shipping company to confirm the cabin. It is NOT GUARANTEED that the cabin is sold until you receive a confirmation from the shipping company."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 165
-msgid "Cabin number"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 166
-msgid "Select your room number"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 167
-msgid "Select the room number according to the type of cabin selected"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 171
-# File: module/Application/view/application/cruises/select.phtml, line: 173
-# File: module/Application/view/application/hotels/info.phtml, line: 877
-# File: module/Application/view/application/hotels/info.phtml, line: 997
-# File: module/Application/view/application2/hotels/info.phtml, line: 259
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 498
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 623
-msgid "Location"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 176
-msgid "Aft"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 177
-msgid "The back of the ship, home to plenty of dining options and great sail-away views."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 182
-msgid "Mid-Ship"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 183
-msgid "Mid-ship puts you in the center of all the action."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 188
-msgid "Forward"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 189
-msgid "The front of the ship, quieter and close to the spa and suite lounges."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 194
-# File: module/Application/view/application/cruises/select.phtml, line: 195
-msgid "Deck"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 195
-msgid "Select Deck"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 197
-msgid "Select Room"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 200
-msgid "Please note that this is a \"guarantee\" rate. Guests who book a cabin guarantee will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 219
-msgid "Your cabin number will be assigned by the cruise line and confirmed with your booking. A specific stateroom cannot be selected online for this sailing."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 223
-msgid "Please note that this is a \"waitlist\" rate. There are no cabins left so you will be added to the waitlist and notified if one becomes available. A travel agent representative will contact you as soon as a space becomes available."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 229
-msgid "Deck:"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 229
-msgid "Number:"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 232
-msgid "Dining options"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 233
-msgid "Select your dining time"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 234
-msgid "Select a choice of dining options. You will be assigned a table size in the restaurant based on availability. (Table sizes can vary but typically tend to be; Small for 2 people, Medium 4-6 people and large 7-10 people)"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 238
-msgid "Dining seating"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 239
-msgid "Select your dining seating"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 248
-msgid "Dining time:"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 255
-# File: module/Application/view/application/cruises/select.phtml, line: 256
-# File: module/Application/view/application/cruises/select.phtml, line: 261
-msgid "Service Gratuities (Tips)"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 257
-msgid "Pay now the automatic gratuities/service charge in place and you don't have to stress in any way about this. We highly recommend you to pay the gratuity online, if you do, there is no need to pay anyone anything more. If gratuities are not prepaid prior to sailing, they will be automatically added to the guest's folios once onboard."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 261
-msgid "Per Passenger"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 266
-msgid "By selecting this box you agree to pay online the Cruise's automatic gratuities/service charge in place."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 279
-msgid "per passenger"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 364
-msgid "Please select date"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 371
-# File: module/Application/view/application/cruises/select.phtml, line: 374
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 321
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 324
-msgid "Please input passenger age"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 378
-# File: module/Application/view/application/cruises/select.phtml, line: 381
-msgid "Please select dining time"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 390
-msgid "We could not load that"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 393
-msgid "Something went wrong loading the cabins. Please try again, or pick a different sailing date."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 516
-# File: module/Application/view/application/cruises/select.phtml, line: 670
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 155
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 181
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 208
-msgid "selected"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 634
-msgid "Non Refundable Deposit"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 667
-msgid "Deposit is non-refundable. Once the deposit is paid it will not be refunded."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 988
-msgid "Pay Service Gratuities (Tips)"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 992
-msgid "Do not pay Service Gratuities (Tips)"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 1029
-msgid "Max Occupancy is"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 1031
-msgid "Handicap Cabin"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/select.phtml, line: 1101
-msgid "No decks available for this ship position."
-msgstr ""
-#
 # File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 19
 msgid "Thank you. Your confirmed cruise departure has been booked."
 msgstr ""
 #
 # File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 34
 msgid "Back to confirmed cruises"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 238
-msgid "View Cabin Location"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 284
-# File: module/Application/view/application/quotes/cruises.phtml, line: 355
-#, php-format
-msgid "BOGO60 is a promotional offer by Royal Caribbean Cruise that gives you 60% off the cruise fare of the second guest booked in the same stateroom as the first full fare paying guest. It also gives you 30% off any additional guests booked in the same stateroom as the first and second guest."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 380
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 933
-msgid "PDF"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 381
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 934
-msgid "We are pleased to inform you that we have successfully sent the quote for the requested trip to the customer. The quote includes the details of the itinerary, the price and the payment options. The customer can review the quote and confirm their booking online."
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 394
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 948
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 518
-msgid "Send quote by email"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 412
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 966
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 536
-# File: module/Application/view/application/quotes/verify.phtml, line: 32
-msgid "Message:"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/summary.phtml, line: 419
-# File: module/Application/view/application/escorted-tours/summary.phtml, line: 973
-# File: module/Application/view/application/escorted-tours/info.phtml, line: 543
-msgid "Send quote"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 41
@@ -17097,6 +16836,293 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/search.phtml, line: 363
 msgid "Information subject to change due to final availability of berth or anchorage."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirm.phtml, line: 30
+msgid "Sailing date:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirm.phtml, line: 31
+msgid "Sailing port:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirm.phtml, line: 302
+msgid "Cruise Information"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 12
+msgid "Select number of passengers"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 13
+msgid "Most rooms accommodate up to 4 guests"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 29
+msgid "Ages"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 42
+# File: module/Application/view/application/cruises/select.phtml, line: 1172
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 498
+msgid "Input age for guest"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 56
+# File: module/Application/view/application/cruises/select.phtml, line: 145
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 14
+msgid "Date & price"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 57
+# File: module/Application/view/application/cruises/select.phtml, line: 146
+msgid "Select date & price"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 58
+# File: module/Application/view/application/cruises/select.phtml, line: 401
+msgid "Click on the most convenient price / date"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 68
+msgid "Premium Suite"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 150
+msgid "There are no sailings available for the dates you selected"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 151
+msgid "Please choose a different month"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 154
+msgid "Change dates"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 159
+msgid "Cabin category"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 160
+msgid "Select cabin category"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 161
+msgid "Select the best cabin rate for your stay"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 161
+msgid "Stateroom images and features are samples only. Actual furniture, fixtures, colors and configurations may vary"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 162
+msgid "Cabins filter"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 162
+msgid "All Cabins"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 168
+msgid "The category has cabins for guests with special needs."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 173
+msgid "Guests who book a guarantee cabin will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 179
+msgid "Cabins on the waiting list are cabins that are not available but can be \"RESERVED\" when making a deposit. In case someone cancels or has not made final payment you will receive a call or an email from the shipping company to confirm the cabin. It is NOT GUARANTEED that the cabin is sold until you receive a confirmation from the shipping company."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 199
+msgid "Cabin number"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 200
+msgid "Select your room number"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 201
+msgid "Select the room number according to the type of cabin selected"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 205
+# File: module/Application/view/application/cruises/select.phtml, line: 207
+# File: module/Application/view/application/hotels/info.phtml, line: 877
+# File: module/Application/view/application/hotels/info.phtml, line: 997
+# File: module/Application/view/application2/hotels/info.phtml, line: 259
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 498
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 623
+msgid "Location"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 210
+msgid "Aft"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 211
+msgid "The back of the ship, home to plenty of dining options and great sail-away views."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 216
+msgid "Mid-Ship"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 217
+msgid "Mid-ship puts you in the center of all the action."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 222
+msgid "Forward"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 223
+msgid "The front of the ship, quieter and close to the spa and suite lounges."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 228
+# File: module/Application/view/application/cruises/select.phtml, line: 229
+msgid "Deck"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 229
+msgid "Select Deck"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 231
+msgid "Select Room"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 234
+msgid "Please note that this is a \"guarantee\" rate. Guests who book a cabin guarantee will receive the cabin assignment when checking in for the cruise. Guarantee cabin may be located anywhere on this ship and are not associated with a specific stateroom, deck, or bedding configuration."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 253
+msgid "Your cabin number will be assigned by the cruise line and confirmed with your booking. A specific stateroom cannot be selected online for this sailing."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 257
+msgid "Please note that this is a \"waitlist\" rate. There are no cabins left so you will be added to the waitlist and notified if one becomes available. A travel agent representative will contact you as soon as a space becomes available."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 263
+msgid "Deck:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 263
+msgid "Number:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 266
+msgid "Dining options"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 267
+msgid "Select your dining time"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 268
+msgid "Select a choice of dining options. You will be assigned a table size in the restaurant based on availability. (Table sizes can vary but typically tend to be; Small for 2 people, Medium 4-6 people and large 7-10 people)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 272
+msgid "Dining seating"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 273
+msgid "Select your dining seating"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 282
+msgid "Dining time:"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 289
+# File: module/Application/view/application/cruises/select.phtml, line: 290
+# File: module/Application/view/application/cruises/select.phtml, line: 295
+msgid "Service Gratuities (Tips)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 291
+msgid "Pay now the automatic gratuities/service charge in place and you don't have to stress in any way about this. We highly recommend you to pay the gratuity online, if you do, there is no need to pay anyone anything more. If gratuities are not prepaid prior to sailing, they will be automatically added to the guest's folios once onboard."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 295
+msgid "Per Passenger"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 300
+msgid "By selecting this box you agree to pay online the Cruise's automatic gratuities/service charge in place."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 313
+msgid "per passenger"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 398
+msgid "Please select date"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 405
+# File: module/Application/view/application/cruises/select.phtml, line: 408
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 321
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 324
+msgid "Please input passenger age"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 412
+# File: module/Application/view/application/cruises/select.phtml, line: 415
+msgid "Please select dining time"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 424
+msgid "We could not load that"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 427
+msgid "Something went wrong loading the cabins. Please try again, or pick a different sailing date."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 482
+msgid "Cabin assigned at check-in"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 585
+# File: module/Application/view/application/cruises/select.phtml, line: 780
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 155
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 181
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 208
+msgid "selected"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 744
+msgid "Non Refundable Deposit"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 777
+msgid "Deposit is non-refundable. Once the deposit is paid it will not be refunded."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 1116
+msgid "Pay Service Gratuities (Tips)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 1120
+msgid "Do not pay Service Gratuities (Tips)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 1157
+msgid "Max Occupancy is"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 1159
+msgid "Handicap Cabin"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/select.phtml, line: 1262
+msgid "No decks available for this ship position."
 msgstr ""
 #
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 7
