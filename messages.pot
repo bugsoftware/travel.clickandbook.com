@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-07 18:02-0400\n"
+"POT-Creation-Date: 2026-10-07 18:44-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -284,6 +284,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/sales.phtml, line: 363
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 70
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 281
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 63
 msgid "flights"
 msgstr ""
 #
@@ -307,6 +308,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/brands2.phtml, line: 716
 # File: module/Application/view/application/hotels/brands2.phtml, line: 749
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 69
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 62
 msgid "hotels"
 msgstr ""
 #
@@ -483,9 +485,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 544
 # File: module/Application/view/application/transfers/index2.phtml, line: 401
 # File: module/Application/view/application/transfers/search2.phtml, line: 658
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
 # File: module/Application/view/application/trip-planner/select.phtml, line: 890
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 855
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
 # File: module/Application/view/application/trips/done.phtml, line: 19
 # File: module/Application/view/application2/hotels/info.phtml, line: 626
 # File: module/Application/view/application2/index/index.phtml, line: 39
@@ -2479,7 +2481,6 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 397
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 763
 # File: module/Application/view/application/transfers/payment2.phtml, line: 575
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 51
 # File: module/Application/view/application/trip-planner/shared-head.phtml, line: 215
 # File: module/Application/view/application/disney-tickets/confirm2.phtml, line: 209
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 261
@@ -12175,6 +12176,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/summary2.phtml, line: 313
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 67
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 64
 msgid "Total to pay"
 msgstr ""
 #
@@ -16712,7 +16714,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/bookconfirmeddepartures.phtml, line: 35
 # File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 27
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 53
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 66
 # File: module/Application/view/application/bus/confirm.phtml, line: 110
 # File: module/Application/view/application/bus/failed.phtml, line: 23
 # File: module/Application/view/application/bus/processing.phtml, line: 139
@@ -27736,9 +27738,9 @@ msgstr ""
 #
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 335
 # File: module/Application/view/application/insurances/index2.phtml, line: 110
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 46
 # File: module/Application/view/application/trip-planner/insurance.phtml, line: 34
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 113
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 46
 msgid "Travel insurance"
 msgstr ""
 #
@@ -29199,8 +29201,8 @@ msgid "Departure flight"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 388
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 49
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 104
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 49
 msgid "Requested"
 msgstr ""
 #
@@ -29338,18 +29340,22 @@ msgid "ZIP / Postcode"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 69
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 62
 msgid "Paid to us"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 69
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 62
 msgid "transfers"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 70
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 63
 msgid "Paid with your card to the airline / insurer"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 70
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 63
 msgid "insurance"
 msgstr ""
 #
@@ -29376,62 +29382,6 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 93
 msgid "Booking with every supplier - please do not close this page..."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 31
-msgid "Your trip is booked!"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 32
-msgid "A confirmation has been sent to"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
-msgid "ticketing in progress"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 40
-msgid "pending"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 49
-msgid "our team will confirm availability and charge separately"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 56
-# File: module/Application/view/application/bus/failed.phtml, line: 25
-# File: module/Application/view/application/bus/processing.phtml, line: 71
-# File: module/Application/view/application/bus/processing2.phtml, line: 170
-# File: module/Application/view/application/bus/failed2.phtml, line: 190
-msgid "We could not complete the booking"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 57
-msgid "Something went wrong."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 62
-msgid "Book at the new price?"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 62
-msgid "New total to pay"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 63
-msgid "Yes, book at the new price"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 64
-msgid "No, review the summary"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 68
-msgid "Review the summary"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 69
-msgid "Try the payment again"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/error.phtml, line: 10
@@ -30253,6 +30203,62 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/passengers.phtml, line: 128
 msgid "Enter every date of birth as MM-DD-YYYY."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 31
+msgid "Your trip is booked!"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 32
+msgid "A confirmation has been sent to"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
+msgid "ticketing in progress"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 40
+msgid "pending"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 49
+msgid "our team will confirm availability and charge separately"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 69
+# File: module/Application/view/application/bus/failed.phtml, line: 25
+# File: module/Application/view/application/bus/processing.phtml, line: 71
+# File: module/Application/view/application/bus/processing2.phtml, line: 170
+# File: module/Application/view/application/bus/failed2.phtml, line: 190
+msgid "We could not complete the booking"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 70
+msgid "Something went wrong."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 75
+msgid "Book at the new price?"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 75
+msgid "New total to pay"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 76
+msgid "Yes, book at the new price"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 77
+msgid "No, review the summary"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 81
+msgid "Review the summary"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 82
+msgid "Try the payment again"
 msgstr ""
 #
 # File: module/Application/view/application/sales/index.phtml, line: 386
