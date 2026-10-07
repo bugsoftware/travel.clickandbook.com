@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 14:51-0400\n"
+"POT-Creation-Date: 2026-10-07 02:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -296,6 +296,8 @@ msgid "travel"
 msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 2350
+# File: module/Application/view/application/catalog/destination2.phtml, line: 315
+# File: module/Application/view/application/catalog/destination2.phtml, line: 587
 # File: module/Application/view/application/hotels/brands2.phtml, line: 356
 # File: module/Application/view/application/hotels/brands2.phtml, line: 597
 # File: module/Application/view/application/hotels/brands2.phtml, line: 640
@@ -316,6 +318,7 @@ msgid "deals"
 msgstr ""
 #
 # File: module/Application/src/Controller/AirController.php, line: 2350
+# File: module/Application/view/application/catalog/index2.phtml, line: 146
 # File: module/Application/view/application/destinations/sales.phtml, line: 275
 # File: module/Application/view/application/hotels/brands2.phtml, line: 642
 # File: module/Application/view/application/packages/index.phtml, line: 357
@@ -378,6 +381,7 @@ msgstr ""
 # File: module/Application/view/application/booking/paynow.phtml, line: 365
 # File: module/Application/view/application/cart/confirm.phtml, line: 133
 # File: module/Application/view/application/cart/index.phtml, line: 102
+# File: module/Application/view/application/catalog/destination2.phtml, line: 518
 # File: module/Application/view/application/content/blackfriday.phtml, line: 42
 # File: module/Application/view/application/content/cyberweek.phtml, line: 42
 # File: module/Application/view/application/content/groups.phtml, line: 64
@@ -2904,6 +2908,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1576
 # File: module/Application/view/application/cart/summary.phtml, line: 1591
 # File: module/Application/view/application/cart/summary.phtml, line: 1663
+# File: module/Application/view/application/catalog/destination2.phtml, line: 317
 # File: module/Application/view/application/content/aboutus.phtml, line: 37
 # File: module/Application/view/application/content/aboutus.phtml, line: 41
 # File: module/Application/view/application/content/cms_content.phtml, line: 36
@@ -4026,6 +4031,8 @@ msgstr ""
 # File: module/Application/view/application/cars/passengers2.phtml, line: 599
 # File: module/Application/view/application/cars/search2.phtml, line: 631
 # File: module/Application/view/application/cart/passengers.phtml, line: 1617
+# File: module/Application/view/application/catalog/index2.phtml, line: 347
+# File: module/Application/view/application/catalog/destination2.phtml, line: 547
 # File: module/Application/view/application/destinations/disney.phtml, line: 1570
 # File: module/Application/view/application/destinations/peru.phtml, line: 659
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 731
@@ -6101,6 +6108,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 412
 # File: module/Application/view/application/catalog/destination.phtml, line: 61
+# File: module/Application/view/application/catalog/destination2.phtml, line: 126
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 278
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 485
 # File: module/Application/view/application/hotels/info.phtml, line: 786
@@ -6116,6 +6124,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 414
 # File: module/Application/view/application/catalog/destination.phtml, line: 63
+# File: module/Application/view/application/catalog/destination2.phtml, line: 129
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 279
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 487
 # File: module/Application/view/application/hotels/info.phtml, line: 788
@@ -6131,6 +6140,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 416
 # File: module/Application/view/application/catalog/destination.phtml, line: 65
+# File: module/Application/view/application/catalog/destination2.phtml, line: 132
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 280
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 489
 # File: module/Application/view/application/hotels/info.phtml, line: 790
@@ -6146,6 +6156,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 418
 # File: module/Application/view/application/catalog/destination.phtml, line: 67
+# File: module/Application/view/application/catalog/destination2.phtml, line: 135
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 281
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 491
 # File: module/Application/view/application/hotels/info.phtml, line: 792
@@ -6164,6 +6175,7 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 420
 # File: module/Application/view/application/air/index.phtml, line: 284
 # File: module/Application/view/application/catalog/destination.phtml, line: 69
+# File: module/Application/view/application/catalog/destination2.phtml, line: 138
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 282
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 493
 # File: module/Application/view/application/hotels/info.phtml, line: 794
@@ -6182,6 +6194,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 422
 # File: module/Application/view/application/catalog/destination.phtml, line: 71
+# File: module/Application/view/application/catalog/destination2.phtml, line: 141
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 284
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 495
 # File: module/Application/view/application/hotels/info.phtml, line: 796
@@ -6197,6 +6210,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/info.phtml, line: 424
 # File: module/Application/view/application/catalog/destination.phtml, line: 73
+# File: module/Application/view/application/catalog/destination2.phtml, line: 143
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 285
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 497
 # File: module/Application/view/application/hotels/info.phtml, line: 798
@@ -6216,6 +6230,7 @@ msgstr ""
 # File: module/Application/view/application/activities/info2.phtml, line: 402
 # File: module/Application/view/application/activities/summary2.phtml, line: 166
 # File: module/Application/view/application/catalog/destination.phtml, line: 77
+# File: module/Application/view/application/catalog/destination2.phtml, line: 634
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 502
 # File: module/Application/view/application/hotels/info.phtml, line: 817
 # File: module/Application/view/application/hotels/search.phtml, line: 557
@@ -6639,6 +6654,8 @@ msgstr ""
 # File: module/Application/view/application/cart/passengers.phtml, line: 18
 # File: module/Application/view/application/cart/payment.phtml, line: 17
 # File: module/Application/view/application/cart/summary.phtml, line: 16
+# File: module/Application/view/application/catalog/index2.phtml, line: 336
+# File: module/Application/view/application/catalog/destination2.phtml, line: 536
 # File: module/Application/view/application/cruises/search.phtml, line: 331
 # File: module/Application/view/application/cruises/search.phtml, line: 332
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 403
@@ -8585,6 +8602,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 673
 # File: module/Application/view/application/air/passengers.phtml, line: 942
 # File: module/Application/view/application/cart/passengers.phtml, line: 1165
+# File: module/Application/view/application/catalog/destination2.phtml, line: 553
 # File: module/Application/view/application/hotels/passengers.phtml, line: 688
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 786
 # File: module/Application/view/application/hotels/brands2.phtml, line: 669
@@ -9462,6 +9480,7 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 496
 # File: module/Application/view/application/cart/payment.phtml, line: 161
 # File: module/Application/view/application/cart/payment.phtml, line: 169
+# File: module/Application/view/application/catalog/index2.phtml, line: 355
 # File: module/Application/view/application/cruises/index2.phtml, line: 208
 # File: module/Application/view/application/cruises/search.phtml, line: 129
 # File: module/Application/view/application/cruises/index.phtml, line: 56
@@ -9854,6 +9873,9 @@ msgstr ""
 # File: module/Application/view/application/air/charters.phtml, line: 401
 # File: module/Application/view/application/cars/search.phtml, line: 14
 # File: module/Application/view/application/cars/search2.phtml, line: 509
+# File: module/Application/view/application/catalog/index2.phtml, line: 300
+# File: module/Application/view/application/catalog/index2.phtml, line: 337
+# File: module/Application/view/application/catalog/destination2.phtml, line: 504
 # File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 21
 # File: module/Application/view/application/cruises/search.phtml, line: 22
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 133
@@ -9931,6 +9953,7 @@ msgstr ""
 # File: module/Application/view/application/cars/search2.phtml, line: 604
 # File: module/Application/view/application/cars/search2.phtml, line: 605
 # File: module/Application/view/application/cars/search2.phtml, line: 606
+# File: module/Application/view/application/catalog/destination2.phtml, line: 549
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 141
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 175
 # File: module/Application/view/application/destinations/sales.phtml, line: 303
@@ -10049,6 +10072,7 @@ msgstr ""
 # File: module/Application/view/application/activities/search.phtml, line: 279
 # File: module/Application/view/application/activities/search2.phtml, line: 51
 # File: module/Application/view/application/catalog/destination.phtml, line: 32
+# File: module/Application/view/application/catalog/destination2.phtml, line: 614
 # File: module/Application/view/application/content/blackfriday.phtml, line: 24
 # File: module/Application/view/application/content/cyberweek.phtml, line: 24
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 39
@@ -10077,6 +10101,7 @@ msgstr ""
 # File: module/Application/view/application/activities/search.phtml, line: 280
 # File: module/Application/view/application/activities/search2.phtml, line: 52
 # File: module/Application/view/application/catalog/destination.phtml, line: 33
+# File: module/Application/view/application/catalog/destination2.phtml, line: 615
 # File: module/Application/view/application/content/blackfriday.phtml, line: 28
 # File: module/Application/view/application/content/cyberweek.phtml, line: 28
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises.phtml, line: 40
@@ -10881,6 +10906,7 @@ msgstr ""
 # File: module/Application/view/application/activities/confirm2.phtml, line: 345
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1518
 # File: module/Application/view/application/cars/confirm2.phtml, line: 454
+# File: module/Application/view/application/catalog/destination2.phtml, line: 526
 # File: module/Application/view/application/hotels/confirm2.phtml, line: 647
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 431
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 421
@@ -11075,6 +11101,8 @@ msgid "Page"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 54
+# File: module/Application/view/application/catalog/index2.phtml, line: 145
+# File: module/Application/view/application/catalog/destination2.phtml, line: 314
 # File: module/Application/view/application/hotels/brands2.phtml, line: 358
 # File: module/Application/view/application/hotels/info2.phtml, line: 534
 # File: module/Application/view/application/river-cruises/search.phtml, line: 79
@@ -11105,6 +11133,7 @@ msgstr ""
 # File: module/Application/view/application/activities/search2.phtml, line: 60
 # File: module/Application/view/application/activities/info2.phtml, line: 426
 # File: module/Application/view/application/cars/search2.phtml, line: 604
+# File: module/Application/view/application/catalog/destination2.phtml, line: 550
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 177
 # File: module/Application/view/application/destinations/sales.phtml, line: 305
 # File: module/Application/view/application/hotels/brands2.phtml, line: 667
@@ -11321,6 +11350,8 @@ msgstr ""
 # File: module/Application/view/application/agent/commissions.phtml, line: 165
 # File: module/Application/view/application/agent/currencyexchange.phtml, line: 41
 # File: module/Application/view/application/agent/reservations.phtml, line: 152
+# File: module/Application/view/application/catalog/index2.phtml, line: 144
+# File: module/Application/view/application/catalog/destination2.phtml, line: 313
 # File: module/Application/view/application/hotels/brands2.phtml, line: 357
 # File: module/Application/view/application/login/coupons.phtml, line: 39
 # File: module/Application/view/application/login/rewards.phtml, line: 66
@@ -11650,6 +11681,8 @@ msgstr ""
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 338
 # File: module/Application/view/application/agent/profile.phtml, line: 49
 # File: module/Application/view/application/cars/passengers2.phtml, line: 351
+# File: module/Application/view/application/catalog/index2.phtml, line: 313
+# File: module/Application/view/application/catalog/index2.phtml, line: 352
 # File: module/Application/view/application/customers/pointsprofileupdate.phtml, line: 53
 # File: module/Application/view/application/escorted-tours/passengers2.phtml, line: 254
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 554
@@ -12377,6 +12410,7 @@ msgstr ""
 # File: module/Application/view/application/agent/agents.phtml, line: 40
 # File: module/Application/view/application/agent/commissions.phtml, line: 27
 # File: module/Application/view/application/agent/reservations.phtml, line: 36
+# File: module/Application/view/application/catalog/index2.phtml, line: 353
 # File: module/Application/view/application/hotels/index2.phtml, line: 720
 # File: module/Application/view/application/hotels/brands2.phtml, line: 680
 # File: module/Application/view/application/trip-planner/select.phtml, line: 234
@@ -12776,6 +12810,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 20
 # File: module/Application/view/application/agent/subagent.phtml, line: 69
+# File: module/Application/view/application/catalog/destination2.phtml, line: 518
 # File: module/Application/view/application/destinations/worldcup.old.phtml, line: 250
 # File: module/Application/view/application/hotels/brands.phtml, line: 7
 # File: module/Application/view/application/hotels/brands.phtml, line: 8
@@ -13925,6 +13960,7 @@ msgid "We offer low fares, flexible schedules, and convenient connections to ove
 msgstr ""
 #
 # File: module/Application/view/application/air/airline.phtml, line: 211
+# File: module/Application/view/application/catalog/index2.phtml, line: 310
 # File: module/Application/view/application/content/destinations.phtml, line: 5
 # File: module/Application/view/application/destinations/index.phtml, line: 248
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 378
@@ -17238,6 +17274,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 187
 # File: module/Application/view/application/cart/summary.phtml, line: 450
 # File: module/Application/view/application/cart/summary.phtml, line: 1013
+# File: module/Application/view/application/catalog/index2.phtml, line: 310
 # File: module/Application/view/application/content/groups.phtml, line: 59
 # File: module/Application/view/application/content/pricematch.phtml, line: 134
 # File: module/Application/view/application/content/weddings.phtml, line: 61
@@ -17273,6 +17310,8 @@ msgid "Destination"
 msgstr ""
 #
 # File: module/Application/view/application/air/charters.phtml, line: 465
+# File: module/Application/view/application/catalog/destination2.phtml, line: 525
+# File: module/Application/view/application/catalog/destination2.phtml, line: 537
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 172
 # File: module/Application/view/application/destinations/sales.phtml, line: 185
 # File: module/Application/view/application/destinations/sales.phtml, line: 300
@@ -17934,6 +17973,8 @@ msgid "Your agent can provide personalized support whenever you need it."
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 648
+# File: module/Application/view/application/catalog/destination2.phtml, line: 586
+# File: module/Application/view/application/catalog/destination2.phtml, line: 639
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 627
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 642
 # File: module/Application/view/application/hotels/brands.phtml, line: 335
@@ -19891,9 +19932,210 @@ msgid "Traveler Reviews"
 msgstr ""
 #
 # File: module/Application/view/application/catalog/index.phtml, line: 17
+# File: module/Application/view/application/catalog/index2.phtml, line: 301
+# File: module/Application/view/application/catalog/destination2.phtml, line: 493
+# File: module/Application/view/application/catalog/destination2.phtml, line: 505
+# File: module/Application/view/application/catalog/destination2.phtml, line: 512
 # File: module/Application/view/layout/layout.phtml, line: 349
 # File: module/Application/view/layout/layout.phtml, line: 1137
 msgid "Catalog"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 289
+# File: module/Application/view/application/catalog/index2.phtml, line: 304
+# File: module/Application/view/application/catalog/destination2.phtml, line: 492
+# File: module/Application/view/application/catalog/destination2.phtml, line: 511
+msgid "Travel catalog"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 290
+# File: module/Application/view/application/catalog/index2.phtml, line: 305
+msgid "Discover our destinations"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 306
+msgid "Choose a destination to see its selected hotels, or scan its QR code to open it on your phone."
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 313
+# File: module/Application/view/application/escorted-tours/index.phtml, line: 147
+# File: module/Application/view/application/escorted-tours/search.phtml, line: 360
+# File: module/Application/view/application/escorted-tours/index2.phtml, line: 202
+# File: module/Application/view/application/escorted-tours/index3.phtml, line: 127
+# File: module/Application/view/application/hotels/brands2.phtml, line: 606
+# File: module/Application/view/application/index/index.phtml, line: 1245
+msgid "Countries"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 316
+# File: module/Application/view/application/catalog/index2.phtml, line: 396
+msgid "Print catalog"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 345
+# File: module/Application/view/application/catalog/index2.phtml, line: 346
+msgid "Search by destination or country"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 369
+# File: module/Application/view/application/catalog/index2.phtml, line: 371
+# File: module/Application/view/application/catalog/destination2.phtml, line: 621
+msgid "Scan to open"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 370
+# File: module/Application/view/application/catalog/destination2.phtml, line: 622
+msgid "QR code"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 376
+msgid "See hotels"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 385
+msgid "No destinations match your search"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 386
+# File: module/Application/view/application/catalog/destination2.phtml, line: 648
+msgid "Try another name or clear the filters."
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 387
+# File: module/Application/view/application/catalog/destination2.phtml, line: 578
+# File: module/Application/view/application/catalog/destination2.phtml, line: 649
+# File: module/Application/view/application/hotels/search2.phtml, line: 983
+# File: module/Application/view/application/hotels/search2.phtml, line: 1045
+# File: module/Application/view/application/hotels/brands2.phtml, line: 707
+# File: module/Application/view/application/hotels/brands2.phtml, line: 741
+# File: module/Application/view/application/river-cruises/search.phtml, line: 123
+msgid "Clear all"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 393
+msgid "Share it or print it"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 394
+msgid "Every destination has its own QR code: print the catalog and your customers can scan any page to open it on their phone."
+msgstr ""
+#
+# File: module/Application/view/application/catalog/index2.phtml, line: 402
+msgid "Scan a QR code to open the destination on"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 316
+# File: module/Application/view/application/catalog/destination2.phtml, line: 640
+# File: module/Application/view/application/hotels/brands2.phtml, line: 361
+msgid "View hotel"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 318
+# File: module/Application/view/application/catalog/destination2.phtml, line: 589
+# File: module/Application/view/application/hotels/brands2.phtml, line: 368
+# File: module/Application/view/application/hotels/brands2.phtml, line: 718
+msgid "Show map"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 319
+# File: module/Application/view/application/hotels/brands2.phtml, line: 369
+msgid "Hide map"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 320
+# File: module/Application/view/application/hotels/brands2.phtml, line: 362
+msgid "The map could not be loaded."
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 495
+msgid "Scan a QR code to open the hotel"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 520
+msgid "Average guest rating"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 545
+# File: module/Application/view/application/catalog/destination2.phtml, line: 546
+msgid "Search by hotel name or address"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 551
+# File: module/Application/view/application/catalog/destination2.phtml, line: 567
+# File: module/Application/view/application/catalog/destination2.phtml, line: 568
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 275
+# File: module/Application/view/application/hotels/search.phtml, line: 330
+# File: module/Application/view/application/hotels/search2.phtml, line: 945
+# File: module/Application/view/application/sales/index.phtml, line: 419
+msgid "Guest rating"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 552
+# File: module/Application/view/application/catalog/destination2.phtml, line: 559
+# File: module/Application/view/application/catalog/destination2.phtml, line: 560
+# File: module/Application/view/application/escorted-tours/select2.phtml, line: 142
+# File: module/Application/view/application/escorted-tours/select.phtml, line: 34
+# File: module/Application/view/application/hotels/brands2.phtml, line: 670
+# File: module/Application/view/application/hotels/brands2.phtml, line: 697
+# File: module/Application/view/application/hotels/brands2.phtml, line: 698
+# File: module/Application/view/application/packages/search.phtml, line: 184
+# File: module/Application/view/application/packages/info.phtml, line: 494
+# File: module/Application/view/application/quotes/escortedtours.phtml, line: 87
+# File: module/Application/view/application/disney-tickets/search2.phtml, line: 410
+msgid "Category"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 552
+# File: module/Application/view/application/catalog/destination2.phtml, line: 627
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 239
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 240
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 241
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 242
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 243
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 244
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 245
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 246
+# File: module/Application/view/application/hotels/search.phtml, line: 294
+# File: module/Application/view/application/hotels/search.phtml, line: 295
+# File: module/Application/view/application/hotels/search.phtml, line: 296
+# File: module/Application/view/application/hotels/search.phtml, line: 297
+# File: module/Application/view/application/hotels/search.phtml, line: 298
+# File: module/Application/view/application/hotels/search.phtml, line: 299
+# File: module/Application/view/application/hotels/search.phtml, line: 300
+# File: module/Application/view/application/hotels/search.phtml, line: 301
+# File: module/Application/view/application/hotels/summary2.phtml, line: 434
+# File: module/Application/view/application/hotels/brands2.phtml, line: 359
+# File: module/Application/view/application/hotels/brands2.phtml, line: 670
+# File: module/Application/view/application/packages/search.phtml, line: 189
+# File: module/Application/view/application/sales/index.phtml, line: 401
+# File: module/Application/view/offers/lastminute/index.phtml, line: 1652
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 587
+# File: module/Application/view/offers/travelers-choice/index.phtml, line: 714
+msgid "stars"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 587
+# File: module/Application/view/application/hotels/brands2.phtml, line: 355
+# File: module/Application/view/application/hotels/brands2.phtml, line: 640
+# File: module/Application/view/application/hotels/brands2.phtml, line: 716
+# File: module/Application/view/application/hotels/brands2.phtml, line: 749
+msgid "hotel"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 623
+msgid "Scan"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 647
+# File: module/Application/view/application/hotels/brands2.phtml, line: 739
+msgid "No hotels match these filters"
+msgstr ""
+#
+# File: module/Application/view/application/catalog/destination2.phtml, line: 653
+# File: module/Application/view/application/hotels/search2.phtml, line: 1071
+# File: module/Application/view/application/hotels/brands2.phtml, line: 788
+# File: module/Application/view/layout/layout.phtml, line: 1219
+msgid "Back to top"
 msgstr ""
 #
 # File: module/Application/view/application/content/aboutus.phtml, line: 14
@@ -23216,33 +23458,6 @@ msgstr ""
 msgid "Star rating"
 msgstr ""
 #
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 239
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 240
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 241
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 242
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 243
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 244
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 245
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 246
-# File: module/Application/view/application/hotels/search.phtml, line: 294
-# File: module/Application/view/application/hotels/search.phtml, line: 295
-# File: module/Application/view/application/hotels/search.phtml, line: 296
-# File: module/Application/view/application/hotels/search.phtml, line: 297
-# File: module/Application/view/application/hotels/search.phtml, line: 298
-# File: module/Application/view/application/hotels/search.phtml, line: 299
-# File: module/Application/view/application/hotels/search.phtml, line: 300
-# File: module/Application/view/application/hotels/search.phtml, line: 301
-# File: module/Application/view/application/hotels/summary2.phtml, line: 434
-# File: module/Application/view/application/hotels/brands2.phtml, line: 359
-# File: module/Application/view/application/hotels/brands2.phtml, line: 670
-# File: module/Application/view/application/packages/search.phtml, line: 189
-# File: module/Application/view/application/sales/index.phtml, line: 401
-# File: module/Application/view/offers/lastminute/index.phtml, line: 1652
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 587
-# File: module/Application/view/offers/travelers-choice/index.phtml, line: 714
-msgid "stars"
-msgstr ""
-#
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 247
 # File: module/Application/view/application/hotels/search.phtml, line: 302
 msgid "star"
@@ -23297,13 +23512,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/search.phtml, line: 327
 # File: module/Application/view/application/hotels/search.phtml, line: 357
 msgid "Family friendly"
-msgstr ""
-#
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 275
-# File: module/Application/view/application/hotels/search.phtml, line: 330
-# File: module/Application/view/application/hotels/search2.phtml, line: 945
-# File: module/Application/view/application/sales/index.phtml, line: 419
-msgid "Guest rating"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 289
@@ -23965,15 +24173,6 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index2.phtml, line: 181
 # File: module/Application/view/application/escorted-tours/index3.phtml, line: 113
 msgid "Discover the best choices for your trip"
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/index.phtml, line: 147
-# File: module/Application/view/application/escorted-tours/search.phtml, line: 360
-# File: module/Application/view/application/escorted-tours/index2.phtml, line: 202
-# File: module/Application/view/application/escorted-tours/index3.phtml, line: 127
-# File: module/Application/view/application/hotels/brands2.phtml, line: 606
-# File: module/Application/view/application/index/index.phtml, line: 1245
-msgid "Countries"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 147
@@ -24750,18 +24949,6 @@ msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select2.phtml, line: 137
 msgid "Pricing and availability are approximate and subject to confirmation of the reservation."
-msgstr ""
-#
-# File: module/Application/view/application/escorted-tours/select2.phtml, line: 142
-# File: module/Application/view/application/escorted-tours/select.phtml, line: 34
-# File: module/Application/view/application/hotels/brands2.phtml, line: 670
-# File: module/Application/view/application/hotels/brands2.phtml, line: 697
-# File: module/Application/view/application/hotels/brands2.phtml, line: 698
-# File: module/Application/view/application/packages/search.phtml, line: 184
-# File: module/Application/view/application/packages/info.phtml, line: 494
-# File: module/Application/view/application/quotes/escortedtours.phtml, line: 87
-# File: module/Application/view/application/disney-tickets/search2.phtml, line: 410
-msgid "Category"
 msgstr ""
 #
 # File: module/Application/view/application/escorted-tours/select2.phtml, line: 156
@@ -26073,14 +26260,6 @@ msgstr ""
 msgid "Show all"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/search2.phtml, line: 983
-# File: module/Application/view/application/hotels/search2.phtml, line: 1045
-# File: module/Application/view/application/hotels/brands2.phtml, line: 707
-# File: module/Application/view/application/hotels/brands2.phtml, line: 741
-# File: module/Application/view/application/river-cruises/search.phtml, line: 123
-msgid "Clear all"
-msgstr ""
-#
 # File: module/Application/view/application/hotels/search2.phtml, line: 984
 msgid "Show"
 msgstr ""
@@ -26101,38 +26280,8 @@ msgstr ""
 msgid "Load all"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/search2.phtml, line: 1071
-# File: module/Application/view/application/hotels/brands2.phtml, line: 788
-# File: module/Application/view/layout/layout.phtml, line: 1219
-msgid "Back to top"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 355
-# File: module/Application/view/application/hotels/brands2.phtml, line: 640
-# File: module/Application/view/application/hotels/brands2.phtml, line: 716
-# File: module/Application/view/application/hotels/brands2.phtml, line: 749
-msgid "hotel"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 361
-msgid "View hotel"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 362
-msgid "The map could not be loaded."
-msgstr ""
-#
 # File: module/Application/view/application/hotels/brands2.phtml, line: 366
 msgid "About this hotel"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 368
-# File: module/Application/view/application/hotels/brands2.phtml, line: 718
-msgid "Show map"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 369
-msgid "Hide map"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/brands2.phtml, line: 596
@@ -26170,10 +26319,6 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/brands2.phtml, line: 735
 msgid "Enable JavaScript to see photos and filters. Every hotel is listed below."
-msgstr ""
-#
-# File: module/Application/view/application/hotels/brands2.phtml, line: 739
-msgid "No hotels match these filters"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/brands2.phtml, line: 740
