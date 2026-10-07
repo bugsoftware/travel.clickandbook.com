@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-07 07:55-0400\n"
+"POT-Creation-Date: 2026-10-07 08:49-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -283,6 +283,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 235
 # File: module/Application/view/application/destinations/sales.phtml, line: 363
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 67
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 290
 msgid "flights"
 msgstr ""
 #
@@ -1174,7 +1175,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 499
 # File: module/Application/view/application/transfers/search2.phtml, line: 628
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 40
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 65
+# File: module/Application/view/application/trip-planner/index.phtml, line: 168
+# File: module/Application/view/application/trip-planner/index.phtml, line: 261
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 166
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 275
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 364
@@ -1449,8 +1452,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/payment2.phtml, line: 551
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
 # File: module/Application/view/application/trip-planner/select.phtml, line: 557
-# File: module/Application/view/application/trip-planner/index.phtml, line: 28
-# File: module/Application/view/application/trip-planner/index.phtml, line: 33
+# File: module/Application/view/application/trip-planner/index.phtml, line: 161
+# File: module/Application/view/application/trip-planner/index.phtml, line: 166
+# File: module/Application/view/application/trip-planner/index.phtml, line: 260
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 189
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 112
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 383
@@ -1634,7 +1638,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 656
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
 # File: module/Application/view/application/trip-planner/select.phtml, line: 882
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 40
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 65
+# File: module/Application/view/application/trip-planner/index.phtml, line: 172
+# File: module/Application/view/application/trip-planner/index.phtml, line: 263
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 190
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 166
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 278
@@ -1904,7 +1910,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/payment2.phtml, line: 554
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
 # File: module/Application/view/application/trip-planner/select.phtml, line: 559
-# File: module/Application/view/application/trip-planner/index.phtml, line: 37
+# File: module/Application/view/application/trip-planner/index.phtml, line: 170
+# File: module/Application/view/application/trip-planner/index.phtml, line: 262
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 202
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 123
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 391
@@ -1952,6 +1959,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 2785
 # File: module/Application/view/application/quotes/air.phtml, line: 463
 # File: module/Application/view/application/quotes/cart.phtml, line: 700
+# File: module/Application/view/application/trip-planner/index.phtml, line: 265
 msgid "Infant"
 msgstr ""
 #
@@ -2004,6 +2012,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 408
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 741
 # File: module/Application/view/application/transfers/payment2.phtml, line: 557
+# File: module/Application/view/application/trip-planner/index.phtml, line: 264
 msgid "Infants"
 msgstr ""
 #
@@ -2458,7 +2467,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 397
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 763
 # File: module/Application/view/application/transfers/payment2.phtml, line: 575
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 194
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 198
 # File: module/Application/view/application/disney-tickets/confirm2.phtml, line: 209
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 261
 # File: module/Application/view/application/disney-tickets/confirm.phtml, line: 48
@@ -2728,8 +2737,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 496
 # File: module/Application/view/application/transfers/search2.phtml, line: 502
 # File: module/Application/view/application/trip-planner/select.phtml, line: 555
-# File: module/Application/view/application/trip-planner/index.phtml, line: 25
-# File: module/Application/view/application/trip-planner/index.phtml, line: 31
+# File: module/Application/view/application/trip-planner/index.phtml, line: 158
+# File: module/Application/view/application/trip-planner/index.phtml, line: 164
 # File: module/Application/view/application2/agent/reservations.phtml, line: 215
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 75
 # File: module/Application/view/application2/index/index.phtml, line: 81
@@ -3491,9 +3500,9 @@ msgstr ""
 # File: module/Application/view/application/index/index2-content.phtml, line: 80
 # File: module/Application/view/application/index/index.phtml, line: 507
 # File: module/Application/view/application/trip-planner/select.phtml, line: 162
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 14
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 18
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 103
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 113
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 15
 # File: module/Application/view/application2/layout/layout.phtml, line: 90
 # File: module/Application/view/layout/layout.phtml, line: 367
 msgid "Things to do"
@@ -3647,7 +3656,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 292
 # File: module/Application/view/application/transfers/search2.phtml, line: 459
 # File: module/Application/view/application/transfers/search2.phtml, line: 482
-# File: module/Application/view/application/trip-planner/index.phtml, line: 19
+# File: module/Application/view/application/trip-planner/index.phtml, line: 152
 msgid "Select date"
 msgstr ""
 #
@@ -3725,6 +3734,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 652
 # File: module/Application/view/application/trip-planner/select.phtml, line: 564
 # File: module/Application/view/application/trip-planner/select.phtml, line: 881
+# File: module/Application/view/application/trip-planner/index.phtml, line: 268
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 88
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 190
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 175
@@ -3802,6 +3812,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 516
 # File: module/Application/view/application/transfers/search2.phtml, line: 653
 # File: module/Application/view/application/trip-planner/select.phtml, line: 564
+# File: module/Application/view/application/trip-planner/index.phtml, line: 269
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 89
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 258
 msgid "Age of child"
@@ -3860,7 +3871,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 267
 # File: module/Application/view/application/transfers/search2.phtml, line: 521
 # File: module/Application/view/application/trip-planner/select.phtml, line: 567
-# File: module/Application/view/application/trip-planner/index.phtml, line: 50
+# File: module/Application/view/application/trip-planner/index.phtml, line: 181
 # File: module/Application/view/application2/index/index.phtml, line: 100
 msgid "Done"
 msgstr ""
@@ -3909,7 +3920,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 157
 # File: module/Application/view/application/transfers/index2.phtml, line: 311
 # File: module/Application/view/application/transfers/search2.phtml, line: 526
-# File: module/Application/view/application/trip-planner/index.phtml, line: 86
+# File: module/Application/view/application/trip-planner/index.phtml, line: 206
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 220
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 401
 # File: module/Application/view/application/river-cruises/index.phtml, line: 126
@@ -4088,6 +4099,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 372
 # File: module/Application/view/application/transfers/search2.phtml, line: 629
 # File: module/Application/view/application/trip-planner/select.phtml, line: 858
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 114
+# File: module/Application/view/application/trip-planner/index.phtml, line: 278
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 80
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 169
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 234
@@ -4158,6 +4171,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 373
 # File: module/Application/view/application/transfers/search2.phtml, line: 630
 # File: module/Application/view/application/trip-planner/select.phtml, line: 859
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 114
+# File: module/Application/view/application/trip-planner/index.phtml, line: 279
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 81
 # File: module/Application/view/application/disney-tickets/index.phtml, line: 170
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 235
@@ -5692,7 +5707,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 397
 # File: module/Application/view/application/transfers/search2.phtml, line: 654
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
-# File: module/Application/view/application/trip-planner/index.phtml, line: 28
+# File: module/Application/view/application/trip-planner/index.phtml, line: 161
+# File: module/Application/view/application/trip-planner/index.phtml, line: 176
+# File: module/Application/view/application/trip-planner/index.phtml, line: 267
 # File: module/Application/view/application2/hotels/search.phtml, line: 635
 msgid "Room"
 msgstr ""
@@ -5761,7 +5778,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 655
 # File: module/Application/view/application/trip-planner/select.phtml, line: 552
 # File: module/Application/view/application/trip-planner/select.phtml, line: 561
-# File: module/Application/view/application/trip-planner/index.phtml, line: 41
+# File: module/Application/view/application/trip-planner/index.phtml, line: 174
+# File: module/Application/view/application/trip-planner/index.phtml, line: 266
 # File: module/Application/view/application2/hotels/search.phtml, line: 636
 msgid "Rooms"
 msgstr ""
@@ -6404,8 +6422,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary2.phtml, line: 277
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 299
 # File: module/Application/view/application/transfers/payment2.phtml, line: 251
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 15
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 68
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 93
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 16
 msgid "Summary"
 msgstr ""
 #
@@ -6525,6 +6543,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 282
 # File: module/Application/view/application/transfers/payment2.phtml, line: 253
 # File: module/Application/view/application/transfers/payment2.phtml, line: 540
+# File: module/Application/view/application/trip-planner/index.phtml, line: 248
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 161
 # File: module/Application/view/application/bus/search2.phtml, line: 653
 # File: module/Application/view/application/bus/confirm.phtml, line: 87
@@ -6615,8 +6634,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary2.phtml, line: 281
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 303
 # File: module/Application/view/application/transfers/payment2.phtml, line: 255
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 17
+# File: module/Application/view/application/trip-planner/index.phtml, line: 248
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 34
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 18
 # File: module/Application/view/application/river-cruises/confirm.phtml, line: 163
 # File: module/Application/view/application/river-cruises/payment.phtml, line: 67
 # File: module/Application/view/application/bus/payment.phtml, line: 42
@@ -6950,7 +6970,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/passengers.phtml, line: 280
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 394
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 584
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 44
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 69
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 154
 # File: module/Application/view/application/bus/passengers.phtml, line: 176
 # File: module/Application/view/application/bus/passengers2.phtml, line: 345
@@ -7446,7 +7466,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 422
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 605
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 806
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 60
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 85
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 235
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 389
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 201
@@ -8105,8 +8125,8 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 122
 # File: module/Application/view/application/transfers/passengers.phtml, line: 109
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 507
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 61
-# File: module/Application/view/application/trip-planner/index.phtml, line: 58
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 86
+# File: module/Application/view/application/trip-planner/index.phtml, line: 188
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 185
 # File: module/Application/view/application/bus/passengers.phtml, line: 218
 # File: module/Application/view/application/bus/passengers2.phtml, line: 390
@@ -8174,7 +8194,7 @@ msgstr ""
 # File: module/Application/view/application/packages/passengers.phtml, line: 122
 # File: module/Application/view/application/transfers/passengers.phtml, line: 109
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 509
-# File: module/Application/view/application/trip-planner/index.phtml, line: 61
+# File: module/Application/view/application/trip-planner/index.phtml, line: 192
 msgid "Select your nationality"
 msgstr ""
 #
@@ -9718,7 +9738,6 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 571
 # File: module/Application/view/application/index/index.phtml, line: 633
 # File: module/Application/view/application/index/index.phtml, line: 854
-# File: module/Application/view/application/trip-planner/index.phtml, line: 69
 msgid "Class"
 msgstr ""
 #
@@ -10203,6 +10222,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 71
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 88
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 97
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 107
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 52
 # File: module/Application/view/application/bus/card.phtml, line: 74
 # File: module/Application/view/application/bus/processing2.phtml, line: 329
 # File: module/Application/view/application/bus/confirm2.phtml, line: 311
@@ -10807,7 +10828,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/payment2.phtml, line: 255
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 263
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 225
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 83
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 244
 # File: module/Application/view/application/disney-tickets/confirm2.phtml, line: 156
 # File: module/Application/view/application/bus/processing2.phtml, line: 174
 msgid "Details"
@@ -10880,10 +10901,10 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 600
 # File: module/Application/view/application/activities/passengers2.phtml, line: 631
 # File: module/Application/view/application/escorted-tours/select2.phtml, line: 373
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 16
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 34
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 59
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 38
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 75
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 17
 # File: module/Application/view/application/trips/detail.phtml, line: 232
 msgid "Travellers"
 msgstr ""
@@ -11051,6 +11072,7 @@ msgid "per group"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 37
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 80
 msgid "per vehicle"
 msgstr ""
 #
@@ -11105,6 +11127,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search2.phtml, line: 502
 # File: module/Application/view/application/transfers/search2.phtml, line: 553
 # File: module/Application/view/application/transfers/search2.phtml, line: 578
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 288
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 421
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 442
 # File: module/Application/view/application/bus/search2.phtml, line: 630
@@ -11143,7 +11166,7 @@ msgstr ""
 # File: module/Application/view/application/content/destinations2.phtml, line: 298
 # File: module/Application/view/application/hotels/brands2.phtml, line: 358
 # File: module/Application/view/application/hotels/info2.phtml, line: 534
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 26
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 47
 # File: module/Application/view/application/river-cruises/search.phtml, line: 79
 msgid "of"
 msgstr ""
@@ -11162,8 +11185,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 247
 # File: module/Application/view/application/transfers/search2.phtml, line: 546
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 73
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 85
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
 msgid "Free cancellation"
 msgstr ""
 #
@@ -11427,6 +11450,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search2.phtml, line: 494
 # File: module/Application/view/application/transfers/search2.phtml, line: 572
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 31
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 62
 # File: module/Application/view/application/sales/index.phtml, line: 417
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 119
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 433
@@ -11445,6 +11469,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 87
 # File: module/Application/view/application/activities/search2.phtml, line: 301
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 65
 msgid "Duration: shortest"
 msgstr ""
 #
@@ -11531,6 +11556,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1499
 # File: module/Application/view/application/insurances/index2.phtml, line: 181
 # File: module/Application/view/application/transfers/index2.phtml, line: 314
+# File: module/Application/view/application/trip-planner/index.phtml, line: 209
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 223
 # File: module/Application/view/application/bus/index2.phtml, line: 312
 msgid "Secure payment"
@@ -11550,6 +11576,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1501
 # File: module/Application/view/application/insurances/index2.phtml, line: 183
 # File: module/Application/view/application/transfers/index2.phtml, line: 316
+# File: module/Application/view/application/trip-planner/index.phtml, line: 211
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 225
 # File: module/Application/view/application/bus/index2.phtml, line: 314
 msgid "Talk to a travel consultant"
@@ -11969,8 +11996,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/summary2.phtml, line: 469
 # File: module/Application/view/application/transfers/search2.phtml, line: 230
 # File: module/Application/view/application/transfers/search2.phtml, line: 300
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 195
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 85
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 246
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 199
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 79
 # File: module/Application/view/application/river-cruises/summary.phtml, line: 96
 # File: module/Application/view/application/river-cruises/cabins.phtml, line: 160
 # File: module/Application/view/application/river-cruises/card.phtml, line: 69
@@ -12128,7 +12156,7 @@ msgid "Customer name"
 msgstr ""
 #
 # File: module/Application/view/application/activities/summary2.phtml, line: 397
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 59
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 84
 # File: module/Application/view/application/trips/detail.phtml, line: 239
 msgid "E-mail"
 msgstr ""
@@ -12696,8 +12724,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/commissions.phtml, line: 142
 # File: module/Application/view/application/booking/details.phtml, line: 601
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 163
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 197
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 164
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 201
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 62
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 281
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 121
@@ -12886,10 +12914,11 @@ msgstr ""
 # File: module/Application/view/application/packages/info.phtml, line: 47
 # File: module/Application/view/application/packages/info.phtml, line: 259
 # File: module/Application/view/application/trip-planner/select.phtml, line: 151
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 13
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 191
-# File: module/Application/view/application/trip-planner/activities.phtml, line: 33
+# File: module/Application/view/application/trip-planner/index.phtml, line: 237
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 18
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 13
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 192
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 56
 # File: module/Application/view/application2/layout/layout.phtml, line: 78
 # File: module/Application/view/layout/layout.phtml, line: 331
 # File: module/Application/view/layout/layout.phtml, line: 1119
@@ -12898,7 +12927,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/markupsettings.phtml, line: 31
 # File: module/Application/view/application/agent/subagent.phtml, line: 76
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 192
+# File: module/Application/view/application/trip-planner/index.phtml, line: 239
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 193
 # File: module/Application/view/layout/layout.phtml, line: 1127
 # File: translate-dummy.php, line: 7
 msgid "Activities"
@@ -12924,6 +12954,10 @@ msgstr ""
 # File: module/Application/view/application/transfers/search2.phtml, line: 569
 # File: module/Application/view/application/transfers/payment2.phtml, line: 568
 # File: module/Application/view/application/trip-planner/select.phtml, line: 154
+# File: module/Application/view/application/trip-planner/activities.phtml, line: 33
+# File: module/Application/view/application/trip-planner/index.phtml, line: 238
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 14
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 194
 # File: module/Application/view/application/trips/done.phtml, line: 19
 # File: module/Application/view/application2/layout/layout.phtml, line: 96
 # File: module/Application/view/layout/layout.phtml, line: 337
@@ -12937,10 +12971,11 @@ msgstr ""
 # File: module/Application/view/application/packages/info.phtml, line: 52
 # File: module/Application/view/application/packages/view.phtml, line: 107
 # File: module/Application/view/application/packages/view.phtml, line: 198
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 12
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 190
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 19
+# File: module/Application/view/application/trip-planner/index.phtml, line: 236
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 45
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 40
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 12
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 191
 # File: module/Application/view/application2/layout/layout.phtml, line: 81
 msgid "Flights"
 msgstr ""
@@ -13955,7 +13990,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 559
 # File: module/Application/view/application/air/index.phtml, line: 190
 # File: module/Application/view/application/index/index.phtml, line: 858
-# File: module/Application/view/application/trip-planner/index.phtml, line: 72
 msgid "Select class"
 msgstr ""
 #
@@ -13964,7 +13998,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 560
 # File: module/Application/view/application/air/index.phtml, line: 191
 # File: module/Application/view/application/index/index.phtml, line: 859
-# File: module/Application/view/application/trip-planner/index.phtml, line: 73
 msgid "Any class"
 msgstr ""
 #
@@ -13973,7 +14006,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 561
 # File: module/Application/view/application/air/index.phtml, line: 192
 # File: module/Application/view/application/index/index.phtml, line: 860
-# File: module/Application/view/application/trip-planner/index.phtml, line: 74
 msgid "Economy"
 msgstr ""
 #
@@ -13982,7 +14014,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 562
 # File: module/Application/view/application/air/index.phtml, line: 193
 # File: module/Application/view/application/index/index.phtml, line: 861
-# File: module/Application/view/application/trip-planner/index.phtml, line: 75
 msgid "Premium economy"
 msgstr ""
 #
@@ -13991,7 +14022,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 563
 # File: module/Application/view/application/air/index.phtml, line: 194
 # File: module/Application/view/application/index/index.phtml, line: 862
-# File: module/Application/view/application/trip-planner/index.phtml, line: 76
 msgid "Business class"
 msgstr ""
 #
@@ -14000,7 +14030,6 @@ msgstr ""
 # File: module/Application/view/application/air/search.phtml, line: 564
 # File: module/Application/view/application/air/index.phtml, line: 195
 # File: module/Application/view/application/index/index.phtml, line: 863
-# File: module/Application/view/application/trip-planner/index.phtml, line: 77
 msgid "First class"
 msgstr ""
 #
@@ -14036,6 +14065,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/brands2.phtml, line: 607
 # File: module/Application/view/application/index/index.phtml, line: 1694
 # File: module/Application/view/application/packages/search.phtml, line: 137
+# File: module/Application/view/application/trip-planner/index.phtml, line: 224
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 230
 # File: module/Application/view/error/404.phtml, line: 45
 # File: module/Application/view/layout/layout.phtml, line: 1212
@@ -14118,6 +14148,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/index2.phtml, line: 402
 # File: module/Application/view/application/transfers/search2.phtml, line: 659
 # File: module/Application/view/application/trip-planner/select.phtml, line: 884
+# File: module/Application/view/application/trip-planner/index.phtml, line: 168
+# File: module/Application/view/application/trip-planner/index.phtml, line: 172
+# File: module/Application/view/application/trip-planner/index.phtml, line: 176
 # File: module/Application/view/application2/hotels/info.phtml, line: 627
 msgid "Remove"
 msgstr ""
@@ -14238,6 +14271,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 465
 # File: module/Application/view/application/transfers/passengers2.phtml, line: 162
 # File: module/Application/view/application/transfers/payment2.phtml, line: 149
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 70
 # File: module/Application/view/offers/cb2/index.phtml, line: 148
 # File: module/Application/view/offers/cruises/index.phtml, line: 164
 msgid "Departure"
@@ -15217,7 +15251,7 @@ msgid "year old"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 179
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 40
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 65
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 143
 # File: module/Application/view/application/river-cruises/confirm.phtml, line: 144
 # File: module/Application/view/application/river-cruises/payment.phtml, line: 284
@@ -15998,6 +16032,7 @@ msgstr ""
 # File: module/Application/view/application/cart/summary.phtml, line: 1172
 # File: module/Application/view/application/hotels/info.phtml, line: 264
 # File: module/Application/view/application/hotels/info.phtml, line: 364
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 80
 msgid "Stops"
 msgstr ""
 #
@@ -16049,6 +16084,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/return.phtml, line: 491
 # File: module/Application/view/application/air/search.phtml, line: 698
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 74
 msgid "Morning"
 msgstr ""
 #
@@ -16059,6 +16095,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/return.phtml, line: 499
 # File: module/Application/view/application/air/search.phtml, line: 706
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 75
 msgid "Afternoon"
 msgstr ""
 #
@@ -16069,6 +16106,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/return.phtml, line: 507
 # File: module/Application/view/application/air/search.phtml, line: 714
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 76
 msgid "Evening"
 msgstr ""
 #
@@ -16450,9 +16488,10 @@ msgid "GDS"
 msgstr ""
 #
 # File: module/Application/view/application/air/search.phtml, line: 748
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 186
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 79
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 61
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 181
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 240
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 187
 # File: module/Application/view/application/trips/detail.phtml, line: 349
 msgid "Non-stop"
 msgstr ""
@@ -16575,7 +16614,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/bookconfirmeddepartures.phtml, line: 35
 # File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 27
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 47
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 50
 # File: module/Application/view/application/bus/confirm.phtml, line: 110
 # File: module/Application/view/application/bus/failed.phtml, line: 23
 # File: module/Application/view/application/bus/processing.phtml, line: 139
@@ -16603,7 +16642,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 419
 # File: module/Application/view/application/index/index.phtml, line: 432
 # File: module/Application/view/application/transfers/index.phtml, line: 36
-# File: module/Application/view/application/trip-planner/index.phtml, line: 8
+# File: module/Application/view/application/trip-planner/index.phtml, line: 135
 msgid "Plan the trip of your dreams"
 msgstr ""
 #
@@ -16614,7 +16653,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 433
 # File: module/Application/view/application/insurances/index.phtml, line: 111
 # File: module/Application/view/application/transfers/index.phtml, line: 37
-# File: module/Application/view/application/trip-planner/index.phtml, line: 9
+# File: module/Application/view/application/trip-planner/index.phtml, line: 136
 msgid "Discover all the options available to you"
 msgstr ""
 #
@@ -16656,6 +16695,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 841
 # File: module/Application/view/application/login/frequentlyflyernumbers.phtml, line: 22
 # File: module/Application/view/application/login/frequentlyflyernumbers.phtml, line: 50
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 88
 # File: module/Application/view/offers/cb2/index.phtml, line: 145
 msgid "Airline"
 msgstr ""
@@ -16937,6 +16977,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/summary.phtml, line: 74
 # File: module/Application/view/application/air/summary.phtml, line: 77
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 85
 msgid "passengers"
 msgstr ""
 #
@@ -17295,6 +17336,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/charters.phtml, line: 442
 # File: module/Application/view/application/packages/index.phtml, line: 378
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 60
 # File: module/Application/view/application/river-cruises/search.phtml, line: 85
 msgid "Sort"
 msgstr ""
@@ -17418,6 +17460,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/disneysearch.phtml, line: 277
 # File: module/Application/view/application/hotels/search.phtml, line: 332
 # File: module/Application/view/application/hotels/search2.phtml, line: 955
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 82
 # File: module/Application/view/application/bus/search2.phtml, line: 320
 # File: module/Application/view/application/bus/search2.phtml, line: 607
 # File: module/Application/view/application/bus/search2.phtml, line: 614
@@ -17470,10 +17513,11 @@ msgstr ""
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 529
 # File: module/Application/view/application/hotels/info2.phtml, line: 542
 # File: module/Application/view/application/packages/view.phtml, line: 181
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 62
-# File: module/Application/view/application/trip-planner/payment.phtml, line: 61
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 86
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 87
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 92
+# File: module/Application/view/application/trip-planner/payment.phtml, line: 61
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 247
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 77
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 189
 # File: module/Application/view/application/disney-tickets/search2.phtml, line: 243
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 156
@@ -17550,7 +17594,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 64
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 42
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 49
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 74
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 168
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 232
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 292
@@ -17567,7 +17611,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 65
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 43
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 50
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 75
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 169
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 233
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 298
@@ -17584,7 +17628,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 66
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 44
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 51
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 76
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 176
 # File: module/Application/view/application/bus/passengers.phtml, line: 92
 # File: module/Application/view/application/bus/passengers2.phtml, line: 255
@@ -17618,7 +17662,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 69
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 47
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 52
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 77
 msgid "Passport / ID number"
 msgstr ""
 #
@@ -17865,6 +17909,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm.phtml, line: 40
 # File: module/Application/view/application/transfers/confirm.phtml, line: 158
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 303
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 43
 # File: module/Application/view/application2/index/index.phtml, line: 48
 # File: module/Application/view/layout/layout.phtml, line: 431
 msgid "Transfer"
@@ -18006,8 +18051,8 @@ msgid "adult"
 msgstr ""
 #
 # File: module/Application/view/application/booking/details.phtml, line: 601
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 163
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 196
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 164
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 200
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 62
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 281
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 121
@@ -18369,6 +18414,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/cart.phtml, line: 609
 # File: module/Application/view/application/quotes/hotel.phtml, line: 190
 # File: module/Application/view/application/quotes/hotel.phtml, line: 196
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 73
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 27
 # File: module/Application/view/application2/hotels/confirm.phtml, line: 34
 # File: module/Application/view/application2/hotels/payment.phtml, line: 71
@@ -18448,10 +18494,12 @@ msgid "Your payment was not approved"
 msgstr ""
 #
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1009
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 142
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 162
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 146
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 171
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 312
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 334
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 161
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 172
 # File: module/Application/view/application/river-cruises/failed.phtml, line: 49
 # File: module/Application/view/application/bus/failed.phtml, line: 27
 # File: module/Application/view/application/bus/failed2.phtml, line: 193
@@ -18477,7 +18525,7 @@ msgstr ""
 #
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1266
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1526
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 180
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 181
 # File: module/Application/view/application/bus/summary.phtml, line: 31
 # File: module/Application/view/application/bus/processing2.phtml, line: 309
 # File: module/Application/view/application/bus/confirm2.phtml, line: 291
@@ -19306,8 +19354,9 @@ msgstr ""
 # File: module/Application/view/application/cars/payment2.phtml, line: 234
 # File: module/Application/view/application/insurances/payment2.phtml, line: 258
 # File: module/Application/view/application/transfers/payment2.phtml, line: 268
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 31
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 36
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 54
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 49
 # File: module/Application/view/application/bus/search2.phtml, line: 645
 # File: module/Application/view/application/bus/gone.phtml, line: 27
 # File: module/Application/view/application/bus/passengers2.phtml, line: 203
@@ -20370,8 +20419,8 @@ msgstr ""
 # File: module/Application/view/application/packages/index.phtml, line: 458
 # File: module/Application/view/application/packages/info.phtml, line: 241
 # File: module/Application/view/application/packages/info.phtml, line: 542
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 189
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 25
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 190
 # File: module/Application/view/application/river-cruises/summary.phtml, line: 59
 # File: module/Application/view/application/river-cruises/confirm.phtml, line: 104
 # File: module/Application/view/application/river-cruises/cabins.phtml, line: 46
@@ -26381,10 +26430,10 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/search2.phtml, line: 775
 # File: module/Application/view/application/hotels/info2.phtml, line: 552
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 188
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 25
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 91
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 208
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 189
 msgid "night"
 msgstr ""
 #
@@ -26556,8 +26605,9 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 193
 # File: module/Application/view/application/transfers/search2.phtml, line: 228
 # File: module/Application/view/application/transfers/search2.phtml, line: 591
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 86
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 92
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 247
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 78
 # File: module/Application/view/application/bus/search2.phtml, line: 268
 # File: module/Application/view/application/bus/card.phtml, line: 76
 msgid "Selected"
@@ -26588,8 +26638,8 @@ msgid "Photos of"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/info2.phtml, line: 1196
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 85
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
 msgid "Non-refundable"
 msgstr ""
 #
@@ -26913,7 +26963,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 518
 # File: module/Application/view/application/index/index.phtml, line: 585
-# File: module/Application/view/application/trip-planner/index.phtml, line: 16
+# File: module/Application/view/application/trip-planner/index.phtml, line: 149
 msgid "Start date"
 msgstr ""
 #
@@ -27942,10 +27992,12 @@ msgid "Car"
 msgstr ""
 #
 # File: module/Application/view/application/login/rewards.phtml, line: 46
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 143
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 163
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 147
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 172
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 313
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 335
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 162
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 173
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 74
 msgid "Error"
 msgstr ""
@@ -28908,6 +28960,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/search.phtml, line: 358
 # File: module/Application/view/application/transfers/summary2.phtml, line: 334
 # File: module/Application/view/application/transfers/search2.phtml, line: 250
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 81
 msgid "Shared ride"
 msgstr ""
 #
@@ -29025,8 +29078,8 @@ msgid "Departure flight"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 388
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 43
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 94
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 46
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 104
 msgid "Requested"
 msgstr ""
 #
@@ -29035,6 +29088,7 @@ msgid "Book another transfer"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/index2.phtml, line: 153
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 38
 msgid "Airport transfers"
 msgstr ""
 #
@@ -29123,7 +29177,9 @@ msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 11
 # File: module/Application/view/application/trip-planner/select.phtml, line: 149
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 156
+# File: module/Application/view/application/trip-planner/index.phtml, line: 134
+# File: module/Application/view/application/trip-planner/index.phtml, line: 142
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 157
 # File: module/Application/view/layout/layout.phtml, line: 328
 # File: module/Application/view/layout/layout.phtml, line: 1135
 msgid "Trip Planner"
@@ -29202,10 +29258,11 @@ msgid "Fly back to my origin at the end of the trip"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 673
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 29
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 139
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 28
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 143
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 50
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 309
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 158
 msgid "Searching"
 msgstr ""
 #
@@ -29265,67 +29322,24 @@ msgstr ""
 msgid "Don't show again"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/error.phtml, line: 10
-msgid "We could not build that trip"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/error.phtml, line: 12
-msgid "Start again"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 181
-msgid "To choose"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 182
-msgid "Hotel to choose"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 183
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 104
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 109
-msgid "No flight"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 184
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 83
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 123
-msgid "No hotel"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 185
-msgid "Same airport - no flight"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 187
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 79
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 61
-msgid "stop(s)"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 193
-msgid "requested"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 198
-msgid "The trip planner did not answer. Please try again."
-msgstr ""
-#
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 19
 msgid "Optional. Add tours and tickets for the days you are in each city. They are requested together with your booking and confirmed by our team - your card is only charged for flights and hotels now."
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 19
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 20
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 19
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 41
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 39
 msgid "View your trip"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 27
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 48
 msgid "Loading"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 34
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 57
 msgid "You can skip this step."
 msgstr ""
 #
@@ -29343,6 +29357,9 @@ msgid "Added"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 79
+# File: module/Application/view/application/trip-planner/index.phtml, line: 168
+# File: module/Application/view/application/trip-planner/index.phtml, line: 172
+# File: module/Application/view/application/trip-planner/index.phtml, line: 176
 msgid "Add"
 msgstr ""
 #
@@ -29359,6 +29376,7 @@ msgid "added"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 99
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 88
 msgid "Optional"
 msgstr ""
 #
@@ -29366,17 +29384,25 @@ msgstr ""
 msgid "Loading things to do..."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 35
+# File: module/Application/view/application/trip-planner/error.phtml, line: 10
+msgid "We could not build that trip"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/error.phtml, line: 12
+msgid "Start again"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 60
 # File: module/Application/view/application/trips/detail.phtml, line: 233
 msgid "Names exactly as on the passport or ID used to travel - airlines do not allow changes after ticketing."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 40
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 65
 msgid "lead traveller and contact"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 52
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 64
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 77
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 89
 # File: module/Application/view/application/bus/passengers.phtml, line: 92
 # File: module/Application/view/application/bus/passengers2.phtml, line: 256
 # File: module/Application/view/application/bus/passengers2.phtml, line: 265
@@ -29384,19 +29410,19 @@ msgstr ""
 msgid "optional"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 57
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 82
 msgid "Contact & nationality"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 64
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 89
 msgid "Notes for the agency"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 69
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 94
 msgid "Charged at the next step:"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 70
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 95
 # File: module/Application/view/application/river-cruises/passengers.phtml, line: 395
 # File: module/Application/view/application/bus/passengers.phtml, line: 263
 # File: module/Application/view/application/bus/passengers2.phtml, line: 434
@@ -29404,12 +29430,242 @@ msgstr ""
 msgid "Continue to payment"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/passengers.phtml, line: 90
+# File: module/Application/view/application/trip-planner/passengers.phtml, line: 128
 msgid "Enter every date of birth as MM/DD/YYYY."
 msgstr ""
 #
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 31
+msgid "Your trip is booked!"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 32
+msgid "A confirmation has been sent to"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
+msgid "ticketing in progress"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 40
+msgid "pending"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 46
+msgid "our team will confirm availability and charge separately"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 48
+msgid "Charged"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 53
+# File: module/Application/view/application/bus/failed.phtml, line: 25
+# File: module/Application/view/application/bus/processing.phtml, line: 71
+# File: module/Application/view/application/bus/processing2.phtml, line: 170
+# File: module/Application/view/application/bus/failed2.phtml, line: 190
+msgid "We could not complete the booking"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 54
+msgid "Something went wrong."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 56
+msgid "Review the summary"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 57
+msgid "Try the payment again"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 210
+msgid "Several destinations, one trip"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 218
+msgid "How the trip planner works"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 225
+msgid "On the map, choose the airport you leave from and add your stops in order, with the days you want at each one."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 233
+msgid "Flights, hotels and more"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 234
+msgid "Pick a flight for every leg and a hotel for every stop, then add transfers and activities if you want them."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 249
+msgid "Review everything you picked with the total, enter the travellers' details and pay for the whole trip in one checkout."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/index.phtml, line: 275
+msgid "Enter the age of each child (0 to 17)."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 19
+msgid "One hotel per destination, for the nights you spend there. Prices are the total for your party and dates."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 32
+msgid "Stars: high to low"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 35
+msgid "No hotel here"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 46
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 179
+msgid "Decide every destination to continue."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 47
+msgid "Continue to transfers"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 89
+msgid "Rooms and cancellation terms are shown when you select the hotel."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 91
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 208
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 74
+msgid "night(s)"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 113
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 128
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 275
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 299
+msgid "Skipped"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 114
+msgid "Choose a hotel"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 123
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 83
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 185
+msgid "No hotel"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 127
+msgid "No hotel answered with a price for these dates yet. Search again in a moment, or continue without a hotel here."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 128
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 275
+msgid "Nothing found"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 142
+msgid "Pricing the hotels of this city with every supplier - this can take up to a minute..."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 146
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 312
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 161
+msgid "The search failed."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 171
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 334
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 172
+msgid "The search did not answer."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 179
+msgid "All destinations decided."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 191
+msgid "Checking rooms..."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/hotels.phtml, line: 221
+msgid "Pick a hotel for every destination, or mark it as \"no hotel\"."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 50
+msgid "Your trip, step by step"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 51
+msgid "Check every piece before entering the travellers. Prices are re-confirmed with each supplier at booking time."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 53
+msgid "Some legs or destinations are still undecided - go back and pick (or skip) them to continue."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 61
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 181
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 240
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 188
+msgid "stop(s)"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 66
+msgid "Same airport - no flight needed."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 66
+msgid "No flight - you will make your own way."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 68
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 85
+msgid "Not decided yet."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
+msgid "until"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 83
+msgid "You arranged your own stay here."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 94
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 195
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 71
+msgid "Airport → hotel"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 94
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 196
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 72
+msgid "Hotel → airport"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 105
+msgid "confirmed by our team, not charged now"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 114
+msgid "Charged now:"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 114
+msgid "requested:"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 114
+msgid "traveller(s)"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 116
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 118
+msgid "Continue to travellers"
+msgstr ""
+#
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 35
-msgid "Flights and hotels are booked together as one reservation and charged now. Requested activities are confirmed by our team and settled separately."
+msgid "Flights, hotels and transfers are booked together as one reservation and charged now. Requested activities are confirmed by our team and settled separately."
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 38
@@ -29452,6 +29708,10 @@ msgstr ""
 msgid "Charged now"
 msgstr ""
 #
+# File: module/Application/view/application/trip-planner/payment.phtml, line: 67
+msgid "transfers"
+msgstr ""
+#
 # File: module/Application/view/application/trip-planner/payment.phtml, line: 68
 msgid "Requested activities"
 msgstr ""
@@ -29477,244 +29737,188 @@ msgstr ""
 msgid "Booking with every supplier - please do not close this page..."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 31
-msgid "Your trip is booked!"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 32
-msgid "A confirmation has been sent to"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
-msgid "ticketing in progress"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 40
-msgid "pending"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 43
-msgid "our team will confirm availability and charge separately"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 45
-msgid "Charged"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 50
-# File: module/Application/view/application/bus/failed.phtml, line: 25
-# File: module/Application/view/application/bus/processing.phtml, line: 71
-# File: module/Application/view/application/bus/processing2.phtml, line: 170
-# File: module/Application/view/application/bus/failed2.phtml, line: 190
-msgid "We could not complete the booking"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 51
-msgid "Something went wrong."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 53
-msgid "Review the summary"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 54
-msgid "Try the payment again"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 20
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 41
 msgid "One flight per leg of your trip. Pick the one you like, or skip a leg if you will get there another way."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 26
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 47
 msgid "Leg"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 30
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 53
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 183
 msgid "No flight for this leg"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 40
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 170
-msgid "Decide every leg to continue."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 41
-msgid "Continue to hotels"
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 63
+msgid "Departure: earliest"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 64
-msgid "operated by"
+msgid "Departure: latest"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 66
+msgid "Arrival: earliest"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 72
+msgid "Any time"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 83
+msgid "Non-stop only"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 84
+msgid "Up to 1 stop"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 90
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 127
+msgid "Any airline"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 100
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 342
+msgid "Decide every leg to continue."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 101
+msgid "Continue to hotels"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 183
+msgid "Same airport - no flight needed"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 225
+msgid "operated by"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 227
 msgid "layover"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 85
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 246
 msgid "total for"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 103
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 264
 msgid "Both ends of this leg use the same airport - no flight needed."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 113
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 265
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 270
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 184
+msgid "No flight"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 274
 msgid "No flights were found for this leg. You can search again, change the trip, or continue without a flight here."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 114
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 129
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 113
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 128
-msgid "Skipped"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 114
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 128
-msgid "Nothing found"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 120
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 287
 msgid "Show more flights"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 130
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 288
+msgid "No flight matches these filters."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 300
 msgid "Choose a flight"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 138
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 308
 msgid "Searching flights with every airline for this leg - this can take up to a minute..."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 142
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 146
-msgid "The search failed."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 162
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 171
-msgid "The search did not answer."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 170
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 342
 msgid "All legs decided."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 182
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 354
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 181
 msgid "Saving..."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/transport.phtml, line: 207
+# File: module/Application/view/application/trip-planner/transport.phtml, line: 405
 msgid "Pick a flight for every leg, or mark it as \"no flight\"."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 50
-msgid "Your trip, step by step"
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 182
+msgid "To choose"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 51
-msgid "Check every piece before entering the travellers. Prices are re-confirmed with each supplier at booking time."
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 183
+msgid "Hotel to choose"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 53
-msgid "Some legs or destinations are still undecided - go back and pick (or skip) them to continue."
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 186
+msgid "Same airport - no flight"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 66
-msgid "Same airport - no flight needed."
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 197
+msgid "requested"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 66
-msgid "No flight - you will make your own way."
+# File: module/Application/view/application/trip-planner/shared-head.phtml, line: 202
+msgid "The trip planner did not answer. Please try again."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 68
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 85
-msgid "Not decided yet."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 39
+msgid "Optional. A car from the airport to your hotel when you land, and back to the airport when you leave. Pick-up times follow the flights you chose."
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 74
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 91
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 208
-msgid "night(s)"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 80
-msgid "until"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 83
-msgid "You arranged your own stay here."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 95
-msgid "confirmed by our team, not charged now"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 104
-msgid "Charged now:"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 104
-msgid "requested:"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 104
-msgid "traveller(s)"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 106
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 108
-msgid "Continue to travellers"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 19
-msgid "One hotel per destination, for the nights you spend there. Prices are the total for your party and dates."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 32
-msgid "Stars: high to low"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 35
-msgid "No hotel here"
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 46
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 179
-msgid "Decide every destination to continue."
-msgstr ""
-#
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 47
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 58
 msgid "Continue to things to do"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 89
-msgid "Rooms and cancellation terms are shown when you select the hotel."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 73
+msgid "arrival"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 114
-msgid "Choose a hotel"
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 74
+# File: module/Application/view/application/bus/search2.phtml, line: 474
+msgid "departure"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 127
-msgid "No hotel answered with a price for these dates yet. Search again in a moment, or continue without a hotel here."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 75
+msgid "pick-up"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 142
-msgid "Pricing the hotels of this city with every supplier - this can take up to a minute..."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 76
+msgid "No transfer"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 179
-msgid "All destinations decided."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 82
+# File: translate-dummy.php, line: 57
+msgid "Private"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 191
-msgid "Checking rooms..."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 83
+msgid "bags"
 msgstr ""
 #
-# File: module/Application/view/application/trip-planner/hotels.phtml, line: 221
-msgid "Pick a hotel for every destination, or mark it as \"no hotel\"."
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 84
+msgid "up to"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 86
+msgid "No transfers were offered for this direction."
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 87
+msgid "picked"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 89
+msgid "Pick a hotel here"
+msgstr ""
+#
+# File: module/Application/view/application/trip-planner/transfers.phtml, line: 157
+msgid "Asking the transfer companies for cars at this airport..."
 msgstr ""
 #
 # File: module/Application/view/application/sales/index.phtml, line: 386
@@ -31093,10 +31297,6 @@ msgstr ""
 # File: module/Application/view/application/bus/search.phtml, line: 72
 # File: module/Application/view/application/bus/index2.phtml, line: 192
 msgid "Bus tickets"
-msgstr ""
-#
-# File: module/Application/view/application/bus/search2.phtml, line: 474
-msgid "departure"
 msgstr ""
 #
 # File: module/Application/view/application/bus/search2.phtml, line: 477
@@ -33178,10 +33378,6 @@ msgstr ""
 #
 # File: translate-dummy.php, line: 56
 msgid "Shared"
-msgstr ""
-#
-# File: translate-dummy.php, line: 57
-msgid "Private"
 msgstr ""
 #
 # File: translate-dummy.php, line: 58
