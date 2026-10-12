@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-11 17:46-0400\n"
+"POT-Creation-Date: 2026-10-12 02:10-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,7 +125,7 @@ msgstr ""
 # File: module/Application/Templates/resetpasswordconfirm.phtml, line: 258
 # File: module/Application/view/application/agent/login.phtml, line: 16
 # File: module/Application/view/application/login/index.phtml, line: 25
-# File: module/Application/view/layout/layout.phtml, line: 520
+# File: module/Application/view/layout/layout.phtml, line: 611
 msgid "Login"
 msgstr ""
 #
@@ -354,7 +354,7 @@ msgstr ""
 # File: module/Application/view/application2/hotels/payment.phtml, line: 52
 # File: module/Application/view/application2/hotels/summary.phtml, line: 240
 # File: module/Application/view/application2/index/index.phtml, line: 36
-# File: module/Application/view/layout/layout.phtml, line: 410
+# File: module/Application/view/layout/layout.phtml, line: 436
 msgid "Hotel"
 msgstr ""
 #
@@ -364,7 +364,7 @@ msgstr ""
 # File: module/Application/view/application/login/rewards.phtml, line: 38
 # File: module/Application/view/application/trips/done.phtml, line: 19
 # File: module/Application/view/application2/index/index.phtml, line: 45
-# File: module/Application/view/layout/layout.phtml, line: 437
+# File: module/Application/view/layout/layout.phtml, line: 471
 msgid "Activity"
 msgstr ""
 #
@@ -437,7 +437,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 1386
 # File: module/Application/view/application/hotels/index.phtml, line: 1278
 # File: module/Application/view/application/hotels/index2.phtml, line: 900
-# File: module/Application/view/application/hotels/info2.phtml, line: 1740
+# File: module/Application/view/application/hotels/info2.phtml, line: 1804
 # File: module/Application/view/application/index/index.phtml, line: 2791
 # File: module/Application/view/application/login/rewards.phtml, line: 36
 # File: module/Application/view/application/login/reservations2.phtml, line: 131
@@ -458,7 +458,7 @@ msgstr ""
 # File: module/Application/view/application/trips/done.phtml, line: 19
 # File: module/Application/view/application2/hotels/info.phtml, line: 626
 # File: module/Application/view/application2/index/index.phtml, line: 39
-# File: module/Application/view/layout/layout.phtml, line: 419
+# File: module/Application/view/layout/layout.phtml, line: 452
 msgid "Flight"
 msgstr ""
 #
@@ -480,12 +480,12 @@ msgstr ""
 msgid "Airport Transfer"
 msgstr ""
 #
-# File: module/Application/src/Controller/CartController.php, line: 3484
+# File: module/Application/src/Controller/CartController.php, line: 3543
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5416
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
-# File: module/Application/src/Controller/CartController.php, line: 3497
+# File: module/Application/src/Controller/CartController.php, line: 3556
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5429
 # File: module/Application/view/application/escorted-tours/payment.phtml, line: 280
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 952
@@ -494,12 +494,12 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: module/Application/src/Controller/CartController.php, line: 3497
+# File: module/Application/src/Controller/CartController.php, line: 3556
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5429
 msgid "will incur in"
 msgstr ""
 #
-# File: module/Application/src/Controller/CartController.php, line: 3497
+# File: module/Application/src/Controller/CartController.php, line: 3556
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5429
 msgid "penalty."
 msgstr ""
@@ -1193,7 +1193,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 776
 # File: module/Application/view/application/hotels/search2.phtml, line: 1110
 # File: module/Application/view/application/hotels/info2.phtml, line: 549
-# File: module/Application/view/application/hotels/info2.phtml, line: 1738
+# File: module/Application/view/application/hotels/info2.phtml, line: 1802
 # File: module/Application/view/application/index/index.phtml, line: 822
 # File: module/Application/view/application/index/index.phtml, line: 1330
 # File: module/Application/view/application/index/index.phtml, line: 2782
@@ -1431,7 +1431,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 1111
 # File: module/Application/view/application/hotels/info2.phtml, line: 537
 # File: module/Application/view/application/hotels/info2.phtml, line: 549
-# File: module/Application/view/application/hotels/info2.phtml, line: 1739
+# File: module/Application/view/application/hotels/info2.phtml, line: 1803
 # File: module/Application/view/application/index/index.phtml, line: 529
 # File: module/Application/view/application/index/index.phtml, line: 536
 # File: module/Application/view/application/index/index.phtml, line: 591
@@ -1678,7 +1678,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 1108
 # File: module/Application/view/application/hotels/info2.phtml, line: 539
 # File: module/Application/view/application/hotels/info2.phtml, line: 550
-# File: module/Application/view/application/hotels/info2.phtml, line: 1736
+# File: module/Application/view/application/hotels/info2.phtml, line: 1800
 # File: module/Application/view/application/index/index.phtml, line: 822
 # File: module/Application/view/application/index/index.phtml, line: 2780
 # File: module/Application/view/application/index/index.phtml, line: 3421
@@ -1921,7 +1921,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 1109
 # File: module/Application/view/application/hotels/info2.phtml, line: 538
 # File: module/Application/view/application/hotels/info2.phtml, line: 550
-# File: module/Application/view/application/hotels/info2.phtml, line: 1737
+# File: module/Application/view/application/hotels/info2.phtml, line: 1801
 # File: module/Application/view/application/index/index.phtml, line: 540
 # File: module/Application/view/application/index/index.phtml, line: 602
 # File: module/Application/view/application/index/index.phtml, line: 695
@@ -2632,7 +2632,7 @@ msgstr ""
 # File: module/Application/view/application2/hotels/payment.phtml, line: 90
 # File: module/Application/view/application2/hotels/search.phtml, line: 1244
 # File: module/Application/view/application2/hotels/summary.phtml, line: 287
-# File: module/Application/view/layout/layout.phtml, line: 457
+# File: module/Application/view/layout/layout.phtml, line: 543
 msgid "Total"
 msgstr ""
 #
@@ -3195,10 +3195,10 @@ msgstr ""
 # File: module/Application/view/application2/agent/reservations.phtml, line: 350
 # File: module/Application/view/application2/hotels/info.phtml, line: 499
 # File: module/Application/view/application2/hotels/search.phtml, line: 514
-# File: module/Application/view/layout/layout.phtml, line: 869
-# File: module/Application/view/layout/layout.phtml, line: 1403
-# File: module/Application/view/layout/layout.phtml, line: 1439
-# File: module/Application/view/layout/layout.phtml, line: 1504
+# File: module/Application/view/layout/layout.phtml, line: 960
+# File: module/Application/view/layout/layout.phtml, line: 1494
+# File: module/Application/view/layout/layout.phtml, line: 1530
+# File: module/Application/view/layout/layout.phtml, line: 1595
 msgid "Close"
 msgstr ""
 #
@@ -3935,7 +3935,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 842
 # File: module/Application/view/application/hotels/search2.phtml, line: 863
 # File: module/Application/view/application/hotels/search2.phtml, line: 1104
-# File: module/Application/view/application/hotels/info2.phtml, line: 1732
+# File: module/Application/view/application/hotels/info2.phtml, line: 1796
 # File: module/Application/view/application/index/index.phtml, line: 2775
 # File: module/Application/view/application/insurances/index.phtml, line: 503
 # File: module/Application/view/application/insurances/search.phtml, line: 114
@@ -4020,7 +4020,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 863
 # File: module/Application/view/application/hotels/search2.phtml, line: 1105
 # File: module/Application/view/application/hotels/info2.phtml, line: 540
-# File: module/Application/view/application/hotels/info2.phtml, line: 1733
+# File: module/Application/view/application/hotels/info2.phtml, line: 1797
 # File: module/Application/view/application/index/index.phtml, line: 2777
 # File: module/Application/view/application/index/index.phtml, line: 3421
 # File: module/Application/view/application/insurances/index.phtml, line: 504
@@ -4249,10 +4249,10 @@ msgstr ""
 # File: module/Application/view/application/login/frequentlyflyernumbers.phtml, line: 84
 # File: module/Application/view/application/login/partial/acc2-companion-form.phtml, line: 162
 # File: module/Application/view/application/login/settings2.phtml, line: 74
+# File: module/Application/view/application/login/index2.phtml, line: 187
 # File: module/Application/view/application/login/travelcompanions2.phtml, line: 92
 # File: module/Application/view/application/login/frequentlyflyernumbers2.phtml, line: 144
 # File: module/Application/view/application/login/changepassword2.phtml, line: 98
-# File: module/Application/view/application/login/index2.phtml, line: 156
 # File: module/Application/view/application/login/forgotpassword2.phtml, line: 118
 # File: module/Application/view/application/login/register2.phtml, line: 281
 # File: module/Application/view/application/packages/search.phtml, line: 410
@@ -4277,9 +4277,9 @@ msgstr ""
 # File: module/Application/view/application2/hotels/summary.phtml, line: 416
 # File: module/Application/view/application2/index/index.phtml, line: 1264
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 44
-# File: module/Application/view/layout/layout.phtml, line: 1107
-# File: module/Application/view/layout/layout.phtml, line: 1573
-# File: module/Application/view/layout/layout.phtml, line: 1676
+# File: module/Application/view/layout/layout.phtml, line: 1198
+# File: module/Application/view/layout/layout.phtml, line: 1664
+# File: module/Application/view/layout/layout.phtml, line: 1767
 msgid "Please wait..."
 msgstr ""
 #
@@ -4327,7 +4327,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index2.phtml, line: 871
 # File: module/Application/view/application/hotels/search2.phtml, line: 1080
 # File: module/Application/view/application/hotels/brands2.phtml, line: 664
-# File: module/Application/view/application/hotels/info2.phtml, line: 1726
+# File: module/Application/view/application/hotels/info2.phtml, line: 1790
 # File: module/Application/view/application/index/index.phtml, line: 2752
 # File: module/Application/view/application/insurances/index.phtml, line: 480
 # File: module/Application/view/application/insurances/passengers.phtml, line: 442
@@ -4409,7 +4409,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1250
 # File: module/Application/view/application/hotels/index2.phtml, line: 872
 # File: module/Application/view/application/hotels/search2.phtml, line: 1081
-# File: module/Application/view/application/hotels/info2.phtml, line: 1727
+# File: module/Application/view/application/hotels/info2.phtml, line: 1791
 # File: module/Application/view/application/index/index.phtml, line: 2753
 # File: module/Application/view/application/insurances/index.phtml, line: 481
 # File: module/Application/view/application/insurances/passengers.phtml, line: 443
@@ -4496,7 +4496,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1251
 # File: module/Application/view/application/hotels/index2.phtml, line: 873
 # File: module/Application/view/application/hotels/search2.phtml, line: 1083
-# File: module/Application/view/application/hotels/info2.phtml, line: 1728
+# File: module/Application/view/application/hotels/info2.phtml, line: 1792
 # File: module/Application/view/application/index/index.phtml, line: 1032
 # File: module/Application/view/application/index/index.phtml, line: 2754
 # File: module/Application/view/application/insurances/index.phtml, line: 482
@@ -4603,7 +4603,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1252
 # File: module/Application/view/application/hotels/index2.phtml, line: 874
 # File: module/Application/view/application/hotels/search2.phtml, line: 1084
-# File: module/Application/view/application/hotels/info2.phtml, line: 1729
+# File: module/Application/view/application/hotels/info2.phtml, line: 1793
 # File: module/Application/view/application/index/index.phtml, line: 1033
 # File: module/Application/view/application/index/index.phtml, line: 2755
 # File: module/Application/view/application/insurances/index.phtml, line: 483
@@ -4699,7 +4699,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1253
 # File: module/Application/view/application/hotels/index2.phtml, line: 875
 # File: module/Application/view/application/hotels/search2.phtml, line: 1085
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2756
 # File: module/Application/view/application/insurances/index.phtml, line: 484
 # File: module/Application/view/application/insurances/passengers.phtml, line: 446
@@ -4767,7 +4767,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1254
 # File: module/Application/view/application/hotels/index2.phtml, line: 876
 # File: module/Application/view/application/hotels/search2.phtml, line: 1086
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2757
 # File: module/Application/view/application/insurances/index.phtml, line: 485
 # File: module/Application/view/application/insurances/passengers.phtml, line: 447
@@ -4835,7 +4835,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1255
 # File: module/Application/view/application/hotels/index2.phtml, line: 877
 # File: module/Application/view/application/hotels/search2.phtml, line: 1087
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2758
 # File: module/Application/view/application/insurances/index.phtml, line: 486
 # File: module/Application/view/application/insurances/passengers.phtml, line: 448
@@ -4903,7 +4903,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1256
 # File: module/Application/view/application/hotels/index2.phtml, line: 878
 # File: module/Application/view/application/hotels/search2.phtml, line: 1088
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2759
 # File: module/Application/view/application/insurances/index.phtml, line: 487
 # File: module/Application/view/application/insurances/passengers.phtml, line: 449
@@ -4971,7 +4971,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1257
 # File: module/Application/view/application/hotels/index2.phtml, line: 879
 # File: module/Application/view/application/hotels/search2.phtml, line: 1089
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2760
 # File: module/Application/view/application/insurances/index.phtml, line: 488
 # File: module/Application/view/application/insurances/passengers.phtml, line: 450
@@ -5039,7 +5039,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1258
 # File: module/Application/view/application/hotels/index2.phtml, line: 880
 # File: module/Application/view/application/hotels/search2.phtml, line: 1090
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2761
 # File: module/Application/view/application/insurances/index.phtml, line: 489
 # File: module/Application/view/application/insurances/passengers.phtml, line: 451
@@ -5107,7 +5107,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 1259
 # File: module/Application/view/application/hotels/index2.phtml, line: 881
 # File: module/Application/view/application/hotels/search2.phtml, line: 1091
-# File: module/Application/view/application/hotels/info2.phtml, line: 1730
+# File: module/Application/view/application/hotels/info2.phtml, line: 1794
 # File: module/Application/view/application/index/index.phtml, line: 2762
 # File: module/Application/view/application/insurances/index.phtml, line: 490
 # File: module/Application/view/application/insurances/passengers.phtml, line: 452
@@ -6085,7 +6085,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 1106
 # File: module/Application/view/application/hotels/info2.phtml, line: 536
 # File: module/Application/view/application/hotels/info2.phtml, line: 551
-# File: module/Application/view/application/hotels/info2.phtml, line: 1734
+# File: module/Application/view/application/hotels/info2.phtml, line: 1798
 # File: module/Application/view/application/index/index.phtml, line: 529
 # File: module/Application/view/application/index/index.phtml, line: 591
 # File: module/Application/view/application/index/index.phtml, line: 683
@@ -6157,7 +6157,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 817
 # File: module/Application/view/application/hotels/search2.phtml, line: 1107
 # File: module/Application/view/application/hotels/info2.phtml, line: 551
-# File: module/Application/view/application/hotels/info2.phtml, line: 1735
+# File: module/Application/view/application/hotels/info2.phtml, line: 1799
 # File: module/Application/view/application/index/index.phtml, line: 544
 # File: module/Application/view/application/index/index.phtml, line: 606
 # File: module/Application/view/application/index/index.phtml, line: 688
@@ -9396,7 +9396,7 @@ msgstr ""
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 364
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 541
 # File: module/Application/view/application/bus/passengers2.phtml, line: 481
-# File: module/Application/view/layout/layout.phtml, line: 1661
+# File: module/Application/view/layout/layout.phtml, line: 1752
 msgid "Please enter a valid email address."
 msgstr ""
 #
@@ -11499,7 +11499,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 905
 # File: module/Application/view/application/quotes/air.phtml, line: 1029
 # File: module/Application/view/application/quotes/air.phtml, line: 1034
-# File: module/Application/view/layout/layout.phtml, line: 1412
+# File: module/Application/view/layout/layout.phtml, line: 1503
 msgid "Send"
 msgstr ""
 #
@@ -12229,7 +12229,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 150
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 135
 # File: module/Application/view/layout/layout.phtml, line: 322
-# File: module/Application/view/layout/layout.phtml, line: 1206
+# File: module/Application/view/layout/layout.phtml, line: 1297
 msgid "Categories"
 msgstr ""
 #
@@ -12608,7 +12608,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers2.phtml, line: 251
 # File: module/Application/view/application/escorted-tours/payment2.phtml, line: 321
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 579
-# File: module/Application/view/layout/layout.phtml, line: 1668
+# File: module/Application/view/layout/layout.phtml, line: 1759
 msgid "Please enter a valid phone number."
 msgstr ""
 #
@@ -13084,7 +13084,7 @@ msgstr ""
 # File: module/Application/view/application2/agent/login.phtml, line: 22
 # File: module/Application/view/application2/content/registeragent.phtml, line: 155
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 15
-# File: module/Application/view/layout/layout.phtml, line: 1183
+# File: module/Application/view/layout/layout.phtml, line: 1274
 msgid "Continue"
 msgstr ""
 #
@@ -13123,7 +13123,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 48
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 78
 # File: module/Application/view/application/content/registeragent.phtml, line: 52
-# File: module/Application/view/layout/layout.phtml, line: 1231
+# File: module/Application/view/layout/layout.phtml, line: 1322
 msgid "Company"
 msgstr ""
 #
@@ -13187,14 +13187,14 @@ msgstr ""
 # File: module/Application/view/application/login/index.phtml, line: 38
 # File: module/Application/view/application/login/register.phtml, line: 61
 # File: module/Application/view/application/login/signout.phtml, line: 23
+# File: module/Application/view/application/login/index2.phtml, line: 140
+# File: module/Application/view/application/login/index2.phtml, line: 142
 # File: module/Application/view/application/login/changepassword2.phtml, line: 63
-# File: module/Application/view/application/login/index2.phtml, line: 109
-# File: module/Application/view/application/login/index2.phtml, line: 111
 # File: module/Application/view/application/login/register2.phtml, line: 201
 # File: module/Application/view/application/login/register2.phtml, line: 203
 # File: module/Application/view/application2/agent/login.phtml, line: 13
 # File: module/Application/view/application2/content/registeragent.phtml, line: 102
-# File: module/Application/view/layout/layout.phtml, line: 600
+# File: module/Application/view/layout/layout.phtml, line: 691
 msgid "Password"
 msgstr ""
 #
@@ -13228,7 +13228,7 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 5
 # File: module/Application/view/application/agent/index.phtml, line: 44
 # File: module/Application/view/application/agent/reservations.phtml, line: 9
-# File: module/Application/view/layout/layout.phtml, line: 530
+# File: module/Application/view/layout/layout.phtml, line: 621
 msgid "Agents"
 msgstr ""
 #
@@ -13257,8 +13257,8 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 234
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 354
 # File: module/Application/view/application/disney-tickets/search.phtml, line: 107
-# File: module/Application/view/layout/layout.phtml, line: 760
-# File: module/Application/view/layout/layout.phtml, line: 931
+# File: module/Application/view/layout/layout.phtml, line: 851
+# File: module/Application/view/layout/layout.phtml, line: 1022
 msgid "All"
 msgstr ""
 #
@@ -13584,7 +13584,7 @@ msgstr ""
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 68
 # File: module/Application/view/application/login/index.phtml, line: 104
 # File: module/Application/view/application/login/signout.phtml, line: 89
-# File: module/Application/view/application/login/index2.phtml, line: 154
+# File: module/Application/view/application/login/index2.phtml, line: 185
 # File: module/Application/view/application/login/forgotpassword2.phtml, line: 116
 msgid "Email is required! Please input your email address."
 msgstr ""
@@ -13594,12 +13594,12 @@ msgstr ""
 # File: module/Application/view/application/login/forgotpassword.phtml, line: 75
 # File: module/Application/view/application/login/index.phtml, line: 111
 # File: module/Application/view/application/login/signout.phtml, line: 96
-# File: module/Application/view/application/login/index2.phtml, line: 155
+# File: module/Application/view/application/login/index2.phtml, line: 186
 msgid "Password is required! Please input your password."
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 6
-# File: module/Application/view/layout/layout.phtml, line: 528
+# File: module/Application/view/layout/layout.phtml, line: 619
 msgid "Dashboard"
 msgstr ""
 #
@@ -13618,8 +13618,8 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 74
 # File: module/Application/view/application2/agent/reservations.phtml, line: 324
 # File: module/Application/view/application2/layout/layout.phtml, line: 109
-# File: module/Application/view/layout/layout.phtml, line: 485
-# File: module/Application/view/layout/layout.phtml, line: 527
+# File: module/Application/view/layout/layout.phtml, line: 576
+# File: module/Application/view/layout/layout.phtml, line: 618
 msgid "Profile"
 msgstr ""
 #
@@ -13638,8 +13638,8 @@ msgstr ""
 # File: module/Application/view/application/login/signout.phtml, line: 131
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 78
 # File: module/Application/view/application2/agent/reservations.phtml, line: 183
-# File: module/Application/view/layout/layout.phtml, line: 489
-# File: module/Application/view/layout/layout.phtml, line: 533
+# File: module/Application/view/layout/layout.phtml, line: 580
+# File: module/Application/view/layout/layout.phtml, line: 624
 msgid "Reservations"
 msgstr ""
 #
@@ -13652,7 +13652,7 @@ msgid "New Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/agent/index.phtml, line: 121
-# File: module/Application/view/layout/layout.phtml, line: 535
+# File: module/Application/view/layout/layout.phtml, line: 626
 msgid "Log off"
 msgstr ""
 #
@@ -13668,12 +13668,12 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 94
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 95
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 127
-# File: module/Application/view/application/login/index2.phtml, line: 72
+# File: module/Application/view/application/login/index2.phtml, line: 89
 # File: module/Application/view/application/login/forgotpassword2.phtml, line: 47
 # File: module/Application/view/application/login/register2.phtml, line: 101
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
-# File: module/Application/view/layout/layout.phtml, line: 537
-# File: module/Application/view/layout/layout.phtml, line: 568
+# File: module/Application/view/layout/layout.phtml, line: 628
+# File: module/Application/view/layout/layout.phtml, line: 659
 msgid "My Account"
 msgstr ""
 #
@@ -13708,7 +13708,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 40
 # File: module/Application/view/application2/layout/layout.phtml, line: 78
 # File: module/Application/view/layout/layout.phtml, line: 331
-# File: module/Application/view/layout/layout.phtml, line: 1208
+# File: module/Application/view/layout/layout.phtml, line: 1299
 msgid "Hotels"
 msgstr ""
 #
@@ -13717,7 +13717,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 239
 # File: module/Application/view/application/trip-planner/transport.old.phtml, line: 8
 # File: module/Application/view/application/trip-planner/shared-head.phtml, line: 208
-# File: module/Application/view/layout/layout.phtml, line: 1216
+# File: module/Application/view/layout/layout.phtml, line: 1307
 # File: translate-dummy.php, line: 7
 msgid "Activities"
 msgstr ""
@@ -13750,7 +13750,7 @@ msgstr ""
 # File: module/Application/view/application/trips/done.phtml, line: 19
 # File: module/Application/view/application2/layout/layout.phtml, line: 96
 # File: module/Application/view/layout/layout.phtml, line: 337
-# File: module/Application/view/layout/layout.phtml, line: 1215
+# File: module/Application/view/layout/layout.phtml, line: 1306
 msgid "Transfers"
 msgstr ""
 #
@@ -13803,7 +13803,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 159
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 144
 # File: module/Application/view/layout/layout.phtml, line: 334
-# File: module/Application/view/layout/layout.phtml, line: 1209
+# File: module/Application/view/layout/layout.phtml, line: 1300
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -13825,7 +13825,7 @@ msgstr ""
 # File: module/Application/view/application2/index/index.phtml, line: 54
 # File: module/Application/view/application2/layout/layout.phtml, line: 93
 # File: module/Application/view/layout/layout.phtml, line: 355
-# File: module/Application/view/layout/layout.phtml, line: 1211
+# File: module/Application/view/layout/layout.phtml, line: 1302
 msgid "Cruises"
 msgstr ""
 #
@@ -13838,7 +13838,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 171
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 156
 # File: module/Application/view/application2/layout/layout.phtml, line: 87
-# File: module/Application/view/layout/layout.phtml, line: 1219
+# File: module/Application/view/layout/layout.phtml, line: 1310
 # File: module/Application/view/offers/hotels/index.phtml, line: 238
 msgid "Packages"
 msgstr ""
@@ -14481,7 +14481,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 166
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 151
 # File: module/Application/view/layout/layout.phtml, line: 352
-# File: module/Application/view/layout/layout.phtml, line: 1210
+# File: module/Application/view/layout/layout.phtml, line: 1301
 msgid "Air / Transport"
 msgstr ""
 #
@@ -14603,8 +14603,8 @@ msgstr ""
 # File: module/Application/view/application/login/changepassword2.phtml, line: 37
 # File: module/Application/view/application/login/changepassword2.phtml, line: 53
 # File: module/Application/view/application/login/changepassword2.phtml, line: 83
-# File: module/Application/view/layout/layout.phtml, line: 487
-# File: module/Application/view/layout/layout.phtml, line: 531
+# File: module/Application/view/layout/layout.phtml, line: 578
+# File: module/Application/view/layout/layout.phtml, line: 622
 msgid "Change Password"
 msgstr ""
 #
@@ -14661,7 +14661,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/login.phtml, line: 28
 # File: module/Application/view/application/login/index.phtml, line: 29
-# File: module/Application/view/application/login/index2.phtml, line: 93
+# File: module/Application/view/application/login/index2.phtml, line: 124
 msgid "Invalid login or password."
 msgstr ""
 #
@@ -14669,12 +14669,12 @@ msgstr ""
 # File: module/Application/view/application/destinations/disney.phtml, line: 28
 # File: module/Application/view/application/login/index.phtml, line: 37
 # File: module/Application/view/application/login/signout.phtml, line: 22
-# File: module/Application/view/application/login/index2.phtml, line: 103
+# File: module/Application/view/application/login/index2.phtml, line: 134
 # File: module/Application/view/application2/agent/login.phtml, line: 9
 # File: module/Application/view/application2/agent/login.phtml, line: 10
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 12
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 13
-# File: module/Application/view/layout/layout.phtml, line: 599
+# File: module/Application/view/layout/layout.phtml, line: 690
 msgid "Email address"
 msgstr ""
 #
@@ -14968,7 +14968,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/index.phtml, line: 224
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 230
 # File: module/Application/view/error/404.phtml, line: 45
-# File: module/Application/view/layout/layout.phtml, line: 1301
+# File: module/Application/view/layout/layout.phtml, line: 1392
 msgid "Destinations"
 msgstr ""
 #
@@ -15049,7 +15049,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index2.phtml, line: 578
 # File: module/Application/view/application/hotels/index2.phtml, line: 901
 # File: module/Application/view/application/hotels/brands2.phtml, line: 360
-# File: module/Application/view/application/hotels/info2.phtml, line: 1741
+# File: module/Application/view/application/hotels/info2.phtml, line: 1805
 # File: module/Application/view/application/index/index.phtml, line: 2792
 # File: module/Application/view/application/transfers/index.phtml, line: 239
 # File: module/Application/view/application/transfers/search.phtml, line: 545
@@ -15061,6 +15061,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 891
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 856
 # File: module/Application/view/application2/hotels/info.phtml, line: 627
+# File: module/Application/view/layout/layout.phtml, line: 538
 msgid "Remove"
 msgstr ""
 #
@@ -17635,6 +17636,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/bookconfirmeddepartures.phtml, line: 35
 # File: module/Application/view/application/cruises/bookconfirmedcruises.phtml, line: 27
+# File: module/Application/view/application/login/index2.phtml, line: 111
 # File: module/Application/view/application/trip-planner/confirm.phtml, line: 65
 # File: module/Application/view/application/bus/confirm.phtml, line: 110
 # File: module/Application/view/application/bus/failed.phtml, line: 23
@@ -18415,7 +18417,7 @@ msgid "Extra fee"
 msgstr ""
 #
 # File: module/Application/view/application/air/segment2.phtml, line: 280
-# File: module/Application/view/layout/layout.phtml, line: 1194
+# File: module/Application/view/layout/layout.phtml, line: 1285
 msgid "Information"
 msgstr ""
 #
@@ -18475,7 +18477,7 @@ msgstr ""
 # File: module/Application/view/application/login/termsandconditions.phtml, line: 47
 # File: module/Application/view/application/login/rewards2.phtml, line: 105
 # File: module/Application/view/application/quotes/verify.phtml, line: 5
-# File: module/Application/view/layout/layout.phtml, line: 1235
+# File: module/Application/view/layout/layout.phtml, line: 1326
 msgid "Terms & Conditions"
 msgstr ""
 #
@@ -19669,6 +19671,7 @@ msgstr ""
 # File: module/Application/view/application/bus/summary2.phtml, line: 120
 # File: module/Application/view/application/bus/summary2.phtml, line: 122
 # File: module/Application/view/application/trips/detail.phtml, line: 317
+# File: module/Application/view/layout/layout.phtml, line: 525
 msgid "Your trip"
 msgstr ""
 #
@@ -19775,8 +19778,8 @@ msgid "All fares"
 msgstr ""
 #
 # File: module/Application/view/application/air/airline2.phtml, line: 371
-# File: module/Application/view/application/login/index2.phtml, line: 95
-# File: module/Application/view/application/login/index2.phtml, line: 157
+# File: module/Application/view/application/login/index2.phtml, line: 126
+# File: module/Application/view/application/login/index2.phtml, line: 188
 # File: module/Application/view/application/login/forgotpassword2.phtml, line: 119
 # File: module/Application/view/application/login/register2.phtml, line: 108
 # File: module/Application/view/application/login/register2.phtml, line: 282
@@ -19949,7 +19952,7 @@ msgstr ""
 # File: module/Application/view/application/catalog/destination2.phtml, line: 653
 # File: module/Application/view/application/hotels/search2.phtml, line: 1071
 # File: module/Application/view/application/hotels/brands2.phtml, line: 788
-# File: module/Application/view/layout/layout.phtml, line: 1308
+# File: module/Application/view/layout/layout.phtml, line: 1399
 msgid "Back to top"
 msgstr ""
 #
@@ -20555,7 +20558,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/confirm2.phtml, line: 303
 # File: module/Application/view/application/trip-planner/confirm.phtml, line: 43
 # File: module/Application/view/application2/index/index.phtml, line: 48
-# File: module/Application/view/layout/layout.phtml, line: 431
+# File: module/Application/view/layout/layout.phtml, line: 465
 msgid "Transfer"
 msgstr ""
 #
@@ -21338,7 +21341,7 @@ msgstr ""
 # File: module/Application/view/application/cars/confirm.phtml, line: 51
 # File: module/Application/view/application/cars/confirm2.phtml, line: 378
 # File: module/Application/view/application/cart/confirm.phtml, line: 416
-# File: module/Application/view/layout/layout.phtml, line: 1422
+# File: module/Application/view/layout/layout.phtml, line: 1513
 msgid "Phone:"
 msgstr ""
 #
@@ -22241,7 +22244,7 @@ msgid "Delete"
 msgstr ""
 #
 # File: module/Application/view/application/cart/index.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 425
+# File: module/Application/view/layout/layout.phtml, line: 459
 msgid "Auto"
 msgstr ""
 #
@@ -22679,7 +22682,7 @@ msgstr ""
 # File: module/Application/view/application/catalog/destination2.phtml, line: 505
 # File: module/Application/view/application/catalog/destination2.phtml, line: 512
 # File: module/Application/view/layout/layout.phtml, line: 349
-# File: module/Application/view/layout/layout.phtml, line: 1226
+# File: module/Application/view/layout/layout.phtml, line: 1317
 msgid "Catalog"
 msgstr ""
 #
@@ -23499,7 +23502,7 @@ msgid "Special Offer!"
 msgstr ""
 #
 # File: module/Application/view/application/content/pricematch.phtml, line: 9
-# File: module/Application/view/layout/layout.phtml, line: 1293
+# File: module/Application/view/layout/layout.phtml, line: 1384
 msgid "Price Match"
 msgstr ""
 #
@@ -23610,7 +23613,7 @@ msgstr ""
 #
 # File: module/Application/view/application/content/privacypolicy.phtml, line: 6
 # File: module/Application/view/application/login/register2.phtml, line: 226
-# File: module/Application/view/layout/layout.phtml, line: 1234
+# File: module/Application/view/layout/layout.phtml, line: 1325
 msgid "Privacy Policy"
 msgstr ""
 #
@@ -23710,7 +23713,7 @@ msgid "Step 3 - Hotel Details"
 msgstr ""
 #
 # File: module/Application/view/application/content/gdprcompliance.phtml, line: 6
-# File: module/Application/view/layout/layout.phtml, line: 1309
+# File: module/Application/view/layout/layout.phtml, line: 1400
 msgid "GDPR Compliance"
 msgstr ""
 #
@@ -23723,7 +23726,7 @@ msgid "Please enter you subject"
 msgstr ""
 #
 # File: module/Application/view/application/content/_messageform.phtml, line: 49
-# File: module/Application/view/layout/layout.phtml, line: 1411
+# File: module/Application/view/layout/layout.phtml, line: 1502
 msgid "Message"
 msgstr ""
 #
@@ -25459,42 +25462,42 @@ msgid "Best lodging options in"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 26
-# File: module/Application/view/application/login/index2.phtml, line: 74
-# File: module/Application/view/layout/layout.phtml, line: 591
+# File: module/Application/view/application/login/index2.phtml, line: 91
+# File: module/Application/view/layout/layout.phtml, line: 682
 msgid "Sign in for more offers!"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 27
-# File: module/Application/view/application/login/index2.phtml, line: 74
-# File: module/Application/view/layout/layout.phtml, line: 592
+# File: module/Application/view/application/login/index2.phtml, line: 91
+# File: module/Application/view/layout/layout.phtml, line: 683
 msgid "It's easy and Free!"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 31
-# File: module/Application/view/application/login/index2.phtml, line: 90
-# File: module/Application/view/application/login/index2.phtml, line: 119
+# File: module/Application/view/application/login/index2.phtml, line: 120
+# File: module/Application/view/application/login/index2.phtml, line: 150
 # File: module/Application/view/application/login/register2.phtml, line: 106
 # File: module/Application/view/application2/agent/login.phtml, line: 3
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
-# File: module/Application/view/layout/layout.phtml, line: 603
-# File: module/Application/view/layout/layout.phtml, line: 1600
-# File: module/Application/view/layout/layout.phtml, line: 1606
+# File: module/Application/view/layout/layout.phtml, line: 694
+# File: module/Application/view/layout/layout.phtml, line: 1691
+# File: module/Application/view/layout/layout.phtml, line: 1697
 msgid "Sign in"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 36
-# File: module/Application/view/application/login/index2.phtml, line: 126
-# File: module/Application/view/layout/layout.phtml, line: 608
+# File: module/Application/view/application/login/index2.phtml, line: 157
+# File: module/Application/view/layout/layout.phtml, line: 699
 msgid "Sign in with Google"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 37
-# File: module/Application/view/layout/layout.phtml, line: 609
+# File: module/Application/view/layout/layout.phtml, line: 700
 msgid "Sign up with Google"
 msgstr ""
 #
 # File: module/Application/view/application/destinations/disney.phtml, line: 44
-# File: module/Application/view/layout/layout.phtml, line: 616
+# File: module/Application/view/layout/layout.phtml, line: 707
 msgid "Sign up with Facebook"
 msgstr ""
 #
@@ -25948,7 +25951,7 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 75
 # File: module/Application/view/application/login/settings2.phtml, line: 39
 # File: module/Application/view/application2/layout/layout.phtml, line: 108
-# File: module/Application/view/layout/layout.phtml, line: 486
+# File: module/Application/view/layout/layout.phtml, line: 577
 msgid "Settings"
 msgstr ""
 #
@@ -25959,7 +25962,7 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 137
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
 # File: module/Application/view/application2/layout/layout.phtml, line: 111
-# File: module/Application/view/layout/layout.phtml, line: 497
+# File: module/Application/view/layout/layout.phtml, line: 588
 msgid "Sign out"
 msgstr ""
 #
@@ -26056,7 +26059,7 @@ msgid "Experience the vibrant nightlife of Peru, from Lima's trendy bars to Cusc
 msgstr ""
 #
 # File: module/Application/view/application/destinations/peru.phtml, line: 253
-# File: module/Application/view/layout/layout.phtml, line: 1292
+# File: module/Application/view/layout/layout.phtml, line: 1383
 msgid "Weddings"
 msgstr ""
 #
@@ -28103,7 +28106,7 @@ msgid "Pay now"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/goinfo.phtml, line: 31
-# File: module/Application/view/layout/layout.phtml, line: 1106
+# File: module/Application/view/layout/layout.phtml, line: 1197
 msgid "Searching the best options"
 msgstr ""
 #
@@ -29304,7 +29307,7 @@ msgstr ""
 # File: module/Application/view/application/river-cruises/search.phtml, line: 58
 # File: module/Application/view/application/river-cruises/search.phtml, line: 67
 # File: module/Application/view/layout/layout.phtml, line: 364
-# File: module/Application/view/layout/layout.phtml, line: 1214
+# File: module/Application/view/layout/layout.phtml, line: 1305
 msgid "River Cruises"
 msgstr ""
 #
@@ -29312,14 +29315,14 @@ msgstr ""
 # File: module/Application/view/application/index/index2-content.phtml, line: 84
 # File: module/Application/view/application/bus/index2.phtml, line: 200
 # File: module/Application/view/layout/layout.phtml, line: 358
-# File: module/Application/view/layout/layout.phtml, line: 1212
+# File: module/Application/view/layout/layout.phtml, line: 1303
 msgid "Bus Tickets"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 504
 # File: module/Application/view/application/index/index2-content.phtml, line: 81
 # File: module/Application/view/layout/layout.phtml, line: 361
-# File: module/Application/view/layout/layout.phtml, line: 1213
+# File: module/Application/view/layout/layout.phtml, line: 1304
 msgid "Disney / Tickets"
 msgstr ""
 #
@@ -30301,8 +30304,8 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 82
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 84
 # File: module/Application/view/application/login/coupons2.phtml, line: 89
-# File: module/Application/view/layout/layout.phtml, line: 493
-# File: module/Application/view/layout/layout.phtml, line: 495
+# File: module/Application/view/layout/layout.phtml, line: 584
+# File: module/Application/view/layout/layout.phtml, line: 586
 msgid "Coupons"
 msgstr ""
 #
@@ -30340,7 +30343,7 @@ msgstr ""
 # File: module/Application/view/application/login/travelcompanions2.phtml, line: 53
 # File: module/Application/view/application/login/addtravelcompanion2.phtml, line: 38
 # File: module/Application/view/application/login/edittravelcompanion2.phtml, line: 56
-# File: module/Application/view/layout/layout.phtml, line: 491
+# File: module/Application/view/layout/layout.phtml, line: 582
 msgid "Travel Companions"
 msgstr ""
 #
@@ -30348,7 +30351,7 @@ msgstr ""
 # File: module/Application/view/application/login/rewards.phtml, line: 103
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 81
 # File: module/Application/view/application/login/frequentlyflyernumbers2.phtml, line: 65
-# File: module/Application/view/layout/layout.phtml, line: 492
+# File: module/Application/view/layout/layout.phtml, line: 583
 msgid "Frequent Flyer Numbers"
 msgstr ""
 #
@@ -30358,8 +30361,8 @@ msgstr ""
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 83
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 111
 # File: module/Application/view/application/login/rewards2.phtml, line: 101
-# File: module/Application/view/layout/layout.phtml, line: 493
-# File: module/Application/view/layout/layout.phtml, line: 494
+# File: module/Application/view/layout/layout.phtml, line: 584
+# File: module/Application/view/layout/layout.phtml, line: 585
 msgid "Rewards"
 msgstr ""
 #
@@ -30592,6 +30595,7 @@ msgid "Update settings"
 msgstr ""
 #
 # File: module/Application/view/application/login/signout.phtml, line: 18
+# File: module/Application/view/application/login/index2.phtml, line: 109
 msgid "You have successfully logged out of your account. Thank you for using our service. We hope to see you again soon."
 msgstr ""
 #
@@ -30712,13 +30716,13 @@ msgstr ""
 #
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 77
 # File: module/Application/view/application/trips/index.phtml, line: 33
-# File: module/Application/view/layout/layout.phtml, line: 488
+# File: module/Application/view/layout/layout.phtml, line: 579
 msgid "Trips"
 msgstr ""
 #
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 79
 # File: module/Application/view/application/login/coupons2.phtml, line: 138
-# File: module/Application/view/layout/layout.phtml, line: 490
+# File: module/Application/view/layout/layout.phtml, line: 581
 msgid "Travel"
 msgstr ""
 #
@@ -30759,6 +30763,145 @@ msgstr ""
 #
 # File: module/Application/view/application/login/settings2.phtml, line: 58
 msgid "Turn this on to stop promotional messages on WhatsApp."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 90
+# File: module/Application/view/application/login/register2.phtml, line: 78
+msgid "Why join?"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 94
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 52
+# File: module/Application/view/application/login/register2.phtml, line: 82
+# File: module/Application/view/layout/layout.phtml, line: 686
+msgid "Member prices"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 94
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 52
+# File: module/Application/view/application/login/register2.phtml, line: 82
+msgid "Exclusive rates on hotels, flights, cruises and tours."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 95
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 53
+# File: module/Application/view/application/login/register2.phtml, line: 83
+# File: module/Application/view/layout/layout.phtml, line: 687
+msgid "Saved travelers"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 95
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 53
+# File: module/Application/view/application/login/register2.phtml, line: 83
+msgid "Book faster with your travel companions on file."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 96
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 54
+# File: module/Application/view/application/login/register2.phtml, line: 84
+msgid "All your trips"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 96
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 54
+# File: module/Application/view/application/login/register2.phtml, line: 84
+msgid "Every reservation and document in one place."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 97
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 55
+# File: module/Application/view/application/login/register2.phtml, line: 85
+msgid "Rewards points"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 97
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 55
+# File: module/Application/view/application/login/register2.phtml, line: 85
+msgid "Earn points on every booking and redeem them on your next trip."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 100
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 58
+# File: module/Application/view/application/login/register2.phtml, line: 88
+msgid "Secure sign in"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 101
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 59
+msgid "Customer support"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 108
+msgid "You're signed out"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 113
+msgid "Sign in again"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 116
+msgid "Sign in to see your trips"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 117
+msgid "Your reservations, documents and payments are saved in your account."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 121
+msgid "Welcome back! Sign in to manage your trips and unlock member prices."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 143
+# File: module/Application/view/application/login/index2.phtml, line: 191
+# File: module/Application/view/application/login/changepassword2.phtml, line: 66
+# File: module/Application/view/application/login/changepassword2.phtml, line: 74
+# File: module/Application/view/application/login/changepassword2.phtml, line: 100
+# File: module/Application/view/application/login/register2.phtml, line: 206
+# File: module/Application/view/application/login/register2.phtml, line: 214
+# File: module/Application/view/application/login/register2.phtml, line: 285
+# File: module/Application/view/layout/layout.phtml, line: 691
+msgid "Show password"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 148
+# File: module/Application/view/application/login/register2.phtml, line: 110
+# File: module/Application/view/layout/layout.phtml, line: 692
+msgid "Forgot password?"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 154
+# File: module/Application/view/layout/layout.phtml, line: 695
+msgid "or"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 167
+# File: module/Application/view/layout/layout.phtml, line: 711
+msgid "New here?"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 167
+# File: module/Application/view/application/login/forgotpassword2.phtml, line: 104
+# File: module/Application/view/application/login/register2.phtml, line: 227
+# File: module/Application/view/layout/layout.phtml, line: 711
+msgid "Create an account"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 172
+msgid "Our partners"
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 189
+msgid "Google sign-in is not available right now. Please try again in a moment."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 190
+msgid "We could not sign you in with Google. Please try again."
+msgstr ""
+#
+# File: module/Application/view/application/login/index2.phtml, line: 192
+# File: module/Application/view/application/login/changepassword2.phtml, line: 101
+# File: module/Application/view/application/login/register2.phtml, line: 286
+msgid "Hide password"
 msgstr ""
 #
 # File: module/Application/view/application/login/travelcompanions2.phtml, line: 62
@@ -30834,132 +30977,9 @@ msgstr ""
 msgid "Back to my profile"
 msgstr ""
 #
-# File: module/Application/view/application/login/changepassword2.phtml, line: 66
-# File: module/Application/view/application/login/changepassword2.phtml, line: 74
-# File: module/Application/view/application/login/changepassword2.phtml, line: 100
-# File: module/Application/view/application/login/index2.phtml, line: 112
-# File: module/Application/view/application/login/index2.phtml, line: 160
-# File: module/Application/view/application/login/register2.phtml, line: 206
-# File: module/Application/view/application/login/register2.phtml, line: 214
-# File: module/Application/view/application/login/register2.phtml, line: 285
-# File: module/Application/view/layout/layout.phtml, line: 600
-msgid "Show password"
-msgstr ""
-#
 # File: module/Application/view/application/login/changepassword2.phtml, line: 80
 # File: module/Application/view/application/login/register2.phtml, line: 222
 msgid "Both passwords are the same"
-msgstr ""
-#
-# File: module/Application/view/application/login/changepassword2.phtml, line: 101
-# File: module/Application/view/application/login/index2.phtml, line: 161
-# File: module/Application/view/application/login/register2.phtml, line: 286
-msgid "Hide password"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 73
-# File: module/Application/view/application/login/register2.phtml, line: 78
-msgid "Why join?"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 77
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 52
-# File: module/Application/view/application/login/register2.phtml, line: 82
-# File: module/Application/view/layout/layout.phtml, line: 595
-msgid "Member prices"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 77
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 52
-# File: module/Application/view/application/login/register2.phtml, line: 82
-msgid "Exclusive rates on hotels, flights, cruises and tours."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 78
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 53
-# File: module/Application/view/application/login/register2.phtml, line: 83
-# File: module/Application/view/layout/layout.phtml, line: 596
-msgid "Saved travelers"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 78
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 53
-# File: module/Application/view/application/login/register2.phtml, line: 83
-msgid "Book faster with your travel companions on file."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 79
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 54
-# File: module/Application/view/application/login/register2.phtml, line: 84
-msgid "All your trips"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 79
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 54
-# File: module/Application/view/application/login/register2.phtml, line: 84
-msgid "Every reservation and document in one place."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 80
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 55
-# File: module/Application/view/application/login/register2.phtml, line: 85
-msgid "Rewards points"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 80
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 55
-# File: module/Application/view/application/login/register2.phtml, line: 85
-msgid "Earn points on every booking and redeem them on your next trip."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 83
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 58
-# File: module/Application/view/application/login/register2.phtml, line: 88
-msgid "Secure sign in"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 84
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 59
-msgid "Customer support"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 91
-msgid "Welcome back! Sign in to manage your trips and unlock member prices."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 117
-# File: module/Application/view/application/login/register2.phtml, line: 110
-# File: module/Application/view/layout/layout.phtml, line: 601
-msgid "Forgot password?"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 123
-# File: module/Application/view/layout/layout.phtml, line: 604
-msgid "or"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 136
-# File: module/Application/view/layout/layout.phtml, line: 620
-msgid "New here?"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 136
-# File: module/Application/view/application/login/forgotpassword2.phtml, line: 104
-# File: module/Application/view/application/login/register2.phtml, line: 227
-# File: module/Application/view/layout/layout.phtml, line: 620
-msgid "Create an account"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 141
-msgid "Our partners"
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 158
-msgid "Google sign-in is not available right now. Please try again in a moment."
-msgstr ""
-#
-# File: module/Application/view/application/login/index2.phtml, line: 159
-msgid "We could not sign you in with Google. Please try again."
 msgstr ""
 #
 # File: module/Application/view/application/login/forgotpassword2.phtml, line: 48
@@ -32459,7 +32479,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 11
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 141
 # File: module/Application/view/layout/layout.phtml, line: 328
-# File: module/Application/view/layout/layout.phtml, line: 1224
+# File: module/Application/view/layout/layout.phtml, line: 1315
 msgid "Trip Planner"
 msgstr ""
 #
@@ -32584,13 +32604,13 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 163
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 148
 # File: module/Application/view/layout/layout.phtml, line: 340
-# File: module/Application/view/layout/layout.phtml, line: 1222
+# File: module/Application/view/layout/layout.phtml, line: 1313
 msgid "Travel Insurances"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 206
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 191
-# File: module/Application/view/layout/layout.phtml, line: 705
+# File: module/Application/view/layout/layout.phtml, line: 796
 msgid "Select your currency"
 msgstr ""
 #
@@ -32598,14 +32618,14 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 310
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 195
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 295
-# File: module/Application/view/layout/layout.phtml, line: 709
-# File: module/Application/view/layout/layout.phtml, line: 872
+# File: module/Application/view/layout/layout.phtml, line: 800
+# File: module/Application/view/layout/layout.phtml, line: 963
 msgid "Suggested"
 msgstr ""
 #
 # File: module/Application/view/application/trip-planner/select.phtml, line: 296
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 281
-# File: module/Application/view/layout/layout.phtml, line: 868
+# File: module/Application/view/layout/layout.phtml, line: 959
 msgid "Select your language"
 msgstr ""
 #
@@ -35561,7 +35581,7 @@ msgid "Get first access to travel news and discounts! Unsubscribe anytime."
 msgstr ""
 #
 # File: module/Application/view/application2/index/index.phtml, line: 724
-# File: module/Application/view/layout/layout.phtml, line: 1409
+# File: module/Application/view/layout/layout.phtml, line: 1500
 msgid "Enter your email"
 msgstr ""
 #
@@ -35598,7 +35618,7 @@ msgid "Groups & meeting"
 msgstr ""
 #
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
-# File: module/Application/view/layout/layout.phtml, line: 1290
+# File: module/Application/view/layout/layout.phtml, line: 1381
 msgid "Support"
 msgstr ""
 #
@@ -35636,7 +35656,7 @@ msgid "This website exists only to demonstrate the booking platform. It is not a
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 305
-# File: module/Application/view/layout/layout.phtml, line: 524
+# File: module/Application/view/layout/layout.phtml, line: 615
 msgid "Click & Book Dashboard"
 msgstr ""
 #
@@ -35645,189 +35665,210 @@ msgid "Confirmed Sailings"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 373
-# File: module/Application/view/layout/layout.phtml, line: 1220
+# File: module/Application/view/layout/layout.phtml, line: 1311
 msgid "Confirmed Departures"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 399
+# File: module/Application/view/layout/layout.phtml, line: 521
 msgid "Shopping Cart"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 464
-msgid "summary"
+# File: module/Application/view/layout/layout.phtml, line: 525
+msgid "item"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 465
-msgid "checkout"
+# File: module/Application/view/layout/layout.phtml, line: 538
+msgid "Remove this item from your cart?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 484
+# File: module/Application/view/layout/layout.phtml, line: 545
+# File: module/Application/view/layout/layout.phtml, line: 555
+msgid "View cart"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 546
+msgid "Checkout"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 551
+msgid "Your cart is empty"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 552
+msgid "Add flights, hotels, experiences and more to plan your trip."
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 556
+msgid "Start exploring"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 575
 msgid "Account"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 597
+# File: module/Application/view/layout/layout.phtml, line: 688
 msgid "Your trips"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1181
-# File: module/Application/view/layout/layout.phtml, line: 1402
+# File: module/Application/view/layout/layout.phtml, line: 1272
+# File: module/Application/view/layout/layout.phtml, line: 1493
 msgid "Need Help?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1182
+# File: module/Application/view/layout/layout.phtml, line: 1273
 msgid "Call us for better advice"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1203
+# File: module/Application/view/layout/layout.phtml, line: 1294
 msgid "Traveling around the world!"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1217
+# File: module/Application/view/layout/layout.phtml, line: 1308
 msgid "Car Rentals"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1233
+# File: module/Application/view/layout/layout.phtml, line: 1324
 msgid "About us"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1236
+# File: module/Application/view/layout/layout.phtml, line: 1327
 msgid "Contact us"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1242
+# File: module/Application/view/layout/layout.phtml, line: 1333
 msgid "Social"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1256
+# File: module/Application/view/layout/layout.phtml, line: 1347
 msgid "Main Office"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1282
+# File: module/Application/view/layout/layout.phtml, line: 1373
 msgid "New customer? Register here"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1283
+# File: module/Application/view/layout/layout.phtml, line: 1374
 msgid "Forgot Password?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1284
+# File: module/Application/view/layout/layout.phtml, line: 1375
 msgid "Travel Agent Login"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1285
+# File: module/Application/view/layout/layout.phtml, line: 1376
 msgid "Unsubscribe from Newsletter?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1291
+# File: module/Application/view/layout/layout.phtml, line: 1382
 msgid "Groups"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1298
+# File: module/Application/view/layout/layout.phtml, line: 1389
 msgid "Become an affiliate"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1299
+# File: module/Application/view/layout/layout.phtml, line: 1390
 msgid "Open Business Account"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1300
+# File: module/Application/view/layout/layout.phtml, line: 1391
 msgid "List your property"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1309
+# File: module/Application/view/layout/layout.phtml, line: 1400
 msgid "Privacy"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1309
+# File: module/Application/view/layout/layout.phtml, line: 1400
 msgid "Terms"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1364
+# File: module/Application/view/layout/layout.phtml, line: 1455
 #, php-format
 msgid "This site is protected by reCAPTCHA and the Google %1$sPrivacy Policy%2$s and %3$sTerms of Service%4$s apply."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1406
+# File: module/Application/view/layout/layout.phtml, line: 1497
 msgid "Your experience matters to us. Need guidance or have a question? We're ready to help."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1408
+# File: module/Application/view/layout/layout.phtml, line: 1499
 msgid "Your Name"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1408
+# File: module/Application/view/layout/layout.phtml, line: 1499
 msgid "Enter your name"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1409
+# File: module/Application/view/layout/layout.phtml, line: 1500
 msgid "Your Email"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1410
+# File: module/Application/view/layout/layout.phtml, line: 1501
 msgid "Your Phone"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1410
+# File: module/Application/view/layout/layout.phtml, line: 1501
 msgid "Enter your phone"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1411
+# File: module/Application/view/layout/layout.phtml, line: 1502
 msgid "How can we help?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1422
+# File: module/Application/view/layout/layout.phtml, line: 1513
 msgid "Or reach us directly:"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1423
+# File: module/Application/view/layout/layout.phtml, line: 1514
 msgid "WhatsApp:"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1423
+# File: module/Application/view/layout/layout.phtml, line: 1514
 msgid "Chat on WhatsApp"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1436
+# File: module/Application/view/layout/layout.phtml, line: 1527
 msgid "Welcome back!"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1437
+# File: module/Application/view/layout/layout.phtml, line: 1528
 msgid "You're signed in. Enjoy member prices, saved travelers and all your trips in one place."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1503
+# File: module/Application/view/layout/layout.phtml, line: 1594
 msgid "Customer Assistance"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1507
+# File: module/Application/view/layout/layout.phtml, line: 1598
 msgid "Do you need help?"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1508
+# File: module/Application/view/layout/layout.phtml, line: 1599
 msgid "We are here to assist you with your travel needs."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1508
+# File: module/Application/view/layout/layout.phtml, line: 1599
 msgid "Whether you’re looking for the best flights or packages, or need help with vouchers, tickets, or cancellations, our team is ready to support you."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1509
+# File: module/Application/view/layout/layout.phtml, line: 1600
 msgid "Click the WhatsApp button below to start a chat with our support team"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1597
+# File: module/Application/view/layout/layout.phtml, line: 1688
 msgid "The email or password you entered is invalid."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1657
+# File: module/Application/view/layout/layout.phtml, line: 1748
 msgid "Please enter your name."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1672
+# File: module/Application/view/layout/layout.phtml, line: 1763
 msgid "Please enter your message."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1693
+# File: module/Application/view/layout/layout.phtml, line: 1784
 msgid "Sorry, there was a problem sending your message. Please try again"
 msgstr ""
 #
