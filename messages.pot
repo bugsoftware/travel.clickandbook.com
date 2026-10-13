@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-13 08:42-0400\n"
+"POT-Creation-Date: 2026-10-13 09:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -345,6 +345,40 @@ msgstr ""
 msgid "destinations"
 msgstr ""
 #
+# File: module/Application/src/Controller/JSONController.php, line: 5970
+# File: module/Application/src/Controller/JSONController.php, line: 6972
+# File: module/Application/view/application/activities/index.phtml, line: 164
+# File: module/Application/view/application/activities/search.phtml, line: 375
+# File: module/Application/view/application/activities/search2.phtml, line: 350
+# File: module/Application/view/application/activities/index3.phtml, line: 328
+# File: module/Application/view/application/activities/index2.phtml, line: 266
+# File: module/Application/view/application/cars/index2.phtml, line: 349
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 763
+# File: module/Application/view/application/destinations/disneysearch.phtml, line: 1317
+# File: module/Application/view/application/destinations/index.phtml, line: 1196
+# File: module/Application/view/application/hotels/brands.phtml, line: 387
+# File: module/Application/view/application/hotels/list.phtml, line: 612
+# File: module/Application/view/application/hotels/search.phtml, line: 839
+# File: module/Application/view/application/hotels/search.phtml, line: 1414
+# File: module/Application/view/application/hotels/index.phtml, line: 1280
+# File: module/Application/view/application/hotels/index2.phtml, line: 902
+# File: module/Application/view/application/hotels/search2.phtml, line: 1112
+# File: module/Application/view/application/index/index.phtml, line: 2806
+# File: module/Application/view/application/index/index.phtml, line: 2900
+# File: module/Application/view/application/index/index.phtml, line: 3046
+# File: module/Application/view/application/index/index.phtml, line: 3308
+# File: module/Application/view/application/transfers/index.phtml, line: 240
+# File: module/Application/view/application/transfers/search.phtml, line: 546
+# File: module/Application/view/application/transfers/index2.phtml, line: 403
+# File: module/Application/view/application/transfers/search2.phtml, line: 660
+# File: module/Application/view/application/trip-planner/select.phtml, line: 892
+# File: module/Application/view/application/trip-planner/select.phtml, line: 1076
+# File: module/Application/view/application/trip-planner/select.old.phtml, line: 857
+# File: module/Application/view/application/trip-planner/select.old.phtml, line: 1037
+# File: module/Application/view/application2/hotels/search.phtml, line: 641
+msgid "Search for"
+msgstr ""
+#
 # File: module/Application/src/Controller/CartController.php, line: 214
 # File: module/Application/view/application/cart/summary.phtml, line: 1648
 msgid "Your Customized Vacation Package – Ready for Your Review!"
@@ -574,40 +608,6 @@ msgstr ""
 # File: module/Application/src/Controller/CartController.php, line: 3556
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5429
 msgid "penalty."
-msgstr ""
-#
-# File: module/Application/src/Controller/JSONController.php, line: 5970
-# File: module/Application/src/Controller/JSONController.php, line: 6962
-# File: module/Application/view/application/activities/index.phtml, line: 164
-# File: module/Application/view/application/activities/search.phtml, line: 375
-# File: module/Application/view/application/activities/search2.phtml, line: 350
-# File: module/Application/view/application/activities/index3.phtml, line: 328
-# File: module/Application/view/application/activities/index2.phtml, line: 266
-# File: module/Application/view/application/cars/index2.phtml, line: 349
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 763
-# File: module/Application/view/application/destinations/disneysearch.phtml, line: 1317
-# File: module/Application/view/application/destinations/index.phtml, line: 1196
-# File: module/Application/view/application/hotels/brands.phtml, line: 387
-# File: module/Application/view/application/hotels/list.phtml, line: 612
-# File: module/Application/view/application/hotels/search.phtml, line: 839
-# File: module/Application/view/application/hotels/search.phtml, line: 1414
-# File: module/Application/view/application/hotels/index.phtml, line: 1280
-# File: module/Application/view/application/hotels/index2.phtml, line: 902
-# File: module/Application/view/application/hotels/search2.phtml, line: 1112
-# File: module/Application/view/application/index/index.phtml, line: 2806
-# File: module/Application/view/application/index/index.phtml, line: 2900
-# File: module/Application/view/application/index/index.phtml, line: 3046
-# File: module/Application/view/application/index/index.phtml, line: 3308
-# File: module/Application/view/application/transfers/index.phtml, line: 240
-# File: module/Application/view/application/transfers/search.phtml, line: 546
-# File: module/Application/view/application/transfers/index2.phtml, line: 403
-# File: module/Application/view/application/transfers/search2.phtml, line: 660
-# File: module/Application/view/application/trip-planner/select.phtml, line: 892
-# File: module/Application/view/application/trip-planner/select.phtml, line: 1076
-# File: module/Application/view/application/trip-planner/select.old.phtml, line: 857
-# File: module/Application/view/application/trip-planner/select.old.phtml, line: 1037
-# File: module/Application/view/application2/hotels/search.phtml, line: 641
-msgid "Search for"
 msgstr ""
 #
 # File: module/Application/src/Controller/HotelsController.php, line: 235
@@ -3437,6 +3437,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 306
 # File: module/Application/view/application/index/index.phtml, line: 2008
 # File: module/Application/view/application2/hotels/search.phtml, line: 7
+# File: module/Application/view/error/404_old.phtml, line: 7
 # File: module/Application/view/error/404.phtml, line: 7
 msgid "Madrid"
 msgstr ""
@@ -3456,6 +3457,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 231
 # File: module/Application/view/application/index/index.phtml, line: 307
 # File: module/Application/view/application2/hotels/search.phtml, line: 8
+# File: module/Application/view/error/404_old.phtml, line: 8
 # File: module/Application/view/error/404.phtml, line: 8
 msgid "Spain, Europe"
 msgstr ""
@@ -3477,6 +3479,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 64
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 56
 # File: module/Application/view/application2/hotels/search.phtml, line: 11
+# File: module/Application/view/error/404_old.phtml, line: 11
 # File: module/Application/view/error/404.phtml, line: 11
 msgid "Paris"
 msgstr ""
@@ -3496,6 +3499,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 235
 # File: module/Application/view/application/index/index.phtml, line: 311
 # File: module/Application/view/application2/hotels/search.phtml, line: 12
+# File: module/Application/view/error/404_old.phtml, line: 12
 # File: module/Application/view/error/404.phtml, line: 12
 msgid "France, Europe"
 msgstr ""
@@ -3515,6 +3519,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 238
 # File: module/Application/view/application/index/index.phtml, line: 314
 # File: module/Application/view/application2/hotels/search.phtml, line: 15
+# File: module/Application/view/error/404_old.phtml, line: 15
 # File: module/Application/view/error/404.phtml, line: 15
 msgid "Rome"
 msgstr ""
@@ -3534,6 +3539,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 239
 # File: module/Application/view/application/index/index.phtml, line: 315
 # File: module/Application/view/application2/hotels/search.phtml, line: 16
+# File: module/Application/view/error/404_old.phtml, line: 16
 # File: module/Application/view/error/404.phtml, line: 16
 msgid "Italy, Europe"
 msgstr ""
@@ -3553,6 +3559,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 242
 # File: module/Application/view/application/index/index.phtml, line: 318
 # File: module/Application/view/application2/hotels/search.phtml, line: 19
+# File: module/Application/view/error/404_old.phtml, line: 19
 # File: module/Application/view/error/404.phtml, line: 19
 msgid "Istanbul"
 msgstr ""
@@ -3572,6 +3579,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 243
 # File: module/Application/view/application/index/index.phtml, line: 319
 # File: module/Application/view/application2/hotels/search.phtml, line: 20
+# File: module/Application/view/error/404_old.phtml, line: 20
 # File: module/Application/view/error/404.phtml, line: 20
 msgid "Turkey, Asia"
 msgstr ""
@@ -3591,6 +3599,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 246
 # File: module/Application/view/application/index/index.phtml, line: 322
 # File: module/Application/view/application2/hotels/search.phtml, line: 23
+# File: module/Application/view/error/404_old.phtml, line: 23
 # File: module/Application/view/error/404.phtml, line: 23
 msgid "Athens"
 msgstr ""
@@ -3610,6 +3619,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 247
 # File: module/Application/view/application/index/index.phtml, line: 323
 # File: module/Application/view/application2/hotels/search.phtml, line: 24
+# File: module/Application/view/error/404_old.phtml, line: 24
 # File: module/Application/view/error/404.phtml, line: 24
 msgid "Greece, Europe"
 msgstr ""
@@ -3629,6 +3639,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 250
 # File: module/Application/view/application/index/index.phtml, line: 326
 # File: module/Application/view/application2/hotels/search.phtml, line: 27
+# File: module/Application/view/error/404_old.phtml, line: 27
 # File: module/Application/view/error/404.phtml, line: 27
 msgid "Marrakech"
 msgstr ""
@@ -3648,6 +3659,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 251
 # File: module/Application/view/application/index/index.phtml, line: 327
 # File: module/Application/view/application2/hotels/search.phtml, line: 28
+# File: module/Application/view/error/404_old.phtml, line: 28
 # File: module/Application/view/error/404.phtml, line: 28
 msgid "Morocco, Africa"
 msgstr ""
@@ -3697,6 +3709,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 86
 # File: module/Application/view/application2/hotels/search.phtml, line: 29
 # File: module/Application/view/application2/index/index.phtml, line: 2
+# File: module/Application/view/error/404_old.phtml, line: 29
 # File: module/Application/view/error/404.phtml, line: 29
 msgid "Explore trending destinations"
 msgstr ""
@@ -3718,6 +3731,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/insurance.phtml, line: 50
 # File: module/Application/view/application/trip-planner/activities.phtml, line: 18
 # File: module/Application/view/application2/layout/layout.phtml, line: 90
+# File: module/Application/view/error/404.phtml, line: 50
 # File: module/Application/view/layout/layout.phtml, line: 367
 msgid "Things to do"
 msgstr ""
@@ -13738,6 +13752,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 143
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 40
 # File: module/Application/view/application2/layout/layout.phtml, line: 78
+# File: module/Application/view/error/404.phtml, line: 47
 # File: module/Application/view/layout/layout.phtml, line: 331
 # File: module/Application/view/layout/layout.phtml, line: 1299
 msgid "Hotels"
@@ -13801,6 +13816,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/shared-head.phtml, line: 206
 # File: module/Application/view/application/trip-planner/hotels.phtml, line: 69
 # File: module/Application/view/application2/layout/layout.phtml, line: 81
+# File: module/Application/view/error/404.phtml, line: 46
 msgid "Flights"
 msgstr ""
 #
@@ -13817,6 +13833,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.phtml, line: 170
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 155
 # File: module/Application/view/application2/layout/layout.phtml, line: 84
+# File: module/Application/view/error/404.phtml, line: 51
 # File: module/Application/view/layout/layout.phtml, line: 370
 msgid "Cars"
 msgstr ""
@@ -13833,6 +13850,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 506
 # File: module/Application/view/application/trip-planner/select.phtml, line: 159
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 144
+# File: module/Application/view/error/404.phtml, line: 49
 # File: module/Application/view/layout/layout.phtml, line: 334
 # File: module/Application/view/layout/layout.phtml, line: 1300
 msgid "Escorted Tours"
@@ -13855,6 +13873,7 @@ msgstr ""
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 152
 # File: module/Application/view/application2/index/index.phtml, line: 54
 # File: module/Application/view/application2/layout/layout.phtml, line: 93
+# File: module/Application/view/error/404.phtml, line: 48
 # File: module/Application/view/layout/layout.phtml, line: 355
 # File: module/Application/view/layout/layout.phtml, line: 1302
 msgid "Cruises"
@@ -14998,7 +15017,8 @@ msgstr ""
 # File: module/Application/view/application/packages/search.phtml, line: 137
 # File: module/Application/view/application/trip-planner/index.phtml, line: 224
 # File: module/Application/view/application/disney-tickets/index2.phtml, line: 230
-# File: module/Application/view/error/404.phtml, line: 45
+# File: module/Application/view/error/404_old.phtml, line: 45
+# File: module/Application/view/error/404.phtml, line: 264
 # File: module/Application/view/layout/layout.phtml, line: 1392
 msgid "Destinations"
 msgstr ""
@@ -23876,6 +23896,7 @@ msgstr ""
 #
 # File: module/Application/view/application/content/destinations2.phtml, line: 581
 # File: module/Application/view/application/packages/search.phtml, line: 262
+# File: module/Application/view/error/404.phtml, line: 66
 msgid "Explore"
 msgstr ""
 #
@@ -30014,7 +30035,7 @@ msgid "Experience the history and culture of the oldest city in the Americas. Wh
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1695
-# File: module/Application/view/error/404.phtml, line: 46
+# File: module/Application/view/error/404_old.phtml, line: 46
 msgid "Where do you want to go? Type your dream destination and explore the best deals on flights, hotels, and activities. Whether you are looking for a relaxing beach getaway, a cultural city break, or an adventurous mountain trek, we have something for you. Just enter your desired location and let us do the rest."
 msgstr ""
 #
@@ -36086,6 +36107,36 @@ msgstr ""
 msgid "If it keeps happening, contact us and mention this reference:"
 msgstr ""
 #
+# File: module/Application/view/error/404.phtml, line: 58
+msgid "This page took a different flight"
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 59
+msgid "We couldn't find the page you were looking for. It may have moved, or the link may be incomplete. Let's get you back on track."
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 63
+# File: module/Application/view/offers/blackfriday/index.phtml, line: 202
+# File: module/Application/view/offers/holidays/index.phtml, line: 177
+msgid "Where do you want to go?"
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 63
+msgid "Search destinations"
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 71
+msgid "Back to the home page"
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 264
+msgid "No destinations found"
+msgstr ""
+#
+# File: module/Application/view/error/404.phtml, line: 271
+msgid "Search is not available right now"
+msgstr ""
+#
 # File: module/Application/view/layout/layout.phtml, line: 289
 msgid "Demonstration site"
 msgstr ""
@@ -36401,11 +36452,6 @@ msgstr ""
 #
 # File: module/Application/view/offers/blackfriday/index.phtml, line: 194
 msgid "Click here"
-msgstr ""
-#
-# File: module/Application/view/offers/blackfriday/index.phtml, line: 202
-# File: module/Application/view/offers/holidays/index.phtml, line: 177
-msgid "Where do you want to go?"
 msgstr ""
 #
 # File: module/Application/view/offers/blackfriday/index.phtml, line: 202
