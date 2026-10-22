@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-22 06:33-0400\n"
+"POT-Creation-Date: 2026-10-22 06:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2743,8 +2743,8 @@ msgstr ""
 # File: module/Application/view/application2/hotels/info.phtml, line: 644
 # File: module/Application/view/application2/hotels/summary.phtml, line: 416
 # File: module/Application/view/layout/layout.phtml, line: 1278
-# File: module/Application/view/layout/layout.phtml, line: 1790
-# File: module/Application/view/layout/layout.phtml, line: 1893
+# File: module/Application/view/layout/layout.phtml, line: 1842
+# File: module/Application/view/layout/layout.phtml, line: 1946
 msgid "Please wait..."
 msgstr ""
 #
@@ -8932,7 +8932,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 544
 # File: module/Application/view/application/escorted-tours/info2.phtml, line: 767
 # File: module/Application/view/application/escorted-tours/summary2.phtml, line: 477
-# File: module/Application/view/layout/layout.phtml, line: 1878
+# File: module/Application/view/layout/layout.phtml, line: 1683
 msgid "Please enter a valid email address."
 msgstr ""
 #
@@ -9540,7 +9540,6 @@ msgstr ""
 # File: module/Application/view/application/cars/confirm.phtml, line: 51
 # File: module/Application/view/application/cars/confirm2.phtml, line: 378
 # File: module/Application/view/application/cart/confirm.phtml, line: 416
-# File: module/Application/view/layout/layout.phtml, line: 1639
 msgid "Phone:"
 msgstr ""
 #
@@ -10078,9 +10077,10 @@ msgstr ""
 # File: module/Application/view/application2/hotels/info.phtml, line: 499
 # File: module/Application/view/application2/hotels/search.phtml, line: 514
 # File: module/Application/view/layout/layout.phtml, line: 1040
-# File: module/Application/view/layout/layout.phtml, line: 1620
-# File: module/Application/view/layout/layout.phtml, line: 1656
-# File: module/Application/view/layout/layout.phtml, line: 1721
+# File: module/Application/view/layout/layout.phtml, line: 1665
+# File: module/Application/view/layout/layout.phtml, line: 1692
+# File: module/Application/view/layout/layout.phtml, line: 1708
+# File: module/Application/view/layout/layout.phtml, line: 1773
 msgid "Close"
 msgstr ""
 #
@@ -16741,7 +16741,7 @@ msgstr ""
 # File: module/Application/view/application/quotes/air.phtml, line: 905
 # File: module/Application/view/application/quotes/air.phtml, line: 1029
 # File: module/Application/view/application/quotes/air.phtml, line: 1034
-# File: module/Application/view/layout/layout.phtml, line: 1629
+# File: module/Application/view/layout/layout.phtml, line: 1686
 msgid "Send"
 msgstr ""
 #
@@ -26069,7 +26069,7 @@ msgstr ""
 # File: module/Application/view/application/trips/detail2.phtml, line: 1409
 # File: module/Application/view/application/trips/detail6.phtml, line: 1342
 # File: module/Application/view/application/content/_messageform.phtml, line: 49
-# File: module/Application/view/layout/layout.phtml, line: 1628
+# File: module/Application/view/layout/layout.phtml, line: 1684
 msgid "Message"
 msgstr ""
 #
@@ -27517,8 +27517,8 @@ msgstr ""
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
 # File: module/Application/view/application2/agent/login.phtml, line: 3
 # File: module/Application/view/layout/layout.phtml, line: 774
-# File: module/Application/view/layout/layout.phtml, line: 1817
-# File: module/Application/view/layout/layout.phtml, line: 1823
+# File: module/Application/view/layout/layout.phtml, line: 1869
+# File: module/Application/view/layout/layout.phtml, line: 1875
 msgid "Sign in"
 msgstr ""
 #
@@ -29670,7 +29670,6 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/payment2.phtml, line: 321
 # File: module/Application/view/application/escorted-tours/payment3.phtml, line: 527
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 579
-# File: module/Application/view/layout/layout.phtml, line: 1885
 msgid "Please enter a valid phone number."
 msgstr ""
 #
@@ -32291,7 +32290,7 @@ msgid "Call us"
 msgstr ""
 #
 # File: module/Application/view/application/content/_cnt2-reach.phtml, line: 30
-# File: module/Application/view/layout/layout.phtml, line: 1640
+# File: module/Application/view/layout/layout.phtml, line: 1671
 msgid "Chat on WhatsApp"
 msgstr ""
 #
@@ -41090,7 +41089,7 @@ msgid "Get first access to travel news and discounts! Unsubscribe anytime."
 msgstr ""
 #
 # File: module/Application/view/application2/index/index.phtml, line: 724
-# File: module/Application/view/layout/layout.phtml, line: 1626
+# File: module/Application/view/layout/layout.phtml, line: 1683
 msgid "Enter your email"
 msgstr ""
 #
@@ -41511,7 +41510,7 @@ msgid "Your trips"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 1383
-# File: module/Application/view/layout/layout.phtml, line: 1619
+# File: module/Application/view/layout/layout.phtml, line: 1667
 msgid "Need Help?"
 msgstr ""
 #
@@ -41580,84 +41579,88 @@ msgstr ""
 msgid "This site is protected by reCAPTCHA and the Google %1$sPrivacy Policy%2$s and %3$sTerms of Service%4$s apply."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1623
+# File: module/Application/view/layout/layout.phtml, line: 1668
 msgid "Your experience matters to us. Need guidance or have a question? We're ready to help."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1625
+# File: module/Application/view/layout/layout.phtml, line: 1677
+msgid "Or send us a message"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1678
+msgid "Sorry, there was a problem sending your message. Please try again"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1681
 msgid "Your Name"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1625
+# File: module/Application/view/layout/layout.phtml, line: 1681
 msgid "Enter your name"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1626
-msgid "Your Email"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1627
-msgid "Your Phone"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1627
-msgid "Enter your phone"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1628
-msgid "How can we help?"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1639
-msgid "Or reach us directly:"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1640
-msgid "WhatsApp:"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1653
-msgid "Welcome back!"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1654
-msgid "You're signed in. Enjoy member prices, saved travelers and all your trips in one place."
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1720
-msgid "Customer Assistance"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1724
-msgid "Do you need help?"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1725
-msgid "We are here to assist you with your travel needs."
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1725
-msgid "Whether you’re looking for the best flights or packages, or need help with vouchers, tickets, or cancellations, our team is ready to support you."
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1726
-msgid "Click the WhatsApp button below to start a chat with our support team"
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1814
-msgid "The email or password you entered is invalid."
-msgstr ""
-#
-# File: module/Application/view/layout/layout.phtml, line: 1874
+# File: module/Application/view/layout/layout.phtml, line: 1681
 msgid "Please enter your name."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1889
+# File: module/Application/view/layout/layout.phtml, line: 1682
+msgid "Your Phone"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1682
+msgid "Enter your phone"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1683
+msgid "Your Email"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1684
+msgid "How can we help?"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1684
 msgid "Please enter your message."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1910
-msgid "Sorry, there was a problem sending your message. Please try again"
+# File: module/Application/view/layout/layout.phtml, line: 1690
+msgid "Message sent"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1691
+msgid "Thank you - one of our travel specialists will get back to you shortly."
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1705
+msgid "Welcome back!"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1706
+msgid "You're signed in. Enjoy member prices, saved travelers and all your trips in one place."
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1772
+msgid "Customer Assistance"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1776
+msgid "Do you need help?"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1777
+msgid "We are here to assist you with your travel needs."
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1777
+msgid "Whether you’re looking for the best flights or packages, or need help with vouchers, tickets, or cancellations, our team is ready to support you."
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1778
+msgid "Click the WhatsApp button below to start a chat with our support team"
+msgstr ""
+#
+# File: module/Application/view/layout/layout.phtml, line: 1866
+msgid "The email or password you entered is invalid."
 msgstr ""
 #
 # File: module/Application/Templates/quote_shoppingcart.phtml, line: 24
