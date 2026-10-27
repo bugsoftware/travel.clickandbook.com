@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-26 19:57-0400\n"
+"POT-Creation-Date: 2026-10-26 20:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2829,6 +2829,7 @@ msgstr ""
 # File: module/Application/view/application/content/registerproperty.phtml, line: 177
 # File: module/Application/view/application/content/registeragent.phtml, line: 157
 # File: module/Application/view/application/content/affiliateprogram.phtml, line: 183
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 76
 # File: module/Application/view/application/air/seating2.phtml, line: 1121
 # File: module/Application/view/application/air/confirm2.phtml, line: 546
 # File: module/Application/view/application/air/return.phtml, line: 1472
@@ -3175,6 +3176,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search2.phtml, line: 739
 # File: module/Application/view/application/insurances/index2.phtml, line: 238
 # File: module/Application/view/application/insurances/passengers.phtml, line: 444
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 77
 # File: module/Application/view/application/air/return.phtml, line: 1004
 # File: module/Application/view/application/air/airline.phtml, line: 784
 # File: module/Application/view/application/air/search2.phtml, line: 2104
@@ -3301,6 +3303,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/search2.phtml, line: 740
 # File: module/Application/view/application/insurances/index2.phtml, line: 239
 # File: module/Application/view/application/insurances/passengers.phtml, line: 445
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 78
 # File: module/Application/view/application/air/return.phtml, line: 1005
 # File: module/Application/view/application/air/airline.phtml, line: 785
 # File: module/Application/view/application/air/search2.phtml, line: 2104
@@ -13665,6 +13668,8 @@ msgstr ""
 # File: module/Application/view/application/login/reservations2.phtml, line: 224
 # File: module/Application/view/application/login/reservations.phtml, line: 47
 # File: module/Application/view/application/insurances/search2.phtml, line: 543
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 61
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 79
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 118
 # File: module/Application/view/application/air/passengers2.phtml, line: 507
 # File: module/Application/view/application/cruises/passengersconfirmedcruises2.phtml, line: 123
@@ -13752,6 +13757,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm.phtml, line: 63
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 358
 # File: module/Application/view/application/insurances/search2.phtml, line: 543
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 80
 # File: module/Application/view/application/air/confirm2.phtml, line: 249
 # File: module/Application/view/application/air/confirm2.phtml, line: 426
 # File: module/Application/view/application/air/return.phtml, line: 349
@@ -22934,6 +22940,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/partial/v3-loader.phtml, line: 35
 # File: module/Application/view/application/transfers/search3.phtml, line: 252
 # File: module/Application/view/application/transfers/confirm3.phtml, line: 318
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 32
 # File: module/Application/view/application/air/trending-routes.phtml, line: 210
 # File: module/Application/view/application/air/ticketing2.phtml, line: 1664
 # File: module/Application/view/application/air/partial/a2-loader.phtml, line: 34
@@ -24033,6 +24040,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 1012
 # File: module/Application/view/application/transfers/passengers3.phtml, line: 875
+# File: module/Application/view/application/insurances/passengers2.phtml, line: 771
 # File: module/Application/view/application/air/passengers2.phtml, line: 1455
 # File: module/Application/view/application/cruises/passengers2.phtml, line: 1152
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 938
@@ -24057,6 +24065,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 1020
 # File: module/Application/view/application/transfers/passengers3.phtml, line: 883
+# File: module/Application/view/application/insurances/passengers2.phtml, line: 773
 # File: module/Application/view/application/air/passengers2.phtml, line: 1456
 # File: module/Application/view/application/cruises/passengers2.phtml, line: 1154
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 947
@@ -24507,6 +24516,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/partial/h2-loader.phtml, line: 51
 # File: module/Application/view/application/transfers/partial/v3-loader.phtml, line: 34
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 31
 # File: module/Application/view/application/cruises/partial/cr-loader.phtml, line: 32
 # File: module/Application/view/application/escorted-tours/partial/et3-loader.phtml, line: 40
 msgid "Looking for the best prices"
@@ -25482,6 +25492,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 336
 # File: module/Application/view/application/insurances/search2.phtml, line: 539
 # File: module/Application/view/application/insurances/index2.phtml, line: 110
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 75
 # File: module/Application/view/application/trip-planner/insurance.phtml, line: 34
 # File: module/Application/view/application/trip-planner/confirm.phtml, line: 46
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 222
@@ -33423,6 +33434,8 @@ msgid "Saving passenger details"
 msgstr ""
 #
 # File: module/Application/view/application/transfers/passengers3.phtml, line: 882
+# File: module/Application/view/application/insurances/passengers2.phtml, line: 773
+# File: module/Application/view/application/insurances/summary2.phtml, line: 447
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 946
 # File: module/Application/view/application/escorted-tours/summary3.phtml, line: 571
 msgid "Checking your trip details"
@@ -35154,6 +35167,10 @@ msgstr ""
 msgid "Ages:"
 msgstr ""
 #
+# File: module/Application/view/application/insurances/passengers2.phtml, line: 773
+msgid "Saving traveler details"
+msgstr ""
+#
 # File: module/Application/view/application/insurances/confirm.phtml, line: 60
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 372
 msgid "Passengers Information"
@@ -35187,6 +35204,7 @@ msgid "Back to insurance"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/confirm2.phtml, line: 276
+# File: module/Application/view/application/insurances/payment2.phtml, line: 744
 msgid "Issuing your policy"
 msgstr ""
 #
@@ -35250,6 +35268,18 @@ msgstr ""
 msgid "We could not load the price for this plan. Nothing has been charged."
 msgstr ""
 #
+# File: module/Application/view/application/insurances/payment2.phtml, line: 746
+msgid "Confirming your coverage"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/payment2.phtml, line: 746
+msgid "Securing your plan"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/payment2.phtml, line: 746
+msgid "Preparing your policy documents"
+msgstr ""
+#
 # File: module/Application/view/application/insurances/summary2.phtml, line: 304
 # File: module/Application/view/application/insurances/search.phtml, line: 288
 # File: module/Application/view/application/insurances/search.phtml, line: 403
@@ -35273,6 +35303,18 @@ msgstr ""
 # File: module/Application/view/application/insurances/search2.phtml, line: 353
 # File: module/Application/view/application/insurances/search2.phtml, line: 703
 msgid "Individual Limit"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary2.phtml, line: 445
+msgid "Preparing your policy"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary2.phtml, line: 447
+msgid "Saving your plan"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/summary2.phtml, line: 447
+msgid "Preparing the traveler details"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/search.phtml, line: 68
@@ -35643,6 +35685,27 @@ msgstr ""
 #
 # File: module/Application/view/application/insurances/passengers.phtml, line: 162
 msgid "Ward"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 29
+msgid "Checking plans for your trip"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 30
+msgid "Comparing coverages and limits"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 64
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 81
+msgid "Trip cost"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 68
+msgid "Finding your coverage"
+msgstr ""
+#
+# File: module/Application/view/application/insurances/partial/in-loader.phtml, line: 69
+msgid "Comparing travel insurance plans"
 msgstr ""
 #
 # File: module/Application/view/application/air/seating2.phtml, line: 170
