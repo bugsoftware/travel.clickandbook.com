@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-29 19:37-0400\n"
+"POT-Creation-Date: 2026-10-30 03:12-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -765,8 +765,8 @@ msgid "Check your activity quote for"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 234
-# File: module/Application/src/Controller/CartController.php, line: 222
 # File: module/Application/src/Controller/HotelsController.php, line: 243
+# File: module/Application/src/Controller/CartController.php, line: 222
 # File: module/Application/view/application/cart/summary.phtml, line: 1652
 # File: module/Application/view/application/hotels/summary.phtml, line: 794
 # File: module/Application/view/application/activities/summary.phtml, line: 369
@@ -779,12 +779,12 @@ msgid "Your Activity Quote Is Ready – Review & Confirm Now!"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5444
-# File: module/Application/src/Controller/CartController.php, line: 3547
+# File: module/Application/src/Controller/CartController.php, line: 3559
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5457
-# File: module/Application/src/Controller/CartController.php, line: 3560
+# File: module/Application/src/Controller/CartController.php, line: 3572
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 209
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 952
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 445
@@ -793,12 +793,12 @@ msgid "Cancel on or after"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5457
-# File: module/Application/src/Controller/CartController.php, line: 3560
+# File: module/Application/src/Controller/CartController.php, line: 3572
 msgid "will incur in"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 5457
-# File: module/Application/src/Controller/CartController.php, line: 3560
+# File: module/Application/src/Controller/CartController.php, line: 3572
 msgid "penalty."
 msgstr ""
 #
@@ -823,259 +823,6 @@ msgstr ""
 # File: module/Application/src/Controller/BookingController.php, line: 1752
 # File: module/Application/view/application/booking/details.phtml, line: 534
 msgid "Reservation Details"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 214
-# File: module/Application/view/application/cart/summary.phtml, line: 1648
-msgid "Your Customized Vacation Package – Ready for Your Review!"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 216
-# File: module/Application/view/application/cart/summary.phtml, line: 1649
-msgid "Your Trip Package – Finalized and Ready!"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 218
-# File: module/Application/view/application/cart/summary.phtml, line: 1650
-msgid "We have the perfect vacation package for your next adventure – Click to discover it!"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 220
-# File: module/Application/src/Controller/HotelsController.php, line: 241
-# File: module/Application/view/application/cart/summary.phtml, line: 1651
-# File: module/Application/view/application/hotels/summary.phtml, line: 793
-msgid "Your dream trip to"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 220
-# File: module/Application/src/Controller/HotelsController.php, line: 241
-# File: module/Application/view/application/cart/summary.phtml, line: 1651
-# File: module/Application/view/application/hotels/summary.phtml, line: 793
-msgid "is waiting for you!"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 222
-# File: module/Application/view/application/cart/summary.phtml, line: 1652
-msgid "Check your travel package quote for"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 224
-# File: module/Application/view/application/cart/summary.phtml, line: 1653
-msgid "Your Vacation Package Quote Is Ready – Review & Confirm Now!"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 325
-# File: module/Application/view/application/booking/details.phtml, line: 493
-# File: module/Application/view/application/booking/paynow.phtml, line: 386
-# File: module/Application/view/application/cart/index.phtml, line: 102
-# File: module/Application/view/application/cart/confirm.phtml, line: 133
-# File: module/Application/view/application/hotels/confirm2.phtml, line: 475
-# File: module/Application/view/application/hotels/brands2.phtml, line: 605
-# File: module/Application/view/application/hotels/confirm.phtml, line: 37
-# File: module/Application/view/application/trips/detail.phtml, line: 168
-# File: module/Application/view/application/trips/done.phtml, line: 19
-# File: module/Application/view/application/trips/done2.phtml, line: 57
-# File: module/Application/view/application/trips/index2.phtml, line: 135
-# File: module/Application/view/application/trips/detail3.phtml, line: 189
-# File: module/Application/view/application/trips/detail3.phtml, line: 202
-# File: module/Application/view/application/trips/detail3.phtml, line: 644
-# File: module/Application/view/application/trips/detail3.phtml, line: 664
-# File: module/Application/view/application/trips/detail4.phtml, line: 189
-# File: module/Application/view/application/trips/detail4.phtml, line: 202
-# File: module/Application/view/application/trips/detail4.phtml, line: 659
-# File: module/Application/view/application/trips/detail4.phtml, line: 679
-# File: module/Application/view/application/trips/detail5.phtml, line: 135
-# File: module/Application/view/application/trips/detail5.phtml, line: 234
-# File: module/Application/view/application/trips/detail5.phtml, line: 247
-# File: module/Application/view/application/trips/detail5.phtml, line: 783
-# File: module/Application/view/application/trips/detail5.phtml, line: 802
-# File: module/Application/view/application/trips/detail5.phtml, line: 822
-# File: module/Application/view/application/trips/detail5.phtml, line: 1323
-# File: module/Application/view/application/trips/detail2.phtml, line: 135
-# File: module/Application/view/application/trips/detail2.phtml, line: 234
-# File: module/Application/view/application/trips/detail2.phtml, line: 247
-# File: module/Application/view/application/trips/detail2.phtml, line: 800
-# File: module/Application/view/application/trips/detail2.phtml, line: 819
-# File: module/Application/view/application/trips/detail2.phtml, line: 839
-# File: module/Application/view/application/trips/detail2.phtml, line: 1390
-# File: module/Application/view/application/trips/detail6.phtml, line: 135
-# File: module/Application/view/application/trips/detail6.phtml, line: 234
-# File: module/Application/view/application/trips/detail6.phtml, line: 247
-# File: module/Application/view/application/trips/detail6.phtml, line: 783
-# File: module/Application/view/application/trips/detail6.phtml, line: 802
-# File: module/Application/view/application/trips/detail6.phtml, line: 822
-# File: module/Application/view/application/trips/detail6.phtml, line: 1323
-# File: module/Application/view/application/index/index.phtml, line: 1125
-# File: module/Application/view/application/transfers/index2.phtml, line: 190
-# File: module/Application/view/application/transfers/confirm2.phtml, line: 372
-# File: module/Application/view/application/transfers/payment2.phtml, line: 508
-# File: module/Application/view/application/transfers/index.phtml, line: 62
-# File: module/Application/view/application/transfers/index3.phtml, line: 206
-# File: module/Application/view/application/transfers/payment3.phtml, line: 541
-# File: module/Application/view/application/transfers/confirm3.phtml, line: 457
-# File: module/Application/view/application/login/rewards.phtml, line: 37
-# File: module/Application/view/application/login/reservations2.phtml, line: 131
-# File: module/Application/view/application/login/reservations2.phtml, line: 135
-# File: module/Application/view/application/content/cyberweek.phtml, line: 42
-# File: module/Application/view/application/content/blackfriday.phtml, line: 42
-# File: module/Application/view/application/content/pricematch.phtml, line: 139
-# File: module/Application/view/application/content/groups.phtml, line: 64
-# File: module/Application/view/application/content/weddings.phtml, line: 66
-# File: module/Application/view/application/catalog/destination2.phtml, line: 521
-# File: module/Application/view/application/trip-planner/summary.phtml, line: 192
-# File: module/Application/view/application/packages/search2.phtml, line: 194
-# File: module/Application/view/application/packages/view.phtml, line: 199
-# File: module/Application/view/application/escorted-tours/info2.phtml, line: 626
-# File: module/Application/view/application2/index/index.phtml, line: 36
-# File: module/Application/view/application2/hotels/info.phtml, line: 198
-# File: module/Application/view/application2/hotels/payment.phtml, line: 52
-# File: module/Application/view/application2/hotels/summary.phtml, line: 240
-# File: module/Application/view/layout/layout.phtml, line: 490
-msgid "Hotel"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 331
-# File: module/Application/view/application/booking/paynow.phtml, line: 448
-# File: module/Application/view/application/cart/index.phtml, line: 147
-# File: module/Application/view/application/trips/detail.phtml, line: 241
-# File: module/Application/view/application/trips/done.phtml, line: 19
-# File: module/Application/view/application/trips/done2.phtml, line: 57
-# File: module/Application/view/application/trips/index2.phtml, line: 137
-# File: module/Application/view/application/trips/detail3.phtml, line: 92
-# File: module/Application/view/application/trips/detail3.phtml, line: 205
-# File: module/Application/view/application/trips/detail4.phtml, line: 92
-# File: module/Application/view/application/trips/detail4.phtml, line: 205
-# File: module/Application/view/application/trips/detail5.phtml, line: 116
-# File: module/Application/view/application/trips/detail5.phtml, line: 250
-# File: module/Application/view/application/trips/detail5.phtml, line: 1323
-# File: module/Application/view/application/trips/detail2.phtml, line: 116
-# File: module/Application/view/application/trips/detail2.phtml, line: 250
-# File: module/Application/view/application/trips/detail2.phtml, line: 1390
-# File: module/Application/view/application/trips/detail6.phtml, line: 116
-# File: module/Application/view/application/trips/detail6.phtml, line: 250
-# File: module/Application/view/application/trips/detail6.phtml, line: 1323
-# File: module/Application/view/application/login/rewards.phtml, line: 38
-# File: module/Application/view/application2/index/index.phtml, line: 45
-# File: module/Application/view/layout/layout.phtml, line: 536
-msgid "Activity"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 337
-# File: module/Application/view/application/booking/details.phtml, line: 144
-# File: module/Application/view/application/booking/details.phtml, line: 379
-# File: module/Application/view/application/booking/paynow.phtml, line: 327
-# File: module/Application/view/application/cart/index.phtml, line: 19
-# File: module/Application/view/application/cart/passengers.phtml, line: 669
-# File: module/Application/view/application/cart/passengers.phtml, line: 680
-# File: module/Application/view/application/cart/confirm.phtml, line: 19
-# File: module/Application/view/application/cart/confirm.phtml, line: 34
-# File: module/Application/view/application/cart/confirm.phtml, line: 55
-# File: module/Application/view/application/cart/payment.phtml, line: 299
-# File: module/Application/view/application/cart/payment.phtml, line: 309
-# File: module/Application/view/application/cart/summary.phtml, line: 1161
-# File: module/Application/view/application/cart/summary.phtml, line: 1172
-# File: module/Application/view/application/hotels/index.phtml, line: 1278
-# File: module/Application/view/application/hotels/info2.phtml, line: 1904
-# File: module/Application/view/application/hotels/index2.phtml, line: 906
-# File: module/Application/view/application/hotels/info.phtml, line: 1386
-# File: module/Application/view/application/trips/done.phtml, line: 19
-# File: module/Application/view/application/trips/done2.phtml, line: 57
-# File: module/Application/view/application/destinations/peru.phtml, line: 684
-# File: module/Application/view/application/destinations/peru2.phtml, line: 1031
-# File: module/Application/view/application/destinations/index.phtml, line: 1183
-# File: module/Application/view/application/index/index.phtml, line: 2799
-# File: module/Application/view/application/transfers/index2.phtml, line: 401
-# File: module/Application/view/application/transfers/search.phtml, line: 544
-# File: module/Application/view/application/transfers/index.phtml, line: 238
-# File: module/Application/view/application/transfers/search2.phtml, line: 658
-# File: module/Application/view/application/transfers/index3.phtml, line: 379
-# File: module/Application/view/application/transfers/search3.phtml, line: 742
-# File: module/Application/view/application/login/rewards.phtml, line: 36
-# File: module/Application/view/application/login/reservations2.phtml, line: 131
-# File: module/Application/view/application/login/reservations2.phtml, line: 133
-# File: module/Application/view/application/air/seating2.phtml, line: 1132
-# File: module/Application/view/application/air/payment.phtml, line: 170
-# File: module/Application/view/application/air/payment.phtml, line: 181
-# File: module/Application/view/application/air/return.phtml, line: 764
-# File: module/Application/view/application/air/return.phtml, line: 1030
-# File: module/Application/view/application/air/ticketing.phtml, line: 260
-# File: module/Application/view/application/air/ticketing.phtml, line: 301
-# File: module/Application/view/application/air/ticketing.phtml, line: 414
-# File: module/Application/view/application/air/airline.phtml, line: 816
-# File: module/Application/view/application/air/index2.phtml, line: 187
-# File: module/Application/view/application/air/seating.phtml, line: 247
-# File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 391
-# File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 405
-# File: module/Application/view/application/air/confirm.phtml, line: 9
-# File: module/Application/view/application/air/confirm.phtml, line: 289
-# File: module/Application/view/application/air/summary.phtml, line: 320
-# File: module/Application/view/application/air/summary.phtml, line: 570
-# File: module/Application/view/application/air/summary.phtml, line: 784
-# File: module/Application/view/application/air/summary.phtml, line: 796
-# File: module/Application/view/application/air/summary.phtml, line: 1203
-# File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 204
-# File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 214
-# File: module/Application/view/application/air/segment.phtml, line: 136
-# File: module/Application/view/application/air/segment.phtml, line: 360
-# File: module/Application/view/application/air/ticketing2.phtml, line: 727
-# File: module/Application/view/application/air/ticketing2.phtml, line: 731
-# File: module/Application/view/application/air/ticketing2.phtml, line: 821
-# File: module/Application/view/application/air/ticketing2.phtml, line: 848
-# File: module/Application/view/application/air/ticketing2.phtml, line: 850
-# File: module/Application/view/application/air/ticketing2.phtml, line: 952
-# File: module/Application/view/application/air/ticketing2.phtml, line: 963
-# File: module/Application/view/application/air/search.phtml, line: 485
-# File: module/Application/view/application/air/search.phtml, line: 1014
-# File: module/Application/view/application/air/search.phtml, line: 1243
-# File: module/Application/view/application/air/search.phtml, line: 1606
-# File: module/Application/view/application/air/index.phtml, line: 705
-# File: module/Application/view/application/air/seating.old.phtml, line: 176
-# File: module/Application/view/application/air/passengers.phtml, line: 483
-# File: module/Application/view/application/air/passengers.phtml, line: 494
-# File: module/Application/view/application/air/summary2.phtml, line: 233
-# File: module/Application/view/application/air/summary2.phtml, line: 237
-# File: module/Application/view/application/air/summary2.phtml, line: 289
-# File: module/Application/view/application/air/summary2.phtml, line: 804
-# File: module/Application/view/application/air/summary2.phtml, line: 1147
-# File: module/Application/view/application/air/airline2.phtml, line: 442
-# File: module/Application/view/application/air/payment2.phtml, line: 489
-# File: module/Application/view/application/air/payment2.phtml, line: 494
-# File: module/Application/view/application/air/payment2.phtml, line: 498
-# File: module/Application/view/application/air/confirm2.phtml, line: 404
-# File: module/Application/view/application/air/passengers2.phtml, line: 781
-# File: module/Application/view/application/air/passengers2.phtml, line: 786
-# File: module/Application/view/application/air/passengers2.phtml, line: 791
-# File: module/Application/view/application/trip-planner/select.old.phtml, line: 855
-# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
-# File: module/Application/view/application/trip-planner/select.phtml, line: 895
-# File: module/Application/view/application/quotes/cart.phtml, line: 306
-# File: module/Application/view/application/quotes/cart.phtml, line: 658
-# File: module/Application/view/application/quotes/cart.phtml, line: 670
-# File: module/Application/view/application/quotes/air.phtml, line: 211
-# File: module/Application/view/application/quotes/air.phtml, line: 421
-# File: module/Application/view/application/quotes/air.phtml, line: 433
-# File: module/Application/view/application2/index/index.phtml, line: 39
-# File: module/Application/view/application2/hotels/info.phtml, line: 626
-# File: module/Application/view/layout/layout.phtml, line: 506
-msgid "Flight"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 340
-# File: module/Application/view/application/cars/confirm.phtml, line: 9
-# File: module/Application/view/application/cars/confirm2.phtml, line: 340
-# File: module/Application/view/application/booking/paynow.phtml, line: 358
-# File: module/Application/view/application/cart/confirm.phtml, line: 378
-# File: module/Application/view/application/content/pricematch.phtml, line: 160
-# File: module/Application/view/application/content/groups.phtml, line: 85
-# File: module/Application/view/application/content/weddings.phtml, line: 87
-msgid "Car Rental"
-msgstr ""
-#
-# File: module/Application/src/Controller/CartController.php, line: 346
-# File: module/Application/view/application/content/pricematch.phtml, line: 143
-# File: module/Application/view/application/content/groups.phtml, line: 68
-# File: module/Application/view/application/content/weddings.phtml, line: 70
-msgid "Airport Transfer"
 msgstr ""
 #
 # File: module/Application/src/Controller/JSONController.php, line: 6172
@@ -1385,6 +1132,20 @@ msgstr ""
 msgid "We have the perfect package for your next adventure – Click to discover it!"
 msgstr ""
 #
+# File: module/Application/src/Controller/HotelsController.php, line: 241
+# File: module/Application/src/Controller/CartController.php, line: 220
+# File: module/Application/view/application/cart/summary.phtml, line: 1651
+# File: module/Application/view/application/hotels/summary.phtml, line: 793
+msgid "Your dream trip to"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 241
+# File: module/Application/src/Controller/CartController.php, line: 220
+# File: module/Application/view/application/cart/summary.phtml, line: 1651
+# File: module/Application/view/application/hotels/summary.phtml, line: 793
+msgid "is waiting for you!"
+msgstr ""
+#
 # File: module/Application/src/Controller/HotelsController.php, line: 243
 # File: module/Application/view/application/hotels/summary.phtml, line: 794
 msgid "Check your quote for"
@@ -1411,6 +1172,245 @@ msgstr ""
 #
 # File: module/Application/src/Controller/GroupToursController.php, line: 345
 msgid "Please complete the details of every traveler."
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 214
+# File: module/Application/view/application/cart/summary.phtml, line: 1648
+msgid "Your Customized Vacation Package – Ready for Your Review!"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 216
+# File: module/Application/view/application/cart/summary.phtml, line: 1649
+msgid "Your Trip Package – Finalized and Ready!"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 218
+# File: module/Application/view/application/cart/summary.phtml, line: 1650
+msgid "We have the perfect vacation package for your next adventure – Click to discover it!"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 222
+# File: module/Application/view/application/cart/summary.phtml, line: 1652
+msgid "Check your travel package quote for"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 224
+# File: module/Application/view/application/cart/summary.phtml, line: 1653
+msgid "Your Vacation Package Quote Is Ready – Review & Confirm Now!"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 325
+# File: module/Application/view/application/booking/details.phtml, line: 493
+# File: module/Application/view/application/booking/paynow.phtml, line: 386
+# File: module/Application/view/application/cart/index.phtml, line: 102
+# File: module/Application/view/application/cart/confirm.phtml, line: 133
+# File: module/Application/view/application/hotels/confirm2.phtml, line: 475
+# File: module/Application/view/application/hotels/brands2.phtml, line: 605
+# File: module/Application/view/application/hotels/confirm.phtml, line: 37
+# File: module/Application/view/application/trips/detail.phtml, line: 168
+# File: module/Application/view/application/trips/done.phtml, line: 19
+# File: module/Application/view/application/trips/done2.phtml, line: 57
+# File: module/Application/view/application/trips/index2.phtml, line: 135
+# File: module/Application/view/application/trips/detail3.phtml, line: 189
+# File: module/Application/view/application/trips/detail3.phtml, line: 202
+# File: module/Application/view/application/trips/detail3.phtml, line: 644
+# File: module/Application/view/application/trips/detail3.phtml, line: 664
+# File: module/Application/view/application/trips/detail4.phtml, line: 189
+# File: module/Application/view/application/trips/detail4.phtml, line: 202
+# File: module/Application/view/application/trips/detail4.phtml, line: 659
+# File: module/Application/view/application/trips/detail4.phtml, line: 679
+# File: module/Application/view/application/trips/detail5.phtml, line: 135
+# File: module/Application/view/application/trips/detail5.phtml, line: 234
+# File: module/Application/view/application/trips/detail5.phtml, line: 247
+# File: module/Application/view/application/trips/detail5.phtml, line: 783
+# File: module/Application/view/application/trips/detail5.phtml, line: 802
+# File: module/Application/view/application/trips/detail5.phtml, line: 822
+# File: module/Application/view/application/trips/detail5.phtml, line: 1323
+# File: module/Application/view/application/trips/detail2.phtml, line: 135
+# File: module/Application/view/application/trips/detail2.phtml, line: 234
+# File: module/Application/view/application/trips/detail2.phtml, line: 247
+# File: module/Application/view/application/trips/detail2.phtml, line: 800
+# File: module/Application/view/application/trips/detail2.phtml, line: 819
+# File: module/Application/view/application/trips/detail2.phtml, line: 839
+# File: module/Application/view/application/trips/detail2.phtml, line: 1390
+# File: module/Application/view/application/trips/detail6.phtml, line: 135
+# File: module/Application/view/application/trips/detail6.phtml, line: 234
+# File: module/Application/view/application/trips/detail6.phtml, line: 247
+# File: module/Application/view/application/trips/detail6.phtml, line: 783
+# File: module/Application/view/application/trips/detail6.phtml, line: 802
+# File: module/Application/view/application/trips/detail6.phtml, line: 822
+# File: module/Application/view/application/trips/detail6.phtml, line: 1323
+# File: module/Application/view/application/index/index.phtml, line: 1125
+# File: module/Application/view/application/transfers/index2.phtml, line: 190
+# File: module/Application/view/application/transfers/confirm2.phtml, line: 372
+# File: module/Application/view/application/transfers/payment2.phtml, line: 508
+# File: module/Application/view/application/transfers/index.phtml, line: 62
+# File: module/Application/view/application/transfers/index3.phtml, line: 206
+# File: module/Application/view/application/transfers/payment3.phtml, line: 541
+# File: module/Application/view/application/transfers/confirm3.phtml, line: 457
+# File: module/Application/view/application/login/rewards.phtml, line: 37
+# File: module/Application/view/application/login/reservations2.phtml, line: 131
+# File: module/Application/view/application/login/reservations2.phtml, line: 135
+# File: module/Application/view/application/content/cyberweek.phtml, line: 42
+# File: module/Application/view/application/content/blackfriday.phtml, line: 42
+# File: module/Application/view/application/content/pricematch.phtml, line: 139
+# File: module/Application/view/application/content/groups.phtml, line: 64
+# File: module/Application/view/application/content/weddings.phtml, line: 66
+# File: module/Application/view/application/catalog/destination2.phtml, line: 521
+# File: module/Application/view/application/trip-planner/summary.phtml, line: 192
+# File: module/Application/view/application/packages/search2.phtml, line: 194
+# File: module/Application/view/application/packages/view.phtml, line: 199
+# File: module/Application/view/application/escorted-tours/info2.phtml, line: 626
+# File: module/Application/view/application2/index/index.phtml, line: 36
+# File: module/Application/view/application2/hotels/info.phtml, line: 198
+# File: module/Application/view/application2/hotels/payment.phtml, line: 52
+# File: module/Application/view/application2/hotels/summary.phtml, line: 240
+# File: module/Application/view/layout/layout.phtml, line: 490
+msgid "Hotel"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 331
+# File: module/Application/view/application/booking/paynow.phtml, line: 448
+# File: module/Application/view/application/cart/index.phtml, line: 147
+# File: module/Application/view/application/trips/detail.phtml, line: 241
+# File: module/Application/view/application/trips/done.phtml, line: 19
+# File: module/Application/view/application/trips/done2.phtml, line: 57
+# File: module/Application/view/application/trips/index2.phtml, line: 137
+# File: module/Application/view/application/trips/detail3.phtml, line: 92
+# File: module/Application/view/application/trips/detail3.phtml, line: 205
+# File: module/Application/view/application/trips/detail4.phtml, line: 92
+# File: module/Application/view/application/trips/detail4.phtml, line: 205
+# File: module/Application/view/application/trips/detail5.phtml, line: 116
+# File: module/Application/view/application/trips/detail5.phtml, line: 250
+# File: module/Application/view/application/trips/detail5.phtml, line: 1323
+# File: module/Application/view/application/trips/detail2.phtml, line: 116
+# File: module/Application/view/application/trips/detail2.phtml, line: 250
+# File: module/Application/view/application/trips/detail2.phtml, line: 1390
+# File: module/Application/view/application/trips/detail6.phtml, line: 116
+# File: module/Application/view/application/trips/detail6.phtml, line: 250
+# File: module/Application/view/application/trips/detail6.phtml, line: 1323
+# File: module/Application/view/application/login/rewards.phtml, line: 38
+# File: module/Application/view/application2/index/index.phtml, line: 45
+# File: module/Application/view/layout/layout.phtml, line: 536
+msgid "Activity"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 337
+# File: module/Application/view/application/booking/details.phtml, line: 144
+# File: module/Application/view/application/booking/details.phtml, line: 379
+# File: module/Application/view/application/booking/paynow.phtml, line: 327
+# File: module/Application/view/application/cart/index.phtml, line: 19
+# File: module/Application/view/application/cart/passengers.phtml, line: 669
+# File: module/Application/view/application/cart/passengers.phtml, line: 680
+# File: module/Application/view/application/cart/confirm.phtml, line: 19
+# File: module/Application/view/application/cart/confirm.phtml, line: 34
+# File: module/Application/view/application/cart/confirm.phtml, line: 55
+# File: module/Application/view/application/cart/payment.phtml, line: 299
+# File: module/Application/view/application/cart/payment.phtml, line: 309
+# File: module/Application/view/application/cart/summary.phtml, line: 1161
+# File: module/Application/view/application/cart/summary.phtml, line: 1172
+# File: module/Application/view/application/hotels/index.phtml, line: 1278
+# File: module/Application/view/application/hotels/info2.phtml, line: 1904
+# File: module/Application/view/application/hotels/index2.phtml, line: 906
+# File: module/Application/view/application/hotels/info.phtml, line: 1386
+# File: module/Application/view/application/trips/done.phtml, line: 19
+# File: module/Application/view/application/trips/done2.phtml, line: 57
+# File: module/Application/view/application/destinations/peru.phtml, line: 684
+# File: module/Application/view/application/destinations/peru2.phtml, line: 1031
+# File: module/Application/view/application/destinations/index.phtml, line: 1183
+# File: module/Application/view/application/index/index.phtml, line: 2799
+# File: module/Application/view/application/transfers/index2.phtml, line: 401
+# File: module/Application/view/application/transfers/search.phtml, line: 544
+# File: module/Application/view/application/transfers/index.phtml, line: 238
+# File: module/Application/view/application/transfers/search2.phtml, line: 658
+# File: module/Application/view/application/transfers/index3.phtml, line: 379
+# File: module/Application/view/application/transfers/search3.phtml, line: 742
+# File: module/Application/view/application/login/rewards.phtml, line: 36
+# File: module/Application/view/application/login/reservations2.phtml, line: 131
+# File: module/Application/view/application/login/reservations2.phtml, line: 133
+# File: module/Application/view/application/air/seating2.phtml, line: 1132
+# File: module/Application/view/application/air/payment.phtml, line: 170
+# File: module/Application/view/application/air/payment.phtml, line: 181
+# File: module/Application/view/application/air/return.phtml, line: 764
+# File: module/Application/view/application/air/return.phtml, line: 1030
+# File: module/Application/view/application/air/ticketing.phtml, line: 260
+# File: module/Application/view/application/air/ticketing.phtml, line: 301
+# File: module/Application/view/application/air/ticketing.phtml, line: 414
+# File: module/Application/view/application/air/airline.phtml, line: 816
+# File: module/Application/view/application/air/index2.phtml, line: 187
+# File: module/Application/view/application/air/seating.phtml, line: 247
+# File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 391
+# File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 405
+# File: module/Application/view/application/air/confirm.phtml, line: 9
+# File: module/Application/view/application/air/confirm.phtml, line: 289
+# File: module/Application/view/application/air/summary.phtml, line: 320
+# File: module/Application/view/application/air/summary.phtml, line: 570
+# File: module/Application/view/application/air/summary.phtml, line: 784
+# File: module/Application/view/application/air/summary.phtml, line: 796
+# File: module/Application/view/application/air/summary.phtml, line: 1203
+# File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 204
+# File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 214
+# File: module/Application/view/application/air/segment.phtml, line: 136
+# File: module/Application/view/application/air/segment.phtml, line: 360
+# File: module/Application/view/application/air/ticketing2.phtml, line: 727
+# File: module/Application/view/application/air/ticketing2.phtml, line: 731
+# File: module/Application/view/application/air/ticketing2.phtml, line: 821
+# File: module/Application/view/application/air/ticketing2.phtml, line: 848
+# File: module/Application/view/application/air/ticketing2.phtml, line: 850
+# File: module/Application/view/application/air/ticketing2.phtml, line: 952
+# File: module/Application/view/application/air/ticketing2.phtml, line: 963
+# File: module/Application/view/application/air/search.phtml, line: 485
+# File: module/Application/view/application/air/search.phtml, line: 1014
+# File: module/Application/view/application/air/search.phtml, line: 1243
+# File: module/Application/view/application/air/search.phtml, line: 1606
+# File: module/Application/view/application/air/index.phtml, line: 705
+# File: module/Application/view/application/air/seating.old.phtml, line: 176
+# File: module/Application/view/application/air/passengers.phtml, line: 483
+# File: module/Application/view/application/air/passengers.phtml, line: 494
+# File: module/Application/view/application/air/summary2.phtml, line: 233
+# File: module/Application/view/application/air/summary2.phtml, line: 237
+# File: module/Application/view/application/air/summary2.phtml, line: 289
+# File: module/Application/view/application/air/summary2.phtml, line: 804
+# File: module/Application/view/application/air/summary2.phtml, line: 1147
+# File: module/Application/view/application/air/airline2.phtml, line: 442
+# File: module/Application/view/application/air/payment2.phtml, line: 489
+# File: module/Application/view/application/air/payment2.phtml, line: 494
+# File: module/Application/view/application/air/payment2.phtml, line: 498
+# File: module/Application/view/application/air/confirm2.phtml, line: 404
+# File: module/Application/view/application/air/passengers2.phtml, line: 781
+# File: module/Application/view/application/air/passengers2.phtml, line: 786
+# File: module/Application/view/application/air/passengers2.phtml, line: 791
+# File: module/Application/view/application/trip-planner/select.old.phtml, line: 855
+# File: module/Application/view/application/trip-planner/confirm.phtml, line: 37
+# File: module/Application/view/application/trip-planner/select.phtml, line: 895
+# File: module/Application/view/application/quotes/cart.phtml, line: 306
+# File: module/Application/view/application/quotes/cart.phtml, line: 658
+# File: module/Application/view/application/quotes/cart.phtml, line: 670
+# File: module/Application/view/application/quotes/air.phtml, line: 211
+# File: module/Application/view/application/quotes/air.phtml, line: 421
+# File: module/Application/view/application/quotes/air.phtml, line: 433
+# File: module/Application/view/application2/index/index.phtml, line: 39
+# File: module/Application/view/application2/hotels/info.phtml, line: 626
+# File: module/Application/view/layout/layout.phtml, line: 506
+msgid "Flight"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 340
+# File: module/Application/view/application/cars/confirm.phtml, line: 9
+# File: module/Application/view/application/cars/confirm2.phtml, line: 340
+# File: module/Application/view/application/booking/paynow.phtml, line: 358
+# File: module/Application/view/application/cart/confirm.phtml, line: 378
+# File: module/Application/view/application/content/pricematch.phtml, line: 160
+# File: module/Application/view/application/content/groups.phtml, line: 85
+# File: module/Application/view/application/content/weddings.phtml, line: 87
+msgid "Car Rental"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 346
+# File: module/Application/view/application/content/pricematch.phtml, line: 143
+# File: module/Application/view/application/content/groups.phtml, line: 68
+# File: module/Application/view/application/content/weddings.phtml, line: 70
+msgid "Airport Transfer"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/stop.phtml, line: 5
