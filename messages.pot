@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 17:41-0500\n"
+"POT-Creation-Date: 2026-11-03 18:04-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1156,7 +1156,7 @@ msgstr ""
 msgid "Your Hotel Quote Is Ready – Review & Confirm Now!"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 7303
+# File: module/Application/src/Controller/HotelsController.php, line: 7337
 # File: module/Application/view/application/trips/checkout.phtml, line: 183
 # File: module/Application/view/application/trips/checkout2.phtml, line: 544
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
@@ -13833,6 +13833,8 @@ msgstr ""
 # File: module/Application/view/application/agent/index.phtml, line: 136
 # File: module/Application/view/application/agent/login.phtml, line: 41
 # File: module/Application/view/application/agent/subagent.phtml, line: 20
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 191
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 192
 # File: module/Application/view/application/transfers/search2.phtml, line: 607
 # File: module/Application/view/application/transfers/search3.phtml, line: 689
 # File: module/Application/view/application/login/index.phtml, line: 42
@@ -14128,6 +14130,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 491
 # File: module/Application/view/application/hotels/info.phtml, line: 546
 # File: module/Application/view/application/hotels/confirm.phtml, line: 126
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 182
 # File: module/Application/view/application/destinations/disney.phtml, line: 534
 # File: module/Application/view/application/destinations/disney.phtml, line: 540
 # File: module/Application/view/application/destinations/disney.phtml, line: 725
@@ -14617,6 +14620,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/summary2.phtml, line: 601
 # File: module/Application/view/application/hotels/partial/h2-loader.phtml, line: 85
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 681
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 182
 # File: module/Application/view/application/trip-planner/transport.phtml, line: 64
 # File: module/Application/view/application/cruises/partial/cr-loader.phtml, line: 62
 # File: module/Application/view/application/packages/search2.phtml, line: 137
@@ -23565,6 +23569,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 804
 # File: module/Application/view/application/hotels/payment2.phtml, line: 814
 # File: module/Application/view/application/hotels/partial/h2-loader.phtml, line: 83
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 180
 msgid "Check-in"
 msgstr ""
 #
@@ -23572,6 +23577,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.phtml, line: 804
 # File: module/Application/view/application/hotels/payment2.phtml, line: 819
 # File: module/Application/view/application/hotels/partial/h2-loader.phtml, line: 84
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 181
 msgid "Check-out"
 msgstr ""
 #
@@ -25107,6 +25113,46 @@ msgstr ""
 # File: module/Application/view/application/cruises/passengers2.phtml, line: 1154
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 947
 msgid "Preparing secure payment"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 88
+msgid "Exclusive offer"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 102
+msgid "Searching flights"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 104
+msgid "Checking room availability"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 105
+msgid "Applying your promo code"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 105
+msgid "Applying your exclusive rate"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 106
+msgid "Building your bundle"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 158
+msgid "We are building your deal"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 159
+msgid "Hang tight, we are getting the best price for you."
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 164
+msgid "Promo code applied"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/goinfo2.phtml, line: 191
+msgid "Not moving?"
 msgstr ""
 #
 # File: module/Application/view/application/disney-tickets/confirm.phtml, line: 2
