@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-04 11:04-0500\n"
+"POT-Creation-Date: 2026-11-04 12:17-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -765,8 +765,8 @@ msgid "Check your activity quote for"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 234
-# File: module/Application/src/Controller/HotelsController.php, line: 243
 # File: module/Application/src/Controller/CartController.php, line: 222
+# File: module/Application/src/Controller/HotelsController.php, line: 243
 # File: module/Application/view/application/cart/summary.phtml, line: 1652
 # File: module/Application/view/application/hotels/summary.phtml, line: 794
 # File: module/Application/view/application/activities/summary.phtml, line: 369
@@ -1117,51 +1117,6 @@ msgstr ""
 msgid "Your Account Password Has Been Updated"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 235
-# File: module/Application/view/application/hotels/summary.phtml, line: 790
-msgid "Your Customized Hotel Quote – Ready for Your Review!"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 237
-# File: module/Application/view/application/hotels/summary.phtml, line: 791
-msgid "Hotel Quote for You – Finalized and Ready!"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 239
-# File: module/Application/view/application/hotels/summary.phtml, line: 792
-msgid "We have the perfect package for your next adventure – Click to discover it!"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 241
-# File: module/Application/src/Controller/CartController.php, line: 220
-# File: module/Application/view/application/cart/summary.phtml, line: 1651
-# File: module/Application/view/application/hotels/summary.phtml, line: 793
-msgid "Your dream trip to"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 241
-# File: module/Application/src/Controller/CartController.php, line: 220
-# File: module/Application/view/application/cart/summary.phtml, line: 1651
-# File: module/Application/view/application/hotels/summary.phtml, line: 793
-msgid "is waiting for you!"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 243
-# File: module/Application/view/application/hotels/summary.phtml, line: 794
-msgid "Check your quote for"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 245
-# File: module/Application/view/application/hotels/summary.phtml, line: 795
-msgid "Your Hotel Quote Is Ready – Review & Confirm Now!"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 7337
-# File: module/Application/view/application/trips/checkout.phtml, line: 183
-# File: module/Application/view/application/trips/checkout2.phtml, line: 544
-msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
-msgstr ""
-#
 # File: module/Application/src/Controller/GroupToursController.php, line: 323
 msgid "Please enter your card details."
 msgstr ""
@@ -1187,6 +1142,20 @@ msgstr ""
 # File: module/Application/src/Controller/CartController.php, line: 218
 # File: module/Application/view/application/cart/summary.phtml, line: 1650
 msgid "We have the perfect vacation package for your next adventure – Click to discover it!"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 220
+# File: module/Application/src/Controller/HotelsController.php, line: 241
+# File: module/Application/view/application/cart/summary.phtml, line: 1651
+# File: module/Application/view/application/hotels/summary.phtml, line: 793
+msgid "Your dream trip to"
+msgstr ""
+#
+# File: module/Application/src/Controller/CartController.php, line: 220
+# File: module/Application/src/Controller/HotelsController.php, line: 241
+# File: module/Application/view/application/cart/summary.phtml, line: 1651
+# File: module/Application/view/application/hotels/summary.phtml, line: 793
+msgid "is waiting for you!"
 msgstr ""
 #
 # File: module/Application/src/Controller/CartController.php, line: 222
@@ -1413,6 +1382,37 @@ msgstr ""
 # File: module/Application/view/application/content/groups.phtml, line: 68
 # File: module/Application/view/application/content/weddings.phtml, line: 70
 msgid "Airport Transfer"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 235
+# File: module/Application/view/application/hotels/summary.phtml, line: 790
+msgid "Your Customized Hotel Quote – Ready for Your Review!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 237
+# File: module/Application/view/application/hotels/summary.phtml, line: 791
+msgid "Hotel Quote for You – Finalized and Ready!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 239
+# File: module/Application/view/application/hotels/summary.phtml, line: 792
+msgid "We have the perfect package for your next adventure – Click to discover it!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 243
+# File: module/Application/view/application/hotels/summary.phtml, line: 794
+msgid "Check your quote for"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 245
+# File: module/Application/view/application/hotels/summary.phtml, line: 795
+msgid "Your Hotel Quote Is Ready – Review & Confirm Now!"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 7363
+# File: module/Application/view/application/trips/checkout.phtml, line: 183
+# File: module/Application/view/application/trips/checkout2.phtml, line: 544
+msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
 # File: module/Application/view/application/funnel/stop.phtml, line: 5
