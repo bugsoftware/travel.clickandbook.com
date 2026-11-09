@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-09 09:21-0500\n"
+"POT-Creation-Date: 2026-11-09 15:01-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -543,12 +543,12 @@ msgstr ""
 msgid "Your Activity Quote Is Ready – Review & Confirm Now!"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 5444
+# File: module/Application/src/Controller/ActivitiesController.php, line: 5445
 # File: module/Application/src/Controller/CartController.php, line: 3559
 msgid "This is a Non-Refundable booking. It cannot be cancelled, amended or modified."
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 5457
+# File: module/Application/src/Controller/ActivitiesController.php, line: 5458
 # File: module/Application/src/Controller/CartController.php, line: 3572
 # File: module/Application/view/application/escorted-tours/confirm.phtml, line: 209
 # File: module/Application/view/application/escorted-tours/summary.phtml, line: 952
@@ -557,12 +557,12 @@ msgstr ""
 msgid "Cancel on or after"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 5457
+# File: module/Application/src/Controller/ActivitiesController.php, line: 5458
 # File: module/Application/src/Controller/CartController.php, line: 3572
 msgid "will incur in"
 msgstr ""
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 5457
+# File: module/Application/src/Controller/ActivitiesController.php, line: 5458
 # File: module/Application/src/Controller/CartController.php, line: 3572
 msgid "penalty."
 msgstr ""
@@ -2824,17 +2824,17 @@ msgstr ""
 # File: module/Application/view/application/activities/index2.phtml, line: 240
 # File: module/Application/view/application/activities/index3.phtml, line: 304
 # File: module/Application/view/application/activities/passengers.phtml, line: 760
-# File: module/Application/view/application/activities/info.phtml, line: 684
-# File: module/Application/view/application/activities/info.phtml, line: 706
+# File: module/Application/view/application/activities/info.phtml, line: 685
+# File: module/Application/view/application/activities/info.phtml, line: 707
 # File: module/Application/view/application/activities/passengers2.phtml, line: 746
-# File: module/Application/view/application/activities/info2.phtml, line: 693
-# File: module/Application/view/application/activities/info2.phtml, line: 783
+# File: module/Application/view/application/activities/info2.phtml, line: 722
+# File: module/Application/view/application/activities/info2.phtml, line: 820
 # File: module/Application/view/application/activities/summary.phtml, line: 393
 # File: module/Application/view/application/activities/summary2.phtml, line: 430
 # File: module/Application/view/application/activities/partial/v3-loader.phtml, line: 56
 # File: module/Application/view/application/activities/search3.phtml, line: 418
-# File: module/Application/view/application/activities/info3.phtml, line: 744
-# File: module/Application/view/application/activities/info3.phtml, line: 836
+# File: module/Application/view/application/activities/info3.phtml, line: 773
+# File: module/Application/view/application/activities/info3.phtml, line: 873
 # File: module/Application/view/application/activities/summary3.phtml, line: 460
 # File: module/Application/view/application/activities/index4.phtml, line: 272
 # File: module/Application/view/application/activities/passengers3.phtml, line: 782
@@ -3074,10 +3074,10 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 771
 # File: module/Application/view/application/activities/info.phtml, line: 619
 # File: module/Application/view/application/activities/passengers2.phtml, line: 755
-# File: module/Application/view/application/activities/info2.phtml, line: 644
+# File: module/Application/view/application/activities/info2.phtml, line: 657
 # File: module/Application/view/application/activities/summary2.phtml, line: 396
 # File: module/Application/view/application/activities/search3.phtml, line: 422
-# File: module/Application/view/application/activities/info3.phtml, line: 683
+# File: module/Application/view/application/activities/info3.phtml, line: 696
 # File: module/Application/view/application/activities/summary3.phtml, line: 426
 # File: module/Application/view/application/activities/index4.phtml, line: 276
 # File: module/Application/view/application/activities/passengers3.phtml, line: 791
@@ -5068,8 +5068,16 @@ msgstr ""
 # File: module/Application/view/application/activities/index3.phtml, line: 174
 # File: module/Application/view/application/activities/index3.phtml, line: 331
 # File: module/Application/view/application/activities/info.phtml, line: 641
+# File: module/Application/view/application/activities/info2.phtml, line: 639
+# File: module/Application/view/application/activities/info2.phtml, line: 644
+# File: module/Application/view/application/activities/info2.phtml, line: 650
+# File: module/Application/view/application/activities/info2.phtml, line: 696
 # File: module/Application/view/application/activities/search3.phtml, line: 313
 # File: module/Application/view/application/activities/search3.phtml, line: 445
+# File: module/Application/view/application/activities/info3.phtml, line: 678
+# File: module/Application/view/application/activities/info3.phtml, line: 683
+# File: module/Application/view/application/activities/info3.phtml, line: 689
+# File: module/Application/view/application/activities/info3.phtml, line: 747
 # File: module/Application/view/application/activities/index4.phtml, line: 156
 # File: module/Application/view/application/activities/index4.phtml, line: 299
 # File: module/Application/view/application/activities/search4.phtml, line: 348
@@ -5170,8 +5178,11 @@ msgstr ""
 # File: module/Application/view/application/activities/index2.phtml, line: 268
 # File: module/Application/view/application/activities/index3.phtml, line: 175
 # File: module/Application/view/application/activities/index3.phtml, line: 332
+# File: module/Application/view/application/activities/info.phtml, line: 650
+# File: module/Application/view/application/activities/info2.phtml, line: 697
 # File: module/Application/view/application/activities/search3.phtml, line: 313
 # File: module/Application/view/application/activities/search3.phtml, line: 446
+# File: module/Application/view/application/activities/info3.phtml, line: 748
 # File: module/Application/view/application/activities/index4.phtml, line: 156
 # File: module/Application/view/application/activities/index4.phtml, line: 300
 # File: module/Application/view/application/activities/search4.phtml, line: 348
@@ -5492,7 +5503,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 112
 # File: module/Application/view/application/activities/passengers2.phtml, line: 629
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 627
+# File: module/Application/view/application/activities/info2.phtml, line: 635
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 184
 # File: module/Application/view/application/activities/summary.phtml, line: 220
@@ -5503,8 +5514,8 @@ msgstr ""
 # File: module/Application/view/application/activities/search3.phtml, line: 262
 # File: module/Application/view/application/activities/search3.phtml, line: 293
 # File: module/Application/view/application/activities/search3.phtml, line: 452
-# File: module/Application/view/application/activities/info3.phtml, line: 392
-# File: module/Application/view/application/activities/info3.phtml, line: 666
+# File: module/Application/view/application/activities/info3.phtml, line: 400
+# File: module/Application/view/application/activities/info3.phtml, line: 674
 # File: module/Application/view/application/activities/summary3.phtml, line: 187
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 268
@@ -5785,8 +5796,8 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 645
 # File: module/Application/view/application/activities/passengers2.phtml, line: 629
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 627
 # File: module/Application/view/application/activities/info2.phtml, line: 635
+# File: module/Application/view/application/activities/info2.phtml, line: 644
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 186
 # File: module/Application/view/application/activities/summary.phtml, line: 220
@@ -5798,9 +5809,9 @@ msgstr ""
 # File: module/Application/view/application/activities/search3.phtml, line: 293
 # File: module/Application/view/application/activities/search3.phtml, line: 303
 # File: module/Application/view/application/activities/search3.phtml, line: 451
-# File: module/Application/view/application/activities/info3.phtml, line: 392
-# File: module/Application/view/application/activities/info3.phtml, line: 666
+# File: module/Application/view/application/activities/info3.phtml, line: 400
 # File: module/Application/view/application/activities/info3.phtml, line: 674
+# File: module/Application/view/application/activities/info3.phtml, line: 683
 # File: module/Application/view/application/activities/summary3.phtml, line: 187
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 268
@@ -6083,7 +6094,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 108
 # File: module/Application/view/application/activities/passengers2.phtml, line: 627
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 627
+# File: module/Application/view/application/activities/info2.phtml, line: 635
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 177
 # File: module/Application/view/application/activities/summary.phtml, line: 220
@@ -6094,8 +6105,8 @@ msgstr ""
 # File: module/Application/view/application/activities/search3.phtml, line: 262
 # File: module/Application/view/application/activities/search3.phtml, line: 293
 # File: module/Application/view/application/activities/search3.phtml, line: 450
-# File: module/Application/view/application/activities/info3.phtml, line: 392
-# File: module/Application/view/application/activities/info3.phtml, line: 666
+# File: module/Application/view/application/activities/info3.phtml, line: 400
+# File: module/Application/view/application/activities/info3.phtml, line: 674
 # File: module/Application/view/application/activities/summary3.phtml, line: 187
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 266
@@ -6362,8 +6373,8 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 647
 # File: module/Application/view/application/activities/passengers2.phtml, line: 627
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 627
-# File: module/Application/view/application/activities/info2.phtml, line: 631
+# File: module/Application/view/application/activities/info2.phtml, line: 635
+# File: module/Application/view/application/activities/info2.phtml, line: 639
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 179
 # File: module/Application/view/application/activities/summary.phtml, line: 220
@@ -6375,9 +6386,9 @@ msgstr ""
 # File: module/Application/view/application/activities/search3.phtml, line: 293
 # File: module/Application/view/application/activities/search3.phtml, line: 298
 # File: module/Application/view/application/activities/search3.phtml, line: 449
-# File: module/Application/view/application/activities/info3.phtml, line: 392
-# File: module/Application/view/application/activities/info3.phtml, line: 666
-# File: module/Application/view/application/activities/info3.phtml, line: 670
+# File: module/Application/view/application/activities/info3.phtml, line: 400
+# File: module/Application/view/application/activities/info3.phtml, line: 674
+# File: module/Application/view/application/activities/info3.phtml, line: 678
 # File: module/Application/view/application/activities/summary3.phtml, line: 187
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 266
@@ -10427,8 +10438,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/payment.phtml, line: 611
 # File: module/Application/view/application/hotels/payment2.phtml, line: 933
 # File: module/Application/view/application/destinations/index.phtml, line: 1216
-# File: module/Application/view/application/activities/info.phtml, line: 661
-# File: module/Application/view/application/activities/info.phtml, line: 677
+# File: module/Application/view/application/activities/info.phtml, line: 662
+# File: module/Application/view/application/activities/info.phtml, line: 678
 # File: module/Application/view/application/activities/summary.phtml, line: 405
 # File: module/Application/view/application/activities/summary.phtml, line: 522
 # File: module/Application/view/application/activities/payment.phtml, line: 532
@@ -10853,7 +10864,7 @@ msgstr ""
 # File: module/Application/view/application/river-cruises/index.phtml, line: 310
 # File: module/Application/view/application/river-cruises/index2.phtml, line: 318
 # File: module/Application/view/application/activities/partial/v3-loader.phtml, line: 39
-# File: module/Application/view/application/activities/info3.phtml, line: 716
+# File: module/Application/view/application/activities/info3.phtml, line: 742
 # File: module/Application/view/application/activities/passengers3.phtml, line: 703
 # File: module/Application/view/application/transfers/partial/v3-loader.phtml, line: 35
 # File: module/Application/view/application/transfers/search3.phtml, line: 252
@@ -12370,9 +12381,9 @@ msgstr ""
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 177
 # File: module/Application/view/application/destinations/sales.phtml, line: 305
 # File: module/Application/view/application/activities/search2.phtml, line: 73
-# File: module/Application/view/application/activities/info2.phtml, line: 426
+# File: module/Application/view/application/activities/info2.phtml, line: 434
 # File: module/Application/view/application/activities/search3.phtml, line: 85
-# File: module/Application/view/application/activities/info3.phtml, line: 465
+# File: module/Application/view/application/activities/info3.phtml, line: 473
 # File: module/Application/view/application/activities/search4.phtml, line: 91
 # File: module/Application/view/application/sales/index.phtml, line: 416
 # File: module/Application/view/application/sales/index2.phtml, line: 331
@@ -12960,13 +12971,13 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 115
 # File: module/Application/view/application/activities/passengers2.phtml, line: 631
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 640
+# File: module/Application/view/application/activities/info2.phtml, line: 650
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 191
 # File: module/Application/view/application/activities/summary.phtml, line: 220
 # File: module/Application/view/application/activities/confirm2.phtml, line: 317
 # File: module/Application/view/application/activities/summary2.phtml, line: 252
-# File: module/Application/view/application/activities/info3.phtml, line: 679
+# File: module/Application/view/application/activities/info3.phtml, line: 689
 # File: module/Application/view/application/activities/summary3.phtml, line: 270
 # File: module/Application/view/application/activities/confirm3.phtml, line: 337
 # File: module/Application/view/application/activities/passengers3.phtml, line: 125
@@ -13012,14 +13023,14 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 649
 # File: module/Application/view/application/activities/passengers2.phtml, line: 631
 # File: module/Application/view/application/activities/confirm.phtml, line: 45
-# File: module/Application/view/application/activities/info2.phtml, line: 627
+# File: module/Application/view/application/activities/info2.phtml, line: 635
 # File: module/Application/view/application/activities/summary.phtml, line: 43
 # File: module/Application/view/application/activities/summary.phtml, line: 193
 # File: module/Application/view/application/activities/summary.phtml, line: 220
 # File: module/Application/view/application/activities/confirm2.phtml, line: 317
 # File: module/Application/view/application/activities/summary2.phtml, line: 218
 # File: module/Application/view/application/activities/summary2.phtml, line: 252
-# File: module/Application/view/application/activities/info3.phtml, line: 666
+# File: module/Application/view/application/activities/info3.phtml, line: 674
 # File: module/Application/view/application/activities/summary3.phtml, line: 187
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 270
@@ -15138,12 +15149,12 @@ msgstr ""
 # File: module/Application/view/application/activities/index3.phtml, line: 134
 # File: module/Application/view/application/activities/passengers.phtml, line: 373
 # File: module/Application/view/application/activities/passengers2.phtml, line: 606
-# File: module/Application/view/application/activities/info2.phtml, line: 616
+# File: module/Application/view/application/activities/info2.phtml, line: 624
 # File: module/Application/view/application/activities/summary.phtml, line: 162
 # File: module/Application/view/application/activities/confirm2.phtml, line: 266
 # File: module/Application/view/application/activities/summary2.phtml, line: 214
 # File: module/Application/view/application/activities/search3.phtml, line: 283
-# File: module/Application/view/application/activities/info3.phtml, line: 655
+# File: module/Application/view/application/activities/info3.phtml, line: 663
 # File: module/Application/view/application/activities/summary3.phtml, line: 232
 # File: module/Application/view/application/activities/confirm3.phtml, line: 286
 # File: module/Application/view/application/activities/index4.phtml, line: 132
@@ -15520,8 +15531,8 @@ msgstr ""
 #
 # File: module/Application/view/application/cart/index2.phtml, line: 349
 # File: module/Application/view/application/hotels/info2.phtml, line: 2614
-# File: module/Application/view/application/activities/info3.phtml, line: 708
-# File: module/Application/view/application/activities/info3.phtml, line: 714
+# File: module/Application/view/application/activities/info3.phtml, line: 734
+# File: module/Application/view/application/activities/info3.phtml, line: 740
 # File: module/Application/view/application/escorted-tours/select3.phtml, line: 1017
 msgid "Checking availability"
 msgstr ""
@@ -16540,8 +16551,8 @@ msgstr ""
 # File: module/Application/view/application/destinations/index.phtml, line: 447
 # File: module/Application/view/application/activities/index3.phtml, line: 249
 # File: module/Application/view/application/activities/info.phtml, line: 66
-# File: module/Application/view/application/activities/info2.phtml, line: 582
-# File: module/Application/view/application/activities/info3.phtml, line: 621
+# File: module/Application/view/application/activities/info2.phtml, line: 590
+# File: module/Application/view/application/activities/info3.phtml, line: 629
 # File: module/Application/view/application/activities/index4.phtml, line: 217
 # File: module/Application/view/application/index/index2-content.phtml, line: 280
 # File: module/Application/view/application/index/index2-content.phtml, line: 391
@@ -17605,9 +17616,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 283
 # File: module/Application/view/application/activities/search2.phtml, line: 84
 # File: module/Application/view/application/activities/info.phtml, line: 54
-# File: module/Application/view/application/activities/info2.phtml, line: 296
+# File: module/Application/view/application/activities/info2.phtml, line: 304
 # File: module/Application/view/application/activities/search3.phtml, line: 96
-# File: module/Application/view/application/activities/info3.phtml, line: 306
+# File: module/Application/view/application/activities/info3.phtml, line: 314
 # File: module/Application/view/application/activities/search4.phtml, line: 102
 # File: module/Application/view/application/air/return.phtml, line: 759
 # File: module/Application/view/application/air/summary.phtml, line: 256
@@ -17635,10 +17646,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 284
 # File: module/Application/view/application/activities/info.phtml, line: 54
 # File: module/Application/view/application/activities/info.phtml, line: 324
-# File: module/Application/view/application/activities/info2.phtml, line: 297
-# File: module/Application/view/application/activities/info2.phtml, line: 496
-# File: module/Application/view/application/activities/info3.phtml, line: 307
-# File: module/Application/view/application/activities/info3.phtml, line: 535
+# File: module/Application/view/application/activities/info2.phtml, line: 305
+# File: module/Application/view/application/activities/info2.phtml, line: 504
+# File: module/Application/view/application/activities/info3.phtml, line: 315
+# File: module/Application/view/application/activities/info3.phtml, line: 543
 # File: module/Application/view/application/air/return.phtml, line: 759
 # File: module/Application/view/application/air/summary.phtml, line: 257
 # File: module/Application/view/application/air/segment.phtml, line: 355
@@ -18480,9 +18491,9 @@ msgstr ""
 # File: module/Application/view/application/river-cruises/product2.phtml, line: 334
 # File: module/Application/view/application/river-cruises/summary2.phtml, line: 145
 # File: module/Application/view/application/river-cruises/card2.phtml, line: 48
-# File: module/Application/view/application/activities/info2.phtml, line: 584
+# File: module/Application/view/application/activities/info2.phtml, line: 592
 # File: module/Application/view/application/activities/summary2.phtml, line: 354
-# File: module/Application/view/application/activities/info3.phtml, line: 623
+# File: module/Application/view/application/activities/info3.phtml, line: 631
 # File: module/Application/view/application/activities/summary3.phtml, line: 372
 # File: module/Application/view/application/transfers/search.phtml, line: 278
 # File: module/Application/view/application/transfers/search.phtml, line: 388
@@ -18662,8 +18673,8 @@ msgid "departure"
 msgstr ""
 #
 # File: module/Application/view/application/bus/search2.phtml, line: 642
-# File: module/Application/view/application/activities/info2.phtml, line: 440
-# File: module/Application/view/application/activities/info3.phtml, line: 479
+# File: module/Application/view/application/activities/info2.phtml, line: 448
+# File: module/Application/view/application/activities/info3.phtml, line: 487
 msgid "Mobile ticket"
 msgstr ""
 #
@@ -22863,11 +22874,11 @@ msgstr ""
 # File: module/Application/view/application/activities/search2.phtml, line: 68
 # File: module/Application/view/application/activities/index3.phtml, line: 243
 # File: module/Application/view/application/activities/info.phtml, line: 436
-# File: module/Application/view/application/activities/info2.phtml, line: 402
+# File: module/Application/view/application/activities/info2.phtml, line: 410
 # File: module/Application/view/application/activities/summary2.phtml, line: 203
 # File: module/Application/view/application/activities/search3.phtml, line: 80
-# File: module/Application/view/application/activities/info3.phtml, line: 390
-# File: module/Application/view/application/activities/info3.phtml, line: 441
+# File: module/Application/view/application/activities/info3.phtml, line: 398
+# File: module/Application/view/application/activities/info3.phtml, line: 449
 # File: module/Application/view/application/activities/summary3.phtml, line: 221
 # File: module/Application/view/application/activities/index4.phtml, line: 211
 # File: module/Application/view/application/activities/search4.phtml, line: 86
@@ -23776,8 +23787,8 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/info2.phtml, line: 1317
 # File: module/Application/view/application/trips/detail2.phtml, line: 1048
-# File: module/Application/view/application/activities/info2.phtml, line: 450
-# File: module/Application/view/application/activities/info3.phtml, line: 489
+# File: module/Application/view/application/activities/info2.phtml, line: 458
+# File: module/Application/view/application/activities/info3.phtml, line: 497
 msgid "Free cancellation available"
 msgstr ""
 #
@@ -24205,10 +24216,10 @@ msgstr ""
 # File: module/Application/view/application/activities/info.phtml, line: 207
 # File: module/Application/view/application/activities/info.phtml, line: 209
 # File: module/Application/view/application/activities/info.phtml, line: 212
-# File: module/Application/view/application/activities/info2.phtml, line: 651
-# File: module/Application/view/application/activities/info2.phtml, line: 654
-# File: module/Application/view/application/activities/info3.phtml, line: 690
-# File: module/Application/view/application/activities/info3.phtml, line: 693
+# File: module/Application/view/application/activities/info2.phtml, line: 675
+# File: module/Application/view/application/activities/info2.phtml, line: 678
+# File: module/Application/view/application/activities/info3.phtml, line: 714
+# File: module/Application/view/application/activities/info3.phtml, line: 717
 # File: module/Application/view/application/transfers/passengers3.phtml, line: 900
 # File: module/Application/view/application/cruises/offer3.phtml, line: 335
 # File: module/Application/view/application/cruises/offer.phtml, line: 118
@@ -25858,9 +25869,9 @@ msgstr ""
 # File: module/Application/view/application/disney-tickets/select2.phtml, line: 405
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 188
 # File: module/Application/view/application/activities/info.phtml, line: 90
-# File: module/Application/view/application/activities/info2.phtml, line: 595
+# File: module/Application/view/application/activities/info2.phtml, line: 603
 # File: module/Application/view/application/activities/summary2.phtml, line: 234
-# File: module/Application/view/application/activities/info3.phtml, line: 634
+# File: module/Application/view/application/activities/info3.phtml, line: 642
 # File: module/Application/view/application/activities/summary3.phtml, line: 252
 msgid "Option"
 msgstr ""
@@ -25963,10 +25974,10 @@ msgstr ""
 # File: module/Application/view/application/disney-tickets/select.phtml, line: 300
 # File: module/Application/view/application/trips/detail2.phtml, line: 1074
 # File: module/Application/view/application/activities/passengers2.phtml, line: 657
-# File: module/Application/view/application/activities/info2.phtml, line: 531
+# File: module/Application/view/application/activities/info2.phtml, line: 539
 # File: module/Application/view/application/activities/confirm2.phtml, line: 335
 # File: module/Application/view/application/activities/summary2.phtml, line: 282
-# File: module/Application/view/application/activities/info3.phtml, line: 570
+# File: module/Application/view/application/activities/info3.phtml, line: 578
 # File: module/Application/view/application/activities/summary3.phtml, line: 300
 # File: module/Application/view/application/activities/confirm3.phtml, line: 355
 # File: module/Application/view/application/activities/passengers3.phtml, line: 682
@@ -26356,8 +26367,8 @@ msgstr ""
 # File: module/Application/view/application/trips/detail6.phtml, line: 821
 # File: module/Application/view/application/trips/detail6.phtml, line: 889
 # File: module/Application/view/application/trips/detail6.phtml, line: 1210
-# File: module/Application/view/application/activities/info2.phtml, line: 463
-# File: module/Application/view/application/activities/info3.phtml, line: 502
+# File: module/Application/view/application/activities/info2.phtml, line: 471
+# File: module/Application/view/application/activities/info3.phtml, line: 510
 # File: module/Application/view/application/air/summary2.phtml, line: 828
 # File: module/Application/view/application/air/checkoutconfirmeddepartures2.phtml, line: 63
 # File: module/Application/view/application/packages/view.phtml, line: 147
@@ -27169,12 +27180,12 @@ msgstr ""
 # File: module/Application/view/application/trips/checkout2.phtml, line: 474
 # File: module/Application/view/application/activities/passengers2.phtml, line: 613
 # File: module/Application/view/application/activities/passengers2.phtml, line: 644
-# File: module/Application/view/application/activities/info2.phtml, line: 622
+# File: module/Application/view/application/activities/info2.phtml, line: 630
 # File: module/Application/view/application/activities/confirm2.phtml, line: 276
 # File: module/Application/view/application/activities/confirm2.phtml, line: 287
 # File: module/Application/view/application/activities/summary2.phtml, line: 218
 # File: module/Application/view/application/activities/summary2.phtml, line: 267
-# File: module/Application/view/application/activities/info3.phtml, line: 661
+# File: module/Application/view/application/activities/info3.phtml, line: 669
 # File: module/Application/view/application/activities/summary3.phtml, line: 236
 # File: module/Application/view/application/activities/summary3.phtml, line: 285
 # File: module/Application/view/application/activities/confirm3.phtml, line: 296
@@ -28568,8 +28579,8 @@ msgid "%d%% recommend"
 msgstr ""
 #
 # File: module/Application/view/application/trips/detail2.phtml, line: 1069
-# File: module/Application/view/application/activities/info2.phtml, line: 455
-# File: module/Application/view/application/activities/info3.phtml, line: 494
+# File: module/Application/view/application/activities/info2.phtml, line: 463
+# File: module/Application/view/application/activities/info3.phtml, line: 502
 msgid "About this activity"
 msgstr ""
 #
@@ -29310,8 +29321,8 @@ msgstr ""
 #
 # File: module/Application/view/application/river-cruises/product.phtml, line: 88
 # File: module/Application/view/application/river-cruises/product2.phtml, line: 95
-# File: module/Application/view/application/activities/info2.phtml, line: 485
-# File: module/Application/view/application/activities/info3.phtml, line: 524
+# File: module/Application/view/application/activities/info2.phtml, line: 493
+# File: module/Application/view/application/activities/info3.phtml, line: 532
 # File: module/Application/view/application/air/confirm2.phtml, line: 356
 # File: module/Application/view/application/cruises/confirm2.phtml, line: 712
 # File: module/Application/view/application/cruises/summary2.phtml, line: 631
@@ -31927,18 +31938,18 @@ msgid "Free cancellation"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 72
-# File: module/Application/view/application/activities/info2.phtml, line: 427
+# File: module/Application/view/application/activities/info2.phtml, line: 435
 # File: module/Application/view/application/activities/search3.phtml, line: 84
-# File: module/Application/view/application/activities/info3.phtml, line: 466
+# File: module/Application/view/application/activities/info3.phtml, line: 474
 # File: module/Application/view/application/activities/search4.phtml, line: 90
 msgid "Likely to sell out"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 74
-# File: module/Application/view/application/activities/info2.phtml, line: 416
+# File: module/Application/view/application/activities/info2.phtml, line: 424
 # File: module/Application/view/application/activities/summary2.phtml, line: 209
 # File: module/Application/view/application/activities/search3.phtml, line: 86
-# File: module/Application/view/application/activities/info3.phtml, line: 455
+# File: module/Application/view/application/activities/info3.phtml, line: 463
 # File: module/Application/view/application/activities/summary3.phtml, line: 227
 # File: module/Application/view/application/activities/search4.phtml, line: 92
 msgid "Badge of Excellence"
@@ -31952,9 +31963,9 @@ msgid "Recommended by %d% of travellers"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 77
-# File: module/Application/view/application/activities/info2.phtml, line: 428
+# File: module/Application/view/application/activities/info2.phtml, line: 436
 # File: module/Application/view/application/activities/search3.phtml, line: 89
-# File: module/Application/view/application/activities/info3.phtml, line: 467
+# File: module/Application/view/application/activities/info3.phtml, line: 475
 # File: module/Application/view/application/activities/search4.phtml, line: 95
 msgid "Once in a lifetime"
 msgstr ""
@@ -32070,9 +32081,9 @@ msgid "Experience name"
 msgstr ""
 #
 # File: module/Application/view/application/activities/search2.phtml, line: 285
-# File: module/Application/view/application/activities/info2.phtml, line: 536
+# File: module/Application/view/application/activities/info2.phtml, line: 544
 # File: module/Application/view/application/activities/search3.phtml, line: 354
-# File: module/Application/view/application/activities/info3.phtml, line: 575
+# File: module/Application/view/application/activities/info3.phtml, line: 583
 # File: module/Application/view/application/activities/search4.phtml, line: 404
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 135
 # File: module/Application/view/application/trip-planner/select.phtml, line: 152
@@ -32129,7 +32140,7 @@ msgstr ""
 # File: module/Application/view/application/activities/index3.phtml, line: 108
 # File: module/Application/view/application/activities/partial/v3-loader.phtml, line: 55
 # File: module/Application/view/application/activities/search3.phtml, line: 266
-# File: module/Application/view/application/activities/info3.phtml, line: 413
+# File: module/Application/view/application/activities/info3.phtml, line: 421
 # File: module/Application/view/application/activities/summary3.phtml, line: 190
 # File: module/Application/view/application/activities/confirm3.phtml, line: 196
 # File: module/Application/view/application/activities/index4.phtml, line: 66
@@ -32294,7 +32305,7 @@ msgstr ""
 msgid "Overall Rating"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info.phtml, line: 702
+# File: module/Application/view/application/activities/info.phtml, line: 703
 msgid "Day not available. Please choose another date."
 msgstr ""
 #
@@ -32408,99 +32419,128 @@ msgstr ""
 msgid "Experience Information"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 388
-# File: module/Application/view/application/activities/info3.phtml, line: 427
+# File: module/Application/view/application/activities/info2.phtml, line: 396
+# File: module/Application/view/application/activities/info3.phtml, line: 435
 msgid "photos"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 412
+# File: module/Application/view/application/activities/info2.phtml, line: 420
 # File: module/Application/view/application/activities/summary2.phtml, line: 206
-# File: module/Application/view/application/activities/info3.phtml, line: 451
+# File: module/Application/view/application/activities/info3.phtml, line: 459
 # File: module/Application/view/application/activities/summary3.phtml, line: 224
 #, php-format
 msgid "Recommended by %d%% of travellers"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 434
-# File: module/Application/view/application/activities/info3.phtml, line: 473
-msgid "(approx.)"
-msgstr ""
-#
-# File: module/Application/view/application/activities/info2.phtml, line: 437
-# File: module/Application/view/application/activities/info3.phtml, line: 476
-msgid "Pickup offered"
-msgstr ""
-#
 # File: module/Application/view/application/activities/info2.phtml, line: 442
 # File: module/Application/view/application/activities/info3.phtml, line: 481
-msgid "Printed ticket"
+msgid "(approx.)"
 msgstr ""
 #
 # File: module/Application/view/application/activities/info2.phtml, line: 445
 # File: module/Application/view/application/activities/info3.phtml, line: 484
+msgid "Pickup offered"
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 450
+# File: module/Application/view/application/activities/info3.phtml, line: 489
+msgid "Printed ticket"
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 453
+# File: module/Application/view/application/activities/info3.phtml, line: 492
 msgid "Offered in:"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 446
-# File: module/Application/view/application/activities/info3.phtml, line: 485
+# File: module/Application/view/application/activities/info2.phtml, line: 454
+# File: module/Application/view/application/activities/info3.phtml, line: 493
 #, php-format
 msgid "and %d more"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 473
-# File: module/Application/view/application/activities/info3.phtml, line: 512
+# File: module/Application/view/application/activities/info2.phtml, line: 481
+# File: module/Application/view/application/activities/info3.phtml, line: 520
 msgid "What's not included"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 499
-# File: module/Application/view/application/activities/info3.phtml, line: 538
+# File: module/Application/view/application/activities/info2.phtml, line: 507
+# File: module/Application/view/application/activities/info3.phtml, line: 546
 msgid "Admission included"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 502
-# File: module/Application/view/application/activities/info3.phtml, line: 541
+# File: module/Application/view/application/activities/info2.phtml, line: 510
+# File: module/Application/view/application/activities/info3.phtml, line: 549
 msgid "Pass by without stopping"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 513
-# File: module/Application/view/application/activities/info3.phtml, line: 552
+# File: module/Application/view/application/activities/info2.phtml, line: 521
+# File: module/Application/view/application/activities/info3.phtml, line: 560
 msgid "Meeting and pickup"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 522
-# File: module/Application/view/application/activities/info3.phtml, line: 561
+# File: module/Application/view/application/activities/info2.phtml, line: 530
+# File: module/Application/view/application/activities/info3.phtml, line: 569
 msgid "What to expect"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 545
-# File: module/Application/view/application/activities/info3.phtml, line: 584
+# File: module/Application/view/application/activities/info2.phtml, line: 553
+# File: module/Application/view/application/activities/info3.phtml, line: 592
 msgid "Traveller reviews"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 565
-# File: module/Application/view/application/activities/info3.phtml, line: 604
+# File: module/Application/view/application/activities/info2.phtml, line: 573
+# File: module/Application/view/application/activities/info3.phtml, line: 612
 msgid "Traveller"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 586
-# File: module/Application/view/application/activities/info3.phtml, line: 625
+# File: module/Application/view/application/activities/info2.phtml, line: 594
+# File: module/Application/view/application/activities/info3.phtml, line: 633
 #, php-format
 msgid "$ %s total for %d travellers"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 589
-# File: module/Application/view/application/activities/info3.phtml, line: 628
+# File: module/Application/view/application/activities/info2.phtml, line: 597
+# File: module/Application/view/application/activities/info3.phtml, line: 636
 msgid "Select a date to see the price"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 606
-# File: module/Application/view/application/activities/info3.phtml, line: 645
+# File: module/Application/view/application/activities/info2.phtml, line: 614
+# File: module/Application/view/application/activities/info3.phtml, line: 653
 msgid "Start time"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 652
+# File: module/Application/view/application/activities/info2.phtml, line: 655
+# File: module/Application/view/application/activities/info3.phtml, line: 694
+#, php-format
+msgid "No child rate for this experience: travelers aged %s book as adults."
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 667
+# File: module/Application/view/application/activities/info3.phtml, line: 706
+#, php-format
+msgid "This experience has no child rate: travelers aged %s book as adults."
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 668
+# File: module/Application/view/application/activities/info3.phtml, line: 707
+msgid "Count the child as an adult"
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 668
+# File: module/Application/view/application/activities/info3.phtml, line: 707
+#, php-format
+msgid "Count the %d children as adults"
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 670
+# File: module/Application/view/application/activities/info3.phtml, line: 709
+#, php-format
+msgid "This experience does not accept infants. Accepted ages: %s."
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 676
 # File: module/Application/view/application/activities/summary2.phtml, line: 366
-# File: module/Application/view/application/activities/info3.phtml, line: 691
+# File: module/Application/view/application/activities/info3.phtml, line: 715
 # File: module/Application/view/application/activities/summary3.phtml, line: 384
 # File: module/Application/view/application/transfers/summary3.phtml, line: 532
 # File: module/Application/view/application/transfers/summary2.phtml, line: 507
@@ -32508,8 +32548,13 @@ msgstr ""
 msgid "You will review everything before paying."
 msgstr ""
 #
-# File: module/Application/view/application/activities/info2.phtml, line: 659
-# File: module/Application/view/application/activities/info3.phtml, line: 698
+# File: module/Application/view/application/activities/info2.phtml, line: 681
+# File: module/Application/view/application/activities/info3.phtml, line: 720
+msgid "Adjust the travelers to continue."
+msgstr ""
+#
+# File: module/Application/view/application/activities/info2.phtml, line: 685
+# File: module/Application/view/application/activities/info3.phtml, line: 724
 msgid "Not available on this date. Please choose another."
 msgstr ""
 #
@@ -32779,20 +32824,20 @@ msgstr ""
 msgid "Looking for the best reviewed"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info3.phtml, line: 690
+# File: module/Application/view/application/activities/info3.phtml, line: 714
 # File: module/Application/view/application/transfers/search3.phtml, line: 247
 msgid "Preparing your summary"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info3.phtml, line: 690
+# File: module/Application/view/application/activities/info3.phtml, line: 714
 msgid "Saving your selected experience"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info3.phtml, line: 709
+# File: module/Application/view/application/activities/info3.phtml, line: 735
 msgid "Getting the latest price for your date"
 msgstr ""
 #
-# File: module/Application/view/application/activities/info3.phtml, line: 715
+# File: module/Application/view/application/activities/info3.phtml, line: 741
 # File: module/Application/view/application/activities/summary3.phtml, line: 399
 # File: module/Application/view/application/transfers/summary3.phtml, line: 563
 msgid "Locking in your price"
