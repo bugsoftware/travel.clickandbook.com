@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 14:30-0500\n"
+"POT-Creation-Date: 2026-11-19 05:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -244,7 +244,7 @@ msgstr ""
 # File: module/Application/view/application/air/ancillary2.phtml, line: 640
 # File: module/Application/view/application/air/search2.phtml, line: 946
 # File: module/Application/view/application/air/seating2.phtml, line: 843
-# File: module/Application/view/application/air/ticketing2.phtml, line: 835
+# File: module/Application/view/application/air/ticketing2.phtml, line: 836
 # File: module/Application/view/application/cart/partial/cart2-lib.php, line: 159
 # File: module/Application/view/application/destinations/sales.phtml, line: 365
 # File: module/Application/view/application/destinations/sales2.phtml, line: 582
@@ -516,9 +516,9 @@ msgstr ""
 # File: module/Application/view/application/air/index2.phtml, line: 187
 # File: module/Application/view/application/air/passengers.phtml, line: 483
 # File: module/Application/view/application/air/passengers.phtml, line: 494
-# File: module/Application/view/application/air/passengers2.phtml, line: 802
-# File: module/Application/view/application/air/passengers2.phtml, line: 807
-# File: module/Application/view/application/air/passengers2.phtml, line: 812
+# File: module/Application/view/application/air/passengers2.phtml, line: 836
+# File: module/Application/view/application/air/passengers2.phtml, line: 841
+# File: module/Application/view/application/air/passengers2.phtml, line: 846
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 208
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 218
 # File: module/Application/view/application/air/payment.phtml, line: 172
@@ -552,13 +552,13 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 260
 # File: module/Application/view/application/air/ticketing.phtml, line: 301
 # File: module/Application/view/application/air/ticketing.phtml, line: 433
-# File: module/Application/view/application/air/ticketing2.phtml, line: 747
-# File: module/Application/view/application/air/ticketing2.phtml, line: 751
-# File: module/Application/view/application/air/ticketing2.phtml, line: 841
-# File: module/Application/view/application/air/ticketing2.phtml, line: 868
-# File: module/Application/view/application/air/ticketing2.phtml, line: 870
-# File: module/Application/view/application/air/ticketing2.phtml, line: 992
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1003
+# File: module/Application/view/application/air/ticketing2.phtml, line: 748
+# File: module/Application/view/application/air/ticketing2.phtml, line: 752
+# File: module/Application/view/application/air/ticketing2.phtml, line: 842
+# File: module/Application/view/application/air/ticketing2.phtml, line: 869
+# File: module/Application/view/application/air/ticketing2.phtml, line: 871
+# File: module/Application/view/application/air/ticketing2.phtml, line: 993
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1004
 # File: module/Application/view/application/booking/details.phtml, line: 150
 # File: module/Application/view/application/booking/details.phtml, line: 385
 # File: module/Application/view/application/booking/paynow.phtml, line: 334
@@ -888,7 +888,7 @@ msgid "Don't miss our Black Friday travel sale! Amazing discounts on flights, ho
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 448
-# File: module/Application/src/Controller/JSONController.php, line: 7076
+# File: module/Application/src/Controller/JSONController.php, line: 7155
 # File: module/Application/view/application/air/inspiration.phtml, line: 71
 # File: module/Application/view/application/cruises/index.phtml, line: 54
 # File: module/Application/view/application/cruises/index2.phtml, line: 61
@@ -904,7 +904,7 @@ msgid "Asia"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 451
-# File: module/Application/src/Controller/JSONController.php, line: 7079
+# File: module/Application/src/Controller/JSONController.php, line: 7158
 # File: module/Application/view/application/air/inspiration.phtml, line: 70
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 46
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 384
@@ -918,7 +918,7 @@ msgid "Africa"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 454
-# File: module/Application/src/Controller/JSONController.php, line: 7082
+# File: module/Application/src/Controller/JSONController.php, line: 7161
 # File: module/Application/view/application/air/inspiration.phtml, line: 64
 # File: module/Application/view/application/cruises/index.phtml, line: 51
 # File: module/Application/view/application/cruises/index2.phtml, line: 58
@@ -944,7 +944,7 @@ msgid "North America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 457
-# File: module/Application/src/Controller/JSONController.php, line: 7085
+# File: module/Application/src/Controller/JSONController.php, line: 7164
 # File: module/Application/view/application/air/inspiration.phtml, line: 67
 # File: module/Application/view/application/destinations/peru.phtml, line: 622
 # File: module/Application/view/application/destinations/peru2.phtml, line: 527
@@ -973,7 +973,7 @@ msgid "South America"
 msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 460
-# File: module/Application/src/Controller/JSONController.php, line: 7088
+# File: module/Application/src/Controller/JSONController.php, line: 7167
 # File: module/Application/view/application/air/inspiration.phtml, line: 68
 # File: module/Application/view/application/cruises/index.phtml, line: 53
 # File: module/Application/view/application/cruises/index2.phtml, line: 60
@@ -1008,8 +1008,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/EscortedToursController.php, line: 463
 # File: module/Application/src/Controller/EscortedToursController.php, line: 466
-# File: module/Application/src/Controller/JSONController.php, line: 7091
-# File: module/Application/src/Controller/JSONController.php, line: 7094
+# File: module/Application/src/Controller/JSONController.php, line: 7170
+# File: module/Application/src/Controller/JSONController.php, line: 7173
 # File: module/Application/view/application/air/inspiration.phtml, line: 72
 # File: module/Application/view/application/cruises/index.phtml, line: 55
 # File: module/Application/view/application/cruises/index2.phtml, line: 62
@@ -1095,8 +1095,8 @@ msgstr ""
 msgid "It seems that no payment methods have been configured. Please reach out to your account executive or our support team for assistance."
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 6884
-# File: module/Application/src/Controller/JSONController.php, line: 7903
+# File: module/Application/src/Controller/JSONController.php, line: 6963
+# File: module/Application/src/Controller/JSONController.php, line: 7982
 # File: module/Application/view/application/activities/index.phtml, line: 164
 # File: module/Application/view/application/activities/index2.phtml, line: 266
 # File: module/Application/view/application/activities/index3.phtml, line: 330
@@ -1143,8 +1143,8 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 567
 # File: module/Application/view/application/activities/passengers3.phtml, line: 592
 # File: module/Application/view/application/air/passengers.phtml, line: 333
-# File: module/Application/view/application/air/passengers2.phtml, line: 681
-# File: module/Application/view/application/air/passengers2.phtml, line: 1025
+# File: module/Application/view/application/air/passengers2.phtml, line: 715
+# File: module/Application/view/application/air/passengers2.phtml, line: 1059
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 101
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 103
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 104
@@ -1154,8 +1154,8 @@ msgstr ""
 # File: module/Application/view/application/air/payment2.phtml, line: 210
 # File: module/Application/view/application/air/payment2.phtml, line: 388
 # File: module/Application/view/application/air/ticketing.phtml, line: 552
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1054
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1428
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1055
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1429
 # File: module/Application/view/application/booking/paynow.phtml, line: 667
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1540
 # File: module/Application/view/application/cars/passengers.phtml, line: 98
@@ -1290,7 +1290,7 @@ msgstr ""
 # File: module/Application/src/Controller/TripsController.php, line: 663
 # File: module/Application/view/application/activities/passengers.phtml, line: 313
 # File: module/Application/view/application/air/passengers.phtml, line: 345
-# File: module/Application/view/application/air/passengers2.phtml, line: 691
+# File: module/Application/view/application/air/passengers2.phtml, line: 725
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 124
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 161
 # File: module/Application/view/application/booking/paynow.phtml, line: 681
@@ -1366,8 +1366,8 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 371
 # File: module/Application/view/application/activities/payment3.phtml, line: 386
 # File: module/Application/view/application/air/passengers.phtml, line: 367
-# File: module/Application/view/application/air/passengers2.phtml, line: 701
-# File: module/Application/view/application/air/passengers2.phtml, line: 1027
+# File: module/Application/view/application/air/passengers2.phtml, line: 735
+# File: module/Application/view/application/air/passengers2.phtml, line: 1061
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 137
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 138
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 168
@@ -1592,7 +1592,7 @@ msgstr ""
 # File: module/Application/view/application/activities/info3.phtml, line: 743
 # File: module/Application/view/application/activities/passengers3.phtml, line: 707
 # File: module/Application/view/application/air/partial/a2-loader.phtml, line: 37
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1704
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1705
 # File: module/Application/view/application/air/trending-routes.phtml, line: 210
 # File: module/Application/view/application/cars/index2.phtml, line: 318
 # File: module/Application/view/application/cars/passengers2.phtml, line: 801
@@ -3212,7 +3212,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 503
 # File: module/Application/view/application/air/confirm2.phtml, line: 546
 # File: module/Application/view/application/air/passengers.phtml, line: 1463
-# File: module/Application/view/application/air/passengers2.phtml, line: 1008
+# File: module/Application/view/application/air/passengers2.phtml, line: 1042
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 381
 # File: module/Application/view/application/air/return.phtml, line: 1476
 # File: module/Application/view/application/air/search.phtml, line: 1568
@@ -3321,8 +3321,8 @@ msgstr ""
 # File: module/Application/view/application2/index/index.phtml, line: 1265
 # File: module/Application/view/application2/login/unsubscribe.phtml, line: 44
 # File: module/Application/view/layout/layout.phtml, line: 1323
-# File: module/Application/view/layout/layout.phtml, line: 1889
-# File: module/Application/view/layout/layout.phtml, line: 1993
+# File: module/Application/view/layout/layout.phtml, line: 1890
+# File: module/Application/view/layout/layout.phtml, line: 1994
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1462
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1007
 # File: _backup_giftcards/views/air__passengersconfirmeddepartures2.phtml, line: 377
@@ -3516,7 +3516,7 @@ msgstr ""
 # File: module/Application/view/application/air/index2.phtml, line: 528
 # File: module/Application/view/application/air/index2.phtml, line: 529
 # File: module/Application/view/application/air/passengers2.phtml, line: 428
-# File: module/Application/view/application/air/passengers2.phtml, line: 930
+# File: module/Application/view/application/air/passengers2.phtml, line: 964
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 116
 # File: module/Application/view/application/air/payment2.phtml, line: 312
 # File: module/Application/view/application/air/payment2.phtml, line: 457
@@ -3527,7 +3527,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating2.phtml, line: 725
 # File: module/Application/view/application/air/segment.phtml, line: 162
 # File: module/Application/view/application/air/summary2.phtml, line: 294
-# File: module/Application/view/application/air/ticketing2.phtml, line: 579
+# File: module/Application/view/application/air/ticketing2.phtml, line: 580
 # File: module/Application/view/application/booking/paynow.phtml, line: 344
 # File: module/Application/view/application/booking/paynow2.phtml, line: 408
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1046
@@ -3678,8 +3678,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 39
 # File: module/Application/view/application/air/passengers.phtml, line: 325
 # File: module/Application/view/application/air/passengers2.phtml, line: 430
-# File: module/Application/view/application/air/passengers2.phtml, line: 678
-# File: module/Application/view/application/air/passengers2.phtml, line: 929
+# File: module/Application/view/application/air/passengers2.phtml, line: 712
+# File: module/Application/view/application/air/passengers2.phtml, line: 963
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 50
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 91
 # File: module/Application/view/application/air/payment.phtml, line: 43
@@ -4251,9 +4251,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 769
 # File: module/Application/view/application/air/passengers.phtml, line: 826
 # File: module/Application/view/application/air/passengers.phtml, line: 832
-# File: module/Application/view/application/air/passengers2.phtml, line: 850
-# File: module/Application/view/application/air/passengers2.phtml, line: 859
-# File: module/Application/view/application/air/passengers2.phtml, line: 860
+# File: module/Application/view/application/air/passengers2.phtml, line: 884
+# File: module/Application/view/application/air/passengers2.phtml, line: 893
+# File: module/Application/view/application/air/passengers2.phtml, line: 894
 # File: module/Application/view/application/air/payment.phtml, line: 233
 # File: module/Application/view/application/air/payment.phtml, line: 354
 # File: module/Application/view/application/air/payment.phtml, line: 359
@@ -4448,7 +4448,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 733
 # File: module/Application/view/application/air/passengers.phtml, line: 800
 # File: module/Application/view/application/air/passengers.phtml, line: 804
-# File: module/Application/view/application/air/passengers2.phtml, line: 867
+# File: module/Application/view/application/air/passengers2.phtml, line: 901
 # File: module/Application/view/application/air/payment.phtml, line: 319
 # File: module/Application/view/application/air/payment.phtml, line: 323
 # File: module/Application/view/application/air/payment.phtml, line: 390
@@ -4610,11 +4610,11 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 811
 # File: module/Application/view/application/air/passengers.phtml, line: 857
 # File: module/Application/view/application/air/passengers.phtml, line: 866
-# File: module/Application/view/application/air/passengers2.phtml, line: 853
-# File: module/Application/view/application/air/passengers2.phtml, line: 869
-# File: module/Application/view/application/air/passengers2.phtml, line: 871
-# File: module/Application/view/application/air/passengers2.phtml, line: 918
-# File: module/Application/view/application/air/passengers2.phtml, line: 919
+# File: module/Application/view/application/air/passengers2.phtml, line: 887
+# File: module/Application/view/application/air/passengers2.phtml, line: 903
+# File: module/Application/view/application/air/passengers2.phtml, line: 905
+# File: module/Application/view/application/air/passengers2.phtml, line: 952
+# File: module/Application/view/application/air/passengers2.phtml, line: 953
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 233
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 229
 # File: module/Application/view/application/air/payment.phtml, line: 246
@@ -4639,12 +4639,12 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 1143
 # File: module/Application/view/application/air/summary2.phtml, line: 1144
 # File: module/Application/view/application/air/summary2.phtml, line: 1277
-# File: module/Application/view/application/air/ticketing2.phtml, line: 594
-# File: module/Application/view/application/air/ticketing2.phtml, line: 960
-# File: module/Application/view/application/air/ticketing2.phtml, line: 972
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1215
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1316
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1426
+# File: module/Application/view/application/air/ticketing2.phtml, line: 595
+# File: module/Application/view/application/air/ticketing2.phtml, line: 961
+# File: module/Application/view/application/air/ticketing2.phtml, line: 973
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1216
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1317
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1427
 # File: module/Application/view/application/booking/details.phtml, line: 341
 # File: module/Application/view/application/booking/details.phtml, line: 350
 # File: module/Application/view/application/booking/paynow.phtml, line: 627
@@ -5577,8 +5577,8 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 1189
 # File: module/Application/view/application/air/summary2.phtml, line: 1196
 # File: module/Application/view/application/air/summary2.phtml, line: 1203
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1325
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1344
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1326
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1345
 # File: module/Application/view/application/booking/details.phtml, line: 655
 # File: module/Application/view/application/booking/paynow.phtml, line: 987
 # File: module/Application/view/application/booking/paynow.phtml, line: 990
@@ -6398,7 +6398,7 @@ msgstr ""
 # File: module/Application/view/application/activities/confirm2.phtml, line: 347
 # File: module/Application/view/application/activities/confirm3.phtml, line: 367
 # File: module/Application/view/application/air/confirm2.phtml, line: 321
-# File: module/Application/view/application/air/ticketing2.phtml, line: 590
+# File: module/Application/view/application/air/ticketing2.phtml, line: 591
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1718
 # File: module/Application/view/application/booking/details2.phtml, line: 715
 # File: module/Application/view/application/bus/confirm2.phtml, line: 392
@@ -6585,7 +6585,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1766
 # File: module/Application/view/application/index/index.phtml, line: 1767
 # File: module/Application/view/application/index/index.phtml, line: 2176
-# File: module/Application/view/application/index/index2-content.phtml, line: 102
+# File: module/Application/view/application/index/index2-content.phtml, line: 117
 msgid "Cancun"
 msgstr ""
 #
@@ -6657,7 +6657,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 230
 # File: module/Application/view/application/index/index.phtml, line: 306
 # File: module/Application/view/application/index/index.phtml, line: 2206
-# File: module/Application/view/application/index/index2-content.phtml, line: 107
+# File: module/Application/view/application/index/index2-content.phtml, line: 122
 # File: module/Application/view/application2/hotels/search.phtml, line: 7
 # File: module/Application/view/error/404.phtml, line: 7
 # File: module/Application/view/error/404_old.phtml, line: 7
@@ -7006,14 +7006,14 @@ msgstr ""
 # File: module/Application/view/application/agent/profile.phtml, line: 53
 # File: module/Application/view/application/agent/profile2.phtml, line: 149
 # File: module/Application/view/application/air/passengers.phtml, line: 436
-# File: module/Application/view/application/air/passengers2.phtml, line: 764
+# File: module/Application/view/application/air/passengers2.phtml, line: 798
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 185
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 208
 # File: module/Application/view/application/air/payment.phtml, line: 144
 # File: module/Application/view/application/air/payment2.phtml, line: 446
 # File: module/Application/view/application/air/seating2.phtml, line: 1057
 # File: module/Application/view/application/air/ticketing.phtml, line: 238
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1159
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1160
 # File: module/Application/view/application/booking/paynow.phtml, line: 304
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1367
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 98
@@ -7650,7 +7650,7 @@ msgstr ""
 # File: module/Application/view/application/air/index.phtml, line: 676
 # File: module/Application/view/application/air/index2.phtml, line: 177
 # File: module/Application/view/application/air/passengers.phtml, line: 1528
-# File: module/Application/view/application/air/passengers2.phtml, line: 1122
+# File: module/Application/view/application/air/passengers2.phtml, line: 1156
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 269
 # File: module/Application/view/application/air/return.phtml, line: 1002
 # File: module/Application/view/application/air/search.phtml, line: 1580
@@ -7808,7 +7808,7 @@ msgstr ""
 # File: module/Application/view/application/air/index.phtml, line: 677
 # File: module/Application/view/application/air/index2.phtml, line: 178
 # File: module/Application/view/application/air/passengers.phtml, line: 1529
-# File: module/Application/view/application/air/passengers2.phtml, line: 1123
+# File: module/Application/view/application/air/passengers2.phtml, line: 1157
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 268
 # File: module/Application/view/application/air/return.phtml, line: 1003
 # File: module/Application/view/application/air/search.phtml, line: 1581
@@ -10591,7 +10591,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/index2.phtml, line: 862
 # File: module/Application/view/application/index/index.phtml, line: 1515
 # File: module/Application/view/application/index/index.phtml, line: 1697
-# File: module/Application/view/application/index/index2-content.phtml, line: 503
+# File: module/Application/view/application/index/index2-content.phtml, line: 518
 # File: module/Application/view/application/insurances/index2.phtml, line: 182
 # File: module/Application/view/application/partial/engine3.phtml, line: 17
 # File: module/Application/view/application/transfers/index2.phtml, line: 314
@@ -10762,9 +10762,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 202
 # File: module/Application/view/application/hotels/search.phtml, line: 562
 # File: module/Application/view/application/hotels/search.phtml, line: 574
-# File: module/Application/view/application/index/index2-content.phtml, line: 295
-# File: module/Application/view/application/index/index2-content.phtml, line: 406
-# File: module/Application/view/application/index/index2-content.phtml, line: 444
+# File: module/Application/view/application/index/index2-content.phtml, line: 310
+# File: module/Application/view/application/index/index2-content.phtml, line: 421
+# File: module/Application/view/application/index/index2-content.phtml, line: 459
 # File: module/Application/view/application/insurances/confirm.phtml, line: 6
 # File: module/Application/view/application/packages/index.phtml, line: 361
 # File: module/Application/view/application/packages/index.phtml, line: 479
@@ -11328,7 +11328,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 1229
 # File: module/Application/view/application/air/ticketing.phtml, line: 817
 # File: module/Application/view/application/air/ticketing.phtml, line: 975
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1414
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1415
 # File: module/Application/view/application/booking/paynow.phtml, line: 924
 # File: module/Application/view/application/booking/paynow.phtml, line: 937
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1811
@@ -12476,16 +12476,16 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 1008
 # File: module/Application/view/application/air/summary2.phtml, line: 1166
 # File: module/Application/view/application/air/summary2.phtml, line: 1239
-# File: module/Application/view/application/air/ticketing2.phtml, line: 762
-# File: module/Application/view/application/air/ticketing2.phtml, line: 767
-# File: module/Application/view/application/air/ticketing2.phtml, line: 817
-# File: module/Application/view/application/air/ticketing2.phtml, line: 822
-# File: module/Application/view/application/air/ticketing2.phtml, line: 911
-# File: module/Application/view/application/air/ticketing2.phtml, line: 919
-# File: module/Application/view/application/air/ticketing2.phtml, line: 960
-# File: module/Application/view/application/air/ticketing2.phtml, line: 968
-# File: module/Application/view/application/air/ticketing2.phtml, line: 992
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1001
+# File: module/Application/view/application/air/ticketing2.phtml, line: 763
+# File: module/Application/view/application/air/ticketing2.phtml, line: 768
+# File: module/Application/view/application/air/ticketing2.phtml, line: 818
+# File: module/Application/view/application/air/ticketing2.phtml, line: 823
+# File: module/Application/view/application/air/ticketing2.phtml, line: 912
+# File: module/Application/view/application/air/ticketing2.phtml, line: 920
+# File: module/Application/view/application/air/ticketing2.phtml, line: 961
+# File: module/Application/view/application/air/ticketing2.phtml, line: 969
+# File: module/Application/view/application/air/ticketing2.phtml, line: 993
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1002
 # File: module/Application/view/application/bus/passengers.phtml, line: 73
 # File: module/Application/view/application/bus/passengers2.phtml, line: 309
 # File: module/Application/view/application/cars/passengers.phtml, line: 45
@@ -15403,7 +15403,7 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 75
 # File: module/Application/view/application/air/passengers.phtml, line: 409
 # File: module/Application/view/application/air/passengers.phtml, line: 410
-# File: module/Application/view/application/air/passengers2.phtml, line: 734
+# File: module/Application/view/application/air/passengers2.phtml, line: 768
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 170
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 193
 # File: module/Application/view/application/air/payment.phtml, line: 116
@@ -15413,7 +15413,7 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 206
 # File: module/Application/view/application/air/ticketing.phtml, line: 221
 # File: module/Application/view/application/air/ticketing.phtml, line: 222
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1116
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1117
 # File: module/Application/view/application/booking/paynow.phtml, line: 280
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1304
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 80
@@ -15622,8 +15622,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers.phtml, line: 286
 # File: module/Application/view/application/air/passengers.phtml, line: 213
 # File: module/Application/view/application/air/passengers.phtml, line: 219
-# File: module/Application/view/application/air/passengers2.phtml, line: 653
-# File: module/Application/view/application/air/passengers2.phtml, line: 658
+# File: module/Application/view/application/air/passengers2.phtml, line: 683
 # File: module/Application/view/application/cars/passengers.phtml, line: 80
 # File: module/Application/view/application/cars/passengers.phtml, line: 83
 # File: module/Application/view/application/cart/passengers.phtml, line: 521
@@ -15671,7 +15670,6 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/passengers.phtml, line: 287
 # File: module/Application/view/application/air/passengers.phtml, line: 220
-# File: module/Application/view/application/air/passengers2.phtml, line: 660
 # File: module/Application/view/application/cars/passengers.phtml, line: 84
 # File: module/Application/view/application/cruises/passengers.phtml, line: 177
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 136
@@ -15698,8 +15696,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 222
 # File: module/Application/view/application/air/passengers.phtml, line: 1516
 # File: module/Application/view/application/air/passengers.phtml, line: 1521
-# File: module/Application/view/application/air/passengers2.phtml, line: 661
-# File: module/Application/view/application/air/passengers2.phtml, line: 1009
+# File: module/Application/view/application/air/passengers2.phtml, line: 684
+# File: module/Application/view/application/air/passengers2.phtml, line: 1043
 # File: module/Application/view/application/cars/passengers.phtml, line: 86
 # File: module/Application/view/application/cruises/passengers.phtml, line: 179
 # File: module/Application/view/application/escorted-tours/passengers.phtml, line: 138
@@ -15726,7 +15724,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/passengers.phtml, line: 296
 # File: module/Application/view/application/air/passengers.phtml, line: 328
-# File: module/Application/view/application/air/passengers2.phtml, line: 677
+# File: module/Application/view/application/air/passengers2.phtml, line: 711
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 94
 # File: module/Application/view/application/booking/paynow.phtml, line: 663
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1509
@@ -15797,9 +15795,9 @@ msgstr ""
 # File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 383
 # File: module/Application/view/application/air/checkoutconfirmeddepartures.phtml, line: 462
 # File: module/Application/view/application/air/ticketing.phtml, line: 608
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1081
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1317
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1415
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1082
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1318
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1416
 # File: module/Application/view/application/booking/paynow.phtml, line: 114
 # File: module/Application/view/application/booking/paynow.phtml, line: 723
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1156
@@ -16065,7 +16063,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 170
 # File: module/Application/view/application/air/passengers.phtml, line: 1156
 # File: module/Application/view/application/air/passengers.phtml, line: 1288
-# File: module/Application/view/application/air/passengers2.phtml, line: 987
+# File: module/Application/view/application/air/passengers2.phtml, line: 1021
 # File: module/Application/view/application/cars/passengers.phtml, line: 340
 # File: module/Application/view/application/cars/passengers2.phtml, line: 592
 # File: module/Application/view/application/cart/passengers.phtml, line: 1328
@@ -16126,7 +16124,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 178
 # File: module/Application/view/application/air/passengers.phtml, line: 1164
 # File: module/Application/view/application/air/passengers.phtml, line: 1296
-# File: module/Application/view/application/air/passengers2.phtml, line: 988
+# File: module/Application/view/application/air/passengers2.phtml, line: 1022
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 114
 # File: module/Application/view/application/bus/passengers2.phtml, line: 568
 # File: module/Application/view/application/cars/passengers.phtml, line: 348
@@ -16200,7 +16198,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 186
 # File: module/Application/view/application/air/passengers.phtml, line: 1172
 # File: module/Application/view/application/air/passengers.phtml, line: 1304
-# File: module/Application/view/application/air/passengers2.phtml, line: 989
+# File: module/Application/view/application/air/passengers2.phtml, line: 1023
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 122
 # File: module/Application/view/application/bus/passengers2.phtml, line: 569
 # File: module/Application/view/application/cars/passengers.phtml, line: 356
@@ -16273,7 +16271,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 106
 # File: module/Application/view/application/agent/subagent.phtml, line: 194
 # File: module/Application/view/application/air/passengers.phtml, line: 1181
-# File: module/Application/view/application/air/passengers2.phtml, line: 991
+# File: module/Application/view/application/air/passengers2.phtml, line: 1025
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 130
 # File: module/Application/view/application/bus/passengers2.phtml, line: 581
 # File: module/Application/view/application/cars/passengers.phtml, line: 364
@@ -16339,7 +16337,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 739
 # File: module/Application/view/application/activities/passengers3.phtml, line: 775
 # File: module/Application/view/application/air/passengers.phtml, line: 1186
-# File: module/Application/view/application/air/passengers2.phtml, line: 992
+# File: module/Application/view/application/air/passengers2.phtml, line: 1026
 # File: module/Application/view/application/bus/passengers2.phtml, line: 582
 # File: module/Application/view/application/cars/passengers.phtml, line: 369
 # File: module/Application/view/application/cars/passengers2.phtml, line: 597
@@ -16406,7 +16404,7 @@ msgstr ""
 # File: module/Application/view/application/agent/addnew.phtml, line: 114
 # File: module/Application/view/application/agent/subagent.phtml, line: 202
 # File: module/Application/view/application/air/passengers.phtml, line: 1196
-# File: module/Application/view/application/air/passengers2.phtml, line: 993
+# File: module/Application/view/application/air/passengers2.phtml, line: 1027
 # File: module/Application/view/application/booking/cancelmytrip.phtml, line: 138
 # File: module/Application/view/application/bus/passengers2.phtml, line: 583
 # File: module/Application/view/application/cars/passengers.phtml, line: 377
@@ -16472,7 +16470,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers2.phtml, line: 741
 # File: module/Application/view/application/activities/passengers3.phtml, line: 777
 # File: module/Application/view/application/air/passengers.phtml, line: 1209
-# File: module/Application/view/application/air/passengers2.phtml, line: 994
+# File: module/Application/view/application/air/passengers2.phtml, line: 1028
 # File: module/Application/view/application/cars/passengers.phtml, line: 388
 # File: module/Application/view/application/cars/passengers2.phtml, line: 599
 # File: module/Application/view/application/cart/passengers.phtml, line: 1381
@@ -16521,7 +16519,7 @@ msgstr ""
 # File: module/Application/view/application/agent/subagent.phtml, line: 218
 # File: module/Application/view/application/air/passengers.phtml, line: 1219
 # File: module/Application/view/application/air/passengers.phtml, line: 1229
-# File: module/Application/view/application/air/passengers2.phtml, line: 995
+# File: module/Application/view/application/air/passengers2.phtml, line: 1029
 # File: module/Application/view/application/bus/passengers2.phtml, line: 588
 # File: module/Application/view/application/cars/passengers.phtml, line: 396
 # File: module/Application/view/application/cars/passengers.phtml, line: 404
@@ -16615,7 +16613,7 @@ msgstr ""
 # File: module/Application/view/application/activities/passengers3.phtml, line: 779
 # File: module/Application/view/application/air/passengers.phtml, line: 1254
 # File: module/Application/view/application/air/passengers.phtml, line: 1312
-# File: module/Application/view/application/air/passengers2.phtml, line: 996
+# File: module/Application/view/application/air/passengers2.phtml, line: 1030
 # File: module/Application/view/application/cars/passengers.phtml, line: 412
 # File: module/Application/view/application/cars/passengers2.phtml, line: 601
 # File: module/Application/view/application/cart/passengers.phtml, line: 1427
@@ -16815,7 +16813,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment2.phtml, line: 447
 # File: module/Application/view/application/air/seating2.phtml, line: 1058
 # File: module/Application/view/application/air/ticketing.phtml, line: 239
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1163
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1164
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 99
 # File: module/Application/view/application/cars/passengers2.phtml, line: 371
 # File: module/Application/view/application/cars/payment.phtml, line: 91
@@ -17217,7 +17215,7 @@ msgid "Checking traveler details"
 msgstr ""
 #
 # File: module/Application/view/application/activities/passengers3.phtml, line: 706
-# File: module/Application/view/application/air/passengers2.phtml, line: 1489
+# File: module/Application/view/application/air/passengers2.phtml, line: 1523
 # File: module/Application/view/application/cruises/passengers2.phtml, line: 1158
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 989
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 1065
@@ -17240,8 +17238,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 265
 # File: module/Application/view/application/air/payment.phtml, line: 105
 # File: module/Application/view/application/air/ticketing.phtml, line: 194
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1100
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1417
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1101
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1418
 # File: module/Application/view/application/booking/paynow.phtml, line: 271
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1282
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1812
@@ -17306,7 +17304,7 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 323
 # File: module/Application/view/application/activities/payment3.phtml, line: 338
 # File: module/Application/view/application/air/passengers.phtml, line: 405
-# File: module/Application/view/application/air/passengers2.phtml, line: 726
+# File: module/Application/view/application/air/passengers2.phtml, line: 760
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 168
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 191
 # File: module/Application/view/application/air/payment.phtml, line: 112
@@ -17314,7 +17312,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating2.phtml, line: 1041
 # File: module/Application/view/application/air/ticketing.phtml, line: 201
 # File: module/Application/view/application/air/ticketing.phtml, line: 217
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1108
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1109
 # File: module/Application/view/application/booking/paynow.phtml, line: 278
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1295
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 76
@@ -17398,14 +17396,14 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 71
 # File: module/Application/view/application/air/passengers.phtml, line: 406
-# File: module/Application/view/application/air/passengers2.phtml, line: 730
+# File: module/Application/view/application/air/passengers2.phtml, line: 764
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 169
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 192
 # File: module/Application/view/application/air/payment.phtml, line: 113
 # File: module/Application/view/application/air/payment2.phtml, line: 405
 # File: module/Application/view/application/air/ticketing.phtml, line: 202
 # File: module/Application/view/application/air/ticketing.phtml, line: 218
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1112
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1113
 # File: module/Application/view/application/booking/paynow.phtml, line: 279
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1299
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 77
@@ -17471,7 +17469,7 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 343
 # File: module/Application/view/application/activities/payment3.phtml, line: 358
 # File: module/Application/view/application/air/passengers.phtml, line: 413
-# File: module/Application/view/application/air/passengers2.phtml, line: 738
+# File: module/Application/view/application/air/passengers2.phtml, line: 772
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 171
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 194
 # File: module/Application/view/application/air/payment.phtml, line: 120
@@ -17479,7 +17477,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating2.phtml, line: 1044
 # File: module/Application/view/application/air/ticketing.phtml, line: 209
 # File: module/Application/view/application/air/ticketing.phtml, line: 225
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1120
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1121
 # File: module/Application/view/application/booking/paynow.phtml, line: 281
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1308
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 84
@@ -17546,8 +17544,8 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 88
 # File: module/Application/view/application/air/passengers.phtml, line: 419
 # File: module/Application/view/application/air/passengers.phtml, line: 422
-# File: module/Application/view/application/air/passengers2.phtml, line: 752
-# File: module/Application/view/application/air/passengers2.phtml, line: 754
+# File: module/Application/view/application/air/passengers2.phtml, line: 786
+# File: module/Application/view/application/air/passengers2.phtml, line: 788
 # File: module/Application/view/application/air/payment.phtml, line: 127
 # File: module/Application/view/application/air/payment.phtml, line: 130
 # File: module/Application/view/application/air/payment2.phtml, line: 433
@@ -17659,7 +17657,7 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 384
 # File: module/Application/view/application/activities/payment3.phtml, line: 399
 # File: module/Application/view/application/air/passengers.phtml, line: 420
-# File: module/Application/view/application/air/passengers2.phtml, line: 753
+# File: module/Application/view/application/air/passengers2.phtml, line: 787
 # File: module/Application/view/application/air/payment.phtml, line: 128
 # File: module/Application/view/application/air/payment2.phtml, line: 434
 # File: module/Application/view/application/bus/payment2.phtml, line: 380
@@ -17722,14 +17720,14 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 95
 # File: module/Application/view/application/air/passengers.phtml, line: 429
-# File: module/Application/view/application/air/passengers2.phtml, line: 751
+# File: module/Application/view/application/air/passengers2.phtml, line: 785
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 178
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 202
 # File: module/Application/view/application/air/payment.phtml, line: 137
 # File: module/Application/view/application/air/payment2.phtml, line: 431
 # File: module/Application/view/application/air/seating2.phtml, line: 1045
 # File: module/Application/view/application/air/ticketing.phtml, line: 231
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1131
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1132
 # File: module/Application/view/application/booking/billingerror.phtml, line: 12
 # File: module/Application/view/application/booking/paynow.phtml, line: 297
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1329
@@ -17796,13 +17794,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 98
 # File: module/Application/view/application/air/passengers.phtml, line: 432
-# File: module/Application/view/application/air/passengers2.phtml, line: 759
+# File: module/Application/view/application/air/passengers2.phtml, line: 793
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 181
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 204
 # File: module/Application/view/application/air/payment.phtml, line: 140
 # File: module/Application/view/application/air/payment2.phtml, line: 441
 # File: module/Application/view/application/air/ticketing.phtml, line: 234
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1135
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1136
 # File: module/Application/view/application/booking/paynow.phtml, line: 300
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1333
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 94
@@ -17864,13 +17862,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 99
 # File: module/Application/view/application/air/passengers.phtml, line: 433
-# File: module/Application/view/application/air/passengers2.phtml, line: 760
+# File: module/Application/view/application/air/passengers2.phtml, line: 794
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 182
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 205
 # File: module/Application/view/application/air/payment.phtml, line: 141
 # File: module/Application/view/application/air/payment2.phtml, line: 442
 # File: module/Application/view/application/air/ticketing.phtml, line: 235
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1139
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1140
 # File: module/Application/view/application/booking/paynow.phtml, line: 301
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1337
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 95
@@ -17932,14 +17930,14 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 100
 # File: module/Application/view/application/air/passengers.phtml, line: 434
-# File: module/Application/view/application/air/passengers2.phtml, line: 761
+# File: module/Application/view/application/air/passengers2.phtml, line: 795
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 183
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 206
 # File: module/Application/view/application/air/payment.phtml, line: 142
 # File: module/Application/view/application/air/payment2.phtml, line: 443
 # File: module/Application/view/application/air/seating2.phtml, line: 1048
 # File: module/Application/view/application/air/ticketing.phtml, line: 236
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1143
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1144
 # File: module/Application/view/application/booking/paynow.phtml, line: 302
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1346
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 96
@@ -18002,13 +18000,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 100
 # File: module/Application/view/application/air/passengers.phtml, line: 434
-# File: module/Application/view/application/air/passengers2.phtml, line: 762
+# File: module/Application/view/application/air/passengers2.phtml, line: 796
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 183
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 206
 # File: module/Application/view/application/air/payment.phtml, line: 142
 # File: module/Application/view/application/air/payment2.phtml, line: 444
 # File: module/Application/view/application/air/ticketing.phtml, line: 236
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1145
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1146
 # File: module/Application/view/application/booking/paynow.phtml, line: 302
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1349
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 96
@@ -18070,14 +18068,14 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 101
 # File: module/Application/view/application/air/passengers.phtml, line: 435
-# File: module/Application/view/application/air/passengers2.phtml, line: 763
+# File: module/Application/view/application/air/passengers2.phtml, line: 797
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 184
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 207
 # File: module/Application/view/application/air/payment.phtml, line: 143
 # File: module/Application/view/application/air/payment2.phtml, line: 445
 # File: module/Application/view/application/air/seating2.phtml, line: 1056
 # File: module/Application/view/application/air/ticketing.phtml, line: 237
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1155
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1156
 # File: module/Application/view/application/booking/paynow.phtml, line: 303
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1342
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 97
@@ -18140,13 +18138,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 104
 # File: module/Application/view/application/air/passengers.phtml, line: 441
-# File: module/Application/view/application/air/passengers2.phtml, line: 767
+# File: module/Application/view/application/air/passengers2.phtml, line: 801
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 187
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 210
 # File: module/Application/view/application/air/payment.phtml, line: 146
 # File: module/Application/view/application/air/payment2.phtml, line: 448
 # File: module/Application/view/application/air/ticketing.phtml, line: 240
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1167
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1168
 # File: module/Application/view/application/booking/paynow.phtml, line: 309
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1371
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 100
@@ -18208,13 +18206,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 105
 # File: module/Application/view/application/air/passengers.phtml, line: 442
-# File: module/Application/view/application/air/passengers2.phtml, line: 768
+# File: module/Application/view/application/air/passengers2.phtml, line: 802
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 188
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 211
 # File: module/Application/view/application/air/payment.phtml, line: 147
 # File: module/Application/view/application/air/payment2.phtml, line: 449
 # File: module/Application/view/application/air/ticketing.phtml, line: 241
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1171
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1172
 # File: module/Application/view/application/booking/paynow.phtml, line: 310
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1375
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 101
@@ -18276,13 +18274,13 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment.phtml, line: 106
 # File: module/Application/view/application/air/passengers.phtml, line: 443
-# File: module/Application/view/application/air/passengers2.phtml, line: 769
+# File: module/Application/view/application/air/passengers2.phtml, line: 803
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 189
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 212
 # File: module/Application/view/application/air/payment.phtml, line: 148
 # File: module/Application/view/application/air/payment2.phtml, line: 450
 # File: module/Application/view/application/air/ticketing.phtml, line: 242
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1175
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1176
 # File: module/Application/view/application/booking/paynow.phtml, line: 311
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1379
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 102
@@ -18722,9 +18720,9 @@ msgstr ""
 # File: module/Application/view/application/activities/payment3.phtml, line: 596
 # File: module/Application/view/application/activities/payment3.phtml, line: 659
 # File: module/Application/view/application/air/passengers.phtml, line: 915
-# File: module/Application/view/application/air/passengers2.phtml, line: 791
-# File: module/Application/view/application/air/passengers2.phtml, line: 885
-# File: module/Application/view/application/air/passengers2.phtml, line: 920
+# File: module/Application/view/application/air/passengers2.phtml, line: 825
+# File: module/Application/view/application/air/passengers2.phtml, line: 919
+# File: module/Application/view/application/air/passengers2.phtml, line: 954
 # File: module/Application/view/application/cars/payment2.phtml, line: 446
 # File: module/Application/view/application/cart/payment.phtml, line: 293
 # File: module/Application/view/application/cart/payment2.phtml, line: 479
@@ -18781,7 +18779,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 775
 # File: module/Application/view/application/air/summary2.phtml, line: 849
 # File: module/Application/view/application/air/ticketing.phtml, line: 438
-# File: module/Application/view/application/air/ticketing2.phtml, line: 892
+# File: module/Application/view/application/air/ticketing2.phtml, line: 893
 # File: module/Application/view/application/index/index.phtml, line: 576
 # File: module/Application/view/application/index/index.phtml, line: 640
 # File: module/Application/view/application/index/index.phtml, line: 862
@@ -18795,7 +18793,7 @@ msgstr ""
 # File: module/Application/view/application/air/payment.phtml, line: 470
 # File: module/Application/view/application/air/payment2.phtml, line: 577
 # File: module/Application/view/application/air/ticketing.phtml, line: 1029
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1343
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1344
 # File: module/Application/view/application/booking/paynow.phtml, line: 748
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1762
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 118
@@ -18844,13 +18842,13 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 389
 # File: module/Application/view/application/agent/profile.phtml, line: 79
 # File: module/Application/view/application/air/passengers.phtml, line: 1110
-# File: module/Application/view/application/air/passengers2.phtml, line: 1003
+# File: module/Application/view/application/air/passengers2.phtml, line: 1037
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 254
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 259
 # File: module/Application/view/application/air/payment.phtml, line: 519
 # File: module/Application/view/application/air/payment2.phtml, line: 622
 # File: module/Application/view/application/air/ticketing.phtml, line: 828
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1418
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1419
 # File: module/Application/view/application/booking/paynow.phtml, line: 761
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1814
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 130
@@ -18915,13 +18913,13 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 390
 # File: module/Application/view/application/agent/profile.phtml, line: 80
 # File: module/Application/view/application/air/passengers.phtml, line: 1111
-# File: module/Application/view/application/air/passengers2.phtml, line: 1004
+# File: module/Application/view/application/air/passengers2.phtml, line: 1038
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 255
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 260
 # File: module/Application/view/application/air/payment.phtml, line: 520
 # File: module/Application/view/application/air/payment2.phtml, line: 623
 # File: module/Application/view/application/air/ticketing.phtml, line: 829
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1419
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1420
 # File: module/Application/view/application/booking/paynow.phtml, line: 762
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1815
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 131
@@ -18986,13 +18984,13 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 391
 # File: module/Application/view/application/agent/profile.phtml, line: 81
 # File: module/Application/view/application/air/passengers.phtml, line: 1112
-# File: module/Application/view/application/air/passengers2.phtml, line: 1006
+# File: module/Application/view/application/air/passengers2.phtml, line: 1040
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 256
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 261
 # File: module/Application/view/application/air/payment.phtml, line: 521
 # File: module/Application/view/application/air/payment2.phtml, line: 625
 # File: module/Application/view/application/air/ticketing.phtml, line: 830
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1420
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1421
 # File: module/Application/view/application/booking/paynow.phtml, line: 763
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1816
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 132
@@ -19053,11 +19051,11 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 392
 # File: module/Application/view/application/agent/profile.phtml, line: 82
 # File: module/Application/view/application/air/passengers.phtml, line: 1113
-# File: module/Application/view/application/air/passengers2.phtml, line: 1006
+# File: module/Application/view/application/air/passengers2.phtml, line: 1040
 # File: module/Application/view/application/air/payment.phtml, line: 522
 # File: module/Application/view/application/air/payment2.phtml, line: 625
 # File: module/Application/view/application/air/ticketing.phtml, line: 831
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1420
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1421
 # File: module/Application/view/application/booking/paynow.phtml, line: 764
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1817
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 133
@@ -19114,13 +19112,13 @@ msgstr ""
 # File: module/Application/view/application/activities/payment.phtml, line: 393
 # File: module/Application/view/application/agent/profile.phtml, line: 83
 # File: module/Application/view/application/air/passengers.phtml, line: 1114
-# File: module/Application/view/application/air/passengers2.phtml, line: 1005
+# File: module/Application/view/application/air/passengers2.phtml, line: 1039
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 257
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 262
 # File: module/Application/view/application/air/payment.phtml, line: 523
 # File: module/Application/view/application/air/payment2.phtml, line: 624
 # File: module/Application/view/application/air/ticketing.phtml, line: 832
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1421
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1422
 # File: module/Application/view/application/booking/paynow.phtml, line: 765
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1818
 # File: module/Application/view/application/booking/paynowitem.phtml, line: 134
@@ -19198,7 +19196,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment2.phtml, line: 294
 # File: module/Application/view/application/activities/payment3.phtml, line: 309
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1089
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1090
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1271
 # File: module/Application/view/application/bus/payment.phtml, line: 128
 # File: module/Application/view/application/bus/payment2.phtml, line: 324
@@ -19233,9 +19231,9 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment2.phtml, line: 295
 # File: module/Application/view/application/activities/payment3.phtml, line: 310
-# File: module/Application/view/application/air/passengers2.phtml, line: 677
+# File: module/Application/view/application/air/passengers2.phtml, line: 711
 # File: module/Application/view/application/air/seating2.phtml, line: 1018
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1090
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1091
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1272
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1510
 # File: module/Application/view/application/cars/payment2.phtml, line: 283
@@ -19287,7 +19285,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment2.phtml, line: 309
 # File: module/Application/view/application/activities/payment3.phtml, line: 324
-# File: module/Application/view/application/air/passengers2.phtml, line: 718
+# File: module/Application/view/application/air/passengers2.phtml, line: 752
 # File: module/Application/view/application/air/payment2.phtml, line: 397
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1282
 # File: module/Application/view/application/bus/payment2.phtml, line: 337
@@ -19317,8 +19315,8 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 750
 # File: module/Application/view/application/activities/payment3.phtml, line: 325
 # File: module/Application/view/application/activities/payment3.phtml, line: 776
-# File: module/Application/view/application/air/passengers2.phtml, line: 718
-# File: module/Application/view/application/air/passengers2.phtml, line: 1007
+# File: module/Application/view/application/air/passengers2.phtml, line: 752
+# File: module/Application/view/application/air/passengers2.phtml, line: 1041
 # File: module/Application/view/application/air/payment2.phtml, line: 397
 # File: module/Application/view/application/air/payment2.phtml, line: 627
 # File: module/Application/view/application/bus/payment2.phtml, line: 337
@@ -19372,9 +19370,9 @@ msgstr ""
 # File: module/Application/view/application/activities/payment2.phtml, line: 336
 # File: module/Application/view/application/activities/payment3.phtml, line: 328
 # File: module/Application/view/application/activities/payment3.phtml, line: 351
-# File: module/Application/view/application/air/passengers2.phtml, line: 719
+# File: module/Application/view/application/air/passengers2.phtml, line: 753
 # File: module/Application/view/application/air/payment2.phtml, line: 398
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1101
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1102
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1283
 # File: module/Application/view/application/bus/payment.phtml, line: 148
 # File: module/Application/view/application/bus/payment2.phtml, line: 338
@@ -19495,7 +19493,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/payment2.phtml, line: 651
 # File: module/Application/view/application/activities/payment3.phtml, line: 666
-# File: module/Application/view/application/air/passengers2.phtml, line: 887
+# File: module/Application/view/application/air/passengers2.phtml, line: 921
 # File: module/Application/view/application/air/payment2.phtml, line: 553
 # File: module/Application/view/application/bus/payment2.phtml, line: 478
 # File: module/Application/view/application/cars/payment2.phtml, line: 517
@@ -20178,7 +20176,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 1160
 # File: module/Application/view/application/air/summary2.phtml, line: 1273
 # File: module/Application/view/application/air/ticketing.phtml, line: 672
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1235
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1236
 # File: module/Application/view/application/quotes/air.phtml, line: 677
 # File: module/Application/view/application/quotes/air.phtml, line: 846
 msgid "Loading..."
@@ -20467,7 +20465,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/info.phtml, line: 261
 # File: module/Application/view/application/hotels/info.phtml, line: 282
 # File: module/Application/view/application/hotels/info.phtml, line: 315
-# File: module/Application/view/application/index/index2-content.phtml, line: 291
+# File: module/Application/view/application/index/index2-content.phtml, line: 306
 # File: module/Application/view/application/insurances/summary.phtml, line: 61
 # File: module/Application/view/application/insurances/summary2.phtml, line: 277
 # File: module/Application/view/application/insurances/summary2.phtml, line: 301
@@ -20732,8 +20730,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm2.phtml, line: 404
 # File: module/Application/view/application/air/summary.phtml, line: 320
 # File: module/Application/view/application/air/summary2.phtml, line: 812
-# File: module/Application/view/application/air/ticketing2.phtml, line: 992
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1005
+# File: module/Application/view/application/air/ticketing2.phtml, line: 993
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1006
 # File: module/Application/view/application/bus/search2.phtml, line: 781
 # File: module/Application/view/application/cars/search2.phtml, line: 674
 # File: module/Application/view/application/cars/search2.phtml, line: 675
@@ -20868,7 +20866,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/summary.phtml, line: 28
 # File: module/Application/view/application/air/passengers2.phtml, line: 501
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1047
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1048
 # File: module/Application/view/application/booking/details2.phtml, line: 832
 # File: module/Application/view/application/bus/card.phtml, line: 74
 # File: module/Application/view/application/bus/confirm2.phtml, line: 312
@@ -21106,7 +21104,7 @@ msgstr ""
 # File: module/Application/view/application/activities/summary.phtml, line: 113
 # File: module/Application/view/application/activities/summary.phtml, line: 154
 # File: module/Application/view/application/air/passengers.phtml, line: 686
-# File: module/Application/view/application/air/passengers2.phtml, line: 839
+# File: module/Application/view/application/air/passengers2.phtml, line: 873
 # File: module/Application/view/application/air/summary.phtml, line: 1006
 # File: module/Application/view/application/air/summary2.phtml, line: 1112
 # File: module/Application/view/application/cruises/confirm2.phtml, line: 206
@@ -21653,7 +21651,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/summary2.phtml, line: 351
 # File: module/Application/view/application/activities/summary3.phtml, line: 369
-# File: module/Application/view/application/air/passengers2.phtml, line: 927
+# File: module/Application/view/application/air/passengers2.phtml, line: 961
 # File: module/Application/view/application/air/payment2.phtml, line: 591
 # File: module/Application/view/application/cart/payment2.phtml, line: 557
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 926
@@ -21765,7 +21763,7 @@ msgstr ""
 # File: module/Application/view/application/agent/index2.phtml, line: 101
 # File: module/Application/view/application/agent/reservations.phtml, line: 193
 # File: module/Application/view/application/air/ticketing.phtml, line: 656
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1284
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1285
 # File: module/Application/view/application/destinations/lasvegas.phtml, line: 854
 # File: module/Application/view/application/destinations/lasvegas2.phtml, line: 718
 # File: module/Application/view/application/destinations/peru.phtml, line: 949
@@ -21898,7 +21896,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/partial/ag2-top.phtml, line: 120
 # File: module/Application/view/application/air/ticketing.phtml, line: 631
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1263
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1264
 msgid "Travel Agent"
 msgstr ""
 #
@@ -21923,7 +21921,7 @@ msgstr ""
 # File: module/Application/view/application/agent/agents2.phtml, line: 162
 # File: module/Application/view/application/agent/reservations.phtml, line: 186
 # File: module/Application/view/application/air/ticketing.phtml, line: 652
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1281
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1282
 # File: module/Application/view/application/login/partial/acc2-top.phtml, line: 105
 # File: module/Application/view/application/login/coupons.phtml, line: 55
 # File: module/Application/view/application/login/pointscalculator.phtml, line: 77
@@ -22286,7 +22284,7 @@ msgstr ""
 # File: module/Application/view/application/agent/agents.phtml, line: 131
 # File: module/Application/view/application/agent/reservations.phtml, line: 198
 # File: module/Application/view/application/air/ticketing.phtml, line: 658
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1285
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1286
 # File: module/Application/view/application/login/coupons.phtml, line: 65
 # File: module/Application/view/application/login/pointscalculator.phtml, line: 94
 # File: module/Application/view/application/login/rewards.phtml, line: 111
@@ -22460,13 +22458,13 @@ msgstr ""
 # File: module/Application/view/application/agent/commissions.phtml, line: 111
 # File: module/Application/view/application/agent/reservations2.phtml, line: 272
 # File: module/Application/view/application/air/passengers.phtml, line: 662
-# File: module/Application/view/application/air/passengers2.phtml, line: 835
+# File: module/Application/view/application/air/passengers2.phtml, line: 869
 # File: module/Application/view/application/air/payment.phtml, line: 266
 # File: module/Application/view/application/air/payment2.phtml, line: 522
 # File: module/Application/view/application/air/summary.phtml, line: 982
 # File: module/Application/view/application/air/summary2.phtml, line: 1108
 # File: module/Application/view/application/air/ticketing.phtml, line: 664
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1222
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1223
 # File: module/Application/view/application/insurances/passengers.phtml, line: 293
 # File: module/Application/view/application/insurances/passengers2.phtml, line: 600
 # File: module/Application/view/application/insurances/payment.phtml, line: 135
@@ -22745,7 +22743,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/worldcup.old.phtml, line: 232
 # File: module/Application/view/application/index/index.phtml, line: 505
 # File: module/Application/view/application/index/index2-content.phtml, line: 76
-# File: module/Application/view/application/index/index2-content.phtml, line: 334
+# File: module/Application/view/application/index/index2-content.phtml, line: 349
 # File: module/Application/view/application/quotes/cruises.phtml, line: 66
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 152
 # File: module/Application/view/application/trip-planner/select.phtml, line: 169
@@ -22761,7 +22759,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/worldcup.old.phtml, line: 241
 # File: module/Application/view/application/destinations/worldcup.old.phtml, line: 336
 # File: module/Application/view/application/index/index.phtml, line: 502
-# File: module/Application/view/application/index/index2-content.phtml, line: 429
+# File: module/Application/view/application/index/index2-content.phtml, line: 444
 # File: module/Application/view/application/packages/index.phtml, line: 346
 # File: module/Application/view/application/packages/index2.phtml, line: 302
 # File: module/Application/view/application/packages/index2.phtml, line: 309
@@ -22797,7 +22795,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/select3.phtml, line: 342
 # File: module/Application/view/application/index/index.phtml, line: 510
 # File: module/Application/view/application/index/index2-content.phtml, line: 79
-# File: module/Application/view/application/index/index2-content.phtml, line: 232
+# File: module/Application/view/application/index/index2-content.phtml, line: 247
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 144
 # File: module/Application/view/application/trip-planner/select.phtml, line: 161
 # File: module/Application/view/error/404.phtml, line: 49
@@ -23146,7 +23144,7 @@ msgstr ""
 # File: module/Application/view/application/air/seating2.phtml, line: 844
 # File: module/Application/view/application/air/segment2.phtml, line: 452
 # File: module/Application/view/application/air/summary2.phtml, line: 291
-# File: module/Application/view/application/air/ticketing2.phtml, line: 585
+# File: module/Application/view/application/air/ticketing2.phtml, line: 586
 # File: module/Application/view/application/destinations/worldcup.old.phtml, line: 223
 # File: module/Application/view/application/packages/index.phtml, line: 46
 # File: module/Application/view/application/packages/index2.phtml, line: 52
@@ -23642,12 +23640,12 @@ msgstr ""
 # File: module/Application/view/application/agent/reservations2.phtml, line: 275
 # File: module/Application/view/application/air/ticketing.phtml, line: 158
 # File: module/Application/view/application/air/ticketing.phtml, line: 329
-# File: module/Application/view/application/air/ticketing2.phtml, line: 790
-# File: module/Application/view/application/air/ticketing2.phtml, line: 794
-# File: module/Application/view/application/air/ticketing2.phtml, line: 817
-# File: module/Application/view/application/air/ticketing2.phtml, line: 821
-# File: module/Application/view/application/air/ticketing2.phtml, line: 911
-# File: module/Application/view/application/air/ticketing2.phtml, line: 923
+# File: module/Application/view/application/air/ticketing2.phtml, line: 791
+# File: module/Application/view/application/air/ticketing2.phtml, line: 795
+# File: module/Application/view/application/air/ticketing2.phtml, line: 818
+# File: module/Application/view/application/air/ticketing2.phtml, line: 822
+# File: module/Application/view/application/air/ticketing2.phtml, line: 912
+# File: module/Application/view/application/air/ticketing2.phtml, line: 924
 # File: module/Application/view/application/booking/details.phtml, line: 298
 # File: module/Application/view/application/booking/details.phtml, line: 404
 # File: module/Application/view/application/booking/details2.phtml, line: 914
@@ -23728,8 +23726,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agent/reservations.phtml, line: 189
 # File: module/Application/view/application/air/ticketing.phtml, line: 655
-# File: module/Application/view/application/air/ticketing2.phtml, line: 545
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1283
+# File: module/Application/view/application/air/ticketing2.phtml, line: 546
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1284
 # File: module/Application/view/application2/agent/reservations.phtml, line: 323
 msgid "My Reservations"
 msgstr ""
@@ -23738,7 +23736,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 191
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 213
 # File: module/Application/view/application/air/ticketing.phtml, line: 687
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1293
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1294
 # File: module/Application/view/application/cruises/passengersconfirmedcruises.phtml, line: 163
 # File: module/Application/view/application/cruises/passengersconfirmedcruises2.phtml, line: 218
 # File: module/Application/view/application/login/coupons.phtml, line: 71
@@ -23812,7 +23810,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 1334
 # File: module/Application/view/application/air/summary2.phtml, line: 1205
 # File: module/Application/view/application/air/ticketing.phtml, line: 1020
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1332
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1333
 # File: module/Application/view/application/booking/details.phtml, line: 679
 # File: module/Application/view/application/booking/details2.phtml, line: 1505
 # File: module/Application/view/application/cart/summary.phtml, line: 1581
@@ -23855,7 +23853,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm2.phtml, line: 523
 # File: module/Application/view/application/air/confirm2.phtml, line: 525
 # File: module/Application/view/application/air/confirm2.phtml, line: 526
-# File: module/Application/view/application/air/ticketing2.phtml, line: 582
+# File: module/Application/view/application/air/ticketing2.phtml, line: 583
 # File: module/Application/view/application/booking/details2.phtml, line: 725
 # File: module/Application/view/application/booking/details2.phtml, line: 727
 # File: module/Application/view/application/cart/confirm2.phtml, line: 197
@@ -23929,12 +23927,12 @@ msgstr ""
 # File: module/Application/view/application/air/confirm2.phtml, line: 544
 # File: module/Application/view/application/air/seating2.phtml, line: 709
 # File: module/Application/view/application/air/seating2.phtml, line: 1195
-# File: module/Application/view/application/air/ticketing2.phtml, line: 558
-# File: module/Application/view/application/air/ticketing2.phtml, line: 562
-# File: module/Application/view/application/air/ticketing2.phtml, line: 794
-# File: module/Application/view/application/air/ticketing2.phtml, line: 821
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1245
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1412
+# File: module/Application/view/application/air/ticketing2.phtml, line: 559
+# File: module/Application/view/application/air/ticketing2.phtml, line: 563
+# File: module/Application/view/application/air/ticketing2.phtml, line: 795
+# File: module/Application/view/application/air/ticketing2.phtml, line: 822
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1246
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1413
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1026
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1146
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1206
@@ -23987,14 +23985,14 @@ msgid "Please use the form below to update the information for your sub-agent. E
 msgstr ""
 #
 # File: module/Application/view/application/agent/subagent.phtml, line: 56
-# File: module/Application/view/application/air/ticketing2.phtml, line: 747
-# File: module/Application/view/application/air/ticketing2.phtml, line: 754
-# File: module/Application/view/application/air/ticketing2.phtml, line: 762
-# File: module/Application/view/application/air/ticketing2.phtml, line: 768
-# File: module/Application/view/application/air/ticketing2.phtml, line: 790
-# File: module/Application/view/application/air/ticketing2.phtml, line: 796
-# File: module/Application/view/application/air/ticketing2.phtml, line: 992
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1004
+# File: module/Application/view/application/air/ticketing2.phtml, line: 748
+# File: module/Application/view/application/air/ticketing2.phtml, line: 755
+# File: module/Application/view/application/air/ticketing2.phtml, line: 763
+# File: module/Application/view/application/air/ticketing2.phtml, line: 769
+# File: module/Application/view/application/air/ticketing2.phtml, line: 791
+# File: module/Application/view/application/air/ticketing2.phtml, line: 797
+# File: module/Application/view/application/air/ticketing2.phtml, line: 993
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1005
 msgid "Status"
 msgstr ""
 #
@@ -24984,7 +24982,7 @@ msgstr ""
 # File: module/Application/view/application/air/airline2.phtml, line: 1069
 # File: module/Application/view/application/air/index2.phtml, line: 698
 # File: module/Application/view/application/hotels/index2.phtml, line: 863
-# File: module/Application/view/application/index/index2-content.phtml, line: 504
+# File: module/Application/view/application/index/index2-content.phtml, line: 519
 msgid "Card details are handled over an encrypted connection and are never shown back to anyone after the booking is made."
 msgstr ""
 #
@@ -24994,7 +24992,7 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 741
 # File: module/Application/view/application/air/passengers.phtml, line: 745
 # File: module/Application/view/application/air/passengers.phtml, line: 845
-# File: module/Application/view/application/air/passengers2.phtml, line: 864
+# File: module/Application/view/application/air/passengers2.phtml, line: 898
 # File: module/Application/view/application/air/payment.phtml, line: 282
 # File: module/Application/view/application/air/payment.phtml, line: 331
 # File: module/Application/view/application/air/payment.phtml, line: 335
@@ -25170,11 +25168,11 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ancillary2.phtml, line: 510
 # File: module/Application/view/application/air/seating2.phtml, line: 716
-# File: module/Application/view/application/air/ticketing2.phtml, line: 570
-# File: module/Application/view/application/air/ticketing2.phtml, line: 747
-# File: module/Application/view/application/air/ticketing2.phtml, line: 752
-# File: module/Application/view/application/air/ticketing2.phtml, line: 960
-# File: module/Application/view/application/air/ticketing2.phtml, line: 969
+# File: module/Application/view/application/air/ticketing2.phtml, line: 571
+# File: module/Application/view/application/air/ticketing2.phtml, line: 748
+# File: module/Application/view/application/air/ticketing2.phtml, line: 753
+# File: module/Application/view/application/air/ticketing2.phtml, line: 961
+# File: module/Application/view/application/air/ticketing2.phtml, line: 970
 msgid "Route"
 msgstr ""
 #
@@ -25185,9 +25183,9 @@ msgstr ""
 # File: module/Application/view/application/air/confirm2.phtml, line: 361
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 214
 # File: module/Application/view/application/air/seating2.phtml, line: 722
-# File: module/Application/view/application/air/ticketing2.phtml, line: 576
-# File: module/Application/view/application/air/ticketing2.phtml, line: 747
-# File: module/Application/view/application/air/ticketing2.phtml, line: 753
+# File: module/Application/view/application/air/ticketing2.phtml, line: 577
+# File: module/Application/view/application/air/ticketing2.phtml, line: 748
+# File: module/Application/view/application/air/ticketing2.phtml, line: 754
 # File: module/Application/view/application/booking/partials/paynow-deposit.phtml, line: 56
 # File: module/Application/view/application/cart/confirm.phtml, line: 24
 # File: module/Application/view/application/cart/confirm2.phtml, line: 244
@@ -25336,7 +25334,7 @@ msgid "Booking steps"
 msgstr ""
 #
 # File: module/Application/view/application/air/ancillary2.phtml, line: 529
-# File: module/Application/view/application/air/ticketing2.phtml, line: 986
+# File: module/Application/view/application/air/ticketing2.phtml, line: 987
 # File: module/Application/view/application/booking/details2.phtml, line: 966
 # File: module/Application/view/application/cruises/select2.phtml, line: 80
 # File: module/Application/view/application/cruises/select3.phtml, line: 81
@@ -25363,7 +25361,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/ancillary2.phtml, line: 609
 # File: module/Application/view/application/air/seating2.phtml, line: 843
-# File: module/Application/view/application/air/ticketing2.phtml, line: 835
+# File: module/Application/view/application/air/ticketing2.phtml, line: 836
 # File: module/Application/view/application/destinations/sales.phtml, line: 365
 # File: module/Application/view/application/destinations/sales2.phtml, line: 582
 # File: module/Application/view/application/destinations/worldcup.phtml, line: 236
@@ -25475,7 +25473,7 @@ msgstr ""
 # File: module/Application/view/application/air/ancillary2.phtml, line: 758
 # File: module/Application/view/application/air/confirm2.phtml, line: 545
 # File: module/Application/view/application/air/seating2.phtml, line: 1196
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1413
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1414
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1809
 # File: module/Application/view/application/bus/confirm2.phtml, line: 401
 # File: module/Application/view/application/bus/processing2.phtml, line: 175
@@ -25892,8 +25890,8 @@ msgstr ""
 # File: module/Application/view/application/air/inspiration.phtml, line: 454
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 224
 # File: module/Application/view/application/air/search2.phtml, line: 1045
-# File: module/Application/view/application/air/ticketing2.phtml, line: 790
-# File: module/Application/view/application/air/ticketing2.phtml, line: 795
+# File: module/Application/view/application/air/ticketing2.phtml, line: 791
+# File: module/Application/view/application/air/ticketing2.phtml, line: 796
 # File: module/Application/view/application/group-tours/detail.phtml, line: 213
 # File: module/Application/view/application/index/index.phtml, line: 849
 # File: module/Application/view/application/login/frequentlyflyernumbers.phtml, line: 22
@@ -25996,7 +25994,7 @@ msgstr ""
 # File: module/Application/view/application/air/checkoutconfirmeddepartures2.phtml, line: 58
 # File: module/Application/view/application/air/confirm.phtml, line: 32
 # File: module/Application/view/application/air/confirm2.phtml, line: 361
-# File: module/Application/view/application/air/passengers2.phtml, line: 807
+# File: module/Application/view/application/air/passengers2.phtml, line: 841
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 223
 # File: module/Application/view/application/air/payment2.phtml, line: 497
 # File: module/Application/view/application/air/summary2.phtml, line: 233
@@ -26555,7 +26553,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 21
 # File: module/Application/view/application/air/confirm.phtml, line: 37
 # File: module/Application/view/application/air/passengers.phtml, line: 497
-# File: module/Application/view/application/air/passengers2.phtml, line: 824
+# File: module/Application/view/application/air/passengers2.phtml, line: 858
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 220
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 227
 # File: module/Application/view/application/air/payment.phtml, line: 186
@@ -26589,7 +26587,7 @@ msgid "Your flights"
 msgstr ""
 #
 # File: module/Application/view/application/air/checkoutconfirmeddepartures2.phtml, line: 57
-# File: module/Application/view/application/air/passengers2.phtml, line: 807
+# File: module/Application/view/application/air/passengers2.phtml, line: 841
 # File: module/Application/view/application/air/payment2.phtml, line: 497
 # File: module/Application/view/application/air/summary2.phtml, line: 233
 # File: module/Application/view/application/air/summary2.phtml, line: 235
@@ -26662,7 +26660,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/checkoutconfirmeddepartures2.phtml, line: 99
 # File: module/Application/view/application/air/confirm2.phtml, line: 459
-# File: module/Application/view/application/air/passengers2.phtml, line: 844
+# File: module/Application/view/application/air/passengers2.phtml, line: 878
 # File: module/Application/view/application/air/payment2.phtml, line: 528
 # File: module/Application/view/application/cruises/checkoutconfirmedcruises2.phtml, line: 137
 # File: module/Application/view/application/hotels/summary2.phtml, line: 577
@@ -26687,7 +26685,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 22
 # File: module/Application/view/application/air/confirm.phtml, line: 38
 # File: module/Application/view/application/air/passengers.phtml, line: 494
-# File: module/Application/view/application/air/passengers2.phtml, line: 817
+# File: module/Application/view/application/air/passengers2.phtml, line: 851
 # File: module/Application/view/application/air/payment.phtml, line: 183
 # File: module/Application/view/application/air/payment2.phtml, line: 506
 # File: module/Application/view/application/air/summary.phtml, line: 804
@@ -26710,7 +26708,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 204
 # File: module/Application/view/application/air/confirm2.phtml, line: 379
 # File: module/Application/view/application/air/passengers.phtml, line: 494
-# File: module/Application/view/application/air/passengers2.phtml, line: 817
+# File: module/Application/view/application/air/passengers2.phtml, line: 851
 # File: module/Application/view/application/air/payment.phtml, line: 183
 # File: module/Application/view/application/air/payment2.phtml, line: 506
 # File: module/Application/view/application/air/return.phtml, line: 585
@@ -26750,7 +26748,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 204
 # File: module/Application/view/application/air/confirm2.phtml, line: 379
 # File: module/Application/view/application/air/passengers.phtml, line: 494
-# File: module/Application/view/application/air/passengers2.phtml, line: 817
+# File: module/Application/view/application/air/passengers2.phtml, line: 851
 # File: module/Application/view/application/air/payment.phtml, line: 183
 # File: module/Application/view/application/air/payment2.phtml, line: 506
 # File: module/Application/view/application/air/return.phtml, line: 585
@@ -26807,9 +26805,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 786
 # File: module/Application/view/application/air/passengers.phtml, line: 851
 # File: module/Application/view/application/air/passengers.phtml, line: 862
-# File: module/Application/view/application/air/passengers2.phtml, line: 852
-# File: module/Application/view/application/air/passengers2.phtml, line: 868
-# File: module/Application/view/application/air/passengers2.phtml, line: 870
+# File: module/Application/view/application/air/passengers2.phtml, line: 886
+# File: module/Application/view/application/air/passengers2.phtml, line: 902
+# File: module/Application/view/application/air/passengers2.phtml, line: 904
 # File: module/Application/view/application/air/payment.phtml, line: 242
 # File: module/Application/view/application/air/payment.phtml, line: 377
 # File: module/Application/view/application/air/payment.phtml, line: 437
@@ -26850,7 +26848,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/confirm.phtml, line: 88
 # File: module/Application/view/application/air/passengers.phtml, line: 883
-# File: module/Application/view/application/air/passengers2.phtml, line: 878
+# File: module/Application/view/application/air/passengers2.phtml, line: 912
 # File: module/Application/view/application/air/summary.phtml, line: 1141
 # File: module/Application/view/application/air/summary2.phtml, line: 1120
 # File: module/Application/view/application/hotels/confirm.phtml, line: 159
@@ -26872,7 +26870,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 88
 # File: module/Application/view/application/air/confirm2.phtml, line: 456
 # File: module/Application/view/application/air/passengers.phtml, line: 883
-# File: module/Application/view/application/air/passengers2.phtml, line: 878
+# File: module/Application/view/application/air/passengers2.phtml, line: 912
 # File: module/Application/view/application/air/summary.phtml, line: 1141
 # File: module/Application/view/application/air/summary2.phtml, line: 1120
 # File: module/Application/view/application/hotels/confirm.phtml, line: 159
@@ -26902,7 +26900,7 @@ msgstr ""
 # File: module/Application/view/application/air/confirm.phtml, line: 89
 # File: module/Application/view/application/air/confirm2.phtml, line: 456
 # File: module/Application/view/application/air/passengers.phtml, line: 884
-# File: module/Application/view/application/air/passengers2.phtml, line: 879
+# File: module/Application/view/application/air/passengers2.phtml, line: 913
 # File: module/Application/view/application/air/summary.phtml, line: 1142
 # File: module/Application/view/application/air/summary2.phtml, line: 1121
 # File: module/Application/view/application/hotels/confirm.phtml, line: 160
@@ -27820,8 +27818,8 @@ msgstr ""
 # File: module/Application/view/application/air/confirm2.phtml, line: 531
 # File: module/Application/view/application/air/seating.phtml, line: 384
 # File: module/Application/view/application/air/seating2.phtml, line: 1079
-# File: module/Application/view/application/air/ticketing2.phtml, line: 787
-# File: module/Application/view/application/air/ticketing2.phtml, line: 814
+# File: module/Application/view/application/air/ticketing2.phtml, line: 788
+# File: module/Application/view/application/air/ticketing2.phtml, line: 815
 # File: module/Application/view/application/destinations/disney.phtml, line: 520
 # File: module/Application/view/application/destinations/disney.phtml, line: 711
 # File: module/Application/view/application/destinations/disney.phtml, line: 901
@@ -27868,7 +27866,7 @@ msgid "exception"
 msgstr ""
 #
 # File: module/Application/view/application/air/confirm2.phtml, line: 531
-# File: module/Application/view/application/air/ticketing2.phtml, line: 698
+# File: module/Application/view/application/air/ticketing2.phtml, line: 699
 msgid "issued"
 msgstr ""
 #
@@ -28534,7 +28532,7 @@ msgid "years old"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 215
-# File: module/Application/view/application/air/passengers2.phtml, line: 655
+# File: module/Application/view/application/air/passengers2.phtml, line: 679
 # File: _backup_giftcards/views/air__passengers.phtml, line: 215
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 655
 msgid "Oops! You forgot to enter your promotional code. Please enter a code before verifying. If you don't have one, feel free to leave the field blank."
@@ -28543,9 +28541,9 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 305
 # File: module/Application/view/application/air/passengers.phtml, line: 308
 # File: module/Application/view/application/air/passengers.phtml, line: 1087
-# File: module/Application/view/application/air/passengers2.phtml, line: 667
-# File: module/Application/view/application/air/passengers2.phtml, line: 669
-# File: module/Application/view/application/air/passengers2.phtml, line: 1012
+# File: module/Application/view/application/air/passengers2.phtml, line: 701
+# File: module/Application/view/application/air/passengers2.phtml, line: 703
+# File: module/Application/view/application/air/passengers2.phtml, line: 1046
 # File: module/Application/view/application/cart/passengers.phtml, line: 528
 # File: module/Application/view/application/cart/passengers.phtml, line: 531
 # File: module/Application/view/application/cart/passengers.phtml, line: 1263
@@ -28583,8 +28581,8 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 308
 # File: module/Application/view/application/air/passengers.phtml, line: 1087
-# File: module/Application/view/application/air/passengers2.phtml, line: 669
-# File: module/Application/view/application/air/passengers2.phtml, line: 1010
+# File: module/Application/view/application/air/passengers2.phtml, line: 703
+# File: module/Application/view/application/air/passengers2.phtml, line: 1044
 # File: module/Application/view/application/cart/passengers.phtml, line: 531
 # File: module/Application/view/application/cart/passengers.phtml, line: 1263
 # File: module/Application/view/application/cart/passengers2.phtml, line: 705
@@ -28612,8 +28610,8 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 308
 # File: module/Application/view/application/air/passengers.phtml, line: 1087
-# File: module/Application/view/application/air/passengers2.phtml, line: 669
-# File: module/Application/view/application/air/passengers2.phtml, line: 1011
+# File: module/Application/view/application/air/passengers2.phtml, line: 703
+# File: module/Application/view/application/air/passengers2.phtml, line: 1045
 # File: module/Application/view/application/cart/passengers.phtml, line: 531
 # File: module/Application/view/application/cart/passengers.phtml, line: 1263
 # File: module/Application/view/application/cart/passengers2.phtml, line: 705
@@ -28640,7 +28638,7 @@ msgid "points available"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 312
-# File: module/Application/view/application/air/passengers2.phtml, line: 670
+# File: module/Application/view/application/air/passengers2.phtml, line: 704
 # File: module/Application/view/application/cart/passengers.phtml, line: 535
 # File: module/Application/view/application/cart/passengers2.phtml, line: 706
 # File: module/Application/view/application/hotels/passengers.phtml, line: 258
@@ -28655,7 +28653,7 @@ msgid "No, I’ll save my points for later"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 318
-# File: module/Application/view/application/air/passengers2.phtml, line: 671
+# File: module/Application/view/application/air/passengers2.phtml, line: 705
 # File: module/Application/view/application/cart/passengers.phtml, line: 541
 # File: module/Application/view/application/cart/passengers2.phtml, line: 707
 # File: module/Application/view/application/hotels/passengers.phtml, line: 264
@@ -28670,7 +28668,7 @@ msgid "Yes, apply my rewards and redeem available points"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 401
-# File: module/Application/view/application/air/passengers2.phtml, line: 709
+# File: module/Application/view/application/air/passengers2.phtml, line: 743
 # File: module/Application/view/application/air/payment2.phtml, line: 386
 # File: _backup_giftcards/views/air__passengers.phtml, line: 401
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 709
@@ -28679,7 +28677,7 @@ msgid "Credit card details"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 440
-# File: module/Application/view/application/air/passengers2.phtml, line: 765
+# File: module/Application/view/application/air/passengers2.phtml, line: 799
 # File: module/Application/view/application/booking/paynow.phtml, line: 308
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1357
 # File: _backup_giftcards/views/air__passengers.phtml, line: 440
@@ -28688,7 +28686,7 @@ msgid "Billing State"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 440
-# File: module/Application/view/application/air/passengers2.phtml, line: 766
+# File: module/Application/view/application/air/passengers2.phtml, line: 800
 # File: module/Application/view/application/booking/paynow.phtml, line: 308
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1360
 # File: module/Application/view/application/login/cards2.phtml, line: 127
@@ -28698,7 +28696,7 @@ msgid "Select billing state"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 456
-# File: module/Application/view/application/air/passengers2.phtml, line: 776
+# File: module/Application/view/application/air/passengers2.phtml, line: 810
 # File: module/Application/view/application/cart/passengers.phtml, line: 635
 # File: module/Application/view/application/cart/passengers2.phtml, line: 736
 # File: module/Application/view/application/hotels/passengers.phtml, line: 408
@@ -28713,7 +28711,7 @@ msgid "Trusted status confirmed - shop with confidence."
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 457
-# File: module/Application/view/application/air/passengers2.phtml, line: 776
+# File: module/Application/view/application/air/passengers2.phtml, line: 810
 # File: module/Application/view/application/cart/passengers.phtml, line: 636
 # File: module/Application/view/application/cart/passengers2.phtml, line: 736
 # File: module/Application/view/application/hotels/passengers.phtml, line: 409
@@ -28840,8 +28838,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 537
 # File: module/Application/view/application/air/passengers.phtml, line: 756
 # File: module/Application/view/application/air/passengers.phtml, line: 816
-# File: module/Application/view/application/air/passengers2.phtml, line: 849
-# File: module/Application/view/application/air/passengers2.phtml, line: 858
+# File: module/Application/view/application/air/passengers2.phtml, line: 883
+# File: module/Application/view/application/air/passengers2.phtml, line: 892
 # File: module/Application/view/application/air/payment.phtml, line: 226
 # File: module/Application/view/application/air/payment.phtml, line: 346
 # File: module/Application/view/application/air/payment.phtml, line: 406
@@ -28930,8 +28928,8 @@ msgstr ""
 # File: module/Application/view/application/air/passengers.phtml, line: 548
 # File: module/Application/view/application/air/passengers.phtml, line: 776
 # File: module/Application/view/application/air/passengers.phtml, line: 839
-# File: module/Application/view/application/air/passengers2.phtml, line: 851
-# File: module/Application/view/application/air/passengers2.phtml, line: 861
+# File: module/Application/view/application/air/passengers2.phtml, line: 885
+# File: module/Application/view/application/air/passengers2.phtml, line: 895
 # File: module/Application/view/application/air/payment.phtml, line: 237
 # File: module/Application/view/application/air/payment.phtml, line: 366
 # File: module/Application/view/application/air/payment.phtml, line: 425
@@ -29002,7 +29000,7 @@ msgid "Air Commission"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 657
-# File: module/Application/view/application/air/passengers2.phtml, line: 833
+# File: module/Application/view/application/air/passengers2.phtml, line: 867
 # File: module/Application/view/application/air/summary.phtml, line: 977
 # File: module/Application/view/application/air/summary2.phtml, line: 1106
 # File: module/Application/view/application/hotels/summary.phtml, line: 465
@@ -29013,7 +29011,7 @@ msgid "Commission Details"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 657
-# File: module/Application/view/application/air/passengers2.phtml, line: 834
+# File: module/Application/view/application/air/passengers2.phtml, line: 868
 # File: module/Application/view/application/air/summary.phtml, line: 977
 # File: module/Application/view/application/air/summary2.phtml, line: 1107
 # File: _backup_giftcards/views/air__passengers.phtml, line: 657
@@ -29022,7 +29020,7 @@ msgid "Earnings applied to this air booking"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 668
-# File: module/Application/view/application/air/passengers2.phtml, line: 836
+# File: module/Application/view/application/air/passengers2.phtml, line: 870
 # File: module/Application/view/application/air/payment.phtml, line: 272
 # File: module/Application/view/application/air/payment2.phtml, line: 523
 # File: module/Application/view/application/air/summary.phtml, line: 988
@@ -29035,7 +29033,7 @@ msgid "Commission Total"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 674
-# File: module/Application/view/application/air/passengers2.phtml, line: 837
+# File: module/Application/view/application/air/passengers2.phtml, line: 871
 # File: module/Application/view/application/air/payment.phtml, line: 260
 # File: module/Application/view/application/air/payment2.phtml, line: 521
 # File: module/Application/view/application/air/summary.phtml, line: 994
@@ -29048,7 +29046,7 @@ msgid "Commission Tour Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 680
-# File: module/Application/view/application/air/passengers2.phtml, line: 838
+# File: module/Application/view/application/air/passengers2.phtml, line: 872
 # File: module/Application/view/application/air/summary.phtml, line: 1000
 # File: module/Application/view/application/air/summary2.phtml, line: 1111
 # File: _backup_giftcards/views/air__passengers.phtml, line: 680
@@ -29057,7 +29055,7 @@ msgid "Commission Ticket Designator"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 686
-# File: module/Application/view/application/air/passengers2.phtml, line: 839
+# File: module/Application/view/application/air/passengers2.phtml, line: 873
 # File: module/Application/view/application/air/summary.phtml, line: 1006
 # File: module/Application/view/application/air/summary2.phtml, line: 1112
 # File: _backup_giftcards/views/air__passengers.phtml, line: 686
@@ -29067,7 +29065,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 706
 # File: module/Application/view/application/air/passengers.phtml, line: 718
-# File: module/Application/view/application/air/passengers2.phtml, line: 866
+# File: module/Application/view/application/air/passengers2.phtml, line: 900
 # File: module/Application/view/application/air/payment.phtml, line: 296
 # File: module/Application/view/application/air/payment.phtml, line: 308
 # File: module/Application/view/application/air/payment2.phtml, line: 547
@@ -29129,7 +29127,7 @@ msgid "Insurance travel protection"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 884
-# File: module/Application/view/application/air/passengers2.phtml, line: 879
+# File: module/Application/view/application/air/passengers2.phtml, line: 913
 # File: module/Application/view/application/air/summary.phtml, line: 1142
 # File: module/Application/view/application/air/summary2.phtml, line: 1121
 # File: module/Application/view/application/hotels/passengers.phtml, line: 601
@@ -29148,7 +29146,7 @@ msgid "Book now and earn"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 884
-# File: module/Application/view/application/air/passengers2.phtml, line: 879
+# File: module/Application/view/application/air/passengers2.phtml, line: 913
 # File: module/Application/view/application/air/summary.phtml, line: 1142
 # File: module/Application/view/application/air/summary2.phtml, line: 1121
 # File: module/Application/view/application/hotels/passengers.phtml, line: 601
@@ -29167,25 +29165,25 @@ msgid "Redeem them as a discount on your next reservation"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1473
-# File: module/Application/view/application/air/passengers2.phtml, line: 1013
+# File: module/Application/view/application/air/passengers2.phtml, line: 1047
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1472
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1012
 msgid "This code is no longer valid. It has been disabled and cannot be used."
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1477
-# File: module/Application/view/application/air/passengers2.phtml, line: 1014
+# File: module/Application/view/application/air/passengers2.phtml, line: 1048
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1476
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1013
 msgid "Unfortunately, this promotional code is no longer active. It expired and cannot be applied."
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1477
-# File: module/Application/view/application/air/passengers2.phtml, line: 1014
+# File: module/Application/view/application/air/passengers2.phtml, line: 1048
 # File: module/Application/view/application/air/ticketing.phtml, line: 120
 # File: module/Application/view/application/air/ticketing.phtml, line: 754
-# File: module/Application/view/application/air/ticketing2.phtml, line: 735
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1370
+# File: module/Application/view/application/air/ticketing2.phtml, line: 736
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1371
 # File: module/Application/view/application/login/cards2.phtml, line: 89
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1476
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1013
@@ -29193,42 +29191,42 @@ msgid "Expired"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1481
-# File: module/Application/view/application/air/passengers2.phtml, line: 1015
+# File: module/Application/view/application/air/passengers2.phtml, line: 1049
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1480
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1014
 msgid "This promotional code cannot be applied to your selected travel date. Travel must begin on or after"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1485
-# File: module/Application/view/application/air/passengers2.phtml, line: 1016
+# File: module/Application/view/application/air/passengers2.phtml, line: 1050
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1484
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1015
 msgid "This promotional code cannot be applied to your selected travel date. Travel must end before"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1489
-# File: module/Application/view/application/air/passengers2.phtml, line: 1017
+# File: module/Application/view/application/air/passengers2.phtml, line: 1051
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1488
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1016
 msgid "This promotional code cannot be applied to your selected booking date. Booking date must begin on or after"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1493
-# File: module/Application/view/application/air/passengers2.phtml, line: 1018
+# File: module/Application/view/application/air/passengers2.phtml, line: 1052
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1492
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1017
 msgid "This promotional code cannot be applied to your selected booking date. Booking date must be on or before"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1497
-# File: module/Application/view/application/air/passengers2.phtml, line: 1019
+# File: module/Application/view/application/air/passengers2.phtml, line: 1053
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1496
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1018
 msgid "This promotional code has reached its usage limit and is no longer valid."
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1501
-# File: module/Application/view/application/air/passengers2.phtml, line: 1020
+# File: module/Application/view/application/air/passengers2.phtml, line: 1054
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1500
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1019
 msgid "This promotional code is restricted to international travel bookings and cannot be used for domestic trips."
@@ -29240,21 +29238,21 @@ msgid "Invalid promotional code. We coul\\'t recognize that code. Make sure it\\
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1509
-# File: module/Application/view/application/air/passengers2.phtml, line: 1022
+# File: module/Application/view/application/air/passengers2.phtml, line: 1056
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1508
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1021
 msgid "Great news! This code is valid and gives you a discount of"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1509
-# File: module/Application/view/application/air/passengers2.phtml, line: 1023
+# File: module/Application/view/application/air/passengers2.phtml, line: 1057
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1508
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1022
 msgid "Your code has been accepted. You’ll save"
 msgstr ""
 #
 # File: module/Application/view/application/air/passengers.phtml, line: 1509
-# File: module/Application/view/application/air/passengers2.phtml, line: 1024
+# File: module/Application/view/application/air/passengers2.phtml, line: 1058
 # File: _backup_giftcards/views/air__passengers.phtml, line: 1508
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1023
 msgid "on your travel."
@@ -29302,14 +29300,29 @@ msgstr ""
 msgid "must match the age entered in your search"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 709
+# File: module/Application/view/application/air/passengers2.phtml, line: 675
+# File: module/Application/view/application/partial/giftcard.phtml, line: 110
+msgid "Have a promotional code or gift card?"
+msgstr ""
+#
+# File: module/Application/view/application/air/passengers2.phtml, line: 676
+# File: module/Application/view/application/partial/giftcard.phtml, line: 110
+msgid "Add code"
+msgstr ""
+#
+# File: module/Application/view/application/air/passengers2.phtml, line: 683
+# File: module/Application/view/application/partial/giftcard.phtml, line: 113
+msgid "Enter your code"
+msgstr ""
+#
+# File: module/Application/view/application/air/passengers2.phtml, line: 743
 # File: module/Application/view/application/air/payment2.phtml, line: 386
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 709
 # File: _backup_giftcards/views/air__payment2.phtml, line: 383
 msgid "Encrypted"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 744
+# File: module/Application/view/application/air/passengers2.phtml, line: 778
 # File: module/Application/view/application/air/payment2.phtml, line: 411
 # File: module/Application/view/application/cruises/payment2.phtml, line: 639
 # File: module/Application/view/application/escorted-tours/payment3.phtml, line: 417
@@ -29332,7 +29345,7 @@ msgstr ""
 msgid "256-bit SSL"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 744
+# File: module/Application/view/application/air/passengers2.phtml, line: 778
 # File: module/Application/view/application/air/payment2.phtml, line: 411
 # File: module/Application/view/application/cruises/payment2.phtml, line: 640
 # File: module/Application/view/application/escorted-tours/payment3.phtml, line: 418
@@ -29355,7 +29368,7 @@ msgstr ""
 msgid "Fraud protection"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 744
+# File: module/Application/view/application/air/passengers2.phtml, line: 778
 # File: module/Application/view/application/air/payment2.phtml, line: 411
 # File: module/Application/view/application/cart/payment2.phtml, line: 339
 # File: module/Application/view/application/cruises/payment2.phtml, line: 641
@@ -29374,7 +29387,7 @@ msgstr ""
 msgid "We never store your security code"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 788
+# File: module/Application/view/application/air/passengers2.phtml, line: 822
 # File: module/Application/view/application/air/payment2.phtml, line: 478
 # File: module/Application/view/application/cart/payment2.phtml, line: 476
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 788
@@ -29383,7 +29396,7 @@ msgstr ""
 msgid "I confirm the traveler names match their travel documents and I accept the"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 788
+# File: module/Application/view/application/air/passengers2.phtml, line: 822
 # File: module/Application/view/application/air/payment2.phtml, line: 478
 # File: module/Application/view/application/cart/payment2.phtml, line: 473
 # File: module/Application/view/application/cart/payment2.phtml, line: 476
@@ -29410,21 +29423,21 @@ msgstr ""
 msgid "Terms & Conditions"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 795
+# File: module/Application/view/application/air/passengers2.phtml, line: 829
 # File: module/Application/view/application/air/payment2.phtml, line: 485
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 795
 # File: _backup_giftcards/views/air__payment2.phtml, line: 482
 msgid "We could not confirm the price of this itinerary. Please search again."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 800
+# File: module/Application/view/application/air/passengers2.phtml, line: 834
 # File: module/Application/view/application/air/payment2.phtml, line: 490
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 800
 # File: _backup_giftcards/views/air__payment2.phtml, line: 487
 msgid "Trip summary"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 925
+# File: module/Application/view/application/air/passengers2.phtml, line: 959
 # File: module/Application/view/application/air/payment2.phtml, line: 589
 # File: module/Application/view/application/cart/payment2.phtml, line: 555
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 924
@@ -29433,12 +29446,12 @@ msgstr ""
 msgid "Review and confirm"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 931
+# File: module/Application/view/application/air/passengers2.phtml, line: 965
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 930
 msgid "Please check that every name matches the travel document. Airlines may charge to correct names after booking."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 934
+# File: module/Application/view/application/air/passengers2.phtml, line: 968
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 231
 # File: module/Application/view/application/air/payment2.phtml, line: 597
 # File: module/Application/view/application/cart/payment2.phtml, line: 570
@@ -29451,7 +29464,7 @@ msgstr ""
 msgid "Confirm and book"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 935
+# File: module/Application/view/application/air/passengers2.phtml, line: 969
 # File: module/Application/view/application/air/payment2.phtml, line: 598
 # File: module/Application/view/application/cart/payment2.phtml, line: 571
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 934
@@ -29460,14 +29473,14 @@ msgstr ""
 msgid "Edit details"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 990
+# File: module/Application/view/application/air/passengers2.phtml, line: 1024
 # File: module/Application/view/application/cart/passengers2.phtml, line: 821
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 989
 # File: _backup_giftcards/views/cart__passengers2.phtml, line: 822
 msgid "Please use letters only, as printed on the travel document."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 997
+# File: module/Application/view/application/air/passengers2.phtml, line: 1031
 # File: module/Application/view/application/cars/passengers2.phtml, line: 602
 # File: module/Application/view/application/cart/passengers2.phtml, line: 828
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 996
@@ -29476,22 +29489,22 @@ msgstr ""
 msgid "Please enter a valid date of birth (MM-DD-YYYY)."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 998
+# File: module/Application/view/application/air/passengers2.phtml, line: 1032
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 997
 msgid "An adult traveler must be at least 11 years old."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 999
+# File: module/Application/view/application/air/passengers2.phtml, line: 1033
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 998
 msgid "A child traveler must be younger than 14 years."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1000
+# File: module/Application/view/application/air/passengers2.phtml, line: 1034
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 999
 msgid "The date of birth does not match the age entered in your search:"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1001
+# File: module/Application/view/application/air/passengers2.phtml, line: 1035
 # File: module/Application/view/application/air/payment2.phtml, line: 626
 # File: module/Application/view/application/cart/payment2.phtml, line: 600
 # File: module/Application/view/application/insurances/partial/terms-accept.phtml, line: 30
@@ -29501,7 +29514,7 @@ msgstr ""
 msgid "Please confirm the traveler details and accept the Terms & Conditions."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1002
+# File: module/Application/view/application/air/passengers2.phtml, line: 1036
 # File: module/Application/view/application/cart/passengers2.phtml, line: 836
 # File: module/Application/view/application/cart/payment2.phtml, line: 602
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1001
@@ -29510,12 +29523,12 @@ msgstr ""
 msgid "Please review the highlighted fields."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1021
+# File: module/Application/view/application/air/passengers2.phtml, line: 1055
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1020
 msgid "Invalid promotional code. We coul't recognize that code. Make sure it's correct or use a different one."
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1488
+# File: module/Application/view/application/air/passengers2.phtml, line: 1522
 # File: module/Application/view/application/cruises/passengers2.phtml, line: 1156
 # File: module/Application/view/application/escorted-tours/passengers3.phtml, line: 980
 # File: module/Application/view/application/hotels/passengers2.phtml, line: 1057
@@ -29530,14 +29543,14 @@ msgstr ""
 msgid "Saving your details"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1489
+# File: module/Application/view/application/air/passengers2.phtml, line: 1523
 # File: module/Application/view/application/transfers/passengers3.phtml, line: 904
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1488
 # File: _backup_giftcards/views/transfers__passengers3.phtml, line: 901
 msgid "Saving passenger details"
 msgstr ""
 #
-# File: module/Application/view/application/air/passengers2.phtml, line: 1489
+# File: module/Application/view/application/air/passengers2.phtml, line: 1523
 # File: module/Application/view/application/air/summary2.phtml, line: 1666
 # File: _backup_giftcards/views/air__passengers2.phtml, line: 1488
 msgid "Checking your flight details"
@@ -29661,8 +29674,8 @@ msgstr ""
 #
 # File: module/Application/view/application/air/passengersconfirmeddepartures.phtml, line: 76
 # File: module/Application/view/application/air/passengersconfirmeddepartures2.phtml, line: 127
-# File: module/Application/view/application/air/ticketing2.phtml, line: 911
-# File: module/Application/view/application/air/ticketing2.phtml, line: 922
+# File: module/Application/view/application/air/ticketing2.phtml, line: 912
+# File: module/Application/view/application/air/ticketing2.phtml, line: 923
 # File: module/Application/view/application/bus/passengers.phtml, line: 96
 # File: module/Application/view/application/bus/passengers2.phtml, line: 334
 # File: module/Application/view/application/bus/passengers2.phtml, line: 574
@@ -30302,7 +30315,7 @@ msgstr ""
 # File: module/Application/view/application/air/segment2.phtml, line: 486
 # File: module/Application/view/application/air/segment2.phtml, line: 568
 # File: module/Application/view/application/air/segment2.phtml, line: 649
-# File: module/Application/view/application/air/ticketing2.phtml, line: 868
+# File: module/Application/view/application/air/ticketing2.phtml, line: 869
 # File: module/Application/view/application/transfers/search.phtml, line: 243
 # File: module/Application/view/application/transfers/search.phtml, line: 353
 # File: module/Application/view/application/transfers/search2.phtml, line: 267
@@ -30865,7 +30878,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 1607
 # File: module/Application/view/application/air/summary2.phtml, line: 1169
 # File: module/Application/view/application/air/summary2.phtml, line: 1230
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1005
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1006
 msgid "Free"
 msgstr ""
 #
@@ -30920,7 +30933,7 @@ msgstr ""
 #
 # File: module/Application/view/application/air/seating2.phtml, line: 695
 # File: module/Application/view/application/air/segment2.phtml, line: 451
-# File: module/Application/view/application/air/ticketing2.phtml, line: 544
+# File: module/Application/view/application/air/ticketing2.phtml, line: 545
 # File: module/Application/view/application/destinations/sales2.phtml, line: 218
 # File: module/Application/view/application/sales/index2.phtml, line: 229
 msgid "Breadcrumb"
@@ -31023,7 +31036,7 @@ msgid "Next flight"
 msgstr ""
 #
 # File: module/Application/view/application/air/seating2.phtml, line: 987
-# File: module/Application/view/application/air/ticketing2.phtml, line: 901
+# File: module/Application/view/application/air/ticketing2.phtml, line: 902
 msgid "No flight information available."
 msgstr ""
 #
@@ -31098,7 +31111,7 @@ msgstr ""
 # File: module/Application/view/application/air/summary.phtml, line: 1335
 # File: module/Application/view/application/air/summary2.phtml, line: 1205
 # File: module/Application/view/application/air/ticketing.phtml, line: 1021
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1333
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1334
 # File: module/Application/view/application/cart/summary.phtml, line: 1582
 # File: module/Application/view/application/cart/summary2.phtml, line: 719
 # File: module/Application/view/application/escorted-tours/select.phtml, line: 414
@@ -31816,13 +31829,13 @@ msgstr ""
 # File: module/Application/view/application/air/summary2.phtml, line: 770
 # File: module/Application/view/application/air/summary2.phtml, line: 780
 # File: module/Application/view/application/air/ticketing.phtml, line: 438
-# File: module/Application/view/application/air/ticketing2.phtml, line: 895
+# File: module/Application/view/application/air/ticketing2.phtml, line: 896
 msgid "Terminal"
 msgstr ""
 #
 # File: module/Application/view/application/air/summary2.phtml, line: 774
-# File: module/Application/view/application/air/ticketing2.phtml, line: 960
-# File: module/Application/view/application/air/ticketing2.phtml, line: 971
+# File: module/Application/view/application/air/ticketing2.phtml, line: 961
+# File: module/Application/view/application/air/ticketing2.phtml, line: 972
 # File: module/Application/view/application/cruises/confirm2.phtml, line: 548
 # File: module/Application/view/application/cruises/offer.phtml, line: 481
 # File: module/Application/view/application/cruises/offer3.phtml, line: 831
@@ -31995,124 +32008,124 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 13
 # File: module/Application/view/application/air/ticketing.phtml, line: 26
 # File: module/Application/view/application/air/ticketing.phtml, line: 1015
-# File: module/Application/view/application/air/ticketing2.phtml, line: 547
-# File: module/Application/view/application/air/ticketing2.phtml, line: 554
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1180
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1225
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1324
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1416
+# File: module/Application/view/application/air/ticketing2.phtml, line: 548
+# File: module/Application/view/application/air/ticketing2.phtml, line: 555
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1181
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1226
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1325
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1417
 msgid "Issue Tickets"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 18
-# File: module/Application/view/application/air/ticketing2.phtml, line: 607
+# File: module/Application/view/application/air/ticketing2.phtml, line: 608
 msgid "Reservation Not Found – Action Required. The PNR you are attempting to ticket could not be located in our system. Please verify the reservation details and contact Customer Support for further assistance. Ticketing cannot proceed until the issue is resolved."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 38
-# File: module/Application/view/application/air/ticketing2.phtml, line: 628
+# File: module/Application/view/application/air/ticketing2.phtml, line: 629
 msgid "Your reservation and the associated air PNR (Passenger Name Record) have been cancelled."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 41
 # File: module/Application/view/application/air/ticketing.phtml, line: 71
-# File: module/Application/view/application/air/ticketing2.phtml, line: 631
-# File: module/Application/view/application/air/ticketing2.phtml, line: 664
+# File: module/Application/view/application/air/ticketing2.phtml, line: 632
+# File: module/Application/view/application/air/ticketing2.phtml, line: 665
 msgid "Airline tickets have been issued"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 44
-# File: module/Application/view/application/air/ticketing2.phtml, line: 634
+# File: module/Application/view/application/air/ticketing2.phtml, line: 635
 msgid "Reservation is currently under review. Our team is working diligently to process your request, and we will notify you as soon as the review is complete"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 47
-# File: module/Application/view/application/air/ticketing2.phtml, line: 637
+# File: module/Application/view/application/air/ticketing2.phtml, line: 638
 msgid "The ticketing process was initiated, but the order was rejected by our fraud‑screening system (Decision Manager). The system attempted to issue the tickets, but Decision Manager flagged the transaction as high‑risk and rejected the order."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 66
-# File: module/Application/view/application/air/ticketing2.phtml, line: 642
+# File: module/Application/view/application/air/ticketing2.phtml, line: 643
 msgid "Ticketing is disabled: the order no longer exists at the airline / GDS (cancelled or purged). Please contact customer support or make a new booking."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 68
-# File: module/Application/view/application/air/ticketing2.phtml, line: 644
+# File: module/Application/view/application/air/ticketing2.phtml, line: 645
 msgid "The airline reports this booking as already ticketed; the ticket numbers are being recorded. Please do not issue again."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 73
-# File: module/Application/view/application/air/ticketing2.phtml, line: 666
+# File: module/Application/view/application/air/ticketing2.phtml, line: 667
 msgid "Your tickets are being issued with the airline right now. This page will refresh automatically - please do not submit the payment again."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 75
-# File: module/Application/view/application/air/ticketing2.phtml, line: 668
+# File: module/Application/view/application/air/ticketing2.phtml, line: 669
 msgid "Your payment was accepted and the booking is queued for ticketing. The tickets are normally issued within a few minutes; this page will refresh automatically."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 77
-# File: module/Application/view/application/air/ticketing2.phtml, line: 670
+# File: module/Application/view/application/air/ticketing2.phtml, line: 671
 msgid "The last ticketing attempt did not go through. It will be retried automatically."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 77
-# File: module/Application/view/application/air/ticketing2.phtml, line: 670
+# File: module/Application/view/application/air/ticketing2.phtml, line: 671
 msgid "Next attempt"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 81
-# File: module/Application/view/application/air/ticketing2.phtml, line: 673
+# File: module/Application/view/application/air/ticketing2.phtml, line: 674
 msgid "The airline did not accept the payment for the tickets. Please issue again with another card or form of payment."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 82
-# File: module/Application/view/application/air/ticketing2.phtml, line: 675
+# File: module/Application/view/application/air/ticketing2.phtml, line: 676
 msgid "The airline cancelled this order, so it can no longer be ticketed."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 83
-# File: module/Application/view/application/air/ticketing2.phtml, line: 677
+# File: module/Application/view/application/air/ticketing2.phtml, line: 678
 msgid "Automatic ticketing stopped for this booking and our team has been notified."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 84
-# File: module/Application/view/application/air/ticketing2.phtml, line: 675
+# File: module/Application/view/application/air/ticketing2.phtml, line: 676
 msgid "Please contact customer support or make a new booking."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 84
-# File: module/Application/view/application/air/ticketing2.phtml, line: 677
+# File: module/Application/view/application/air/ticketing2.phtml, line: 678
 msgid "You can try again below or contact customer support."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 99
-# File: module/Application/view/application/air/ticketing2.phtml, line: 713
+# File: module/Application/view/application/air/ticketing2.phtml, line: 714
 msgid "Airline order"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 101
-# File: module/Application/view/application/air/ticketing2.phtml, line: 716
+# File: module/Application/view/application/air/ticketing2.phtml, line: 717
 msgid "The order no longer exists at the airline / GDS (cancelled or purged)."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 101
-# File: module/Application/view/application/air/ticketing2.phtml, line: 716
+# File: module/Application/view/application/air/ticketing2.phtml, line: 717
 msgid "The order could not be retrieved right now."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 112
-# File: module/Application/view/application/air/ticketing2.phtml, line: 727
+# File: module/Application/view/application/air/ticketing2.phtml, line: 728
 msgid "Last ticketing date"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 113
-# File: module/Application/view/application/air/ticketing2.phtml, line: 728
+# File: module/Application/view/application/air/ticketing2.phtml, line: 729
 msgid "Not provided by the airline"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 114
-# File: module/Application/view/application/air/ticketing2.phtml, line: 729
+# File: module/Application/view/application/air/ticketing2.phtml, line: 730
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 94
 # File: module/Application/view/application/trip-planner/summary.phtml, line: 187
 msgid "until"
@@ -32121,151 +32134,151 @@ msgstr ""
 # File: module/Application/view/application/air/ticketing.phtml, line: 117
 # File: module/Application/view/application/air/ticketing.phtml, line: 126
 # File: module/Application/view/application/air/ticketing.phtml, line: 293
-# File: module/Application/view/application/air/ticketing2.phtml, line: 681
-# File: module/Application/view/application/air/ticketing2.phtml, line: 732
-# File: module/Application/view/application/air/ticketing2.phtml, line: 741
+# File: module/Application/view/application/air/ticketing2.phtml, line: 682
+# File: module/Application/view/application/air/ticketing2.phtml, line: 733
+# File: module/Application/view/application/air/ticketing2.phtml, line: 742
 # File: module/Application/view/application/booking/details.phtml, line: 205
 # File: module/Application/view/application/booking/details2.phtml, line: 1018
 msgid "Ticketed"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 121
-# File: module/Application/view/application/air/ticketing2.phtml, line: 736
+# File: module/Application/view/application/air/ticketing2.phtml, line: 737
 msgid "deadline passed"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 121
-# File: module/Application/view/application/air/ticketing2.phtml, line: 736
+# File: module/Application/view/application/air/ticketing2.phtml, line: 737
 msgid "left to ticket"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 126
-# File: module/Application/view/application/air/ticketing2.phtml, line: 741
+# File: module/Application/view/application/air/ticketing2.phtml, line: 742
 msgid "Airline status"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 126
-# File: module/Application/view/application/air/ticketing2.phtml, line: 741
+# File: module/Application/view/application/air/ticketing2.phtml, line: 742
 msgid "Not ticketed"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 126
-# File: module/Application/view/application/air/ticketing2.phtml, line: 741
+# File: module/Application/view/application/air/ticketing2.phtml, line: 742
 msgid "document(s) on the order"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 127
-# File: module/Application/view/application/air/ticketing2.phtml, line: 742
+# File: module/Application/view/application/air/ticketing2.phtml, line: 743
 msgid "Airline price"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 128
-# File: module/Application/view/application/air/ticketing2.phtml, line: 743
+# File: module/Application/view/application/air/ticketing2.phtml, line: 744
 msgid "Records"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 287
-# File: module/Application/view/application/air/ticketing2.phtml, line: 547
-# File: module/Application/view/application/air/ticketing2.phtml, line: 554
+# File: module/Application/view/application/air/ticketing2.phtml, line: 548
+# File: module/Application/view/application/air/ticketing2.phtml, line: 555
 # File: module/Application/view/application/booking/details.phtml, line: 292
 # File: module/Application/view/application/booking/details2.phtml, line: 904
 msgid "Ticket Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 340
-# File: module/Application/view/application/air/ticketing2.phtml, line: 798
+# File: module/Application/view/application/air/ticketing2.phtml, line: 799
 msgid "Voided"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 342
-# File: module/Application/view/application/air/ticketing2.phtml, line: 800
+# File: module/Application/view/application/air/ticketing2.phtml, line: 801
 # File: module/Application/view/application/login/rewards2.phtml, line: 215
 msgid "Refunded"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 344
-# File: module/Application/view/application/air/ticketing2.phtml, line: 802
+# File: module/Application/view/application/air/ticketing2.phtml, line: 803
 # File: module/Application/view/application/booking/details.phtml, line: 298
 # File: module/Application/view/application/booking/details2.phtml, line: 914
 msgid "Issued"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 362
-# File: module/Application/view/application/air/ticketing2.phtml, line: 907
+# File: module/Application/view/application/air/ticketing2.phtml, line: 908
 msgid "Pax Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 399
-# File: module/Application/view/application/air/ticketing2.phtml, line: 937
+# File: module/Application/view/application/air/ticketing2.phtml, line: 938
 msgid "Exempt UK tax"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 400
-# File: module/Application/view/application/air/ticketing2.phtml, line: 939
+# File: module/Application/view/application/air/ticketing2.phtml, line: 940
 msgid "To exempt the UK tax (Tourism Tax / Non-Immigrant Fee - DNI - on international flights to Mexico), tick the passengers who do not pay it. They are priced with /R,ET-UK (FXP/P1/R,ET-UK) before the ticket is issued; if the exemption cannot be applied nothing is issued."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 406
-# File: module/Application/view/application/air/ticketing2.phtml, line: 945
+# File: module/Application/view/application/air/ticketing2.phtml, line: 946
 msgid "Mexican passport / ID"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 406
-# File: module/Application/view/application/air/ticketing2.phtml, line: 945
+# File: module/Application/view/application/air/ticketing2.phtml, line: 946
 msgid "Enter the Mexican passport or national ID number (at least 5 letters / digits) - required to exempt the UK tax."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 409
-# File: module/Application/view/application/air/ticketing2.phtml, line: 948
+# File: module/Application/view/application/air/ticketing2.phtml, line: 949
 msgid "The Mexican passport or national ID number is required for every ticked passenger: it is sent to the airline (OS DL MEXICAN PAX ID NUMBER 123456789/P1). Without it the airline charges the UK tax afterwards (debit memo)."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 420
-# File: module/Application/view/application/air/ticketing2.phtml, line: 834
+# File: module/Application/view/application/air/ticketing2.phtml, line: 835
 msgid "Itinerary Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 462
-# File: module/Application/view/application/air/ticketing2.phtml, line: 956
+# File: module/Application/view/application/air/ticketing2.phtml, line: 957
 msgid "Fare Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 477
-# File: module/Application/view/application/air/ticketing2.phtml, line: 960
-# File: module/Application/view/application/air/ticketing2.phtml, line: 970
+# File: module/Application/view/application/air/ticketing2.phtml, line: 961
+# File: module/Application/view/application/air/ticketing2.phtml, line: 971
 msgid "Fare Basis"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 500
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1018
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1019
 msgid "Service Charge Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 511
 # File: module/Application/view/application/air/ticketing.phtml, line: 514
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1020
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1212
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1021
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1213
 msgid "Service Charge"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 526
 # File: module/Application/view/application/air/ticketing.phtml, line: 529
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1024
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1201
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1025
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1202
 msgid "Total Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 545
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1046
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1050
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1427
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1047
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1051
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1428
 msgid "Form of Payment"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 588
 # File: module/Application/view/application/air/ticketing.phtml, line: 593
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1067
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1430
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1068
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1431
 msgid "Agency Account (Cash)"
 msgstr ""
 #
@@ -32274,95 +32287,95 @@ msgid "disabled: the credit-limit service did not answer. You can issue with a c
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 593
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1068
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1069
 msgid "The ticket is issued as a CASH sale on your agency account - no card is charged. The amount is added to your account statement and is due under your credit terms."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 593
 # File: module/Application/view/application/air/ticketing.phtml, line: 628
 # File: module/Application/view/application/air/ticketing.phtml, line: 634
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1069
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1266
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1272
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1070
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1267
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1273
 msgid "Credit Limit"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 600
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1076
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1077
 msgid "Issue Ticket using Cash as Form of Payment"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 616
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1252
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1253
 msgid "Agency account unavailable"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 617
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1254
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1255
 msgid "It was not possible to connect to the web service that verifies your credit limit."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 618
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1255
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1256
 msgid "Ticketing on your agency account (CASH) is disabled until the service answers again. You can still issue with a credit card, or reload this page in a few minutes to try again."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 620
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1257
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1258
 # File: module/Application/view/application/bus/processing2.phtml, line: 272
 msgid "Check again"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 629
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1268
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1269
 msgid "Not verified"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 635
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1274
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1275
 msgid "Total Due:"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 670
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1233
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1234
 msgid "Invoice"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 678
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1242
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1245
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1243
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1246
 msgid "Approval Code"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 688
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1295
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1296
 msgid "We are unable to access your account information and balance at this time. However, you can still issue your airline tickets using your credit card."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 695
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1301
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1302
 msgid "Accounting Information"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 1002
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1431
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1432
 msgid "Your invoice is being processed and you will receive an email with your invoice number shortly."
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing.phtml, line: 1018
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1422
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1423
 msgid "Are you sure you want to issue tickets for this reservation using cash as a form of payment?"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 551
+# File: module/Application/view/application/air/ticketing2.phtml, line: 552
 msgid "Air reservation"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 561
+# File: module/Application/view/application/air/ticketing2.phtml, line: 562
 msgid "Airline locator"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 576
+# File: module/Application/view/application/air/ticketing2.phtml, line: 577
 # File: module/Application/view/application/quotes/cart.phtml, line: 379
 # File: module/Application/view/application/quotes/transfers.phtml, line: 30
 # File: module/Application/view/application/quotes/transfers.phtml, line: 310
@@ -32396,49 +32409,49 @@ msgstr ""
 msgid "Arrival"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 657
+# File: module/Application/view/application/air/ticketing2.phtml, line: 658
 msgid "App"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 657
+# File: module/Application/view/application/air/ticketing2.phtml, line: 658
 # File: module/Application/view/application/quote/partials/sendquote.phtml, line: 238
 # File: module/Application/view/application/quote/partials/sendquote.phtml, line: 265
 # File: module/Application/view/application/trip-planner/passengers.phtml, line: 84
 msgid "E-mail"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 662
+# File: module/Application/view/application/air/ticketing2.phtml, line: 663
 msgid "Sent via"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 697
+# File: module/Application/view/application/air/ticketing2.phtml, line: 698
 msgid "the fare is held by the airline"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 698
+# File: module/Application/view/application/air/ticketing2.phtml, line: 699
 msgid "EMD"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 699
+# File: module/Application/view/application/air/ticketing2.phtml, line: 700
 msgid "The flight ticket is not issued yet - issue it before the PriceLock time limit."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 762
-# File: module/Application/view/application/air/ticketing2.phtml, line: 766
+# File: module/Application/view/application/air/ticketing2.phtml, line: 763
+# File: module/Application/view/application/air/ticketing2.phtml, line: 767
 # File: module/Application/view/application/booking/paynow2.phtml, line: 1637
 # File: module/Application/view/application/booking/details2.phtml, line: 1225
 msgid "Document"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 911
-# File: module/Application/view/application/air/ticketing2.phtml, line: 920
+# File: module/Application/view/application/air/ticketing2.phtml, line: 912
+# File: module/Application/view/application/air/ticketing2.phtml, line: 921
 # File: module/Application/view/application/bus/confirm2.phtml, line: 339
 # File: module/Application/view/application/bus/processing2.phtml, line: 357
 msgid "Type"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 911
-# File: module/Application/view/application/air/ticketing2.phtml, line: 921
+# File: module/Application/view/application/air/ticketing2.phtml, line: 912
+# File: module/Application/view/application/air/ticketing2.phtml, line: 922
 # File: module/Application/view/application/bus/passengers.phtml, line: 104
 # File: module/Application/view/application/bus/passengers2.phtml, line: 342
 # File: module/Application/view/application/bus/passengers2.phtml, line: 577
@@ -32448,86 +32461,86 @@ msgstr ""
 msgid "Gender"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 929
+# File: module/Application/view/application/air/ticketing2.phtml, line: 930
 msgid "No passenger information available."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 978
+# File: module/Application/view/application/air/ticketing2.phtml, line: 979
 msgid "No fare information available."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 992
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1002
+# File: module/Application/view/application/air/ticketing2.phtml, line: 993
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1003
 msgid "Extra"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1011
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1012
 msgid "Paid seats, bags and services are issued by the airline as separate documents (EMD), next to the ticket. Refused items are not charged."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1022
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1023
 msgid "Extras chosen at booking (included)"
-msgstr ""
-#
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1026
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1218
-msgid "Extras added after booking"
 msgstr ""
 #
 # File: module/Application/view/application/air/ticketing2.phtml, line: 1027
 # File: module/Application/view/application/air/ticketing2.phtml, line: 1219
+msgid "Extras added after booking"
+msgstr ""
+#
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1028
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1220
 msgid "Total with extras"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1069
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1070
 msgid "Total Due"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1069
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1070
 msgid "Available"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1070
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1071
 msgid "The credit limit must be higher than the reservation total to issue on account."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1181
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1182
 msgid "You will be asked to confirm before the tickets are issued."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1199
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1200
 msgid "Fare summary"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1209
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1210
 msgid "Extras (included)"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1423
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1424
 msgid "Issue the tickets for this reservation on your agency account? They will be issued as a CASH sale - no card is charged - and the amount is added to your account statement."
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1424
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1425
 msgid "Are you sure you want to issue tickets for this reservation and charge the credit card below?"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1429
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1430
 msgid "Cash"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1699
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1700
 msgid "Issuing your tickets"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1701
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1702
 msgid "Confirming the booking with the airline"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1702
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1703
 msgid "Issuing the tickets"
 msgstr ""
 #
-# File: module/Application/view/application/air/ticketing2.phtml, line: 1703
+# File: module/Application/view/application/air/ticketing2.phtml, line: 1704
 msgid "Preparing your e-tickets"
 msgstr ""
 #
@@ -38321,7 +38334,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/search2.attemp.3.nov.11.phtml, line: 2265
 # File: module/Application/view/application/hotels/search2.phtml, line: 833
 # File: module/Application/view/application/hotels/search2.phtml, line: 2285
-# File: module/Application/view/application/index/index2-content.phtml, line: 403
+# File: module/Application/view/application/index/index2-content.phtml, line: 418
 # File: module/Application/view/application/packages/index.phtml, line: 458
 # File: module/Application/view/application/packages/index2.phtml, line: 454
 # File: module/Application/view/application/packages/info.phtml, line: 241
@@ -38739,7 +38752,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/search.phtml, line: 8
 # File: module/Application/view/application/index/index.phtml, line: 14
 # File: module/Application/view/application/index/index.phtml, line: 2206
-# File: module/Application/view/application/index/index2-content.phtml, line: 107
+# File: module/Application/view/application/index/index2-content.phtml, line: 122
 msgid "Spain"
 msgstr ""
 #
@@ -40747,7 +40760,7 @@ msgid "Upcoming departures"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index2.phtml, line: 281
-# File: module/Application/view/application/index/index2-content.phtml, line: 408
+# File: module/Application/view/application/index/index2-content.phtml, line: 423
 msgid "per person, double occupancy"
 msgstr ""
 #
@@ -42903,8 +42916,8 @@ msgstr ""
 # File: module/Application/view/application2/agent/login.phtml, line: 3
 # File: module/Application/view/application2/layout/layout.phtml, line: 104
 # File: module/Application/view/layout/layout.phtml, line: 820
-# File: module/Application/view/layout/layout.phtml, line: 1916
-# File: module/Application/view/layout/layout.phtml, line: 1922
+# File: module/Application/view/layout/layout.phtml, line: 1917
+# File: module/Application/view/layout/layout.phtml, line: 1923
 msgid "Sign in"
 msgstr ""
 #
@@ -44253,7 +44266,7 @@ msgstr ""
 # File: module/Application/view/application/destinations/lasvegas2.phtml, line: 534
 # File: module/Application/view/application/destinations/lasvegas2.phtml, line: 549
 # File: module/Application/view/application/index/index.phtml, line: 1759
-# File: module/Application/view/application/index/index2-content.phtml, line: 106
+# File: module/Application/view/application/index/index2-content.phtml, line: 121
 msgid "Las Vegas"
 msgstr ""
 #
@@ -46022,7 +46035,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index2.phtml, line: 363
 # File: module/Application/view/application/hotels/index.phtml, line: 219
 # File: module/Application/view/application/index/index.phtml, line: 1754
-# File: module/Application/view/application/index/index2-content.phtml, line: 199
+# File: module/Application/view/application/index/index2-content.phtml, line: 214
 msgid "Popular Destinations"
 msgstr ""
 #
@@ -46050,7 +46063,7 @@ msgstr ""
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 391
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 404
 # File: module/Application/view/application/escorted-tours/index.phtml, line: 417
-# File: module/Application/view/application/index/index2-content.phtml, line: 431
+# File: module/Application/view/application/index/index2-content.phtml, line: 446
 msgid "View all"
 msgstr ""
 #
@@ -49505,7 +49518,7 @@ msgid "Whether you want to hit the jackpot, watch a dazzling show, or party all 
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1760
-# File: module/Application/view/application/index/index2-content.phtml, line: 106
+# File: module/Application/view/application/index/index2-content.phtml, line: 121
 msgid "The City That Never Sleeps"
 msgstr ""
 #
@@ -49514,26 +49527,26 @@ msgid "Enjoy the sun, sand, and sea in one of the most popular destinations in M
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1768
-# File: module/Application/view/application/index/index2-content.phtml, line: 102
+# File: module/Application/view/application/index/index2-content.phtml, line: 117
 msgid "The Tropical Paradise"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1776
 # File: module/Application/view/application/index/index.phtml, line: 1777
-# File: module/Application/view/application/index/index2-content.phtml, line: 103
+# File: module/Application/view/application/index/index2-content.phtml, line: 118
 # File: module/Application/view/application/trip-planner/select.old.phtml, line: 48
 # File: module/Application/view/application/trip-planner/select.phtml, line: 57
 msgid "New York City"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1778
-# File: module/Application/view/application/index/index2-content.phtml, line: 103
+# File: module/Application/view/application/index/index2-content.phtml, line: 118
 msgid "The Big Apple"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1786
 # File: module/Application/view/application/index/index.phtml, line: 1787
-# File: module/Application/view/application/index/index2-content.phtml, line: 104
+# File: module/Application/view/application/index/index2-content.phtml, line: 119
 msgid "Barcelona"
 msgstr ""
 #
@@ -49542,13 +49555,13 @@ msgid "Experience the charm and beauty of one of the most vibrant cities in Euro
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1788
-# File: module/Application/view/application/index/index2-content.phtml, line: 104
+# File: module/Application/view/application/index/index2-content.phtml, line: 119
 msgid "The City of Art and Culture"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1797
 # File: module/Application/view/application/index/index.phtml, line: 1799
-# File: module/Application/view/application/index/index2-content.phtml, line: 105
+# File: module/Application/view/application/index/index2-content.phtml, line: 120
 msgid "Santo Domingo"
 msgstr ""
 #
@@ -49557,12 +49570,12 @@ msgid "Experience the history and culture of the oldest city in the Americas. Wh
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1800
-# File: module/Application/view/application/index/index2-content.phtml, line: 105
+# File: module/Application/view/application/index/index2-content.phtml, line: 120
 msgid "The Colonial Jewel"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1807
-# File: module/Application/view/application/index/index2-content.phtml, line: 202
+# File: module/Application/view/application/index/index2-content.phtml, line: 217
 msgid "view more destinations"
 msgstr ""
 #
@@ -49638,87 +49651,87 @@ msgstr ""
 msgid "Madrid: Enjoy the beauty, charm and excitement of Spain's capital."
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 156
+# File: module/Application/view/application/index/index2-content.phtml, line: 171
 msgid "Everything in one place"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 157
+# File: module/Application/view/application/index/index2-content.phtml, line: 172
 msgid "What are you booking today?"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 198
+# File: module/Application/view/application/index/index2-content.phtml, line: 213
 msgid "Where to next"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 200
+# File: module/Application/view/application/index/index2-content.phtml, line: 215
 msgid "Cities our travellers keep going back to."
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 233
+# File: module/Application/view/application/index/index2-content.phtml, line: 248
 msgid "Somebody else does the arranging"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 234
+# File: module/Application/view/application/index/index2-content.phtml, line: 249
 msgid "Multi-day circuits with the hotels, the coach, the transfers and the guide already settled. You pick the departure date and the room."
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 236
+# File: module/Application/view/application/index/index2-content.phtml, line: 251
 msgid "Departures and prices refreshed from the operator every night"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 237
+# File: module/Application/view/application/index/index2-content.phtml, line: 252
 msgid "Itinerary, hotels and transfers included in the price shown"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 238
+# File: module/Application/view/application/index/index2-content.phtml, line: 253
 msgid "Book the whole circuit online, in one go"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 240
+# File: module/Application/view/application/index/index2-content.phtml, line: 255
 msgid "Explore tours"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 335
+# File: module/Application/view/application/index/index2-content.phtml, line: 350
 msgid "Unpack once, wake up somewhere new"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 336
+# File: module/Application/view/application/index/index2-content.phtml, line: 351
 msgid "Your cabin, your meals and the journey between ports, all in one fare. Choose the ship and the week; everything in between is already arranged."
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 338
+# File: module/Application/view/application/index/index2-content.phtml, line: 353
 msgid "Fares and availability straight from the cruise line"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 339
+# File: module/Application/view/application/index/index2-content.phtml, line: 354
 msgid "Cabin grade chosen before you pay, not after"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 340
+# File: module/Application/view/application/index/index2-content.phtml, line: 355
 msgid "Taxes and port fees shown in the price"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 342
+# File: module/Application/view/application/index/index2-content.phtml, line: 357
 msgid "Explore cruises"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 428
+# File: module/Application/view/application/index/index2-content.phtml, line: 443
 msgid "Ready to go"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 496
+# File: module/Application/view/application/index/index2-content.phtml, line: 511
 msgid "People, not just a booking form"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 497
+# File: module/Application/view/application/index/index2-content.phtml, line: 512
 msgid "Book online at your own pace, and talk to a travel consultant when you would rather have somebody look at it with you."
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 510
+# File: module/Application/view/application/index/index2-content.phtml, line: 525
 msgid "The whole trip in one place"
 msgstr ""
 #
-# File: module/Application/view/application/index/index2-content.phtml, line: 511
+# File: module/Application/view/application/index/index2-content.phtml, line: 526
 msgid "Flights, hotels, cruises, escorted tours, transfers, cars and insurance - booked and kept together, not scattered across six sites."
 msgstr ""
 #
@@ -51860,20 +51873,8 @@ msgstr ""
 msgid "We could not check the code right now. It will be checked again when you book."
 msgstr ""
 #
-# File: module/Application/view/application/partial/giftcard.phtml, line: 110
-msgid "Have a promotional code or gift card?"
-msgstr ""
-#
-# File: module/Application/view/application/partial/giftcard.phtml, line: 110
-msgid "Add code"
-msgstr ""
-#
 # File: module/Application/view/application/partial/giftcard.phtml, line: 113
 msgid "Gift card or promotional code"
-msgstr ""
-#
-# File: module/Application/view/application/partial/giftcard.phtml, line: 113
-msgid "Enter your code"
 msgstr ""
 #
 # File: module/Application/view/application/partial/giftcard.phtml, line: 129
@@ -57709,7 +57710,7 @@ msgstr ""
 msgid "Click the WhatsApp button below to start a chat with our support team"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 1913
+# File: module/Application/view/layout/layout.phtml, line: 1914
 msgid "The email or password you entered is invalid."
 msgstr ""
 #
@@ -57743,6 +57744,14 @@ msgstr ""
 #
 # File: module/Application/view/layout/savedcards.phtml, line: 58
 msgid "This card could not be loaded. Please enter it again."
+msgstr ""
+#
+# File: module/Application/view/layout/bookbutton.phtml, line: 9
+msgid "Booking is disabled for this account. You can search, price and prepare the reservation, but it cannot be confirmed online. Please contact your agency."
+msgstr ""
+#
+# File: module/Application/view/layout/bookbutton.phtml, line: 10
+msgid "Booking disabled"
 msgstr ""
 #
 # File: module/Application/view/offers/airline/index.phtml, line: 46
